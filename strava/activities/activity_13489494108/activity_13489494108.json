@@ -1,0 +1,1422 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "id_str": "9693467",
+    "resource_state": 1
+  },
+  "name": "Zwift - Race: Stage 5: Flat Is Fast - The Fan Flats (B) on The Fan Flats in Richmond",
+  "distance": 20424.2,
+  "moving_time": 2015,
+  "elapsed_time": 2015,
+  "total_elevation_gain": 82.0,
+  "type": "VirtualRide",
+  "sport_type": "VirtualRide",
+  "device_name": "Zwift",
+  "id": 13489494108,
+  "id_str": "13489494108",
+  "start_date": "2025-01-30T03:11:27Z",
+  "start_date_local": "2025-01-29T22:11:27Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -18000.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 5,
+  "kudos_count": 2,
+  "comment_count": 0,
+  "athlete_count": 9,
+  "photo_count": 0,
+  "map": {
+    "id": "a13489494108",
+    "polyline": "qfcdF~urwM`@d@DRETIRoLfU_HfN}EjJkQz]i@pACT?VFVJRNPt@h@`F`DLPBXGTcRr^iA|B_BhDcFvJONOJc@LKNc@nAQd@yC~FMJ}@\\KLIPCR?~@ERGPiGvLqJnRqD|GIRCVHTPBPILQbAyB~Oq[`EuHV]NG^GZWHQDS?aALg@Zw@bCyEVc@NMPGP?b@Ln@b@pAtAj@`@~@b@xJlEfBz@jCxAd@PR@RILUFYJqAFY|FaUBYBw@FcWAgLDmFKYUE}AAaAEi@QQJMTcFtJoMbWiB|D{EfJINMJm@RKJo@hB}ChGKLOHm@TMJINGT?`ACRIRoG`MkIlP{EdJETDRLJPANMdRm_@lEiIJONI`@G\\WHQFS?cADUFS^{@vBgEd@w@PIRCb@FPHj@f@`AdAl@b@|At@zIzDfBz@vCbBb@LR@PIJQJk@JeADUxFsTDWDo@@iNBeI?_LFeFKWUEwAA{@ESCQIQEQJKPaDhGoIrPyBbEuD|H{EdJWXi@NKHILi@bBcDlGKJy@ZUZEPAPAz@Mb@wSta@sCpFIPCRDPLJPALKHOzQ}^nEmIJONK`@GNILMHSDS@eANk@^y@zBmEVc@NMPGP?PBPFn@d@hAnAt@f@xLnFhB~@dCxAb@NPBPANMJQDWN}AFUjFsSLo@BYDyF@}]D_F?[OSgDISCOKSAOLcDhGmKvSaAdB_EnIuEzIINMHk@RKJm@hBcDpGKJo@RMHKLIPCRA~@CRIR}GzM}HvOyE`JEVHTRDPILSnBcEtO{Z`DcGRUHGb@IJEPQFKDKD]A]B]Nk@|CgGZg@LILCL?ZDJD`@XrAxAZV|@f@rB~@",
+    "resource_state": 3,
+    "summary_polyline": "qfcdF~urwM`@d@DRETIRoLfU_HfN}EjJkQz]i@pACT?VFVJRNPt@h@`F`DLPBXGTcRr^iA|B_BhDcFvJONOJc@LKNc@nAQd@yC~FMJ}@\\KLIPCR?~@ERGPiGvLqJnRqD|GIRCVHTPBPILQbAyB~Oq[`EuHV]NG^GZWHQDS?aALg@Zw@bCyEVc@NMPGP?b@Ln@b@pAtAj@`@~@b@xJlEfBz@jCxAd@PR@RILUFYJqAFY|FaUBYBw@FcWAgLDmFKYUE}AAaAEi@QQJMTcFtJoMbWiB|D{EfJINMJm@RKJo@hB}ChGKLOHm@TMJINGT?`ACRIRoG`MkIlP{EdJETDRLJPANMdRm_@lEiIJONI`@G\\WHQFS?cADUFS^{@vBgEd@w@PIRCb@FPHj@f@`AdAl@b@|At@zIzDfBz@vCbBb@LR@PIJQJk@JeADUxFsTDWDo@@iNBeI?_LFeFKWUEwAA{@ESCQIQEQJKPaDhGoJhRyAlCuD|H{EdJWXi@NKHILi@bBcDlGKJy@ZUZEPAPAz@Mb@wSta@sCpFIPCRDPLJPALKHOzQ}^nEmIJONK`@GNILMHSDS@eANk@^y@zBmEVc@NMPGP?PBPFn@d@hAnAt@f@xLnFhB~@dCxAb@NPBPANMJQDWN}AFUjFsSLo@BYDyF@}]D_F?[OSgDISCOKSAOLcDhGmKvSaAdB_EnIuEzIINMHk@RKJm@hBcDpGKJo@RMHKLIPCRA~@CRIR}GzM}HvOyE`JEVHTRDPILSnBcEtO{Z`DcGRUHGb@IJEPQFKDKD]A]B]Nk@|CgGZg@LILCL?ZDJD`@XrAxAZV|@f@rB~@"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    37.541059,
+    -77.433438
+  ],
+  "end_latlng": [
+    37.550427,
+    -77.459341
+  ],
+  "average_speed": 10.136,
+  "max_speed": 15.76,
+  "average_cadence": 74.1,
+  "average_watts": 209.6,
+  "max_watts": 759,
+  "weighted_average_watts": 235,
+  "device_watts": true,
+  "kilojoules": 422.4,
+  "has_heartrate": true,
+  "average_heartrate": 163.0,
+  "max_heartrate": 191.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 64.6,
+  "elev_low": 51.6,
+  "upload_id": 14389660918,
+  "upload_id_str": "14389660918",
+  "external_id": "zwift-activity-1797658935444897808.fit",
+  "from_accepted_tag": false,
+  "pr_count": 2,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "suffer_score": 75.0,
+  "description": null,
+  "calories": 426.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3319892054146532930,
+      "resource_state": 2,
+      "name": "Tester",
+      "activity": {
+        "id": 13489494108,
+        "id_str": "13489494108",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 410,
+      "moving_time": 410,
+      "start_date": "2025-01-30T03:11:28Z",
+      "start_date_local": "2025-01-29T22:11:28Z",
+      "distance": 4386.3,
+      "start_index": 1,
+      "end_index": 411,
+      "average_cadence": 76.0,
+      "device_watts": true,
+      "average_watts": 236.1,
+      "average_heartrate": 157.5,
+      "max_heartrate": 181.0,
+      "segment": {
+        "id": 23382688,
+        "resource_state": 2,
+        "name": "Tester",
+        "activity_type": "VirtualRide",
+        "distance": 4386.3,
+        "average_grade": 0.3,
+        "maximum_grade": 3.7,
+        "elevation_high": 64.6,
+        "elevation_low": 51.6,
+        "start_latlng": [
+          37.540994,
+          -77.433497
+        ],
+        "end_latlng": [
+          37.555996,
+          -77.463961
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3319892054147414594,
+      "resource_state": 2,
+      "name": "The Fan Flats 1 Lap from Start Banner",
+      "activity": {
+        "id": 13489494108,
+        "id_str": "13489494108",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 860,
+      "moving_time": 860,
+      "start_date": "2025-01-30T03:11:57Z",
+      "start_date_local": "2025-01-29T22:11:57Z",
+      "distance": 8986.0,
+      "start_index": 30,
+      "end_index": 890,
+      "average_cadence": 74.6,
+      "device_watts": true,
+      "average_watts": 225.6,
+      "average_heartrate": 160.2,
+      "max_heartrate": 181.0,
+      "segment": {
+        "id": 19852135,
+        "resource_state": 2,
+        "name": "The Fan Flats 1 Lap from Start Banner",
+        "activity_type": "VirtualRide",
+        "distance": 8986.0,
+        "average_grade": 0.1,
+        "maximum_grade": 2.7,
+        "elevation_high": 64.8,
+        "elevation_low": 51.8,
+        "start_latlng": [
+          37.542268,
+          -77.43612
+        ],
+        "end_latlng": [
+          37.556173,
+          -77.464288
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3319892054146037314,
+      "resource_state": 2,
+      "name": "Broad St. Sprint Reverse",
+      "activity": {
+        "id": 13489494108,
+        "id_str": "13489494108",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 10,
+      "moving_time": 10,
+      "start_date": "2025-01-30T03:12:39Z",
+      "start_date_local": "2025-01-29T22:12:39Z",
+      "distance": 65.7,
+      "start_index": 72,
+      "end_index": 82,
+      "average_cadence": 77.4,
+      "device_watts": true,
+      "average_watts": 215.5,
+      "average_heartrate": 148.9,
+      "max_heartrate": 150.0,
+      "segment": {
+        "id": 38170237,
+        "resource_state": 2,
+        "name": "Broad St. Sprint Reverse",
+        "activity_type": "VirtualRide",
+        "distance": 65.7,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 53.6,
+        "elevation_low": 53.6,
+        "start_latlng": [
+          37.544634,
+          -77.440342
+        ],
+        "end_latlng": [
+          37.54499,
+          -77.440937
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Virginia",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3319892054147576386,
+      "resource_state": 2,
+      "name": "Monument Ave Sprint Reverse",
+      "activity": {
+        "id": 13489494108,
+        "id_str": "13489494108",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 20,
+      "moving_time": 20,
+      "start_date": "2025-01-30T03:16:39Z",
+      "start_date_local": "2025-01-29T22:16:39Z",
+      "distance": 202.6,
+      "start_index": 312,
+      "end_index": 332,
+      "average_cadence": 72.1,
+      "device_watts": true,
+      "average_watts": 185.0,
+      "average_heartrate": 163.9,
+      "max_heartrate": 167.0,
+      "segment": {
+        "id": 38170232,
+        "resource_state": 2,
+        "name": "Monument Ave Sprint Reverse",
+        "activity_type": "VirtualRide",
+        "distance": 202.6,
+        "average_grade": 0.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 63.6,
+        "elevation_low": 63.0,
+        "start_latlng": [
+          37.555164,
+          -77.462448
+        ],
+        "end_latlng": [
+          37.556261,
+          -77.464283
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Virginia",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3319892054147403330,
+      "resource_state": 2,
+      "name": "Monument Ave Sprint",
+      "activity": {
+        "id": 13489494108,
+        "id_str": "13489494108",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 21,
+      "moving_time": 21,
+      "start_date": "2025-01-30T03:17:53Z",
+      "start_date_local": "2025-01-29T22:17:53Z",
+      "distance": 222.7,
+      "start_index": 386,
+      "end_index": 407,
+      "average_cadence": 74.3,
+      "device_watts": true,
+      "average_watts": 186.6,
+      "average_heartrate": 159.0,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 12128762,
+        "resource_state": 2,
+        "name": "Monument Ave Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 222.7,
+        "average_grade": -0.7,
+        "maximum_grade": 0.0,
+        "elevation_high": 65.4,
+        "elevation_low": 63.9,
+        "start_latlng": [
+          37.55739,
+          -77.466343
+        ],
+        "end_latlng": [
+          37.556194,
+          -77.464321
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3319892054149357122,
+      "resource_state": 2,
+      "name": "The Fan Flats",
+      "activity": {
+        "id": 13489494108,
+        "id_str": "13489494108",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 482,
+      "moving_time": 482,
+      "start_date": "2025-01-30T03:18:15Z",
+      "start_date_local": "2025-01-29T22:18:15Z",
+      "distance": 5051.1,
+      "start_index": 408,
+      "end_index": 890,
+      "average_cadence": 73.6,
+      "device_watts": true,
+      "average_watts": 218.8,
+      "average_heartrate": 161.2,
+      "max_heartrate": 173.0,
+      "segment": {
+        "id": 19852166,
+        "resource_state": 2,
+        "name": "The Fan Flats",
+        "activity_type": "VirtualRide",
+        "distance": 5051.1,
+        "average_grade": 0.0,
+        "maximum_grade": 2.5,
+        "elevation_high": 64.8,
+        "elevation_low": 51.8,
+        "start_latlng": [
+          37.556175,
+          -77.464288
+        ],
+        "end_latlng": [
+          37.556173,
+          -77.464288
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3319892054148908610,
+      "resource_state": 2,
+      "name": "Monument Ave Sprint Reverse",
+      "activity": {
+        "id": 13489494108,
+        "id_str": "13489494108",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 20,
+      "moving_time": 20,
+      "start_date": "2025-01-30T03:24:42Z",
+      "start_date_local": "2025-01-29T22:24:42Z",
+      "distance": 202.6,
+      "start_index": 795,
+      "end_index": 815,
+      "average_cadence": 69.4,
+      "device_watts": true,
+      "average_watts": 171.6,
+      "average_heartrate": 162.3,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 38170232,
+        "resource_state": 2,
+        "name": "Monument Ave Sprint Reverse",
+        "activity_type": "VirtualRide",
+        "distance": 202.6,
+        "average_grade": 0.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 63.6,
+        "elevation_low": 63.0,
+        "start_latlng": [
+          37.555164,
+          -77.462448
+        ],
+        "end_latlng": [
+          37.556261,
+          -77.464283
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Virginia",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3319892054149636674,
+      "resource_state": 2,
+      "name": "Monument Ave Sprint",
+      "activity": {
+        "id": 13489494108,
+        "id_str": "13489494108",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 21,
+      "moving_time": 21,
+      "start_date": "2025-01-30T03:25:56Z",
+      "start_date_local": "2025-01-29T22:25:56Z",
+      "distance": 222.7,
+      "start_index": 869,
+      "end_index": 890,
+      "average_cadence": 82.0,
+      "device_watts": true,
+      "average_watts": 250.9,
+      "average_heartrate": 159.3,
+      "max_heartrate": 161.0,
+      "segment": {
+        "id": 12128762,
+        "resource_state": 2,
+        "name": "Monument Ave Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 222.7,
+        "average_grade": -0.7,
+        "maximum_grade": 0.0,
+        "elevation_high": 65.4,
+        "elevation_low": 63.9,
+        "start_latlng": [
+          37.55739,
+          -77.466343
+        ],
+        "end_latlng": [
+          37.556194,
+          -77.464321
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3319892054146876994,
+      "resource_state": 2,
+      "name": "The Fan Flats",
+      "activity": {
+        "id": 13489494108,
+        "id_str": "13489494108",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 512,
+      "moving_time": 512,
+      "start_date": "2025-01-30T03:26:17Z",
+      "start_date_local": "2025-01-29T22:26:17Z",
+      "distance": 5051.1,
+      "start_index": 890,
+      "end_index": 1402,
+      "average_cadence": 71.8,
+      "device_watts": true,
+      "average_watts": 188.8,
+      "average_heartrate": 160.1,
+      "max_heartrate": 171.0,
+      "segment": {
+        "id": 19852166,
+        "resource_state": 2,
+        "name": "The Fan Flats",
+        "activity_type": "VirtualRide",
+        "distance": 5051.1,
+        "average_grade": 0.0,
+        "maximum_grade": 2.5,
+        "elevation_high": 64.8,
+        "elevation_low": 51.8,
+        "start_latlng": [
+          37.556175,
+          -77.464288
+        ],
+        "end_latlng": [
+          37.556173,
+          -77.464288
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3319892054146485826,
+      "resource_state": 2,
+      "name": "Monument Ave Sprint Reverse",
+      "activity": {
+        "id": 13489494108,
+        "id_str": "13489494108",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 22,
+      "moving_time": 22,
+      "start_date": "2025-01-30T03:33:05Z",
+      "start_date_local": "2025-01-29T22:33:05Z",
+      "distance": 202.6,
+      "start_index": 1298,
+      "end_index": 1320,
+      "average_cadence": 69.3,
+      "device_watts": true,
+      "average_watts": 165.0,
+      "average_heartrate": 157.6,
+      "max_heartrate": 160.0,
+      "segment": {
+        "id": 38170232,
+        "resource_state": 2,
+        "name": "Monument Ave Sprint Reverse",
+        "activity_type": "VirtualRide",
+        "distance": 202.6,
+        "average_grade": 0.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 63.6,
+        "elevation_low": 63.0,
+        "start_latlng": [
+          37.555164,
+          -77.462448
+        ],
+        "end_latlng": [
+          37.556261,
+          -77.464283
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Virginia",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3319892054145787458,
+      "resource_state": 2,
+      "name": "Monument Ave Sprint",
+      "activity": {
+        "id": 13489494108,
+        "id_str": "13489494108",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 22,
+      "moving_time": 22,
+      "start_date": "2025-01-30T03:34:27Z",
+      "start_date_local": "2025-01-29T22:34:27Z",
+      "distance": 222.7,
+      "start_index": 1380,
+      "end_index": 1402,
+      "average_cadence": 74.1,
+      "device_watts": true,
+      "average_watts": 188.0,
+      "average_heartrate": 160.0,
+      "max_heartrate": 161.0,
+      "segment": {
+        "id": 12128762,
+        "resource_state": 2,
+        "name": "Monument Ave Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 222.7,
+        "average_grade": -0.7,
+        "maximum_grade": 0.0,
+        "elevation_high": 65.4,
+        "elevation_low": 63.9,
+        "start_latlng": [
+          37.55739,
+          -77.466343
+        ],
+        "end_latlng": [
+          37.556194,
+          -77.464321
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3319892054146161218,
+      "resource_state": 2,
+      "name": "The Fan Flats",
+      "activity": {
+        "id": 13489494108,
+        "id_str": "13489494108",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 491,
+      "moving_time": 491,
+      "start_date": "2025-01-30T03:34:49Z",
+      "start_date_local": "2025-01-29T22:34:49Z",
+      "distance": 5051.1,
+      "start_index": 1402,
+      "end_index": 1893,
+      "average_cadence": 76.3,
+      "device_watts": true,
+      "average_watts": 235.5,
+      "average_heartrate": 169.4,
+      "max_heartrate": 190.0,
+      "segment": {
+        "id": 19852166,
+        "resource_state": 2,
+        "name": "The Fan Flats",
+        "activity_type": "VirtualRide",
+        "distance": 5051.1,
+        "average_grade": 0.0,
+        "maximum_grade": 2.5,
+        "elevation_high": 64.8,
+        "elevation_low": 51.8,
+        "start_latlng": [
+          37.556175,
+          -77.464288
+        ],
+        "end_latlng": [
+          37.556173,
+          -77.464288
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3319892054148687426,
+      "resource_state": 2,
+      "name": "Monument Ave Sprint Reverse",
+      "activity": {
+        "id": 13489494108,
+        "id_str": "13489494108",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 20,
+      "moving_time": 20,
+      "start_date": "2025-01-30T03:41:36Z",
+      "start_date_local": "2025-01-29T22:41:36Z",
+      "distance": 202.6,
+      "start_index": 1809,
+      "end_index": 1829,
+      "average_cadence": 75.2,
+      "device_watts": true,
+      "average_watts": 206.9,
+      "average_heartrate": 174.4,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 38170232,
+        "resource_state": 2,
+        "name": "Monument Ave Sprint Reverse",
+        "activity_type": "VirtualRide",
+        "distance": 202.6,
+        "average_grade": 0.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 63.6,
+        "elevation_low": 63.0,
+        "start_latlng": [
+          37.555164,
+          -77.462448
+        ],
+        "end_latlng": [
+          37.556261,
+          -77.464283
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Virginia",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3319892054146505282,
+      "resource_state": 2,
+      "name": "Monument Ave Sprint",
+      "activity": {
+        "id": 13489494108,
+        "id_str": "13489494108",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 14,
+      "moving_time": 14,
+      "start_date": "2025-01-30T03:42:46Z",
+      "start_date_local": "2025-01-29T22:42:46Z",
+      "distance": 222.7,
+      "start_index": 1879,
+      "end_index": 1893,
+      "average_cadence": 109.5,
+      "device_watts": true,
+      "average_watts": 678.4,
+      "average_heartrate": 187.8,
+      "max_heartrate": 190.0,
+      "segment": {
+        "id": 12128762,
+        "resource_state": 2,
+        "name": "Monument Ave Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 222.7,
+        "average_grade": -0.7,
+        "maximum_grade": 0.0,
+        "elevation_high": 65.4,
+        "elevation_low": 63.9,
+        "start_latlng": [
+          37.55739,
+          -77.466343
+        ],
+        "end_latlng": [
+          37.556194,
+          -77.464321
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1010.4,
+      "elapsed_time": 96,
+      "elevation_difference": 2.0,
+      "moving_time": 96,
+      "split": 1,
+      "average_speed": 10.53,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 144.88541666666666,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.0,
+      "elapsed_time": 92,
+      "elevation_difference": 3.6,
+      "moving_time": 92,
+      "split": 2,
+      "average_speed": 10.84,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 153.72826086956522,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.6,
+      "elapsed_time": 96,
+      "elevation_difference": 6.6,
+      "moving_time": 96,
+      "split": 3,
+      "average_speed": 10.37,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 167.88541666666666,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.3,
+      "elapsed_time": 100,
+      "elevation_difference": 0.8,
+      "moving_time": 100,
+      "split": 4,
+      "average_speed": 10.07,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 162.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.7,
+      "elapsed_time": 96,
+      "elevation_difference": -2.4,
+      "moving_time": 96,
+      "split": 5,
+      "average_speed": 10.34,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.875,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 91,
+      "elevation_difference": -4.0,
+      "moving_time": 91,
+      "split": 6,
+      "average_speed": 10.99,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 152.8901098901099,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.8,
+      "elapsed_time": 85,
+      "elevation_difference": -1.8,
+      "moving_time": 85,
+      "split": 7,
+      "average_speed": 11.81,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 165.90588235294118,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.5,
+      "elapsed_time": 105,
+      "elevation_difference": 7.2,
+      "moving_time": 105,
+      "split": 8,
+      "average_speed": 9.49,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 168.13333333333333,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 99,
+      "elevation_difference": 1.0,
+      "moving_time": 99,
+      "split": 9,
+      "average_speed": 10.1,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 160.78787878787878,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 89,
+      "elevation_difference": -2.2,
+      "moving_time": 89,
+      "split": 10,
+      "average_speed": 11.23,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 164.20224719101122,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.7,
+      "elapsed_time": 98,
+      "elevation_difference": -3.6,
+      "moving_time": 98,
+      "split": 11,
+      "average_speed": 10.28,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 161.98979591836735,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.0,
+      "elapsed_time": 91,
+      "elevation_difference": -3.8,
+      "moving_time": 91,
+      "split": 12,
+      "average_speed": 10.89,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 158.5934065934066,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.8,
+      "elapsed_time": 114,
+      "elevation_difference": 8.0,
+      "moving_time": 114,
+      "split": 13,
+      "average_speed": 8.81,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 159.2719298245614,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 110,
+      "elevation_difference": 1.6,
+      "moving_time": 110,
+      "split": 14,
+      "average_speed": 9.08,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.51818181818183,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 101,
+      "elevation_difference": -1.6,
+      "moving_time": 101,
+      "split": 15,
+      "average_speed": 9.92,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 159.0891089108911,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.2,
+      "elapsed_time": 92,
+      "elevation_difference": -3.2,
+      "moving_time": 92,
+      "split": 16,
+      "average_speed": 10.83,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 167.3695652173913,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.1,
+      "elapsed_time": 93,
+      "elevation_difference": -6.2,
+      "moving_time": 93,
+      "split": 17,
+      "average_speed": 10.83,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 165.63440860215053,
+      "pace_zone": 0
+    },
+    {
+      "distance": 990.7,
+      "elapsed_time": 109,
+      "elevation_difference": 8.6,
+      "moving_time": 109,
+      "split": 18,
+      "average_speed": 9.09,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 170.5045871559633,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 102,
+      "elevation_difference": 2.4,
+      "moving_time": 102,
+      "split": 19,
+      "average_speed": 9.82,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 174.9313725490196,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 89,
+      "elevation_difference": -1.0,
+      "moving_time": 89,
+      "split": 20,
+      "average_speed": 11.26,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 183.2921348314607,
+      "pace_zone": 0
+    },
+    {
+      "distance": 420.7,
+      "elapsed_time": 67,
+      "elevation_difference": -0.4,
+      "moving_time": 67,
+      "split": 21,
+      "average_speed": 6.28,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 168.109375,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1613.7,
+      "elapsed_time": 151,
+      "elevation_difference": 0.2,
+      "moving_time": 151,
+      "split": 1,
+      "average_speed": 10.69,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 146.89403973509934,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.5,
+      "elapsed_time": 156,
+      "elevation_difference": 11.0,
+      "moving_time": 156,
+      "split": 2,
+      "average_speed": 10.34,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 165.37820512820514,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1600.9,
+      "elapsed_time": 156,
+      "elevation_difference": 0.6,
+      "moving_time": 156,
+      "split": 3,
+      "average_speed": 10.26,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 159.89102564102564,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1619.7,
+      "elapsed_time": 146,
+      "elevation_difference": -5.6,
+      "moving_time": 146,
+      "split": 4,
+      "average_speed": 11.09,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 155.78082191780823,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.7,
+      "elapsed_time": 157,
+      "elevation_difference": 5.8,
+      "moving_time": 157,
+      "split": 5,
+      "average_speed": 10.2,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 167.96178343949043,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 150,
+      "elevation_difference": -0.2,
+      "moving_time": 150,
+      "split": 6,
+      "average_speed": 10.72,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 161.47333333333333,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.4,
+      "elapsed_time": 155,
+      "elevation_difference": -6.6,
+      "moving_time": 155,
+      "split": 7,
+      "average_speed": 10.4,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 162.28387096774193,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.5,
+      "elapsed_time": 166,
+      "elevation_difference": 5.0,
+      "moving_time": 166,
+      "split": 8,
+      "average_speed": 9.71,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 159.16867469879517,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.9,
+      "elapsed_time": 174,
+      "elevation_difference": 1.4,
+      "moving_time": 174,
+      "split": 9,
+      "average_speed": 9.22,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 158.0287356321839,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.4,
+      "elapsed_time": 153,
+      "elevation_difference": -4.8,
+      "moving_time": 153,
+      "split": 10,
+      "average_speed": 10.56,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 164.6797385620915,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 161,
+      "elevation_difference": 1.2,
+      "moving_time": 161,
+      "split": 11,
+      "average_speed": 9.98,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 167.472049689441,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1618.0,
+      "elapsed_time": 159,
+      "elevation_difference": 4.6,
+      "moving_time": 159,
+      "split": 12,
+      "average_speed": 10.18,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 175.41509433962264,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1097.5,
+      "elapsed_time": 131,
+      "elevation_difference": -1.0,
+      "moving_time": 131,
+      "split": 13,
+      "average_speed": 8.38,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 176.046875,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 47638427231,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 13489494108,
+        "id_str": "13489494108",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 2015,
+      "moving_time": 2016,
+      "start_date": "2025-01-30T03:11:27Z",
+      "start_date_local": "2025-01-29T22:11:27Z",
+      "distance": 20424.5,
+      "average_speed": 10.13,
+      "max_speed": 15.76,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 2015,
+      "total_elevation_gain": 55.2,
+      "average_cadence": 74.1,
+      "device_watts": true,
+      "average_watts": 209.6,
+      "average_heartrate": 163.0,
+      "max_heartrate": 191.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "06435ee5-615d-4c39-a73f-e18f89a28979",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/BSLkrCqxE0AdS3j_5SC0rrUy7ueX6ZEJWa7bftT6pn8-768x480.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/BSLkrCqxE0AdS3j_5SC0rrUy7ueX6ZEJWa7bftT6pn8-128x80.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "fd836185f36a4698023868e505033efc949dd155",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}
