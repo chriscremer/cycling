@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Segments</title>
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+  
+  <style>
+    body {
+      margin: 0;
+      background: #0b0f14;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 10px 14px 18px;
+    }
+    h1 {
+      margin: 8px 0 6px;
+      font-size: 28px;
+      text-align: center;
+    }
+    .sub {
+      color: #9fb0c7;
+      margin-bottom: 16px;
+      font-size: 14px;
+    }
+    .nav-link {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      margin: 0;
+      color: #7dd3fc;
+      text-decoration: none;
+      font-weight: 700;
+    }
+    .nav-link:hover {
+      text-decoration: underline;
+    }
+    .mode-actions {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      margin: 0 0 18px;
+    }
+    .segment-card {
+      margin: 0 0 16px;
+      padding: 14px;
+      border: 1px solid #243042;
+      border-radius: 14px;
+      background: #10151d;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
+    }
+    .segment-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+      align-items: start;
+    }
+    .segment-column-full {
+      grid-column: 1 / -1;
+    }
+    .column-title {
+      margin: 0 0 10px;
+      font-size: 20px;
+    }
+    .column-title.title-fast {
+      color: #5ea1ff;
+    }
+    .column-title.title-slow {
+      color: #f87171;
+    }
+    .segment-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 10px;
+    }
+    .segment-head h2 {
+      margin: 0;
+      font-size: 20px;
+    }
+    .segment-head h2.title-fast {
+      color: #5ea1ff;
+    }
+    .segment-head h2.title-slow {
+      color: #f87171;
+    }
+    .segment-head a {
+      color: #5ea1ff;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 13px;
+      white-space: nowrap;
+    }
+    .segment-head a:hover {
+      text-decoration: underline;
+    }
+    .segment-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 16px;
+      margin: 0 0 10px;
+      color: #c6d3e3;
+      font-size: 15px;
+      font-weight: 700;
+    }
+    .meta-label {
+      color: #7f8da3;
+      font-weight: 700;
+      text-transform: uppercase;
+      font-size: 11px;
+      letter-spacing: 0.04em;
+    }
+    .segment-note {
+      margin: 12px 0 8px;
+      color: #9fb0c7;
+      font-size: 13px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .mini-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 0 0 6px;
+      overflow: hidden;
+      border-radius: 10px;
+    }
+    .mini-table th,
+    .mini-table td {
+      padding: 10px 12px;
+      border-bottom: 1px solid #243042;
+      text-align: left;
+      white-space: nowrap;
+      font-size: 20px;
+    }
+    .mini-table thead th {
+      background: #0f1726;
+      color: #e6edf3;
+    }
+    .mini-table td.muted,
+    .mini-table th.muted {
+      color: #6f7c91;
+    }
+    .segment-plot-view {
+      display: none;
+    }
+    .segment-table-view {
+      display: block;
+    }
+    .segment-history-plot {
+      width: 100%;
+      height: 280px;
+      margin-top: 4px;
+    }
+    .plot-empty {
+      color: #6f7c91;
+      font-size: 15px;
+      font-weight: 700;
+      padding: 10px 0 4px;
+    }
+    .athlete-name {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .athlete-icon {
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      object-fit: cover;
+      flex: 0 0 auto;
+      background: #0f1726;
+    }
+    .numeric {
+      text-align: right !important;
+    }
+    .muted {
+      color: #6f7c91;
+    }
+    @media (max-width: 760px) {
+      .segment-grid {
+        grid-template-columns: 1fr;
+      }
+      .segment-column-full {
+        grid-column: auto;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Segments</h1>
+    <div class="mode-actions">
+      <a class="nav-link" href="segments_map.html">Map</a><a class="nav-link" href="segments_over_time.html">Over Time</a>
+    </div>
+    <div class='segment-grid'><div class='segment-column'><section class='segment-card'><div class='segment-head'><h2 class='title-fast'>Redway (Official)</h2><a href='https://www.strava.com/segments/17322995' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 0.30 km</span><span><span class='meta-label'>Elevation</span> 40 m</span></div><div class='segment-table-view'><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>1:06</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:23</td></tr></tbody></table></div></section></div><div class='segment-column'><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>IG2017 Criterium Lap</h2><a href='https://www.strava.com/segments/16091644' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 1.85 km</span><span><span class='meta-label'>Elevation</span> 6 m</span></div><div class='segment-table-view'><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>3:00</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>3:00</td></tr></tbody></table></div></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Beechwood Drive</h2><a href='https://www.strava.com/segments/806459' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 0.51 km</span><span><span class='meta-label'>Elevation</span> 35 m</span></div><div class='segment-table-view'><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:12</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>1:13</td></tr></tbody></table></div></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Thorncliffe Park Drive climb</h2><a href='https://www.strava.com/segments/7394805' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 0.31 km</span><span><span class='meta-label'>Elevation</span> 25 m</span></div><div class='segment-table-view'><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>48s</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>49s</td></tr></tbody></table></div></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Sunnybrook to hospital</h2><a href='https://www.strava.com/segments/740423' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 0.61 km</span><span><span class='meta-label'>Elevation</span> 25 m</span></div><div class='segment-table-view'><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:09</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>1:11</td></tr></tbody></table></div></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Crestwood Hill - post parking lot climb only</h2><a href='https://www.strava.com/segments/1150663' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 0.44 km</span><span><span class='meta-label'>Elevation</span> 39 m</span></div><div class='segment-table-view'><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:16</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>1:28</td></tr></tbody></table></div></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Bridal Path Crazy 8</h2><a href='https://www.strava.com/segments/7313636' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 3.75 km</span><span><span class='meta-label'>Elevation</span> 41 m</span></div><div class='segment-table-view'><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>6:31</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>6:45</td></tr></tbody></table></div></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Bayview Avenue: Pottery Road to Nesbitt Drive</h2><a href='https://www.strava.com/segments/15637575' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 0.91 km</span><span><span class='meta-label'>Elevation</span> 43 m</span></div><div class='segment-table-view'><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>1:55</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>2:12</td></tr></tbody></table></div></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Spit to Gravel South</h2><a href='https://www.strava.com/segments/8010711' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 4.71 km</span><span><span class='meta-label'>Elevation</span> 0 m</span></div><div class='segment-table-view'><table class='mini-table'><thead><tr><th>Athlete</th><th>Time</th></tr></thead><tbody><tr><td><span class='athlete-name'><img class='athlete-icon' src='../medium.png' alt='' /><span>Jeff</span></span></td><td>7:43</td></tr><tr><td><span class='athlete-name'><img class='athlete-icon' src='../favicon.svg' alt='' /><span>Chris</span></span></td><td>8:38</td></tr></tbody></table></div></section></div></div>
+  </div>
+  
+</body>
+</html>

@@ -1,0 +1,698 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "resource_state": 1
+  },
+  "name": "Zwift - Race: Stage 2: Zwift Games: Hudson Hustle (A)",
+  "distance": 22552.7,
+  "moving_time": 2047,
+  "elapsed_time": 2047,
+  "total_elevation_gain": 230.0,
+  "type": "VirtualRide",
+  "sport_type": "VirtualRide",
+  "device_name": "Zwift",
+  "id": 17525697027,
+  "start_date": "2026-02-26T02:10:12Z",
+  "start_date_local": "2026-02-25T21:10:12Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -18000.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 1,
+  "kudos_count": 1,
+  "comment_count": 0,
+  "athlete_count": 18,
+  "photo_count": 0,
+  "map": {
+    "id": "a17525697027",
+    "polyline": "kk{wFzymbMHgANg@JQLKPIPAjDt@V@rAIZ@\\NT\\tAjDT^n@t@r@l@XRZJXDZ@VCVDPNHXB\\BxAC\\YjAa@zBS`BCt@@ZNlBAZCX[jAKVOR_BbBc@XQHSBUCoA]g@EoC@sBPy@@c@Ka@Ui@g@uA}Ae@w@}A}CgA}A}D}EuBcCw@y@y@s@]O_@K]?gCPk@GWMW]_@wAKYQYaCuCaA}@c@]UIk@OUCk@@i@JeCz@kAPY?YAs@OcA_@y@e@o@g@k@o@kAoBUk@Qo@YeBQs@Wq@MWc@i@UMo@Oq@G}BIq@KSUOW_AaCOSa@c@{@k@qCaBaD_BWQUSQY]y@g@cBk@_C[}@O[UUeBw@UQSSOYKY_AcE_@{@Ya@OM[Yk@[[I[CiATeD^e@VY\\IROp@e@`DAd@Hb@J^NZh@f@rA|@rEpCfFvC|BlA~@^t@Rx@Hz@CnCSnD]lAEf@Af@@f@Pb@V`BlArDhDjA~@~F`EdDfCvLpIrA|@l@Z|EzB`B^fDp@fBZhALf@@pAI|@Sh@QROLWRu@pBcJV{@L]PYTUn@e@t@Yx@Q\\?^B|@Pz@VxAh@rAp@`CrApEpCbGbEbGtEpAhA~@bA^f@LVTv@@b@E`@M^QXeBxBMRGTCXBX`@|Ap@nBLn@BXAZGt@g@hCSpCMfDDt@Rn@Vp@LTb@j@h@h@l@f@~C|BhBlBbBnBXRZFZGTQRYv@yBv@uCLYPOTMpAg@PO\\g@t@sANORIRCPBxDhCbEtCDTCX{C~JEZBZJVRLdFfD`@Tb@FlB@hPAhCRdBEbECvIMhC?nBFjBJtCXz@Nf@Pb@Z|HhIb@Zt@d@NNvItIl@p@dBdDNNPJRFf@B`D@vQCxKFfRARCNILQHSBYA}BGWMSQMSISAe@HcFjAQ?OGKSCWAiAGUOMSCcB@qCCSAOOGY@}CJQPGdC@NJFTAfGERMNOHQBcCAaG?QGISCWAqGIYUQUEY?UFSRyCdFKVEZAjC@bJDXHV\\h@b@h@NVJZB^?fEA^QVUJaB@UCQSGY@gJCc@O[WOYAyEdA[?[MUWGa@AiBCa@O[UQYIq@CWGUMc@k@w@eB_@k@eAiAyHuHQ[_@y@SWuIoIa@[e@Qg@MmAOuBS}CMeBEuIDwHLaBFsBRe@@_RAk@EUG{F{DSQG]@]J[pC}ID]C[OUaJiGUMUCUDSJQPw@zAa@f@UJaA\\g@ZOVo@jC{@dCiBvC]b@a@\\c@VQFU@SCg@Oe@Wu@k@w@q@w@w@u@}@{BkD{AmBeAgAc@Yc@UiC_AyB{@{Aw@g@_@OUOYM[QaAKgADc@Ja@L_@R[vA{AP]Z}@Fa@B_@?a@OcB?_AH{@r@yDPs@D]?{@Ey@G[MSSKWCo@@YEWKYOm@e@g@k@c@o@uAiDQYUQWGq@?gADk@IiBa@wAa@m@S]QiB{AaBcB}CiC_FsDeA_AW[Sg@a@}AM_ACa@@a@TaC@c@Ag@Ea@Mm@IUMQe@_@oW}PgC}Aq@][Kk@KyBCqBOS?g@Jg@RgAr@e@Rg@Fc@Gs@[s@a@cAq@q@k@k@m@_C}Cm@q@",
+    "resource_state": 3,
+    "summary_polyline": "kk{wFzymbMHgANg@X]PIPAjDt@fCE\\NT\\tAjDdAtAlA`At@PjABPNLv@BxAe@bCi@hDGnANlB?v@Kr@_@hAoBvBu@b@i@?oA]g@EoC@eCRkAKo@a@gBkBmCcFgA}AkJ{Ky@s@}@[eDPk@GWMW]_@wA]s@sBeCaB}A{@a@cAI_ALeCz@eBPmAQ}BeAo@g@k@o@kAoBg@{Ak@yCe@iAc@i@UMo@OaF]c@m@_AaCq@w@mEmCaD_Bm@e@o@sAsAcFk@yAUUeBw@i@e@[s@w@mD[}@e@u@iAy@i@S[CcFp@e@PYTUd@u@rEAd@TbANZh@f@nM|H|DvBjAd@v@PhAB|Is@tBGf@@x@\\rBxA~FhF|YzS`CxA~DjB~Bn@nGlA|ANdBIfBe@RO`@mApBcJd@yAPYj@i@r@_@v@U\\G|@BxBh@pChAtDtBlG`ExGxEjFhE~@bAl@~@Tv@@b@E`@_@x@eBxBUh@CXd@vBp@nBPhAIpAg@hCSpCMfDDt@j@`Bp@`AvApA~C|BlE|EXRZFZGh@k@v@yBdAoDf@]bBw@bBkCf@MPB|J~GDTCX{C~JEZBZJVRLfG|Db@FlB@hPAhCRjWWzERpEh@jAl@|HhIhBpAvItIl@p@dBdDNNd@Rbx@Fb@MVe@@wCUk@e@Wy@FuFjAOGKSEaBGUOM}GGOOGY@}CJQPGdC@NJFTAfGERMNa@LeKAQGMk@AqGIYUQo@EUFSRyCdFKVEZ?nNNp@`ArAZr@B^AfFQVUJwBAQSGY@gJCc@O[WOYAyEdA[?[MUWGa@AiBCa@O[o@[q@Cm@Uc@k@wAqC_K_KeAmBuIoIgAm@kFq@cGSmSR{F\\_RAaAM{F{DSQG]@]J[pC}ID]C[OUaJiGk@QUDe@\\w@zAa@f@_CdAOVo@jC{@dCgCzDa@\\u@^i@Ag@O{AcAoBiBu@}@{BkDaDuDgAo@cG{B{Aw@w@u@]u@QaAKgAPeA`@{@vA{AP]Z}@Fa@BaAOcB?_AH{@jAkGEuBG[MSSKaBGq@[m@e@kA{AuAiDQYUQWGyBDk@IaEcAkAe@kE_E}CiC_FsDeA_AW[Sg@a@}AM_AAcAVeDGiAWcAs@q@oW}PyD{BgAW_GSoA^mBfAg@Fc@GgB}@uB}AyE}F"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    40.777667,
+    -73.967818
+  ],
+  "end_latlng": [
+    40.791972,
+    -73.955323
+  ],
+  "average_speed": 11.017,
+  "max_speed": 19.58,
+  "average_cadence": 78.1,
+  "average_watts": 229.0,
+  "max_watts": 882,
+  "weighted_average_watts": 277,
+  "device_watts": true,
+  "kilojoules": 468.8,
+  "has_heartrate": true,
+  "average_heartrate": 153.1,
+  "max_heartrate": 187.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 116.4,
+  "elev_low": 56.4,
+  "upload_id": 18623149269,
+  "upload_id_str": "18623149269",
+  "external_id": "zwift-activity-2081731537828577280.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 2,
+  "has_kudoed": false,
+  "suffer_score": 62.0,
+  "description": "\ud83d\uddfa\ufe0f Hudson Hustle in New York",
+  "calories": 548.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3461932632308855592,
+      "resource_state": 2,
+      "name": "Hudson Hustle",
+      "activity": {
+        "id": 17525697027,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 1692,
+      "moving_time": 1692,
+      "start_date": "2026-02-26T02:10:26Z",
+      "start_date_local": "2026-02-25T21:10:26Z",
+      "distance": 20295.2,
+      "start_index": 14,
+      "end_index": 1706,
+      "average_cadence": 80.6,
+      "device_watts": true,
+      "average_watts": 263.5,
+      "average_heartrate": 156.3,
+      "max_heartrate": 182.0,
+      "segment": {
+        "id": 40654556,
+        "resource_state": 2,
+        "name": "Hudson Hustle",
+        "activity_type": "VirtualRide",
+        "distance": 20295.2,
+        "average_grade": 0.0,
+        "maximum_grade": 20.3,
+        "elevation_high": 116.4,
+        "elevation_low": 56.4,
+        "start_latlng": [
+          40.776854,
+          -73.967187
+        ],
+        "end_latlng": [
+          40.776811,
+          -73.967112
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Manhattan",
+        "state": "New York",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3461932632309897000,
+      "resource_state": 2,
+      "name": "NY Sprint Reverse",
+      "activity": {
+        "id": 17525697027,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 17,
+      "moving_time": 17,
+      "start_date": "2026-02-26T02:36:36Z",
+      "start_date_local": "2026-02-25T21:36:36Z",
+      "distance": 228.9,
+      "start_index": 1584,
+      "end_index": 1601,
+      "average_cadence": 89.4,
+      "device_watts": true,
+      "average_watts": 328.7,
+      "average_heartrate": 176.8,
+      "max_heartrate": 177.0,
+      "segment": {
+        "id": 38152502,
+        "resource_state": 2,
+        "name": "NY Sprint Reverse",
+        "activity_type": "VirtualRide",
+        "distance": 228.9,
+        "average_grade": -0.1,
+        "maximum_grade": 5.1,
+        "elevation_high": 23.6,
+        "elevation_low": 21.4,
+        "start_latlng": [
+          40.770164,
+          -73.979171
+        ],
+        "end_latlng": [
+          40.771661,
+          -73.977309
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Manhattan",
+        "state": "New York",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1010.5,
+      "elapsed_time": 79,
+      "elevation_difference": -12.0,
+      "moving_time": 79,
+      "split": 1,
+      "average_speed": 12.79,
+      "average_grade_adjusted_speed": 12.65,
+      "average_heartrate": 133.13924050632912,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.5,
+      "elapsed_time": 101,
+      "elevation_difference": 14.8,
+      "moving_time": 101,
+      "split": 2,
+      "average_speed": 9.84,
+      "average_grade_adjusted_speed": 10.27,
+      "average_heartrate": 143.4851485148515,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.7,
+      "elapsed_time": 95,
+      "elevation_difference": 4.4,
+      "moving_time": 95,
+      "split": 3,
+      "average_speed": 10.49,
+      "average_grade_adjusted_speed": 10.92,
+      "average_heartrate": 158.62105263157895,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.9,
+      "elapsed_time": 74,
+      "elevation_difference": -13.6,
+      "moving_time": 74,
+      "split": 4,
+      "average_speed": 13.62,
+      "average_grade_adjusted_speed": 13.4,
+      "average_heartrate": 144.98648648648648,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.8,
+      "elapsed_time": 104,
+      "elevation_difference": 31.4,
+      "moving_time": 104,
+      "split": 5,
+      "average_speed": 9.56,
+      "average_grade_adjusted_speed": 10.9,
+      "average_heartrate": 165.76923076923077,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.0,
+      "elapsed_time": 79,
+      "elevation_difference": -10.6,
+      "moving_time": 79,
+      "split": 6,
+      "average_speed": 12.73,
+      "average_grade_adjusted_speed": 12.56,
+      "average_heartrate": 174.20253164556962,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.9,
+      "elapsed_time": 92,
+      "elevation_difference": 7.6,
+      "moving_time": 92,
+      "split": 7,
+      "average_speed": 10.93,
+      "average_grade_adjusted_speed": 11.44,
+      "average_heartrate": 169.6195652173913,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.6,
+      "elapsed_time": 72,
+      "elevation_difference": -14.0,
+      "moving_time": 72,
+      "split": 8,
+      "average_speed": 13.8,
+      "average_grade_adjusted_speed": 13.42,
+      "average_heartrate": 154.88888888888889,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.1,
+      "elapsed_time": 75,
+      "elevation_difference": -20.4,
+      "moving_time": 75,
+      "split": 9,
+      "average_speed": 13.41,
+      "average_grade_adjusted_speed": 13.18,
+      "average_heartrate": 140.22666666666666,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.7,
+      "elapsed_time": 83,
+      "elevation_difference": 1.2,
+      "moving_time": 83,
+      "split": 10,
+      "average_speed": 11.96,
+      "average_grade_adjusted_speed": 12.0,
+      "average_heartrate": 130.40963855421685,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.7,
+      "elapsed_time": 73,
+      "elevation_difference": -17.8,
+      "moving_time": 73,
+      "split": 11,
+      "average_speed": 13.63,
+      "average_grade_adjusted_speed": 13.6,
+      "average_heartrate": 137.06849315068493,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 87,
+      "elevation_difference": 12.6,
+      "moving_time": 87,
+      "split": 12,
+      "average_speed": 11.48,
+      "average_grade_adjusted_speed": 12.34,
+      "average_heartrate": 149.98850574712642,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.8,
+      "elapsed_time": 91,
+      "elevation_difference": 0.0,
+      "moving_time": 91,
+      "split": 13,
+      "average_speed": 11.01,
+      "average_grade_adjusted_speed": 11.01,
+      "average_heartrate": 156.34065934065933,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 94,
+      "elevation_difference": 15.6,
+      "moving_time": 94,
+      "split": 14,
+      "average_speed": 10.63,
+      "average_grade_adjusted_speed": 11.16,
+      "average_heartrate": 162.38297872340425,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.1,
+      "elapsed_time": 83,
+      "elevation_difference": -5.2,
+      "moving_time": 83,
+      "split": 15,
+      "average_speed": 12.11,
+      "average_grade_adjusted_speed": 11.99,
+      "average_heartrate": 168.04819277108433,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 68,
+      "elevation_difference": -23.6,
+      "moving_time": 68,
+      "split": 16,
+      "average_speed": 14.68,
+      "average_grade_adjusted_speed": 14.26,
+      "average_heartrate": 162.5441176470588,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 87,
+      "elevation_difference": 1.0,
+      "moving_time": 87,
+      "split": 17,
+      "average_speed": 11.48,
+      "average_grade_adjusted_speed": 11.5,
+      "average_heartrate": 144.7816091954023,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 82,
+      "elevation_difference": 17.2,
+      "moving_time": 82,
+      "split": 18,
+      "average_speed": 12.23,
+      "average_grade_adjusted_speed": 13.59,
+      "average_heartrate": 161.0121951219512,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.0,
+      "elapsed_time": 79,
+      "elevation_difference": -0.2,
+      "moving_time": 79,
+      "split": 19,
+      "average_speed": 12.67,
+      "average_grade_adjusted_speed": 12.72,
+      "average_heartrate": 174.8227848101266,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.4,
+      "elapsed_time": 79,
+      "elevation_difference": -0.6,
+      "moving_time": 79,
+      "split": 20,
+      "average_speed": 12.71,
+      "average_grade_adjusted_speed": 12.9,
+      "average_heartrate": 176.39240506329114,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.2,
+      "elapsed_time": 132,
+      "elevation_difference": 16.6,
+      "moving_time": 132,
+      "split": 21,
+      "average_speed": 7.52,
+      "average_grade_adjusted_speed": 7.99,
+      "average_heartrate": 168.8939393939394,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.1,
+      "elapsed_time": 182,
+      "elevation_difference": -2.8,
+      "moving_time": 182,
+      "split": 22,
+      "average_speed": 5.52,
+      "average_grade_adjusted_speed": 5.51,
+      "average_heartrate": 130.67032967032966,
+      "pace_zone": 0
+    },
+    {
+      "distance": 544.3,
+      "elapsed_time": 56,
+      "elevation_difference": -8.0,
+      "moving_time": 56,
+      "split": 23,
+      "average_speed": 9.72,
+      "average_grade_adjusted_speed": 9.46,
+      "average_heartrate": 112.55357142857143,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1609.9,
+      "elapsed_time": 138,
+      "elevation_difference": -5.6,
+      "moving_time": 138,
+      "split": 1,
+      "average_speed": 11.67,
+      "average_grade_adjusted_speed": 11.73,
+      "average_heartrate": 135.55072463768116,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.0,
+      "elapsed_time": 153,
+      "elevation_difference": 8.8,
+      "moving_time": 153,
+      "split": 2,
+      "average_speed": 10.54,
+      "average_grade_adjusted_speed": 10.92,
+      "average_heartrate": 155.73856209150327,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 140,
+      "elevation_difference": 13.2,
+      "moving_time": 140,
+      "split": 3,
+      "average_speed": 11.49,
+      "average_grade_adjusted_speed": 12.2,
+      "average_heartrate": 154.87857142857143,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.3,
+      "elapsed_time": 145,
+      "elevation_difference": 13.8,
+      "moving_time": 145,
+      "split": 4,
+      "average_speed": 11.14,
+      "average_grade_adjusted_speed": 11.69,
+      "average_heartrate": 173.02758620689656,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.3,
+      "elapsed_time": 123,
+      "elevation_difference": -25.6,
+      "moving_time": 123,
+      "split": 5,
+      "average_speed": 13.02,
+      "average_grade_adjusted_speed": 12.63,
+      "average_heartrate": 160.0487804878049,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.7,
+      "elapsed_time": 125,
+      "elevation_difference": -15.6,
+      "moving_time": 125,
+      "split": 6,
+      "average_speed": 12.91,
+      "average_grade_adjusted_speed": 12.83,
+      "average_heartrate": 136.16,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.9,
+      "elapsed_time": 126,
+      "elevation_difference": -17.8,
+      "moving_time": 126,
+      "split": 7,
+      "average_speed": 12.82,
+      "average_grade_adjusted_speed": 12.81,
+      "average_heartrate": 137.3015873015873,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.7,
+      "elapsed_time": 144,
+      "elevation_difference": 12.4,
+      "moving_time": 144,
+      "split": 8,
+      "average_speed": 11.16,
+      "average_grade_adjusted_speed": 11.68,
+      "average_heartrate": 154.35416666666666,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.1,
+      "elapsed_time": 147,
+      "elevation_difference": 13.6,
+      "moving_time": 147,
+      "split": 9,
+      "average_speed": 10.93,
+      "average_grade_adjusted_speed": 11.24,
+      "average_heartrate": 163.2108843537415,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.6,
+      "elapsed_time": 116,
+      "elevation_difference": -26.8,
+      "moving_time": 116,
+      "split": 10,
+      "average_speed": 13.92,
+      "average_grade_adjusted_speed": 13.62,
+      "average_heartrate": 163.6293103448276,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.8,
+      "elapsed_time": 139,
+      "elevation_difference": 17.6,
+      "moving_time": 139,
+      "split": 11,
+      "average_speed": 11.56,
+      "average_grade_adjusted_speed": 12.36,
+      "average_heartrate": 149.58273381294964,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.6,
+      "elapsed_time": 130,
+      "elevation_difference": 8.6,
+      "moving_time": 130,
+      "split": 12,
+      "average_speed": 12.34,
+      "average_grade_adjusted_speed": 12.61,
+      "average_heartrate": 174.56923076923076,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.2,
+      "elapsed_time": 163,
+      "elevation_difference": 7.2,
+      "moving_time": 163,
+      "split": 13,
+      "average_speed": 9.86,
+      "average_grade_adjusted_speed": 10.14,
+      "average_heartrate": 173.08588957055215,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.5,
+      "elapsed_time": 254,
+      "elevation_difference": -10.4,
+      "moving_time": 254,
+      "split": 14,
+      "average_speed": 6.33,
+      "average_grade_adjusted_speed": 6.27,
+      "average_heartrate": 128.90944881889763,
+      "pace_zone": 0
+    },
+    {
+      "distance": 21.1,
+      "elapsed_time": 4,
+      "elevation_difference": 0.2,
+      "moving_time": 4,
+      "split": 15,
+      "average_speed": 5.28,
+      "average_grade_adjusted_speed": 5.38,
+      "average_heartrate": 106.25,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 62626967272,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 17525697027,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 2047,
+      "moving_time": 2048,
+      "start_date": "2026-02-26T02:10:12Z",
+      "start_date_local": "2026-02-25T21:10:12Z",
+      "distance": 22553.0,
+      "average_speed": 11.01,
+      "max_speed": 19.58,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 2047,
+      "total_elevation_gain": 211.2,
+      "average_cadence": 78.1,
+      "device_watts": true,
+      "average_watts": 229.0,
+      "average_heartrate": 153.1,
+      "max_heartrate": 187.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "9b9aa5c4-ff7f-46a6-bb9f-06303038bd93",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/ZWCwh_hhJX9qAYNq33op8bCTKQkV1PI3c_gELl0BCxU-768x432.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/ZWCwh_hhJX9qAYNq33op8bCTKQkV1PI3c_gELl0BCxU-128x72.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 2
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "3b6c86fc12e1ee592986357af7278c0bbcbeb857",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}

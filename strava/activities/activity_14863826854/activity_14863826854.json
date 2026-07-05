@@ -1,0 +1,1412 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "resource_state": 1
+  },
+  "name": "Zwift - Race: Stage 3: Cityscapes: Richmond Worlds (A) on 2015 Worlds Course in Richmond",
+  "distance": 18243.6,
+  "moving_time": 1972,
+  "elapsed_time": 1972,
+  "total_elevation_gain": 167.0,
+  "type": "VirtualRide",
+  "sport_type": "VirtualRide",
+  "device_name": "Zwift",
+  "id": 14863826854,
+  "start_date": "2025-06-20T21:10:21Z",
+  "start_date_local": "2025-06-20T17:10:21Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -14400.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 5,
+  "kudos_count": 3,
+  "comment_count": 0,
+  "athlete_count": 10,
+  "photo_count": 0,
+  "map": {
+    "id": "a14863826854",
+    "polyline": "qfcdF~urwMZXHN@ROb@k\\vo@qRd`@GTCTBVFRJRNLn@f@dFdDLNBTETyO~ZiC~E}B|EoErIKNMJ_@JOHKL]jAQb@_DfGOJs@VMLKRCTCdAOh@aGfL_IzOoFfKETFVNHRELObSaa@dDgGV]NI`@GLILOFQDU@aALg@h@kArB}DVe@NMPER?b@Ll@d@pAtA\\TrBbAhIlDlB`AjCzAb@PRBRELMHUDWJkAFW~FoUBeBBePBuDAmMDeEE]SIaCEg@ESI}@{@_G_EOMKQAUBSHSnQg^fEmINMPAPHfDnDjAdAvAvAnA~@`@TRDRAPINQVe@|@yB`CeFfU{c@vB_ExAcCzC}F`CcETOVL`A~@xDfERNT@ROlAgCHWDWDu@OcBDq@Lo@FUl@oAhAkCtEyHxB}D|BoEFSJk@Lg@n@kAxA{BxEiIxBcDx@gA`@]hPuL\\[nB}BnAoAd@O`Ba@nA_@lAc@v@[^YLOBWCUOKQAQBiAVoAh@oEnBSLc@b@wDjEgAt@w@Zc@Jc@FwDQg@?kAV_BZyDh@IEAM@Kd@e@BKAMEKSOUGKAU@i@LIAGS?KFEn@YLSVq@FANFNJ\\b@VHL?XKHKFO?QAQQ_@yAcB]WQAOJKNUv@Q`@kHfNo@nAM`@Jb@VXjBzABf@s@bBcBnDQZURY?UQ}JoK_A}@MGO@MJW^aAxBw@|A_J|PQ^I`@F`@z@fA|IlIv@p@JTCXKVaCvEkCjEmBtDcCfEkBpDORGDI?WGk@Uu@w@iAc@{A{@iA_@o@IWCOE[S_Aw@UMMCG@MFi@|@uFzKqM`W{EvJ{IzPsO~Z_@x@G^@VDTR^fBnAtD`CLNFPCPGR{DvHe@x@",
+    "resource_state": 3,
+    "summary_polyline": "qfcdF~urwMZXHN@ROb@k\\vo@qRd`@GTCTBVFRJRNLn@f@dFdDLNBTETyO~ZiC~E}B|EoErIKNMJ_@JOHKL]jAQb@_DfGOJs@VMLKRCTCdAOh@aGfL_IzOoFfKETFVNHRELObSaa@dDgGV]NI`@GLILOFQDU@aALg@h@kArB}DVe@NMPER?b@Ll@d@pAtA\\TrBbAhIlDlB`AjCzAb@PRBRELMHUDWJkAFW~FoUBeBBePBuDAmMDeEE]SIaCEg@ESI}@{@_G_EOMKQAUBSHSnQg^fEmINMPAPHfDnDjAdAvAvAnA~@`@TRDRAPINQVe@|@yB`CeFfU{c@vB_ExAcCzC}F`CcETOVL`A~@xDfERNT@ROlAgCHWDWDu@OcBDq@Lo@FUl@oAhAkCtEyHxB}D|BoEFSJk@Lg@n@kAxA{BxEiIxBcDx@gA`@]hPuL\\[nB}BnAoAd@O`Ba@nA_@lAc@v@[^YLOBWCUOKQAQBiAVoAh@oEnBSLc@b@wDjEgAt@w@Zc@Jc@FwDQg@?kAVsAVeEl@IEAM@Kd@e@BKAMEKSOUGKAU@i@LIAGS?KFEn@YLSVq@FANFNJ\\b@VHL?XKHKFO?QAQQ_@yAcB]WQAOJKNUv@Q`@kHfNo@nAM`@Jb@VXjBzABf@s@bBcBnDQZURY?UQ}JoK_A}@MGO@MJW^aAxBw@|A_J|PQ^I`@F`@z@fA|IlIv@p@JTCXKVaCvEkCjEmBtDcCfEkBpDORGDI?WGk@Uu@w@iAc@{A{@iA_@o@IWCOE[S_Aw@UMMCG@MFi@|@uFzKqM`W{EvJ{IzPsO~Z_@x@G^@VDTR^fBnAtD`CLNFPCPGR{DvHe@x@"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    37.541056,
+    -77.433431
+  ],
+  "end_latlng": [
+    37.548332,
+    -77.450866
+  ],
+  "average_speed": 9.251,
+  "max_speed": 18.28,
+  "average_cadence": 75.7,
+  "average_watts": 199.4,
+  "max_watts": 582,
+  "weighted_average_watts": 238,
+  "device_watts": true,
+  "kilojoules": 393.2,
+  "has_heartrate": true,
+  "average_heartrate": 157.0,
+  "max_heartrate": 187.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 64.6,
+  "elev_low": 4.2,
+  "upload_id": 15863891433,
+  "upload_id_str": "15863891433",
+  "external_id": "zwift-activity-1900398367893094400.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "suffer_score": 58.0,
+  "description": null,
+  "calories": 380.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3371259918563071230,
+      "resource_state": 2,
+      "name": "Tester",
+      "activity": {
+        "id": 14863826854,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 428,
+      "moving_time": 428,
+      "start_date": "2025-06-20T21:10:23Z",
+      "start_date_local": "2025-06-20T17:10:23Z",
+      "distance": 4386.3,
+      "start_index": 2,
+      "end_index": 430,
+      "average_cadence": 82.0,
+      "device_watts": true,
+      "average_watts": 214.7,
+      "average_heartrate": 146.1,
+      "max_heartrate": 168.0,
+      "segment": {
+        "id": 23382688,
+        "resource_state": 2,
+        "name": "Tester",
+        "activity_type": "VirtualRide",
+        "distance": 4386.3,
+        "average_grade": 0.3,
+        "maximum_grade": 3.7,
+        "elevation_high": 64.6,
+        "elevation_low": 51.6,
+        "start_latlng": [
+          37.540994,
+          -77.433497
+        ],
+        "end_latlng": [
+          37.555996,
+          -77.463961
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3371259918559921406,
+      "resource_state": 2,
+      "name": "2015 Worlds Course",
+      "activity": {
+        "id": 14863826854,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 1626,
+      "moving_time": 1626,
+      "start_date": "2025-06-20T21:10:56Z",
+      "start_date_local": "2025-06-20T17:10:56Z",
+      "distance": 16230.2,
+      "start_index": 35,
+      "end_index": 1661,
+      "average_cadence": 80.6,
+      "device_watts": true,
+      "average_watts": 227.3,
+      "average_heartrate": 161.6,
+      "max_heartrate": 187.0,
+      "segment": {
+        "id": 12128718,
+        "resource_state": 2,
+        "name": "2015 Worlds Course",
+        "activity_type": "VirtualRide",
+        "distance": 16230.2,
+        "average_grade": 0.0,
+        "maximum_grade": 13.2,
+        "elevation_high": 64.8,
+        "elevation_low": 4.4,
+        "start_latlng": [
+          37.542314,
+          -77.436195
+        ],
+        "end_latlng": [
+          37.542311,
+          -77.43619
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3371259918560593150,
+      "resource_state": 2,
+      "name": "Broad St. Sprint Reverse",
+      "activity": {
+        "id": 14863826854,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 9,
+      "moving_time": 9,
+      "start_date": "2025-06-20T21:11:41Z",
+      "start_date_local": "2025-06-20T17:11:41Z",
+      "distance": 65.7,
+      "start_index": 80,
+      "end_index": 89,
+      "average_cadence": 84.2,
+      "device_watts": true,
+      "average_watts": 150.8,
+      "average_heartrate": 139.4,
+      "max_heartrate": 140.0,
+      "segment": {
+        "id": 38170237,
+        "resource_state": 2,
+        "name": "Broad St. Sprint Reverse",
+        "activity_type": "VirtualRide",
+        "distance": 65.7,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 53.6,
+        "elevation_low": 53.6,
+        "start_latlng": [
+          37.544634,
+          -77.440342
+        ],
+        "end_latlng": [
+          37.54499,
+          -77.440937
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Virginia",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3371259918560161022,
+      "resource_state": 2,
+      "name": "Monument Ave Sprint Reverse",
+      "activity": {
+        "id": 14863826854,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 18,
+      "moving_time": 18,
+      "start_date": "2025-06-20T21:15:58Z",
+      "start_date_local": "2025-06-20T17:15:58Z",
+      "distance": 202.6,
+      "start_index": 337,
+      "end_index": 355,
+      "average_cadence": 84.6,
+      "device_watts": true,
+      "average_watts": 282.3,
+      "average_heartrate": 159.8,
+      "max_heartrate": 160.0,
+      "segment": {
+        "id": 38170232,
+        "resource_state": 2,
+        "name": "Monument Ave Sprint Reverse",
+        "activity_type": "VirtualRide",
+        "distance": 202.6,
+        "average_grade": 0.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 63.6,
+        "elevation_low": 63.0,
+        "start_latlng": [
+          37.555164,
+          -77.462448
+        ],
+        "end_latlng": [
+          37.556261,
+          -77.464283
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Virginia",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3371259918562297086,
+      "resource_state": 2,
+      "name": "Monument Ave Sprint",
+      "activity": {
+        "id": 14863826854,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 21,
+      "moving_time": 21,
+      "start_date": "2025-06-20T21:17:07Z",
+      "start_date_local": "2025-06-20T17:17:07Z",
+      "distance": 222.7,
+      "start_index": 406,
+      "end_index": 427,
+      "average_cadence": 82.3,
+      "device_watts": true,
+      "average_watts": 205.0,
+      "average_heartrate": 164.0,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 12128762,
+        "resource_state": 2,
+        "name": "Monument Ave Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 222.7,
+        "average_grade": -0.7,
+        "maximum_grade": 0.0,
+        "elevation_high": 65.4,
+        "elevation_low": 63.9,
+        "start_latlng": [
+          37.55739,
+          -77.466343
+        ],
+        "end_latlng": [
+          37.556194,
+          -77.464321
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3371259918562397438,
+      "resource_state": 2,
+      "name": "Broad St Sprint",
+      "activity": {
+        "id": 14863826854,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 28,
+      "moving_time": 28,
+      "start_date": "2025-06-20T21:22:29Z",
+      "start_date_local": "2025-06-20T17:22:29Z",
+      "distance": 283.0,
+      "start_index": 728,
+      "end_index": 756,
+      "average_cadence": 78.0,
+      "device_watts": true,
+      "average_watts": 188.4,
+      "average_heartrate": 162.0,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 12128880,
+        "resource_state": 2,
+        "name": "Broad St Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 283.0,
+        "average_grade": -0.1,
+        "maximum_grade": 0.0,
+        "elevation_high": 54.0,
+        "elevation_low": 53.8,
+        "start_latlng": [
+          37.54645,
+          -77.443512
+        ],
+        "end_latlng": [
+          37.544953,
+          -77.440921
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3371259918560908542,
+      "resource_state": 2,
+      "name": "E Main St Descent",
+      "activity": {
+        "id": 14863826854,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 93,
+      "moving_time": 93,
+      "start_date": "2025-06-20T21:23:56Z",
+      "start_date_local": "2025-06-20T17:23:56Z",
+      "distance": 1355.6,
+      "start_index": 815,
+      "end_index": 908,
+      "average_cadence": 81.2,
+      "device_watts": true,
+      "average_watts": 150.1,
+      "average_heartrate": 153.3,
+      "max_heartrate": 162.0,
+      "segment": {
+        "id": 27139760,
+        "resource_state": 2,
+        "name": "E Main St Descent",
+        "activity_type": "VirtualRide",
+        "distance": 1355.6,
+        "average_grade": -3.5,
+        "maximum_grade": 0.3,
+        "elevation_high": 54.4,
+        "elevation_low": 7.2,
+        "start_latlng": [
+          37.540822,
+          -77.440728
+        ],
+        "end_latlng": [
+          37.533017,
+          -77.431995
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3371259918560934142,
+      "resource_state": 2,
+      "name": "Libby Hill KOM",
+      "activity": {
+        "id": 14863826854,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 95,
+      "moving_time": 95,
+      "start_date": "2025-06-20T21:29:28Z",
+      "start_date_local": "2025-06-20T17:29:28Z",
+      "distance": 632.9,
+      "start_index": 1147,
+      "end_index": 1242,
+      "average_cadence": 83.6,
+      "device_watts": true,
+      "average_watts": 394.8,
+      "average_heartrate": 180.4,
+      "max_heartrate": 187.0,
+      "segment": {
+        "id": 12128826,
+        "resource_state": 2,
+        "name": "Libby Hill KOM",
+        "activity_type": "VirtualRide",
+        "distance": 632.9,
+        "average_grade": 6.2,
+        "maximum_grade": 9.5,
+        "elevation_high": 46.8,
+        "elevation_low": 7.4,
+        "start_latlng": [
+          37.524445,
+          -77.418482
+        ],
+        "end_latlng": [
+          37.52736,
+          -77.417935
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3371259918563481854,
+      "resource_state": 2,
+      "name": "KOM Reverse Descent",
+      "activity": {
+        "id": 14863826854,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 64,
+      "moving_time": 64,
+      "start_date": "2025-06-20T21:31:03Z",
+      "start_date_local": "2025-06-20T17:31:03Z",
+      "distance": 708.5,
+      "start_index": 1242,
+      "end_index": 1306,
+      "average_cadence": 84.6,
+      "device_watts": true,
+      "average_watts": 219.7,
+      "average_heartrate": 183.8,
+      "max_heartrate": 187.0,
+      "segment": {
+        "id": 27139725,
+        "resource_state": 2,
+        "name": "KOM Reverse Descent",
+        "activity_type": "VirtualRide",
+        "distance": 708.5,
+        "average_grade": -3.5,
+        "maximum_grade": 2.7,
+        "elevation_high": 47.6,
+        "elevation_low": 21.6,
+        "start_latlng": [
+          37.527344,
+          -77.417961
+        ],
+        "end_latlng": [
+          37.529184,
+          -77.421421
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3371259918562511102,
+      "resource_state": 2,
+      "name": "23rd St KOM",
+      "activity": {
+        "id": 14863826854,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 40,
+      "moving_time": 40,
+      "start_date": "2025-06-20T21:32:18Z",
+      "start_date_local": "2025-06-20T17:32:18Z",
+      "distance": 268.9,
+      "start_index": 1317,
+      "end_index": 1357,
+      "average_cadence": 81.5,
+      "device_watts": true,
+      "average_watts": 434.3,
+      "average_heartrate": 182.3,
+      "max_heartrate": 186.0,
+      "segment": {
+        "id": 12128917,
+        "resource_state": 2,
+        "name": "23rd St KOM",
+        "activity_type": "VirtualRide",
+        "distance": 268.9,
+        "average_grade": 10.2,
+        "maximum_grade": 13.2,
+        "elevation_high": 46.6,
+        "elevation_low": 19.2,
+        "start_latlng": [
+          37.530174,
+          -77.423004
+        ],
+        "end_latlng": [
+          37.532049,
+          -77.421121
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3371259918560603390,
+      "resource_state": 2,
+      "name": "Sagan's Winning Move",
+      "activity": {
+        "id": 14863826854,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 340,
+      "moving_time": 340,
+      "start_date": "2025-06-20T21:32:18Z",
+      "start_date_local": "2025-06-20T17:32:18Z",
+      "distance": 2710.3,
+      "start_index": 1317,
+      "end_index": 1657,
+      "average_cadence": 76.9,
+      "device_watts": true,
+      "average_watts": 242.9,
+      "average_heartrate": 175.1,
+      "max_heartrate": 186.0,
+      "segment": {
+        "id": 27139702,
+        "resource_state": 2,
+        "name": "Sagan's Winning Move",
+        "activity_type": "VirtualRide",
+        "distance": 2710.3,
+        "average_grade": 1.3,
+        "maximum_grade": 12.7,
+        "elevation_high": 54.2,
+        "elevation_low": 7.6,
+        "start_latlng": [
+          37.530088,
+          -77.422966
+        ],
+        "end_latlng": [
+          37.542171,
+          -77.435954
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3371259918561550590,
+      "resource_state": 2,
+      "name": "23rd St KOM Reverse Descent",
+      "activity": {
+        "id": 14863826854,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 85,
+      "moving_time": 85,
+      "start_date": "2025-06-20T21:32:58Z",
+      "start_date_local": "2025-06-20T17:32:58Z",
+      "distance": 1116.8,
+      "start_index": 1357,
+      "end_index": 1442,
+      "average_cadence": 83.8,
+      "device_watts": true,
+      "average_watts": 165.9,
+      "average_heartrate": 178.6,
+      "max_heartrate": 186.0,
+      "segment": {
+        "id": 27139678,
+        "resource_state": 2,
+        "name": "23rd St KOM Reverse Descent",
+        "activity_type": "VirtualRide",
+        "distance": 1116.8,
+        "average_grade": -3.5,
+        "maximum_grade": 0.0,
+        "elevation_high": 46.4,
+        "elevation_low": 7.6,
+        "start_latlng": [
+          37.532052,
+          -77.421121
+        ],
+        "end_latlng": [
+          37.533891,
+          -77.429173
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3371259918563425534,
+      "resource_state": 2,
+      "name": "Governor St Climb",
+      "activity": {
+        "id": 14863826854,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 120,
+      "moving_time": 120,
+      "start_date": "2025-06-20T21:34:41Z",
+      "start_date_local": "2025-06-20T17:34:41Z",
+      "distance": 613.5,
+      "start_index": 1460,
+      "end_index": 1580,
+      "average_cadence": 72.3,
+      "device_watts": true,
+      "average_watts": 274.6,
+      "average_heartrate": 173.6,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 27139657,
+        "resource_state": 2,
+        "name": "Governor St Climb",
+        "activity_type": "VirtualRide",
+        "distance": 613.5,
+        "average_grade": 5.8,
+        "maximum_grade": 7.6,
+        "elevation_high": 46.0,
+        "elevation_low": 10.2,
+        "start_latlng": [
+          37.534879,
+          -77.43075
+        ],
+        "end_latlng": [
+          37.539251,
+          -77.431297
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3371259918562541822,
+      "resource_state": 2,
+      "name": "Finishing Straightaway",
+      "activity": {
+        "id": 14863826854,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 76,
+      "moving_time": 76,
+      "start_date": "2025-06-20T21:36:42Z",
+      "start_date_local": "2025-06-20T17:36:42Z",
+      "distance": 520.9,
+      "start_index": 1581,
+      "end_index": 1657,
+      "average_cadence": 74.1,
+      "device_watts": true,
+      "average_watts": 181.7,
+      "average_heartrate": 171.5,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 27139617,
+        "resource_state": 2,
+        "name": "Finishing Straightaway",
+        "activity_type": "VirtualRide",
+        "distance": 520.9,
+        "average_grade": 1.5,
+        "maximum_grade": 5.6,
+        "elevation_high": 54.2,
+        "elevation_low": 46.4,
+        "start_latlng": [
+          37.53928,
+          -77.431308
+        ],
+        "end_latlng": [
+          37.542163,
+          -77.435938
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Richmond",
+        "state": "Virginia",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3371259918560153854,
+      "resource_state": 2,
+      "name": "Broad St. Sprint Reverse",
+      "activity": {
+        "id": 14863826854,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 13,
+      "moving_time": 13,
+      "start_date": "2025-06-20T21:39:17Z",
+      "start_date_local": "2025-06-20T17:39:17Z",
+      "distance": 65.7,
+      "start_index": 1736,
+      "end_index": 1749,
+      "average_cadence": 50.2,
+      "device_watts": true,
+      "average_watts": 53.5,
+      "average_heartrate": 143.7,
+      "max_heartrate": 145.0,
+      "segment": {
+        "id": 38170237,
+        "resource_state": 2,
+        "name": "Broad St. Sprint Reverse",
+        "activity_type": "VirtualRide",
+        "distance": 65.7,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 53.6,
+        "elevation_low": 53.6,
+        "start_latlng": [
+          37.544634,
+          -77.440342
+        ],
+        "end_latlng": [
+          37.54499,
+          -77.440937
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Virginia",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1001.5,
+      "elapsed_time": 104,
+      "elevation_difference": 2.0,
+      "moving_time": 104,
+      "split": 1,
+      "average_speed": 9.63,
+      "average_grade_adjusted_speed": 9.67,
+      "average_heartrate": 129.8846153846154,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 101,
+      "elevation_difference": 3.4,
+      "moving_time": 101,
+      "split": 2,
+      "average_speed": 9.91,
+      "average_grade_adjusted_speed": 10.03,
+      "average_heartrate": 140.98019801980197,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.6,
+      "elapsed_time": 107,
+      "elevation_difference": 6.8,
+      "moving_time": 107,
+      "split": 3,
+      "average_speed": 9.41,
+      "average_grade_adjusted_speed": 9.55,
+      "average_heartrate": 147.8785046728972,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.3,
+      "elapsed_time": 91,
+      "elevation_difference": 0.8,
+      "moving_time": 91,
+      "split": 4,
+      "average_speed": 10.94,
+      "average_grade_adjusted_speed": 10.95,
+      "average_heartrate": 161.9120879120879,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 97,
+      "elevation_difference": -2.4,
+      "moving_time": 97,
+      "split": 5,
+      "average_speed": 10.32,
+      "average_grade_adjusted_speed": 10.3,
+      "average_heartrate": 161.94845360824743,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 93,
+      "elevation_difference": -4.2,
+      "moving_time": 93,
+      "split": 6,
+      "average_speed": 10.8,
+      "average_grade_adjusted_speed": 10.74,
+      "average_heartrate": 159.61290322580646,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.9,
+      "elapsed_time": 89,
+      "elevation_difference": -6.2,
+      "moving_time": 89,
+      "split": 7,
+      "average_speed": 11.14,
+      "average_grade_adjusted_speed": 11.02,
+      "average_heartrate": 162.8426966292135,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.2,
+      "elapsed_time": 100,
+      "elevation_difference": 3.0,
+      "moving_time": 100,
+      "split": 8,
+      "average_speed": 10.02,
+      "average_grade_adjusted_speed": 10.08,
+      "average_heartrate": 161.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.2,
+      "elapsed_time": 78,
+      "elevation_difference": -26.0,
+      "moving_time": 78,
+      "split": 9,
+      "average_speed": 12.91,
+      "average_grade_adjusted_speed": 12.27,
+      "average_heartrate": 159.42307692307693,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.3,
+      "elapsed_time": 73,
+      "elevation_difference": -22.4,
+      "moving_time": 73,
+      "split": 10,
+      "average_speed": 13.63,
+      "average_grade_adjusted_speed": 13.05,
+      "average_heartrate": 147.5068493150685,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.2,
+      "elapsed_time": 97,
+      "elevation_difference": -1.6,
+      "moving_time": 97,
+      "split": 11,
+      "average_speed": 10.35,
+      "average_grade_adjusted_speed": 10.4,
+      "average_heartrate": 146.61855670103094,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.1,
+      "elapsed_time": 92,
+      "elevation_difference": 2.8,
+      "moving_time": 92,
+      "split": 12,
+      "average_speed": 10.81,
+      "average_grade_adjusted_speed": 10.9,
+      "average_heartrate": 160.2173913043478,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 129,
+      "elevation_difference": 39.2,
+      "moving_time": 129,
+      "split": 13,
+      "average_speed": 7.77,
+      "average_grade_adjusted_speed": 9.02,
+      "average_heartrate": 177.8217054263566,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.3,
+      "elapsed_time": 87,
+      "elevation_difference": -8.2,
+      "moving_time": 87,
+      "split": 14,
+      "average_speed": 11.44,
+      "average_grade_adjusted_speed": 12.16,
+      "average_heartrate": 182.33333333333334,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 86,
+      "elevation_difference": -28.8,
+      "moving_time": 86,
+      "split": 15,
+      "average_speed": 11.61,
+      "average_grade_adjusted_speed": 11.32,
+      "average_heartrate": 181.09302325581396,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 154,
+      "elevation_difference": 35.6,
+      "moving_time": 154,
+      "split": 16,
+      "average_speed": 6.49,
+      "average_grade_adjusted_speed": 7.41,
+      "average_heartrate": 172.92207792207793,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 156,
+      "elevation_difference": 8.2,
+      "moving_time": 156,
+      "split": 17,
+      "average_speed": 6.41,
+      "average_grade_adjusted_speed": 6.55,
+      "average_heartrate": 162.85256410256412,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 177,
+      "elevation_difference": -1.6,
+      "moving_time": 177,
+      "split": 18,
+      "average_speed": 5.65,
+      "average_grade_adjusted_speed": 5.64,
+      "average_heartrate": 132.98305084745763,
+      "pace_zone": 0
+    },
+    {
+      "distance": 243.5,
+      "elapsed_time": 61,
+      "elevation_difference": 5.0,
+      "moving_time": 61,
+      "split": 19,
+      "average_speed": 3.99,
+      "average_grade_adjusted_speed": 4.23,
+      "average_heartrate": 128.10344827586206,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1611.2,
+      "elapsed_time": 162,
+      "elevation_difference": 0.2,
+      "moving_time": 162,
+      "split": 1,
+      "average_speed": 9.95,
+      "average_grade_adjusted_speed": 9.95,
+      "average_heartrate": 133.80864197530863,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.7,
+      "elapsed_time": 170,
+      "elevation_difference": 11.0,
+      "moving_time": 170,
+      "split": 2,
+      "average_speed": 9.51,
+      "average_grade_adjusted_speed": 9.68,
+      "average_heartrate": 147.26470588235293,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.2,
+      "elapsed_time": 152,
+      "elevation_difference": 0.6,
+      "moving_time": 152,
+      "split": 3,
+      "average_speed": 10.57,
+      "average_grade_adjusted_speed": 10.58,
+      "average_heartrate": 162.93421052631578,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.2,
+      "elapsed_time": 149,
+      "elevation_difference": -5.4,
+      "moving_time": 149,
+      "split": 4,
+      "average_speed": 10.77,
+      "average_grade_adjusted_speed": 10.73,
+      "average_heartrate": 160.6510067114094,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.9,
+      "elapsed_time": 154,
+      "elevation_difference": -3.0,
+      "moving_time": 154,
+      "split": 5,
+      "average_speed": 10.5,
+      "average_grade_adjusted_speed": 10.46,
+      "average_heartrate": 161.61688311688312,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.0,
+      "elapsed_time": 117,
+      "elevation_difference": -47.4,
+      "moving_time": 117,
+      "split": 6,
+      "average_speed": 13.74,
+      "average_grade_adjusted_speed": 12.95,
+      "average_heartrate": 155.6239316239316,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.3,
+      "elapsed_time": 149,
+      "elevation_difference": -2.6,
+      "moving_time": 149,
+      "split": 7,
+      "average_speed": 10.78,
+      "average_grade_adjusted_speed": 10.8,
+      "average_heartrate": 148.19463087248323,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.7,
+      "elapsed_time": 178,
+      "elevation_difference": 38.4,
+      "moving_time": 178,
+      "split": 8,
+      "average_speed": 9.03,
+      "average_grade_adjusted_speed": 9.9,
+      "average_heartrate": 170.17977528089887,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.7,
+      "elapsed_time": 159,
+      "elevation_difference": -19.8,
+      "moving_time": 159,
+      "split": 9,
+      "average_speed": 10.14,
+      "average_grade_adjusted_speed": 10.61,
+      "average_heartrate": 183.38993710691824,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.0,
+      "elapsed_time": 207,
+      "elevation_difference": 25.4,
+      "moving_time": 207,
+      "split": 10,
+      "average_speed": 7.78,
+      "average_grade_adjusted_speed": 8.4,
+      "average_heartrate": 173.66666666666666,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.6,
+      "elapsed_time": 261,
+      "elevation_difference": 3.4,
+      "moving_time": 261,
+      "split": 11,
+      "average_speed": 6.15,
+      "average_grade_adjusted_speed": 6.19,
+      "average_heartrate": 149.07662835249042,
+      "pace_zone": 0
+    },
+    {
+      "distance": 539.3,
+      "elapsed_time": 114,
+      "elevation_difference": 4.6,
+      "moving_time": 114,
+      "split": 12,
+      "average_speed": 4.73,
+      "average_grade_adjusted_speed": 4.86,
+      "average_heartrate": 127.46846846846847,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 52862685526,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 14863826854,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 1972,
+      "moving_time": 1973,
+      "start_date": "2025-06-20T21:10:21Z",
+      "start_date_local": "2025-06-20T17:10:21Z",
+      "distance": 18243.8,
+      "average_speed": 9.25,
+      "max_speed": 18.28,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 1972,
+      "total_elevation_gain": 151.4,
+      "average_cadence": 75.7,
+      "device_watts": true,
+      "average_watts": 199.4,
+      "average_heartrate": 157.0,
+      "max_heartrate": 187.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "a4a067b1-62bb-4c4e-9f4a-80186a53d83b",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/YgNKTxh9_YQ5weX0hzvMTK8HgjjIXAiwFbXcsISt7Kk-768x480.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/YgNKTxh9_YQ5weX0hzvMTK8HgjjIXAiwFbXcsISt7Kk-128x80.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "002ca7eb919746903550221a0deec1223daf1f2d",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}

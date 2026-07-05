@@ -1,0 +1,242 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "resource_state": 1
+  },
+  "name": "Evening Ride",
+  "distance": 1411.2,
+  "moving_time": 350,
+  "elapsed_time": 462,
+  "total_elevation_gain": 3.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Coospo BC107",
+  "id": 18696219545,
+  "start_date": "2026-05-29T00:03:33Z",
+  "start_date_local": "2026-05-28T20:03:33Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -14400.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a18696219545",
+    "polyline": "k|jiGnhscN[]JTDn@ZpCh@jDNt@?FEHo@HMDCH@?LGz@CNED@A?Ic@Ok@GKEABADSO{@SoBQeAGm@?EBADGC]YyAS{AWkACe@U{Am@}B?w@[{BQaAOmAKg@KiAQiAMaBMo@IaAOs@YgA[sCMUIIH?BOG_@MKU?eAR}Bp@iAFoJqBECb@Gm@EIGIUJ@C@CC@DCC",
+    "resource_state": 3,
+    "summary_polyline": "k|jiGnhscN[]JTDn@ZpCh@jDNt@?FEHo@HMDCH@?LGz@CNED@A?Ic@Ok@GKEABADSO{@SoBQeAGm@?EBADGC]YyAS{AWkACe@U{Am@}B?w@[{BQaAOmAKg@KiAQiAMaBMo@IaAOs@YgA[sCMUIIH?BOG_@MKU?eAR}Bp@iAFoJqBECb@Gm@EIGIUJ@C@CC@DCC"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": true,
+  "visibility": "only_me",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    43.642469,
+    -79.402477
+  ],
+  "end_latlng": [
+    43.647796,
+    -79.394
+  ],
+  "average_speed": 4.032,
+  "max_speed": 8.12,
+  "average_cadence": 54.9,
+  "average_temp": 21,
+  "average_watts": 67.5,
+  "max_watts": 645,
+  "weighted_average_watts": 80,
+  "device_watts": true,
+  "kilojoules": 23.6,
+  "has_heartrate": true,
+  "average_heartrate": 93.8,
+  "max_heartrate": 116.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 87.7,
+  "elev_low": 84.6,
+  "upload_id": 19804741927,
+  "upload_id_str": "19804741927",
+  "external_id": "Evening Ride.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 0.0,
+  "description": "CoospoRide App",
+  "calories": 33.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3495234700903629172,
+      "resource_state": 2,
+      "name": "Wellington - Portland to Spadina",
+      "activity": {
+        "id": 18696219545,
+        "visibility": "only_me",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 100,
+      "moving_time": 92,
+      "start_date": "2026-05-29T00:07:51Z",
+      "start_date_local": "2026-05-28T20:07:51Z",
+      "distance": 387.9,
+      "start_index": 258,
+      "end_index": 358,
+      "average_cadence": 25.8,
+      "device_watts": true,
+      "average_watts": 40.2,
+      "average_heartrate": 90.9,
+      "max_heartrate": 98.0,
+      "segment": {
+        "id": 11006851,
+        "resource_state": 2,
+        "name": "Wellington - Portland to Spadina",
+        "activity_type": "Ride",
+        "distance": 387.9,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 67.2,
+        "elevation_low": 67.2,
+        "start_latlng": [
+          43.642978,
+          -79.399237
+        ],
+        "end_latlng": [
+          43.644003,
+          -79.394646
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "only_me",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1000.1,
+      "elapsed_time": 308,
+      "elevation_difference": -1.1,
+      "moving_time": 233,
+      "split": 1,
+      "average_speed": 4.29,
+      "average_grade_adjusted_speed": 4.29,
+      "average_heartrate": 93.80275229357798,
+      "pace_zone": 0
+    },
+    {
+      "distance": 411.1,
+      "elapsed_time": 154,
+      "elevation_difference": 3.1,
+      "moving_time": 117,
+      "split": 2,
+      "average_speed": 3.51,
+      "average_grade_adjusted_speed": 3.56,
+      "average_heartrate": 93.6421052631579,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1411.2,
+      "elapsed_time": 462,
+      "elevation_difference": 2.0,
+      "moving_time": 350,
+      "split": 1,
+      "average_speed": 4.03,
+      "average_grade_adjusted_speed": 4.05,
+      "average_heartrate": 93.75399361022365,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 66878406638,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 18696219545,
+        "visibility": "only_me",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 462,
+      "moving_time": 350,
+      "start_date": "2026-05-29T00:03:33Z",
+      "start_date_local": "2026-05-28T20:03:33Z",
+      "distance": 1411.16,
+      "average_speed": 4.03,
+      "max_speed": 8.12,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 462,
+      "total_elevation_gain": 3.0,
+      "average_cadence": 54.9,
+      "device_watts": true,
+      "average_watts": 67.5,
+      "average_heartrate": 93.8,
+      "max_heartrate": 116.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "0db8bc4d7334005b6e415d67ef691dbb9b918ff9",
+  "private_note": "",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}

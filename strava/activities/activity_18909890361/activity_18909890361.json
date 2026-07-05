@@ -1,0 +1,2788 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "resource_state": 1
+  },
+  "name": "Evening Ride",
+  "distance": 27276.3,
+  "moving_time": 4359,
+  "elapsed_time": 5033,
+  "total_elevation_gain": 38.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Coospo BC107",
+  "id": 18909890361,
+  "start_date": "2026-06-13T22:07:30Z",
+  "start_date_local": "2026-06-13T18:07:30Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -14400.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 26,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a18909890361",
+    "polyline": "umkiGhcqcN@ZDIDRAn@a@jCHXFD@Dy@bBJDIAETAr@LtAAl@Hh@FFXELGHIJUFCZM`@Gn@[p@QH?LEL@v@Z\\?JJNDnAU`@MLKVIVEh@UBDhAc@pB[NBRKh@A\\MB@FEBMB@BCFUb@@j@]x@U`DcAx@ORADB?BDA`@EZURKd@MfA]F?DBLCHIHSCm@QaAY_Cw@{DSyAKqA_A}GW_CCIi@mFGQS_Be@mESyAS}BKkBSmB[sBM_AAWS}A_@iA_@mB}@iD}@aEWaAm@uBYqA]mAQ_Ak@uBCW@CHACK{AaG]}AkAyEo@uCsA{EQy@g@iBKq@iAwEoBkG[yAg@yC]{@_AgEwAsFw@iDUg@[S[Ma@ImBq@a@OKOKoAyAuF[gBS_AKs@M[y@sDGa@Ea@?k@BUBGpA?XEp@_@`@_@hAo@\\]j@]pB{A|EcEn@_@tAgADG@E?o@wBwFc@{A{AoEaAeDeD{JeBuE}C}HM{@s@{BGw@Ys@c@cBmBcGaAsCo@uBwAeEc@eAyFgQiAaDkD{KwA_Ee@iA[qAgAmDkCgIc@iAQw@uCuIg@eB?YBMPSlA}@jB_BvA_Ax@w@hA}@pBqA`CqB~BiBn@q@|AqAvBoAdA{@p@_@XMd@KvCc@dFi@jFYh@@lAFhBZz@HhBTlB\\bAFtCl@rAPdB\\pAJ^L^F`AD~B?`AHnAN|Dv@zFlA`JbBbEp@~Bj@j@RN?LGHMx@{CFQJKp@MrACbAHdBXrAP`@HxBRjDTp@?bCJ|@Hp@@l\\`BhFRNBLFX\\FPHj@B~@CrDCpB?n@XhG^bDRzEB`CAzHC`AFvCHrA@lBAjD_@~DCn@LtBH~@DRHNb@r@pA`BfCxDxCdEzCpEfBfCl@~@vAjBh@f@\\PPBhBB~ANpABl@Ff@L`@Vn@T`Bb@x@Px@VjAVl@BPCZKVCNOD?DD?LITCCKOKAs@R_@?OZC@BC@YFA`@?VIXSPa@?c@GUO[QQe@Oi@Eg@BqBGkALi@Ey@Cu@Pu@KmBCe@CoBEu@Kg@Yi@k@u@}@mCaEa@c@uAoBuCoEyByCcBgCsAiBUWGOU{BGuAFqAXoC@w@Da@EiA?}AO{CC_FDyFIyEIoA?KBCJDFKBO@UO}AE{@WyCM}CAcBHmF?kCAKCIGGOGy@KwG[iBG]Ga@?kEY]?SDWEyBIcAIs@?QGyEYu@AsAOeBCQ@m@Kg@?gEQeBWoAW_AY[e@Y[Wu@a@aAGMEAE?IFGLaA|DIf@KNQH]d@[f@Mb@GHOJE?IMGCgBOq@UkDy@{Dy@]Qi@c@OSc@}@W[ICg@FwA`AYLI?e@Ik@AeBs@aAOk@OmB_@{Ao@y@QUM]q@SKG?QXQp@KTGFSFm@CmAMg@MyDi@{Ac@cAe@SA]Bq@EiAa@o@@YHa@Fc@XCF?ZQ`A@ZEj@w@fDKl@C^B|@NpACNDBPCDB@DABE@GKGAG@q@\\Y^Ol@Ap@B~@AdBH`BBv@EjAK`@a@z@Qr@cApB]bAMNIF@LHNRt@Rb@\\l@^f@Vn@b@v@Tx@b@j@FLDt@DL\\b@l@bAjBxDd@t@L\\Hn@^x@^b@Zh@JH\\Hj@Rh@N\\?hAKVBJBJHvBpCL^BhAEb@Qp@?RBRL`@TZb@`@t@b@b@^b@~@|@lA^p@jBpB|BvCf@t@p@vAb@jAJh@FdARh@XjADr@H^FLd@j@^^fBtBt@f@b@\\dB`BDN@x@Nn@?PEb@I^Al@I\\q@fA{@fA{AbBiA`B}@hAkBlBiBtBkF|F]X}@j@qEnDCNDPADQH_@ZMRSd@sAfFOt@_@pASf@[b@}BhBeDfCeB|A{ElDoAz@WTi@V[HgA?I@GHCN?n@Bd@Z`Bt@lCp@`Ed@tB`@xARbAJTBn@DJTNtBv@t@Jv@h@LVXtAvA|Er@lCThAb@dBPf@Jd@P\\D^\\vAlC|Jj@tCHr@pAdFrAdHvAvEbAbERb@JZH\\EDP|@vBjIDHJL?JDBA?DZXx@Hd@LnAXzAHvA`@|BZbAl@jAj@vA\\fCTfA\\tCJb@Br@D\\@l@Jr@j@pGR`BRtCTdB@PCJVxBVnBp@lEd@|Dn@|Dn@lFALSFSXiBf@K@m@^[b@SNWDy@Hm@LKJqAb@O@}@Tm@XcCx@{Cd@o@Pa@HWJe@HwAf@mAj@qA\\_@Pc@Hy@\\q@Bs@N}@ZmBr@Q@MGMgB@YCc@Gc@GI",
+    "resource_state": 3,
+    "summary_polyline": "udkiGzsqcN\\?RNV?~@SvE}ApB[nBURUFU`@@l@]zEyAx@Ox@?v@c@lBk@Z?R]Cm@QaAY_Cw@{D{BsQi@mF[qBy@gHs@wI[sBc@uD_@iA{CyMeAwDuBuICWJECK{AaGyCmMsA{EoCmLoBkGcAsF]{@_AgEoC}KUg@[SkDiAm@_@KoAyAuF{@{EmAaFGqA?WFQjBE|CoBxK{IdCgBFM?o@wBwFgJmYcGsOM{@s@{BGw@Ys@c@cB_FmO{BkGcIiVkD{K}BiGcB_GwI_Xg@eB?YTa@xD}CvA_AbCuBpBqA`G{En@q@|AqAnFkD~@YvCc@dFi@jFYvBH`M`B`N~B`EDpCXxLdCdPtCjD~@N?VUx@{CR]p@MrAC~G~@dHh@lm@pCf@d@P|@CtKXhG^bDRzEA~NRxIAjDc@nF\\hEl@bAdTzZvAjBh@f@n@ThI^xBz@`HdB~@?hA_@DRITOSKAs@R_@?S\\D]`AKXSPa@?c@Wq@QQe@OcEIkALcBIu@Pu@KcGMu@Kg@Y_BiBeGuIeNcSU{BGuAFqAXoCFyAEgDO{CC_FDyFSiHBOJDFKDe@w@{KEkCHgKM]_AQwSgAy@BwRkAwBA}G]eBWoCq@u@aAy@wBMOOFGLkAdF]X]d@q@tAUJQQgBOyKiCgAu@kAmBq@BqBnA{AKeBs@{E_A{Ao@y@QUM]q@SKG?QX]fA[N{BQaFw@{Ac@cAe@cBCiAa@kBRg@`@Q|ACfAw@fDOlAB|@NpACN^HGDOMG@q@\\Y^Ol@?vELxCEjAK`@s@nBcApB]bAWV@Lp@hB|@tAz@fBTx@j@x@JbAjAfBjBxDd@t@VlA^x@z@lA~Bv@fBKb@FbCzCL^BhAWtA?RPt@x@|@xAbAb@~@|A~BjBpBdDlEtAbDRnBl@tBNrAtDnExAdAdB`BFhANn@Ab@O~AI\\q@fAwCjDuAnBsN|OmHtF?f@q@d@a@x@cCnJe@~@{HfGwArAcI~FeA`@qA@KXBtAZ`Bt@lCp@`EfBhHHz@jCfAt@Jv@h@LVXtAvA|EhAvE`ArDP\\b@vBlC|Jt@hEpAdFrAdHvAvEbAbE^~@H\\EDP|@vBjIPVDNBZXx@p@pEHvA`@|BZbAxAbD|AhKJ~BtBbTA\\VxBnEf\\ALSFSXuBh@m@^o@r@_C\\kDfAqDrA{Cd@oCp@eE~A"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    43.645236,
+    -79.391409
+  ],
+  "end_latlng": [
+    43.646404,
+    -79.394083
+  ],
+  "average_speed": 6.257,
+  "max_speed": 11.02,
+  "average_cadence": 72.0,
+  "average_temp": 23,
+  "average_watts": 149.9,
+  "max_watts": 779,
+  "weighted_average_watts": 194,
+  "device_watts": true,
+  "kilojoules": 653.4,
+  "has_heartrate": true,
+  "average_heartrate": 132.0,
+  "max_heartrate": 176.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 87.9,
+  "elev_low": 75.7,
+  "upload_id": 20022231027,
+  "upload_id_str": "20022231027",
+  "external_id": "Evening Ride.fit",
+  "from_accepted_tag": false,
+  "pr_count": 8,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 48.0,
+  "description": "",
+  "calories": 818.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [
+    {
+      "id": 3501023931052872102,
+      "resource_state": 2,
+      "name": "York to Yonge",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 75,
+      "moving_time": 75,
+      "start_date": "2026-06-13T22:19:42Z",
+      "start_date_local": "2026-06-13T18:19:42Z",
+      "distance": 465.0,
+      "start_index": 732,
+      "end_index": 807,
+      "average_cadence": 43.4,
+      "device_watts": true,
+      "average_watts": 113.2,
+      "average_heartrate": 114.4,
+      "max_heartrate": 121.0,
+      "segment": {
+        "id": 16534081,
+        "resource_state": 2,
+        "name": "York to Yonge",
+        "activity_type": "Ride",
+        "distance": 465.0,
+        "average_grade": -0.2,
+        "maximum_grade": -0.1,
+        "elevation_high": 79.8,
+        "elevation_low": 78.1,
+        "start_latlng": [
+          43.639937,
+          -79.380189
+        ],
+        "end_latlng": [
+          43.641889,
+          -79.375102
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931052373414,
+      "resource_state": 2,
+      "name": "last stretch",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 180,
+      "moving_time": 152,
+      "start_date": "2026-06-13T22:19:52Z",
+      "start_date_local": "2026-06-13T18:19:52Z",
+      "distance": 948.8,
+      "start_index": 742,
+      "end_index": 922,
+      "average_cadence": 40.6,
+      "device_watts": true,
+      "average_watts": 107.6,
+      "average_heartrate": 114.1,
+      "max_heartrate": 129.0,
+      "segment": {
+        "id": 28147692,
+        "resource_state": 2,
+        "name": "last stretch",
+        "activity_type": "Ride",
+        "distance": 948.8,
+        "average_grade": -0.2,
+        "maximum_grade": 3.0,
+        "elevation_high": 88.0,
+        "elevation_low": 83.2,
+        "start_latlng": [
+          43.640157,
+          -79.379864
+        ],
+        "end_latlng": [
+          43.643752,
+          -79.369328
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931053995430,
+      "resource_state": 2,
+      "name": "Queens Quay -- Yonge to Parliament",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 188,
+      "moving_time": 188,
+      "start_date": "2026-06-13T22:21:38Z",
+      "start_date_local": "2026-06-13T18:21:38Z",
+      "distance": 1272.8,
+      "start_index": 848,
+      "end_index": 1036,
+      "average_cadence": 62.4,
+      "device_watts": true,
+      "average_watts": 158.8,
+      "average_heartrate": 124.9,
+      "max_heartrate": 136.0,
+      "segment": {
+        "id": 10447091,
+        "resource_state": 2,
+        "name": "Queens Quay -- Yonge to Parliament",
+        "activity_type": "Ride",
+        "distance": 1272.8,
+        "average_grade": -0.3,
+        "maximum_grade": 0.7,
+        "elevation_high": 78.2,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.641904,
+          -79.374451
+        ],
+        "end_latlng": [
+          43.647303,
+          -79.36106
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931053246886,
+      "resource_state": 2,
+      "name": "Yonge to Jarvis",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 80,
+      "moving_time": 80,
+      "start_date": "2026-06-13T22:21:41Z",
+      "start_date_local": "2026-06-13T18:21:41Z",
+      "distance": 511.2,
+      "start_index": 851,
+      "end_index": 931,
+      "average_cadence": 59.0,
+      "device_watts": true,
+      "average_watts": 153.8,
+      "average_heartrate": 122.1,
+      "max_heartrate": 129.0,
+      "segment": {
+        "id": 16534088,
+        "resource_state": 2,
+        "name": "Yonge to Jarvis",
+        "activity_type": "Ride",
+        "distance": 511.2,
+        "average_grade": -0.2,
+        "maximum_grade": 0.0,
+        "elevation_high": 78.2,
+        "elevation_low": 76.9,
+        "start_latlng": [
+          43.642022,
+          -79.374301
+        ],
+        "end_latlng": [
+          43.644003,
+          -79.368591
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931054581158,
+      "resource_state": 2,
+      "name": "Queens Quay - Jarvis to Parliament",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 104,
+      "moving_time": 104,
+      "start_date": "2026-06-13T22:22:58Z",
+      "start_date_local": "2026-06-13T18:22:58Z",
+      "distance": 711.6,
+      "start_index": 928,
+      "end_index": 1032,
+      "average_cadence": 65.3,
+      "device_watts": true,
+      "average_watts": 159.8,
+      "average_heartrate": 127.7,
+      "max_heartrate": 136.0,
+      "segment": {
+        "id": 3751427,
+        "resource_state": 2,
+        "name": "Queens Quay - Jarvis to Parliament",
+        "activity_type": "Ride",
+        "distance": 711.6,
+        "average_grade": -0.1,
+        "maximum_grade": 6.4,
+        "elevation_high": 0.4,
+        "elevation_low": -2.4,
+        "start_latlng": [
+          43.64395617507398,
+          -79.36884286813438
+        ],
+        "end_latlng": [
+          43.64711305126548,
+          -79.3614331819117
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931051077030,
+      "resource_state": 2,
+      "name": "Bayside Sprint",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 64,
+      "moving_time": 64,
+      "start_date": "2026-06-13T22:23:56Z",
+      "start_date_local": "2026-06-13T18:23:56Z",
+      "distance": 411.8,
+      "start_index": 986,
+      "end_index": 1050,
+      "average_cadence": 54.2,
+      "device_watts": true,
+      "average_watts": 150.5,
+      "average_heartrate": 130.5,
+      "max_heartrate": 136.0,
+      "segment": {
+        "id": 27599798,
+        "resource_state": 2,
+        "name": "Bayside Sprint",
+        "activity_type": "Ride",
+        "distance": 411.8,
+        "average_grade": 0.1,
+        "maximum_grade": 0.4,
+        "elevation_high": 77.5,
+        "elevation_low": 77.0,
+        "start_latlng": [
+          43.645408,
+          -79.364251
+        ],
+        "end_latlng": [
+          43.647732,
+          -79.360683
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931051297190,
+      "resource_state": 2,
+      "name": "The \"Comish\"",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 285,
+      "moving_time": 285,
+      "start_date": "2026-06-13T22:27:28Z",
+      "start_date_local": "2026-06-13T18:27:28Z",
+      "distance": 2387.2,
+      "start_index": 1198,
+      "end_index": 1483,
+      "average_cadence": 58.5,
+      "device_watts": true,
+      "average_watts": 149.4,
+      "average_heartrate": 130.9,
+      "max_heartrate": 147.0,
+      "segment": {
+        "id": 16297832,
+        "resource_state": 2,
+        "name": "The \"Comish\"",
+        "activity_type": "Ride",
+        "distance": 2387.2,
+        "average_grade": -0.1,
+        "maximum_grade": 2.5,
+        "elevation_high": 67.4,
+        "elevation_low": 61.4,
+        "start_latlng": [
+          43.645391,
+          -79.352199
+        ],
+        "end_latlng": [
+          43.656328,
+          -79.326709
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931048404390,
+      "resource_state": 2,
+      "name": "Cherry to Don on Commissioners",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 75,
+      "moving_time": 75,
+      "start_date": "2026-06-13T22:27:28Z",
+      "start_date_local": "2026-06-13T18:27:28Z",
+      "distance": 647.7,
+      "start_index": 1198,
+      "end_index": 1273,
+      "average_cadence": 58.1,
+      "device_watts": true,
+      "average_watts": 138.8,
+      "average_heartrate": 140.5,
+      "max_heartrate": 147.0,
+      "segment": {
+        "id": 17078914,
+        "resource_state": 2,
+        "name": "Cherry to Don on Commissioners",
+        "activity_type": "Ride",
+        "distance": 647.7,
+        "average_grade": -0.0,
+        "maximum_grade": 2.3,
+        "elevation_high": 75.7,
+        "elevation_low": 74.2,
+        "start_latlng": [
+          43.645317,
+          -79.352062
+        ],
+        "end_latlng": [
+          43.648357,
+          -79.345256
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931051205030,
+      "resource_state": 2,
+      "name": "Commissioners, Cherry > Carlaw",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 178,
+      "moving_time": 178,
+      "start_date": "2026-06-13T22:27:37Z",
+      "start_date_local": "2026-06-13T18:27:37Z",
+      "distance": 1442.9,
+      "start_index": 1207,
+      "end_index": 1385,
+      "average_cadence": 52.8,
+      "device_watts": true,
+      "average_watts": 134.8,
+      "average_heartrate": 127.8,
+      "max_heartrate": 145.0,
+      "segment": {
+        "id": 5796222,
+        "resource_state": 2,
+        "name": "Commissioners, Cherry > Carlaw",
+        "activity_type": "Ride",
+        "distance": 1442.9,
+        "average_grade": 0.0,
+        "maximum_grade": 4.7,
+        "elevation_high": 121.2,
+        "elevation_low": 118.8,
+        "start_latlng": [
+          43.645839,
+          -79.351195
+        ],
+        "end_latlng": [
+          43.65248,
+          -79.335732
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931049585062,
+      "resource_state": 2,
+      "name": "Car-Les Commissioners ",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 100,
+      "moving_time": 100,
+      "start_date": "2026-06-13T22:30:38Z",
+      "start_date_local": "2026-06-13T18:30:38Z",
+      "distance": 848.7,
+      "start_index": 1388,
+      "end_index": 1488,
+      "average_cadence": 64.2,
+      "device_watts": true,
+      "average_watts": 160.6,
+      "average_heartrate": 135.1,
+      "max_heartrate": 140.0,
+      "segment": {
+        "id": 25358912,
+        "resource_state": 2,
+        "name": "Car-Les Commissioners ",
+        "activity_type": "Ride",
+        "distance": 848.7,
+        "average_grade": 0.0,
+        "maximum_grade": 1.0,
+        "elevation_high": 103.8,
+        "elevation_low": 102.6,
+        "start_latlng": [
+          43.652573,
+          -79.335388
+        ],
+        "end_latlng": [
+          43.656498,
+          -79.32637
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931049418150,
+      "resource_state": 2,
+      "name": "Leslie Spit 5min Interval out",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 363,
+      "moving_time": 363,
+      "start_date": "2026-06-13T22:33:54Z",
+      "start_date_local": "2026-06-13T18:33:54Z",
+      "distance": 3154.84,
+      "start_index": 1584,
+      "end_index": 1947,
+      "average_cadence": 86.2,
+      "device_watts": true,
+      "average_watts": 308.2,
+      "average_heartrate": 163.0,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 1970977,
+        "resource_state": 2,
+        "name": "Leslie Spit 5min Interval out",
+        "activity_type": "Ride",
+        "distance": 3154.84,
+        "average_grade": 0.1,
+        "maximum_grade": 3.9,
+        "elevation_high": 72.2,
+        "elevation_low": 68.0,
+        "start_latlng": [
+          43.651069393381476,
+          -79.3218747060746
+        ],
+        "end_latlng": [
+          43.62326251342893,
+          -79.32397831231356
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931050556838,
+      "resource_state": 2,
+      "name": "Spit to Gravel South",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 518,
+      "moving_time": 518,
+      "start_date": "2026-06-13T22:35:02Z",
+      "start_date_local": "2026-06-13T18:35:02Z",
+      "distance": 4714.4,
+      "start_index": 1652,
+      "end_index": 2170,
+      "average_cadence": 90.0,
+      "device_watts": true,
+      "average_watts": 310.6,
+      "average_heartrate": 170.8,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 8010711,
+        "resource_state": 2,
+        "name": "Spit to Gravel South",
+        "activity_type": "Ride",
+        "distance": 4714.4,
+        "average_grade": 0.0,
+        "maximum_grade": 0.7,
+        "elevation_high": 54.6,
+        "elevation_low": 54.6,
+        "start_latlng": [
+          43.646609,
+          -79.320853
+        ],
+        "end_latlng": [
+          43.615696,
+          -79.342981
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": true
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931049863590,
+      "resource_state": 2,
+      "name": "Around lighthouse and back, speed bump",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 1745,
+      "moving_time": 1483,
+      "start_date": "2026-06-13T22:35:22Z",
+      "start_date_local": "2026-06-13T18:35:22Z",
+      "distance": 9686.9,
+      "start_index": 1672,
+      "end_index": 3417,
+      "average_cadence": 55.4,
+      "device_watts": true,
+      "average_watts": 147.9,
+      "average_heartrate": 139.9,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 24730915,
+        "resource_state": 2,
+        "name": "Around lighthouse and back, speed bump",
+        "activity_type": "Ride",
+        "distance": 9686.9,
+        "average_grade": -0.0,
+        "maximum_grade": 2.5,
+        "elevation_high": 110.4,
+        "elevation_low": 105.6,
+        "start_latlng": [
+          43.64513,
+          -79.321106
+        ],
+        "end_latlng": [
+          43.645115,
+          -79.321129
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931050785190,
+      "resource_state": 2,
+      "name": "The Tommy Rocket - Marsh ",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 110,
+      "moving_time": 110,
+      "start_date": "2026-06-13T22:38:08Z",
+      "start_date_local": "2026-06-13T18:38:08Z",
+      "distance": 1006.2,
+      "start_index": 1838,
+      "end_index": 1948,
+      "average_cadence": 88.0,
+      "device_watts": true,
+      "average_watts": 329.2,
+      "average_heartrate": 173.7,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 24379228,
+        "resource_state": 2,
+        "name": "The Tommy Rocket - Marsh ",
+        "activity_type": "Ride",
+        "distance": 1006.2,
+        "average_grade": -0.0,
+        "maximum_grade": 2.1,
+        "elevation_high": 66.6,
+        "elevation_low": 65.2,
+        "start_latlng": [
+          43.632206,
+          -79.322929
+        ],
+        "end_latlng": [
+          43.623188,
+          -79.323975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931049147814,
+      "resource_state": 2,
+      "name": "the Blitzham",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 164,
+      "moving_time": 164,
+      "start_date": "2026-06-13T22:38:28Z",
+      "start_date_local": "2026-06-13T18:38:28Z",
+      "distance": 1471.61,
+      "start_index": 1858,
+      "end_index": 2022,
+      "average_cadence": 88.2,
+      "device_watts": true,
+      "average_watts": 298.4,
+      "average_heartrate": 173.7,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 1385008,
+        "resource_state": 2,
+        "name": "the Blitzham",
+        "activity_type": "Ride",
+        "distance": 1471.61,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 74.8,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.63048067316413,
+          -79.32324548251927
+        ],
+        "end_latlng": [
+          43.62201620824635,
+          -79.33130040764809
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931050301862,
+      "resource_state": 2,
+      "name": "Sketchy McPatherson South",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 64,
+      "moving_time": 64,
+      "start_date": "2026-06-13T22:40:35Z",
+      "start_date_local": "2026-06-13T18:40:35Z",
+      "distance": 560.7,
+      "start_index": 1985,
+      "end_index": 2049,
+      "average_cadence": 87.4,
+      "device_watts": true,
+      "average_watts": 273.5,
+      "average_heartrate": 171.8,
+      "max_heartrate": 174.0,
+      "segment": {
+        "id": 7759644,
+        "resource_state": 2,
+        "name": "Sketchy McPatherson South",
+        "activity_type": "Ride",
+        "distance": 560.7,
+        "average_grade": 0.0,
+        "maximum_grade": 7.0,
+        "elevation_high": 120.8,
+        "elevation_low": 118.4,
+        "start_latlng": [
+          43.622348,
+          -79.327386
+        ],
+        "end_latlng": [
+          43.621959,
+          -79.33423
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931050288550,
+      "resource_state": 2,
+      "name": "Junction to round the lighthouse and back",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 640,
+      "moving_time": 395,
+      "start_date": "2026-06-13T22:42:10Z",
+      "start_date_local": "2026-06-13T18:42:10Z",
+      "distance": 2261.3,
+      "start_index": 2080,
+      "end_index": 2720,
+      "average_cadence": 36.9,
+      "device_watts": true,
+      "average_watts": 80.6,
+      "average_heartrate": 133.7,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 20739633,
+        "resource_state": 2,
+        "name": "Junction to round the lighthouse and back",
+        "activity_type": "Ride",
+        "distance": 2261.3,
+        "average_grade": 0.0,
+        "maximum_grade": 1.2,
+        "elevation_high": 47.0,
+        "elevation_low": 44.8,
+        "start_latlng": [
+          43.62176,
+          -79.33755
+        ],
+        "end_latlng": [
+          43.621447,
+          -79.337853
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931049494950,
+      "resource_state": 2,
+      "name": "Lighthouse ramp",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 395,
+      "moving_time": 150,
+      "start_date": "2026-06-13T22:43:42Z",
+      "start_date_local": "2026-06-13T18:43:42Z",
+      "distance": 175.65,
+      "start_index": 2172,
+      "end_index": 2567,
+      "average_cadence": 12.4,
+      "device_watts": true,
+      "average_watts": 19.5,
+      "average_heartrate": 126.8,
+      "max_heartrate": 174.0,
+      "segment": {
+        "id": 2233238,
+        "resource_state": 2,
+        "name": "Lighthouse ramp",
+        "activity_type": "Ride",
+        "distance": 175.65,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 74.8,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.61548182985374,
+          -79.34299976601721
+        ],
+        "end_latlng": [
+          43.613921614224765,
+          -79.34331340775474
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931049911718,
+      "resource_state": 2,
+      "name": "lighthouse rock and roll out",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 111,
+      "moving_time": 110,
+      "start_date": "2026-06-13T22:49:29Z",
+      "start_date_local": "2026-06-13T18:49:29Z",
+      "distance": 330.4,
+      "start_index": 2519,
+      "end_index": 2630,
+      "average_cadence": 50.6,
+      "device_watts": true,
+      "average_watts": 87.6,
+      "average_heartrate": 121.8,
+      "max_heartrate": 126.0,
+      "segment": {
+        "id": 12418807,
+        "resource_state": 2,
+        "name": "lighthouse rock and roll out",
+        "activity_type": "Ride",
+        "distance": 330.4,
+        "average_grade": -1.2,
+        "maximum_grade": 4.7,
+        "elevation_high": 97.4,
+        "elevation_low": 91.2,
+        "start_latlng": [
+          43.61376,
+          -79.343359
+        ],
+        "end_latlng": [
+          43.616687,
+          -79.342829
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931050443174,
+      "resource_state": 2,
+      "name": "GravelGrind",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 645,
+      "moving_time": 627,
+      "start_date": "2026-06-13T22:49:41Z",
+      "start_date_local": "2026-06-13T18:49:41Z",
+      "distance": 3435.5,
+      "start_index": 2531,
+      "end_index": 3176,
+      "average_cadence": 53.0,
+      "device_watts": true,
+      "average_watts": 108.8,
+      "average_heartrate": 128.6,
+      "max_heartrate": 144.0,
+      "segment": {
+        "id": 16295470,
+        "resource_state": 2,
+        "name": "GravelGrind",
+        "activity_type": "Ride",
+        "distance": 3435.5,
+        "average_grade": 0.1,
+        "maximum_grade": 5.0,
+        "elevation_high": 56.0,
+        "elevation_low": 51.6,
+        "start_latlng": [
+          43.613414,
+          -79.343843
+        ],
+        "end_latlng": [
+          43.633491,
+          -79.322766
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931049478566,
+      "resource_state": 2,
+      "name": "Whoa!",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 121,
+      "moving_time": 121,
+      "start_date": "2026-06-13T22:50:59Z",
+      "start_date_local": "2026-06-13T18:50:59Z",
+      "distance": 858.9,
+      "start_index": 2609,
+      "end_index": 2730,
+      "average_cadence": 71.5,
+      "device_watts": true,
+      "average_watts": 132.2,
+      "average_heartrate": 128.9,
+      "max_heartrate": 133.0,
+      "segment": {
+        "id": 32995535,
+        "resource_state": 2,
+        "name": "Whoa!",
+        "activity_type": "Ride",
+        "distance": 858.9,
+        "average_grade": 0.2,
+        "maximum_grade": 0.9,
+        "elevation_high": 83.2,
+        "elevation_low": 81.6,
+        "start_latlng": [
+          43.615786,
+          -79.342937
+        ],
+        "end_latlng": [
+          43.621937,
+          -79.337184
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931051426214,
+      "resource_state": 2,
+      "name": "Sketchy McPatherson North",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 80,
+      "moving_time": 80,
+      "start_date": "2026-06-13T22:53:32Z",
+      "start_date_local": "2026-06-13T18:53:32Z",
+      "distance": 550.3,
+      "start_index": 2762,
+      "end_index": 2842,
+      "average_cadence": 73.3,
+      "device_watts": true,
+      "average_watts": 186.3,
+      "average_heartrate": 140.2,
+      "max_heartrate": 144.0,
+      "segment": {
+        "id": 7759639,
+        "resource_state": 2,
+        "name": "Sketchy McPatherson North",
+        "activity_type": "Ride",
+        "distance": 550.3,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 118.4,
+        "elevation_low": 118.4,
+        "start_latlng": [
+          43.62193,
+          -79.334115
+        ],
+        "end_latlng": [
+          43.622346,
+          -79.327337
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931049719206,
+      "resource_state": 2,
+      "name": "Tommy Rocket Return",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 207,
+      "moving_time": 207,
+      "start_date": "2026-06-13T22:55:45Z",
+      "start_date_local": "2026-06-13T18:55:45Z",
+      "distance": 1115.5,
+      "start_index": 2895,
+      "end_index": 3102,
+      "average_cadence": 46.5,
+      "device_watts": true,
+      "average_watts": 88.1,
+      "average_heartrate": 127.1,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 26363644,
+        "resource_state": 2,
+        "name": "Tommy Rocket Return",
+        "activity_type": "Ride",
+        "distance": 1115.5,
+        "average_grade": 0.0,
+        "maximum_grade": 1.5,
+        "elevation_high": 77.8,
+        "elevation_low": 76.7,
+        "start_latlng": [
+          43.622624,
+          -79.323769
+        ],
+        "end_latlng": [
+          43.632583,
+          -79.322562
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931049402790,
+      "resource_state": 2,
+      "name": "TTP paved northbound sprint toward speed bump",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 55,
+      "moving_time": 55,
+      "start_date": "2026-06-13T22:55:47Z",
+      "start_date_local": "2026-06-13T18:55:47Z",
+      "distance": 316.6,
+      "start_index": 2897,
+      "end_index": 2952,
+      "average_cadence": 60.5,
+      "device_watts": true,
+      "average_watts": 95.5,
+      "average_heartrate": 131.1,
+      "max_heartrate": 135.0,
+      "segment": {
+        "id": 21644986,
+        "resource_state": 2,
+        "name": "TTP paved northbound sprint toward speed bump",
+        "activity_type": "Ride",
+        "distance": 316.6,
+        "average_grade": -0.1,
+        "maximum_grade": 0.5,
+        "elevation_high": 75.3,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.622739,
+          -79.323948
+        ],
+        "end_latlng": [
+          43.625581,
+          -79.323673
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931050737062,
+      "resource_state": 2,
+      "name": "Leslie Path to Unwin",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 118,
+      "moving_time": 118,
+      "start_date": "2026-06-13T23:05:00Z",
+      "start_date_local": "2026-06-13T19:05:00Z",
+      "distance": 626.7,
+      "start_index": 3450,
+      "end_index": 3568,
+      "average_cadence": 49.4,
+      "device_watts": true,
+      "average_watts": 107.6,
+      "average_heartrate": 118.9,
+      "max_heartrate": 132.0,
+      "segment": {
+        "id": 16068980,
+        "resource_state": 2,
+        "name": "Leslie Path to Unwin",
+        "activity_type": "Ride",
+        "distance": 626.7,
+        "average_grade": -0.3,
+        "maximum_grade": 0.0,
+        "elevation_high": 52.6,
+        "elevation_low": 50.6,
+        "start_latlng": [
+          43.646421,
+          -79.320996
+        ],
+        "end_latlng": [
+          43.64793,
+          -79.328011
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931048077734,
+      "resource_state": 2,
+      "name": "Cherry Beach West",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 283,
+      "moving_time": 277,
+      "start_date": "2026-06-13T23:07:21Z",
+      "start_date_local": "2026-06-13T19:07:21Z",
+      "distance": 1826.6,
+      "start_index": 3591,
+      "end_index": 3874,
+      "average_cadence": 65.2,
+      "device_watts": true,
+      "average_watts": 159.2,
+      "average_heartrate": 131.4,
+      "max_heartrate": 143.0,
+      "segment": {
+        "id": 4040801,
+        "resource_state": 2,
+        "name": "Cherry Beach West",
+        "activity_type": "Ride",
+        "distance": 1826.6,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 74.8,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.647746,
+          -79.329144
+        ],
+        "end_latlng": [
+          43.637713,
+          -79.344957
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931049984422,
+      "resource_state": 2,
+      "name": "Cherry Beach to Polson Street",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 71,
+      "moving_time": 71,
+      "start_date": "2026-06-13T23:12:05Z",
+      "start_date_local": "2026-06-13T19:12:05Z",
+      "distance": 654.3,
+      "start_index": 3875,
+      "end_index": 3946,
+      "average_cadence": 79.1,
+      "device_watts": true,
+      "average_watts": 211.7,
+      "average_heartrate": 150.4,
+      "max_heartrate": 154.0,
+      "segment": {
+        "id": 41436610,
+        "resource_state": 2,
+        "name": "Cherry Beach to Polson Street",
+        "activity_type": "Ride",
+        "distance": 654.3,
+        "average_grade": -0.2,
+        "maximum_grade": 4.4,
+        "elevation_high": 74.6,
+        "elevation_low": 70.6,
+        "start_latlng": [
+          43.637832,
+          -79.344948
+        ],
+        "end_latlng": [
+          43.642427,
+          -79.349993
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931050994086,
+      "resource_state": 2,
+      "name": "The Bridges of Happiness!!",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 116,
+      "moving_time": 116,
+      "start_date": "2026-06-13T23:13:39Z",
+      "start_date_local": "2026-06-13T19:13:39Z",
+      "distance": 832.3,
+      "start_index": 3969,
+      "end_index": 4085,
+      "average_cadence": 50.2,
+      "device_watts": true,
+      "average_watts": 157.6,
+      "average_heartrate": 140.4,
+      "max_heartrate": 148.0,
+      "segment": {
+        "id": 36203040,
+        "resource_state": 2,
+        "name": "The Bridges of Happiness!!",
+        "activity_type": "Ride",
+        "distance": 832.3,
+        "average_grade": 1.0,
+        "maximum_grade": 20.6,
+        "elevation_high": 86.3,
+        "elevation_low": 74.7,
+        "start_latlng": [
+          43.642984,
+          -79.350747
+        ],
+        "end_latlng": [
+          43.648788,
+          -79.356613
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931049203110,
+      "resource_state": 2,
+      "name": "Queens Quay: Parliament > Yonge",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 250,
+      "moving_time": 224,
+      "start_date": "2026-06-13T23:16:36Z",
+      "start_date_local": "2026-06-13T19:16:36Z",
+      "distance": 1254.0,
+      "start_index": 4146,
+      "end_index": 4396,
+      "average_cadence": 40.3,
+      "device_watts": true,
+      "average_watts": 129.2,
+      "average_heartrate": 134.6,
+      "max_heartrate": 145.0,
+      "segment": {
+        "id": 5625983,
+        "resource_state": 2,
+        "name": "Queens Quay: Parliament > Yonge",
+        "activity_type": "Ride",
+        "distance": 1254.0,
+        "average_grade": -0.3,
+        "maximum_grade": 5.7,
+        "elevation_high": 81.8,
+        "elevation_low": 74.2,
+        "start_latlng": [
+          43.647568,
+          -79.361428
+        ],
+        "end_latlng": [
+          43.64206,
+          -79.374549
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931050702246,
+      "resource_state": 2,
+      "name": "Queens Quay -- Parliament to Jarvis",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 120,
+      "moving_time": 120,
+      "start_date": "2026-06-13T23:16:39Z",
+      "start_date_local": "2026-06-13T19:16:39Z",
+      "distance": 747.625,
+      "start_index": 4149,
+      "end_index": 4269,
+      "average_cadence": 46.8,
+      "device_watts": true,
+      "average_watts": 160.1,
+      "average_heartrate": 139.8,
+      "max_heartrate": 145.0,
+      "segment": {
+        "id": 1735885,
+        "resource_state": 2,
+        "name": "Queens Quay -- Parliament to Jarvis",
+        "activity_type": "Ride",
+        "distance": 747.625,
+        "average_grade": 0.2,
+        "maximum_grade": 1.1,
+        "elevation_high": 77.0,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.647377248894095,
+          -79.36150996021867
+        ],
+        "end_latlng": [
+          43.64405017815869,
+          -79.36894495978892
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931048294822,
+      "resource_state": 2,
+      "name": "Queens Quay -- Parliament to York St",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 399,
+      "moving_time": 316,
+      "start_date": "2026-06-13T23:16:39Z",
+      "start_date_local": "2026-06-13T19:16:39Z",
+      "distance": 1756.3,
+      "start_index": 4149,
+      "end_index": 4548,
+      "average_cadence": 36.0,
+      "device_watts": true,
+      "average_watts": 110.2,
+      "average_heartrate": 127.4,
+      "max_heartrate": 145.0,
+      "segment": {
+        "id": 10447081,
+        "resource_state": 2,
+        "name": "Queens Quay -- Parliament to York St",
+        "activity_type": "Ride",
+        "distance": 1756.3,
+        "average_grade": 0.2,
+        "maximum_grade": 1.3,
+        "elevation_high": 79.1,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.647338,
+          -79.361197
+        ],
+        "end_latlng": [
+          43.639964,
+          -79.379754
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931050998182,
+      "resource_state": 2,
+      "name": "Queens Quay -- Jarvis to Yonge (corrected)",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 85,
+      "moving_time": 85,
+      "start_date": "2026-06-13T23:18:44Z",
+      "start_date_local": "2026-06-13T19:18:44Z",
+      "distance": 442.3,
+      "start_index": 4274,
+      "end_index": 4359,
+      "average_cadence": 44.1,
+      "device_watts": true,
+      "average_watts": 113.8,
+      "average_heartrate": 133.4,
+      "max_heartrate": 144.0,
+      "segment": {
+        "id": 12712227,
+        "resource_state": 2,
+        "name": "Queens Quay -- Jarvis to Yonge (corrected)",
+        "activity_type": "Ride",
+        "distance": 442.3,
+        "average_grade": -0.4,
+        "maximum_grade": 3.5,
+        "elevation_high": 17.4,
+        "elevation_low": 15.4,
+        "start_latlng": [
+          43.643907,
+          -79.369181
+        ],
+        "end_latlng": [
+          43.64223,
+          -79.374152
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931048987046,
+      "resource_state": 2,
+      "name": "Queens Quay -- Yonge to York",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 150,
+      "moving_time": 93,
+      "start_date": "2026-06-13T23:20:51Z",
+      "start_date_local": "2026-06-13T19:20:51Z",
+      "distance": 513.2,
+      "start_index": 4401,
+      "end_index": 4551,
+      "average_cadence": 28.5,
+      "device_watts": true,
+      "average_watts": 80.7,
+      "average_heartrate": 116.4,
+      "max_heartrate": 137.0,
+      "segment": {
+        "id": 12103518,
+        "resource_state": 2,
+        "name": "Queens Quay -- Yonge to York",
+        "activity_type": "Ride",
+        "distance": 513.2,
+        "average_grade": 0.2,
+        "maximum_grade": 1.3,
+        "elevation_high": 79.3,
+        "elevation_low": 78.0,
+        "start_latlng": [
+          43.641952,
+          -79.374761
+        ],
+        "end_latlng": [
+          43.640089,
+          -79.380225
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3501023931050701222,
+      "resource_state": 2,
+      "name": "Keep your cool.",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 125,
+      "moving_time": 81,
+      "start_date": "2026-06-13T23:26:49Z",
+      "start_date_local": "2026-06-13T19:26:49Z",
+      "distance": 373.8,
+      "start_index": 4759,
+      "end_index": 4884,
+      "average_cadence": 23.8,
+      "device_watts": true,
+      "average_watts": 124.8,
+      "average_heartrate": 118.9,
+      "max_heartrate": 144.0,
+      "segment": {
+        "id": 19279117,
+        "resource_state": 2,
+        "name": "Keep your cool.",
+        "activity_type": "Ride",
+        "distance": 373.8,
+        "average_grade": 2.8,
+        "maximum_grade": 7.3,
+        "elevation_high": 174.0,
+        "elevation_low": 163.4,
+        "start_latlng": [
+          43.638329,
+          -79.391986
+        ],
+        "end_latlng": [
+          43.641551,
+          -79.393321
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1000.7,
+      "elapsed_time": 455,
+      "elevation_difference": -6.9,
+      "moving_time": 281,
+      "split": 1,
+      "average_speed": 3.56,
+      "average_grade_adjusted_speed": 3.54,
+      "average_heartrate": 104.62151394422311,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 286,
+      "elevation_difference": -0.1,
+      "moving_time": 215,
+      "split": 2,
+      "average_speed": 4.66,
+      "average_grade_adjusted_speed": 4.66,
+      "average_heartrate": 109.88571428571429,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 188,
+      "elevation_difference": -0.4,
+      "moving_time": 160,
+      "split": 3,
+      "average_speed": 6.24,
+      "average_grade_adjusted_speed": 6.24,
+      "average_heartrate": 117.05,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 148,
+      "elevation_difference": 0.2,
+      "moving_time": 148,
+      "split": 4,
+      "average_speed": 6.78,
+      "average_grade_adjusted_speed": 6.78,
+      "average_heartrate": 128.36486486486487,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.0,
+      "elapsed_time": 138,
+      "elevation_difference": 0.0,
+      "moving_time": 138,
+      "split": 5,
+      "average_speed": 7.23,
+      "average_grade_adjusted_speed": 7.25,
+      "average_heartrate": 140.66666666666666,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 129,
+      "elevation_difference": -0.9,
+      "moving_time": 129,
+      "split": 6,
+      "average_speed": 7.78,
+      "average_grade_adjusted_speed": 7.76,
+      "average_heartrate": 127.27131782945736,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.0,
+      "elapsed_time": 111,
+      "elevation_difference": 0.2,
+      "moving_time": 111,
+      "split": 7,
+      "average_speed": 9.04,
+      "average_grade_adjusted_speed": 9.04,
+      "average_heartrate": 132.46846846846847,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 137,
+      "elevation_difference": -0.1,
+      "moving_time": 137,
+      "split": 8,
+      "average_speed": 7.29,
+      "average_grade_adjusted_speed": 7.29,
+      "average_heartrate": 133.4890510948905,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.0,
+      "elapsed_time": 120,
+      "elevation_difference": 1.3,
+      "moving_time": 120,
+      "split": 9,
+      "average_speed": 8.28,
+      "average_grade_adjusted_speed": 8.3,
+      "average_heartrate": 148.16666666666666,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 112,
+      "elevation_difference": -0.6,
+      "moving_time": 112,
+      "split": 10,
+      "average_speed": 8.96,
+      "average_grade_adjusted_speed": 8.95,
+      "average_heartrate": 169.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 109,
+      "elevation_difference": -1.0,
+      "moving_time": 109,
+      "split": 11,
+      "average_speed": 9.17,
+      "average_grade_adjusted_speed": 9.16,
+      "average_heartrate": 173.21100917431193,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 112,
+      "elevation_difference": 0.6,
+      "moving_time": 112,
+      "split": 12,
+      "average_speed": 8.92,
+      "average_grade_adjusted_speed": 8.93,
+      "average_heartrate": 173.24107142857142,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 107,
+      "elevation_difference": 1.1,
+      "moving_time": 107,
+      "split": 13,
+      "average_speed": 9.33,
+      "average_grade_adjusted_speed": 9.34,
+      "average_heartrate": 173.33644859813083,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 465,
+      "elevation_difference": 0.0,
+      "moving_time": 226,
+      "split": 14,
+      "average_speed": 4.43,
+      "average_grade_adjusted_speed": 4.44,
+      "average_heartrate": 138.72727272727272,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.3,
+      "elapsed_time": 134,
+      "elevation_difference": -0.9,
+      "moving_time": 134,
+      "split": 15,
+      "average_speed": 7.49,
+      "average_grade_adjusted_speed": 7.48,
+      "average_heartrate": 129.63432835820896,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.8,
+      "elapsed_time": 150,
+      "elevation_difference": -0.8,
+      "moving_time": 150,
+      "split": 16,
+      "average_speed": 6.66,
+      "average_grade_adjusted_speed": 6.66,
+      "average_heartrate": 138.77333333333334,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.0,
+      "elapsed_time": 180,
+      "elevation_difference": 0.8,
+      "moving_time": 180,
+      "split": 17,
+      "average_speed": 5.54,
+      "average_grade_adjusted_speed": 5.55,
+      "average_heartrate": 127.00555555555556,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 212,
+      "elevation_difference": -0.5,
+      "moving_time": 195,
+      "split": 18,
+      "average_speed": 5.13,
+      "average_grade_adjusted_speed": 5.13,
+      "average_heartrate": 122.66666666666667,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 181,
+      "elevation_difference": 0.3,
+      "moving_time": 181,
+      "split": 19,
+      "average_speed": 5.52,
+      "average_grade_adjusted_speed": 5.53,
+      "average_heartrate": 121.23204419889503,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.9,
+      "elapsed_time": 168,
+      "elevation_difference": 0.2,
+      "moving_time": 168,
+      "split": 20,
+      "average_speed": 5.98,
+      "average_grade_adjusted_speed": 5.99,
+      "average_heartrate": 125.66071428571429,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.2,
+      "elapsed_time": 165,
+      "elevation_difference": -0.7,
+      "moving_time": 165,
+      "split": 21,
+      "average_speed": 6.04,
+      "average_grade_adjusted_speed": 6.04,
+      "average_heartrate": 129.77987421383648,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 123,
+      "elevation_difference": 1.7,
+      "moving_time": 123,
+      "split": 22,
+      "average_speed": 8.12,
+      "average_grade_adjusted_speed": 8.16,
+      "average_heartrate": 140.02439024390245,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 145,
+      "elevation_difference": 0.0,
+      "moving_time": 145,
+      "split": 23,
+      "average_speed": 6.9,
+      "average_grade_adjusted_speed": 6.92,
+      "average_heartrate": 142.8,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.6,
+      "elapsed_time": 152,
+      "elevation_difference": -1.2,
+      "moving_time": 152,
+      "split": 24,
+      "average_speed": 6.56,
+      "average_grade_adjusted_speed": 6.55,
+      "average_heartrate": 140.2434210526316,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.1,
+      "elapsed_time": 257,
+      "elevation_difference": 0.7,
+      "moving_time": 203,
+      "split": 25,
+      "average_speed": 4.95,
+      "average_grade_adjusted_speed": 4.95,
+      "average_heartrate": 126.51758793969849,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 228,
+      "elevation_difference": 0.9,
+      "moving_time": 179,
+      "split": 26,
+      "average_speed": 5.59,
+      "average_grade_adjusted_speed": 5.6,
+      "average_heartrate": 121.30167597765363,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.3,
+      "elapsed_time": 245,
+      "elevation_difference": 7.0,
+      "moving_time": 203,
+      "split": 27,
+      "average_speed": 4.91,
+      "average_grade_adjusted_speed": 5.04,
+      "average_heartrate": 123.40796019900498,
+      "pace_zone": 0
+    },
+    {
+      "distance": 275.4,
+      "elapsed_time": 76,
+      "elevation_difference": 1.7,
+      "moving_time": 76,
+      "split": 28,
+      "average_speed": 3.62,
+      "average_grade_adjusted_speed": 3.67,
+      "average_heartrate": 115.06060606060606,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1615.0,
+      "elapsed_time": 655,
+      "elevation_difference": -7.2,
+      "moving_time": 410,
+      "split": 1,
+      "average_speed": 3.94,
+      "average_grade_adjusted_speed": 3.93,
+      "average_heartrate": 105.85066666666667,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 304,
+      "elevation_difference": -0.5,
+      "moving_time": 276,
+      "split": 2,
+      "average_speed": 5.82,
+      "average_grade_adjusted_speed": 5.82,
+      "average_heartrate": 116.32608695652173,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.0,
+      "elapsed_time": 239,
+      "elevation_difference": -0.5,
+      "moving_time": 239,
+      "split": 3,
+      "average_speed": 6.76,
+      "average_grade_adjusted_speed": 6.76,
+      "average_heartrate": 134.73221757322176,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.6,
+      "elapsed_time": 194,
+      "elevation_difference": -0.1,
+      "moving_time": 194,
+      "split": 4,
+      "average_speed": 8.27,
+      "average_grade_adjusted_speed": 8.27,
+      "average_heartrate": 128.68556701030928,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.5,
+      "elapsed_time": 206,
+      "elevation_difference": 0.4,
+      "moving_time": 206,
+      "split": 5,
+      "average_speed": 7.82,
+      "average_grade_adjusted_speed": 7.82,
+      "average_heartrate": 134.59223300970874,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.8,
+      "elapsed_time": 188,
+      "elevation_difference": 1.1,
+      "moving_time": 188,
+      "split": 6,
+      "average_speed": 8.56,
+      "average_grade_adjusted_speed": 8.57,
+      "average_heartrate": 156.55851063829786,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 176,
+      "elevation_difference": -1.4,
+      "moving_time": 176,
+      "split": 7,
+      "average_speed": 9.14,
+      "average_grade_adjusted_speed": 9.13,
+      "average_heartrate": 173.1590909090909,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.1,
+      "elapsed_time": 177,
+      "elevation_difference": 1.5,
+      "moving_time": 177,
+      "split": 8,
+      "average_speed": 9.07,
+      "average_grade_adjusted_speed": 9.09,
+      "average_heartrate": 172.909604519774,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.4,
+      "elapsed_time": 547,
+      "elevation_difference": -0.3,
+      "moving_time": 308,
+      "split": 9,
+      "average_speed": 5.24,
+      "average_grade_adjusted_speed": 5.25,
+      "average_heartrate": 137.81788079470198,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.3,
+      "elapsed_time": 232,
+      "elevation_difference": -0.9,
+      "moving_time": 232,
+      "split": 10,
+      "average_speed": 6.92,
+      "average_grade_adjusted_speed": 6.92,
+      "average_heartrate": 136.32327586206895,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.2,
+      "elapsed_time": 325,
+      "elevation_difference": -0.4,
+      "moving_time": 308,
+      "split": 11,
+      "average_speed": 5.22,
+      "average_grade_adjusted_speed": 5.22,
+      "average_heartrate": 124.56493506493507,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 294,
+      "elevation_difference": -0.1,
+      "moving_time": 294,
+      "split": 12,
+      "average_speed": 5.47,
+      "average_grade_adjusted_speed": 5.48,
+      "average_heartrate": 120.48979591836735,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.2,
+      "elapsed_time": 258,
+      "elevation_difference": 0.1,
+      "moving_time": 258,
+      "split": 13,
+      "average_speed": 6.25,
+      "average_grade_adjusted_speed": 6.26,
+      "average_heartrate": 130.40873015873015,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.0,
+      "elapsed_time": 222,
+      "elevation_difference": 2.2,
+      "moving_time": 222,
+      "split": 14,
+      "average_speed": 7.25,
+      "average_grade_adjusted_speed": 7.28,
+      "average_heartrate": 141.52252252252254,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.6,
+      "elapsed_time": 231,
+      "elevation_difference": -1.3,
+      "moving_time": 231,
+      "split": 15,
+      "average_speed": 6.95,
+      "average_grade_adjusted_speed": 6.94,
+      "average_heartrate": 140.06493506493507,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.1,
+      "elapsed_time": 427,
+      "elevation_difference": 0.5,
+      "moving_time": 324,
+      "split": 16,
+      "average_speed": 4.98,
+      "average_grade_adjusted_speed": 4.98,
+      "average_heartrate": 123.246875,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1521.6,
+      "elapsed_time": 358,
+      "elevation_difference": 9.5,
+      "moving_time": 316,
+      "split": 17,
+      "average_speed": 4.82,
+      "average_grade_adjusted_speed": 4.91,
+      "average_heartrate": 121.28618421052632,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 67618767896,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 18909890361,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 5033,
+      "moving_time": 4329,
+      "start_date": "2026-06-13T22:07:30Z",
+      "start_date_local": "2026-06-13T18:07:30Z",
+      "distance": 27276.3,
+      "average_speed": 6.3,
+      "max_speed": 11.02,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 4750,
+      "total_elevation_gain": 38.0,
+      "average_cadence": 72.0,
+      "device_watts": true,
+      "average_watts": 149.9,
+      "average_heartrate": 132.0,
+      "max_heartrate": 176.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "sport_image_visibility": "everyone",
+  "embed_token": "dedea00e7431ab741ff310f3e19a1b5caa03ba7d",
+  "private_note": "",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}

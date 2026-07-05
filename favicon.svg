@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Bicycle favicon">
+  <defs>
+    <style>
+      .wheel { fill: none; stroke: #5ea1ff; stroke-width: 4; }
+      .frame { fill: none; stroke: #e9edf7; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+      .accent { fill: #5ea1ff; }
+    </style>
+  </defs>
+  <circle class="wheel" cx="16" cy="46" r="10" />
+  <circle class="wheel" cx="48" cy="46" r="10" />
+  <path class="frame" d="M16 46h10l6-12h8l8 12H38l-5-9-9 17" />
+  <path class="frame" d="M26 34h8l4-8h-8" />
+  <path class="frame" d="M38 26l6-2" />
+  <circle class="accent" cx="30" cy="22" r="4" />
+</svg>

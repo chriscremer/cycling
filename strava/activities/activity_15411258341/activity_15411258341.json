@@ -1,0 +1,1725 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "resource_state": 1
+  },
+  "name": "Morning Run with Julian",
+  "distance": 10363.5,
+  "moving_time": 3692,
+  "elapsed_time": 4549,
+  "total_elevation_gain": 26.0,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": 0,
+  "device_name": "Strava App",
+  "id": 15411258341,
+  "start_date": "2025-08-10T13:04:16Z",
+  "start_date_local": "2025-08-10T09:04:16Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -14400.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 2,
+  "kudos_count": 3,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a15411258341",
+    "polyline": "mxjiGvvtcNN@LGJ@b@OTCRG\\UJKXGTOV]`@iADW?]BWHIz@?l@DTC\\Sj@_ANO`Ac@`@KHBBVJZf@fAj@p@ZL\\DbAKL@?A`@INHDJh@@fASNCVDFHBLH|@BfADBFCh@@bBc@j@ULKd@GpA}@j@q@JC`@TJJ^NfAv@f@VVTbAj@FJ~@j@t@h@JPAzAJl@Fp@P\\\\~AHVRfATh@L~@nAnGPzAPj@DT?JDRLtAF`A`@jDXtD@b@CPF~@NdARvCNrA@b@NfAFnCDd@FfCDj@?z@HbAD~AJ`AA~@JxD@xAFt@GZKzA[jAUrAQh@Mp@]t@U|@GfAW^GRSbAc@pAWzASfD@~ADz@W|A?j@D^HZ@d@]jBM\\Yh@k@tDg@hBQjAI~AKl@Sn@_@l@eAbAMTQPc@n@QZ[VcAlCQZWl@i@z@W|@?LGVwAvDSb@}AtEeA|EA\\Db@Wx@QPYr@i@hBGHYdAGFOv@[hAMVYjAEZA^B|@JtB@~ACp@DTLBDDXx@DTP|ABl@IpAUzAK`AEhEUdDCFBIBQLeC?mADyBb@uDBkAAg@IkAKKe@WCGDaAC]GWBYAMBKB]Gk@A[Dw@ASDiACo@TeBz@qCFKTo@NQB[FYTy@Pa@JIFKT{@@MCQ@YN{@VcAb@mAl@mAJk@FMLg@Z{ABWPs@Rc@H]Tk@`@s@@KIQBGCA@Cl@w@b@eA^o@p@yAr@w@@E\\a@Zg@Z]DA|@uAZ}@@OJ[JITEJEZ[HQ@OXa@HWBUJW?Gh@aBN_@HIVs@NQHS\\sCDMNsAVaBxAqMTcEJy@Bo@VuD@iAB}@@aBCs@Is@Ak@O}A@q@IoB@[C}@@GKeA@m@BKQgGG{@KqCc@_DI}Ao@aH@_@Q}CGe@I[M{BSwAIcBI]ACA@EGGQUoBSqAK_@CQYsA]qAIo@Qq@i@qCIYKIYoAASFwAC]KK{@s@c@W}@o@g@Ys@Ye@a@QWKEGIYKYSc@KCBMXY^MHYJ[RKJYNy@LWLy@Vm@LMFM?KBIASOs@w@[GMOGAI@MEm@_@C?IGKSOGKA]HS@KA]@WKYUa@k@Ue@Sq@Ua@K@[NOLg@RMNk@z@WPs@HQCG@o@?KDCFA\\In@ITa@z@WVk@ZkFxD@HIFq@XVBLNDBEAD^FRJABd@ABDb@@@?QB^B@D?FHJD@FD@DAF~@HJHRBBDT@HERBBEB?FCp@BHARBL@V@ACJBNB?E??@b@NDABDHp@CH@FGAMz@Nt@JL@b@Jd@?FEJOFCD?h@M^V{@TIFE",
+    "resource_state": 3,
+    "summary_polyline": "mxjiGvvtcNN@XEb@Oh@Kh@a@XGTOV]`@iAHmAHIhBDTC\\Sj@_ANO`Ac@`@KHBBVJZf@fAj@p@ZL\\DpAI`@KNHDJh@@fASf@@JVH|@BfADBp@AbBc@x@a@d@GpA}@j@q@JCl@`@^NfAv@f@VVTbAj@|B`BJPAzAR~AP\\\\~AHVRfATh@L~@nAnGPzAPj@DTZvD`@jDXtD@b@CPF~@NdARvCNrA@b@NfAFnCDd@LrD?z@HbAD~AJ`AA~@JxD@xAFt@SvB[jAUrAQh@Mp@]t@U|@GfAW^GRSbAc@pAWzASfD@~ADz@W|A?j@Nz@@d@]jBM\\Yh@k@tDg@hBQjAI~AKl@Sn@_@l@eAbAMTQPc@n@QZ[VcAlCi@hAi@z@W|@?LGVkBzE}AtEeA|EA\\Db@Wx@QPYr@kAxDGFOv@[hAMVYjAGz@B|@JtB@~ACp@DTLBDD^nAP|ABl@IpAUzAK`AEhEUdDCFF[LeCDgEb@uDBkAAg@IkAKKe@WCGDaAKu@BYAMBKB]Gk@A[Dw@ASDiACo@TeBz@qC\\{@NQJu@Ty@Pa@RUT{@@MCQ@YN{@VcAb@mAl@mAJk@Tu@^sBPs@Rc@H]Tk@`@s@@KIQBGCA@Cl@w@b@eA^o@p@yAr@w@@Ex@iA`@_@|@uAZ}@@OJ[JI`@KZ[HQ@OXa@Lm@JW?Gh@aBN_@HIVs@NQHS\\sCl@cExAqMTcEJy@ZeFDgC@aBCs@Is@Ak@O}A@q@IoBAyA@GKeA@m@BKQgGG{@KqCc@_DI}Ao@aH@_@Q}CGe@I[M{BSwAIcBI]IIGQUoBSqAK_@]eB]qAIo@Qq@i@qCIYKIYoADkBC]gA_Ac@W}@o@{As@e@a@QWm@[YSc@KQ\\Y^g@TaAn@y@LqAd@uAX]Qs@w@[GMO_@Eq@_@IGKSOGKAq@Ji@?WKYUa@k@Ue@Sq@Ua@K@k@\\g@Ry@jAWPs@HQCcAFCFA\\In@ITa@z@WVk@ZkFxD@HIFq@XVBRREAD^FRJABd@ABDb@@OB^H@FHJD@FJ?F~@HJHRBBDT@HERBBEBCx@BHARFb@CJFNE@b@NDABDHp@APGAMz@Nt@JL@b@Jd@ERSL?h@M^V{@\\O"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    43.641834,
+    -79.409874
+  ],
+  "end_latlng": [
+    43.641298,
+    -79.414882
+  ],
+  "average_speed": 2.807,
+  "max_speed": 4.86,
+  "has_heartrate": true,
+  "average_heartrate": 148.7,
+  "max_heartrate": 165.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 87.5,
+  "elev_low": 76.4,
+  "upload_id": 16458106178,
+  "upload_id_str": "16458106178",
+  "external_id": "62EF0461-B450-4485-B4F5-3CE826B8A285-activity.fit",
+  "from_accepted_tag": false,
+  "pr_count": 1,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 87.0,
+  "description": "",
+  "calories": 958.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3389630196920303070,
+      "resource_state": 2,
+      "name": "Bridge Park SB",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 149,
+      "moving_time": 147,
+      "start_date": "2025-08-10T13:05:00Z",
+      "start_date_local": "2025-08-10T09:05:00Z",
+      "distance": 417.7,
+      "start_index": 34,
+      "end_index": 183,
+      "device_watts": false,
+      "average_heartrate": 132.5,
+      "max_heartrate": 139.0,
+      "segment": {
+        "id": 21962396,
+        "resource_state": 2,
+        "name": "Bridge Park SB",
+        "activity_type": "Run",
+        "distance": 417.7,
+        "average_grade": 1.2,
+        "maximum_grade": 9.8,
+        "elevation_high": 86.0,
+        "elevation_low": 79.9,
+        "start_latlng": [
+          43.641012,
+          -79.40967
+        ],
+        "end_latlng": [
+          43.638319,
+          -79.408638
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196918661598,
+      "resource_state": 2,
+      "name": "Lakeshore Straight",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 135,
+      "moving_time": 134,
+      "start_date": "2025-08-10T13:13:50Z",
+      "start_date_local": "2025-08-10T09:13:50Z",
+      "distance": 421.7,
+      "start_index": 479,
+      "end_index": 614,
+      "device_watts": false,
+      "average_heartrate": 145.2,
+      "max_heartrate": 150.0,
+      "segment": {
+        "id": 4126456,
+        "resource_state": 2,
+        "name": "Lakeshore Straight",
+        "activity_type": "Run",
+        "distance": 421.7,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 74.8,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.632268,
+          -79.410806
+        ],
+        "end_latlng": [
+          43.630924,
+          -79.41552
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196920698334,
+      "resource_state": 2,
+      "name": "1K TT",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 336,
+      "moving_time": 335,
+      "start_date": "2025-08-10T13:13:57Z",
+      "start_date_local": "2025-08-10T09:13:57Z",
+      "distance": 1018.9,
+      "start_index": 486,
+      "end_index": 822,
+      "device_watts": false,
+      "average_heartrate": 149.9,
+      "max_heartrate": 156.0,
+      "segment": {
+        "id": 9629480,
+        "resource_state": 2,
+        "name": "1K TT",
+        "activity_type": "Run",
+        "distance": 1018.9,
+        "average_grade": -0.1,
+        "maximum_grade": 3.3,
+        "elevation_high": 110.2,
+        "elevation_low": 108.6,
+        "start_latlng": [
+          43.632223,
+          -79.411103
+        ],
+        "end_latlng": [
+          43.629982,
+          -79.423161
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196918368734,
+      "resource_state": 2,
+      "name": "Other side of the MGT \"Hill\"",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 38,
+      "moving_time": 38,
+      "start_date": "2025-08-10T13:16:51Z",
+      "start_date_local": "2025-08-10T09:16:51Z",
+      "distance": 124.5,
+      "start_index": 660,
+      "end_index": 698,
+      "device_watts": false,
+      "average_heartrate": 151.2,
+      "max_heartrate": 153.0,
+      "segment": {
+        "id": 26776668,
+        "resource_state": 2,
+        "name": "Other side of the MGT \"Hill\"",
+        "activity_type": "Run",
+        "distance": 124.5,
+        "average_grade": 5.7,
+        "maximum_grade": 9.6,
+        "elevation_high": 84.3,
+        "elevation_low": 77.1,
+        "start_latlng": [
+          43.630661,
+          -79.417349
+        ],
+        "end_latlng": [
+          43.630027,
+          -79.418524
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196920379870,
+      "resource_state": 2,
+      "name": "lululemon Toronto 10k Challenge - 2019",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 399,
+      "moving_time": 396,
+      "start_date": "2025-08-10T13:20:39Z",
+      "start_date_local": "2025-08-10T09:20:39Z",
+      "distance": 1126.1,
+      "start_index": 888,
+      "end_index": 1287,
+      "device_watts": false,
+      "average_heartrate": 155.2,
+      "max_heartrate": 160.0,
+      "segment": {
+        "id": 20883701,
+        "resource_state": 2,
+        "name": "lululemon Toronto 10k Challenge - 2019",
+        "activity_type": "Run",
+        "distance": 1126.1,
+        "average_grade": 0.2,
+        "maximum_grade": 1.6,
+        "elevation_high": 80.8,
+        "elevation_low": 77.4,
+        "start_latlng": [
+          43.629934,
+          -79.425473
+        ],
+        "end_latlng": [
+          43.633903,
+          -79.438095
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196922365406,
+      "resource_state": 2,
+      "name": "Saucony September Sixty | Toronto",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 345,
+      "moving_time": 343,
+      "start_date": "2025-08-10T13:25:58Z",
+      "start_date_local": "2025-08-10T09:25:58Z",
+      "distance": 1002.5,
+      "start_index": 1207,
+      "end_index": 1552,
+      "device_watts": false,
+      "average_heartrate": 153.7,
+      "max_heartrate": 160.0,
+      "segment": {
+        "id": 21564005,
+        "resource_state": 2,
+        "name": "Saucony September Sixty | Toronto",
+        "activity_type": "Run",
+        "distance": 1002.5,
+        "average_grade": -0.2,
+        "maximum_grade": 1.5,
+        "elevation_high": 80.8,
+        "elevation_low": 77.0,
+        "start_latlng": [
+          43.63242,
+          -79.43612
+        ],
+        "end_latlng": [
+          43.63691,
+          -79.44659
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196920410590,
+      "resource_state": 2,
+      "name": "Queen St W Climb",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 261,
+      "moving_time": 247,
+      "start_date": "2025-08-10T13:34:25Z",
+      "start_date_local": "2025-08-10T09:34:25Z",
+      "distance": 697.795,
+      "start_index": 1714,
+      "end_index": 1963,
+      "device_watts": false,
+      "average_heartrate": 150.5,
+      "max_heartrate": 155.0,
+      "segment": {
+        "id": 2718781,
+        "resource_state": 2,
+        "name": "Queen St W Climb",
+        "activity_type": "Run",
+        "distance": 697.795,
+        "average_grade": 6.4,
+        "maximum_grade": 37.7,
+        "elevation_high": 87.0,
+        "elevation_low": 42.2,
+        "start_latlng": [
+          43.63672584811443,
+          -79.45188454409754
+        ],
+        "end_latlng": [
+          43.6360785,
+          -79.4436664
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196918342110,
+      "resource_state": 2,
+      "name": "Up and over Legion 'hill'",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 364,
+      "moving_time": 362,
+      "start_date": "2025-08-10T13:37:59Z",
+      "start_date_local": "2025-08-10T09:37:59Z",
+      "distance": 1049.0,
+      "start_index": 1916,
+      "end_index": 2280,
+      "device_watts": false,
+      "average_heartrate": 157.4,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 7675520,
+        "resource_state": 2,
+        "name": "Up and over Legion 'hill'",
+        "activity_type": "Run",
+        "distance": 1049.0,
+        "average_grade": 0.2,
+        "maximum_grade": 4.2,
+        "elevation_high": 80.7,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.636777,
+          -79.445125
+        ],
+        "end_latlng": [
+          43.631502,
+          -79.434557
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196918733278,
+      "resource_state": 2,
+      "name": "Lakeshore Legion climb",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 180,
+      "moving_time": 179,
+      "start_date": "2025-08-10T13:38:27Z",
+      "start_date_local": "2025-08-10T09:38:27Z",
+      "distance": 505.6,
+      "start_index": 1944,
+      "end_index": 2124,
+      "device_watts": false,
+      "average_heartrate": 157.7,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 4359544,
+        "resource_state": 2,
+        "name": "Lakeshore Legion climb",
+        "activity_type": "Run",
+        "distance": 505.6,
+        "average_grade": 1.9,
+        "maximum_grade": 13.2,
+        "elevation_high": 235.4,
+        "elevation_low": 225.2,
+        "start_latlng": [
+          43.636387,
+          -79.444247
+        ],
+        "end_latlng": [
+          43.634247,
+          -79.438729
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196919332318,
+      "resource_state": 2,
+      "name": "Legion Hill Climb (starting at Wrong Way sign)",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 110,
+      "moving_time": 109,
+      "start_date": "2025-08-10T13:39:40Z",
+      "start_date_local": "2025-08-10T09:39:40Z",
+      "distance": 303.0,
+      "start_index": 2017,
+      "end_index": 2127,
+      "device_watts": false,
+      "average_heartrate": 159.3,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 15182131,
+        "resource_state": 2,
+        "name": "Legion Hill Climb (starting at Wrong Way sign)",
+        "activity_type": "Run",
+        "distance": 303.0,
+        "average_grade": 1.9,
+        "maximum_grade": 6.7,
+        "elevation_high": 117.4,
+        "elevation_low": 111.2,
+        "start_latlng": [
+          43.63554,
+          -79.441888
+        ],
+        "end_latlng": [
+          43.63416,
+          -79.438676
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": true
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196918900190,
+      "resource_state": 2,
+      "name": "Speed trap",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 117,
+      "moving_time": 116,
+      "start_date": "2025-08-10T13:40:09Z",
+      "start_date_local": "2025-08-10T09:40:09Z",
+      "distance": 324.147,
+      "start_index": 2046,
+      "end_index": 2163,
+      "device_watts": false,
+      "average_heartrate": 161.2,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 3299628,
+        "resource_state": 2,
+        "name": "Speed trap",
+        "activity_type": "Run",
+        "distance": 324.147,
+        "average_grade": 1.8,
+        "maximum_grade": 4.5,
+        "elevation_high": 80.7,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.635207,
+          -79.44091
+        ],
+        "end_latlng": [
+          43.633588,
+          -79.437586
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196920128990,
+      "resource_state": 2,
+      "name": "Fork to Stairs",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 365,
+      "moving_time": 365,
+      "start_date": "2025-08-10T13:43:20Z",
+      "start_date_local": "2025-08-10T09:43:20Z",
+      "distance": 1058.5,
+      "start_index": 2237,
+      "end_index": 2602,
+      "device_watts": false,
+      "average_heartrate": 153.6,
+      "max_heartrate": 160.0,
+      "segment": {
+        "id": 11357679,
+        "resource_state": 2,
+        "name": "Fork to Stairs",
+        "activity_type": "Run",
+        "distance": 1058.5,
+        "average_grade": -0.3,
+        "maximum_grade": 0.7,
+        "elevation_high": 78.4,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.632245,
+          -79.435632
+        ],
+        "end_latlng": [
+          43.629992,
+          -79.423492
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196921895390,
+      "resource_state": 2,
+      "name": "THIS HILLLLLLL ",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 38,
+      "moving_time": 38,
+      "start_date": "2025-08-10T13:43:25Z",
+      "start_date_local": "2025-08-10T09:43:25Z",
+      "distance": 127.9,
+      "start_index": 2242,
+      "end_index": 2280,
+      "device_watts": false,
+      "average_heartrate": 154.1,
+      "max_heartrate": 155.0,
+      "segment": {
+        "id": 28157338,
+        "resource_state": 2,
+        "name": "THIS HILLLLLLL ",
+        "activity_type": "Run",
+        "distance": 127.9,
+        "average_grade": -0.9,
+        "maximum_grade": 19.7,
+        "elevation_high": 100.4,
+        "elevation_low": 93.8,
+        "start_latlng": [
+          43.632083,
+          -79.435757
+        ],
+        "end_latlng": [
+          43.631497,
+          -79.434559
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196918270430,
+      "resource_state": 2,
+      "name": "Straight from Bell",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 649,
+      "moving_time": 644,
+      "start_date": "2025-08-10T13:44:40Z",
+      "start_date_local": "2025-08-10T09:44:40Z",
+      "distance": 1873.49,
+      "start_index": 2317,
+      "end_index": 2966,
+      "device_watts": false,
+      "average_heartrate": 156.0,
+      "max_heartrate": 161.0,
+      "segment": {
+        "id": 2622214,
+        "resource_state": 2,
+        "name": "Straight from Bell",
+        "activity_type": "Run",
+        "distance": 1873.49,
+        "average_grade": -0.0,
+        "maximum_grade": 0.4,
+        "elevation_high": 75.0,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.63088333333333,
+          -79.43347763333333
+        ],
+        "end_latlng": [
+          43.63224455,
+          -79.41093206666666
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196918945246,
+      "resource_state": 2,
+      "name": "Lendvai's Lunch",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 113,
+      "moving_time": 113,
+      "start_date": "2025-08-10T13:44:48Z",
+      "start_date_local": "2025-08-10T09:44:48Z",
+      "distance": 325.8,
+      "start_index": 2325,
+      "end_index": 2438,
+      "device_watts": false,
+      "average_heartrate": 152.5,
+      "max_heartrate": 155.0,
+      "segment": {
+        "id": 7286435,
+        "resource_state": 2,
+        "name": "Lendvai's Lunch",
+        "activity_type": "Run",
+        "distance": 325.8,
+        "average_grade": 0.0,
+        "maximum_grade": 0.9,
+        "elevation_high": 74.9,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.630861,
+          -79.433196
+        ],
+        "end_latlng": [
+          43.630085,
+          -79.429356
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196919841246,
+      "resource_state": 2,
+      "name": "Boardwalk Empire",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 208,
+      "moving_time": 208,
+      "start_date": "2025-08-10T13:44:48Z",
+      "start_date_local": "2025-08-10T09:44:48Z",
+      "distance": 577.1,
+      "start_index": 2325,
+      "end_index": 2533,
+      "device_watts": false,
+      "average_heartrate": 153.0,
+      "max_heartrate": 155.0,
+      "segment": {
+        "id": 7286476,
+        "resource_state": 2,
+        "name": "Boardwalk Empire",
+        "activity_type": "Run",
+        "distance": 577.1,
+        "average_grade": -0.0,
+        "maximum_grade": 0.9,
+        "elevation_high": 74.9,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.630861,
+          -79.433196
+        ],
+        "end_latlng": [
+          43.629683,
+          -79.42607
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196918955486,
+      "resource_state": 2,
+      "name": "Kelway Toronto 1k",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 353,
+      "moving_time": 351,
+      "start_date": "2025-08-10T13:45:02Z",
+      "start_date_local": "2025-08-10T09:45:02Z",
+      "distance": 1011.1,
+      "start_index": 2339,
+      "end_index": 2692,
+      "device_watts": false,
+      "average_heartrate": 154.5,
+      "max_heartrate": 160.0,
+      "segment": {
+        "id": 10779977,
+        "resource_state": 2,
+        "name": "Kelway Toronto 1k",
+        "activity_type": "Run",
+        "distance": 1011.1,
+        "average_grade": 0.1,
+        "maximum_grade": 4.6,
+        "elevation_high": 91.0,
+        "elevation_low": 87.6,
+        "start_latlng": [
+          43.630833,
+          -79.432701
+        ],
+        "end_latlng": [
+          43.630385,
+          -79.42038
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196918288862,
+      "resource_state": 2,
+      "name": "Lakeshore trail, fork to Strachan",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 452,
+      "moving_time": 447,
+      "start_date": "2025-08-10T13:48:25Z",
+      "start_date_local": "2025-08-10T09:48:25Z",
+      "distance": 1319.14,
+      "start_index": 2542,
+      "end_index": 2994,
+      "device_watts": false,
+      "average_heartrate": 157.6,
+      "max_heartrate": 161.0,
+      "segment": {
+        "id": 3198475,
+        "resource_state": 2,
+        "name": "Lakeshore trail, fork to Strachan",
+        "activity_type": "Run",
+        "distance": 1319.14,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 74.8,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.629908,
+          -79.425729
+        ],
+        "end_latlng": [
+          43.632336,
+          -79.409877
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196919833054,
+      "resource_state": 2,
+      "name": "The MGT \"hill\"",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 25,
+      "moving_time": 25,
+      "start_date": "2025-08-10T13:51:09Z",
+      "start_date_local": "2025-08-10T09:51:09Z",
+      "distance": 91.4,
+      "start_index": 2706,
+      "end_index": 2731,
+      "device_watts": false,
+      "average_heartrate": 156.0,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 9908493,
+        "resource_state": 2,
+        "name": "The MGT \"hill\"",
+        "activity_type": "Run",
+        "distance": 91.4,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 74.8,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.630323,
+          -79.419802
+        ],
+        "end_latlng": [
+          43.63001,
+          -79.418768
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196920670686,
+      "resource_state": 2,
+      "name": "Ontario Place Blvd to Strachan - Short",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 106,
+      "moving_time": 106,
+      "start_date": "2025-08-10T13:55:34Z",
+      "start_date_local": "2025-08-10T09:55:34Z",
+      "distance": 315.6,
+      "start_index": 2971,
+      "end_index": 3077,
+      "device_watts": false,
+      "average_heartrate": 157.4,
+      "max_heartrate": 161.0,
+      "segment": {
+        "id": 16728147,
+        "resource_state": 2,
+        "name": "Ontario Place Blvd to Strachan - Short",
+        "activity_type": "Run",
+        "distance": 315.6,
+        "average_grade": 0.8,
+        "maximum_grade": 5.6,
+        "elevation_high": 83.8,
+        "elevation_low": 81.0,
+        "start_latlng": [
+          43.632246,
+          -79.410768
+        ],
+        "end_latlng": [
+          43.634318,
+          -79.408603
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389630196919450078,
+      "resource_state": 2,
+      "name": "Bridge Park NB",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 146,
+      "moving_time": 146,
+      "start_date": "2025-08-10T14:01:35Z",
+      "start_date_local": "2025-08-10T10:01:35Z",
+      "distance": 425.6,
+      "start_index": 3245,
+      "end_index": 3391,
+      "device_watts": false,
+      "average_heartrate": 161.3,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 21962647,
+        "resource_state": 2,
+        "name": "Bridge Park NB",
+        "activity_type": "Run",
+        "distance": 425.6,
+        "average_grade": -1.2,
+        "maximum_grade": 5.4,
+        "elevation_high": 85.8,
+        "elevation_low": 79.8,
+        "start_latlng": [
+          43.638275,
+          -79.408664
+        ],
+        "end_latlng": [
+          43.640999,
+          -79.409564
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1002.4,
+      "elapsed_time": 459,
+      "elevation_difference": -6.1,
+      "moving_time": 361,
+      "split": 1,
+      "average_speed": 2.78,
+      "average_grade_adjusted_speed": 2.75,
+      "average_heartrate": 130.36046511627907,
+      "pace_zone": 1
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 330,
+      "elevation_difference": -2.8,
+      "moving_time": 330,
+      "split": 2,
+      "average_speed": 3.03,
+      "average_grade_adjusted_speed": 3.02,
+      "average_heartrate": 142.16923076923078,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 340,
+      "elevation_difference": 4.1,
+      "moving_time": 340,
+      "split": 3,
+      "average_speed": 2.94,
+      "average_grade_adjusted_speed": 2.97,
+      "average_heartrate": 153.94362017804156,
+      "pace_zone": 1
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 343,
+      "elevation_difference": -2.7,
+      "moving_time": 343,
+      "split": 4,
+      "average_speed": 2.91,
+      "average_grade_adjusted_speed": 2.9,
+      "average_heartrate": 154.7197640117994,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 348,
+      "elevation_difference": -1.9,
+      "moving_time": 348,
+      "split": 5,
+      "average_speed": 2.88,
+      "average_grade_adjusted_speed": 2.87,
+      "average_heartrate": 152.76878612716763,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 357,
+      "elevation_difference": 2.3,
+      "moving_time": 344,
+      "split": 6,
+      "average_speed": 2.91,
+      "average_grade_adjusted_speed": 2.93,
+      "average_heartrate": 152.40406976744185,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 343,
+      "elevation_difference": -1.7,
+      "moving_time": 343,
+      "split": 7,
+      "average_speed": 2.92,
+      "average_grade_adjusted_speed": 2.93,
+      "average_heartrate": 156.13782991202345,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 343,
+      "elevation_difference": -0.1,
+      "moving_time": 343,
+      "split": 8,
+      "average_speed": 2.92,
+      "average_grade_adjusted_speed": 2.92,
+      "average_heartrate": 155.26979472140764,
+      "pace_zone": 1
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 427,
+      "elevation_difference": 3.2,
+      "moving_time": 339,
+      "split": 9,
+      "average_speed": 2.95,
+      "average_grade_adjusted_speed": 2.97,
+      "average_heartrate": 157.58928571428572,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 596,
+      "elevation_difference": 6.7,
+      "moving_time": 375,
+      "split": 10,
+      "average_speed": 2.67,
+      "average_grade_adjusted_speed": 2.73,
+      "average_heartrate": 150.89583333333334,
+      "pace_zone": 1
+    },
+    {
+      "distance": 361.1,
+      "elapsed_time": 355,
+      "elevation_difference": 0.6,
+      "moving_time": 224,
+      "split": 11,
+      "average_speed": 1.61,
+      "average_grade_adjusted_speed": 1.62,
+      "average_heartrate": 100.11678832116789,
+      "pace_zone": 1
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1610.7,
+      "elapsed_time": 663,
+      "elevation_difference": -8.3,
+      "moving_time": 565,
+      "split": 1,
+      "average_speed": 2.85,
+      "average_grade_adjusted_speed": 2.83,
+      "average_heartrate": 132.7366482504604,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 540,
+      "elevation_difference": 2.7,
+      "moving_time": 540,
+      "split": 2,
+      "average_speed": 2.98,
+      "average_grade_adjusted_speed": 2.99,
+      "average_heartrate": 153.203738317757,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1611.0,
+      "elapsed_time": 552,
+      "elevation_difference": -3.7,
+      "moving_time": 552,
+      "split": 3,
+      "average_speed": 2.92,
+      "average_grade_adjusted_speed": 2.91,
+      "average_heartrate": 153.7959927140255,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1607.7,
+      "elapsed_time": 571,
+      "elevation_difference": 5.6,
+      "moving_time": 558,
+      "split": 4,
+      "average_speed": 2.88,
+      "average_grade_adjusted_speed": 2.92,
+      "average_heartrate": 154.60971223021582,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1612.0,
+      "elapsed_time": 552,
+      "elevation_difference": -5.0,
+      "moving_time": 552,
+      "split": 5,
+      "average_speed": 2.92,
+      "average_grade_adjusted_speed": 2.9,
+      "average_heartrate": 154.4335154826958,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 642,
+      "elevation_difference": 9.7,
+      "moving_time": 554,
+      "split": 6,
+      "average_speed": 2.9,
+      "average_grade_adjusted_speed": 2.95,
+      "average_heartrate": 156.45454545454547,
+      "pace_zone": 1
+    },
+    {
+      "distance": 705.8,
+      "elapsed_time": 721,
+      "elevation_difference": 0.6,
+      "moving_time": 369,
+      "split": 7,
+      "average_speed": 1.91,
+      "average_grade_adjusted_speed": 1.92,
+      "average_heartrate": 118.64344262295081,
+      "pace_zone": 1
+    }
+  ],
+  "laps": [
+    {
+      "id": 54848975748,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 4550,
+      "moving_time": 3692,
+      "start_date": "2025-08-10T13:04:16Z",
+      "start_date_local": "2025-08-10T09:04:16Z",
+      "distance": 10363.5,
+      "average_speed": 2.81,
+      "max_speed": 4.86,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 3699,
+      "total_elevation_gain": 26.0,
+      "device_watts": false,
+      "average_heartrate": 148.7,
+      "max_heartrate": 165.0,
+      "pace_zone": 1
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 64613106168,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 127,
+      "moving_time": 127,
+      "start_date": "2025-08-10T13:04:16Z",
+      "start_date_local": "2025-08-10T09:04:16Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 526,
+      "end_index": 653
+    },
+    {
+      "id": 64613106169,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 263,
+      "moving_time": 263,
+      "start_date": "2025-08-10T13:04:16Z",
+      "start_date_local": "2025-08-10T09:04:16Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 390,
+      "end_index": 653
+    },
+    {
+      "id": 64613106170,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 329,
+      "moving_time": 329,
+      "start_date": "2025-08-10T13:04:16Z",
+      "start_date_local": "2025-08-10T09:04:16Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 353,
+      "end_index": 682
+    },
+    {
+      "id": 64613106164,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 534,
+      "moving_time": 534,
+      "start_date": "2025-08-10T13:04:16Z",
+      "start_date_local": "2025-08-10T09:04:16Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 371,
+      "end_index": 905
+    },
+    {
+      "id": 64613106165,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 1086,
+      "moving_time": 1086,
+      "start_date": "2025-08-10T13:04:16Z",
+      "start_date_local": "2025-08-10T09:04:16Z",
+      "distance": 3219,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 370,
+      "end_index": 1456
+    },
+    {
+      "id": 64613106166,
+      "resource_state": 2,
+      "name": "5K",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 1717,
+      "moving_time": 1717,
+      "start_date": "2025-08-10T13:04:16Z",
+      "start_date_local": "2025-08-10T09:04:16Z",
+      "distance": 5000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 353,
+      "end_index": 2058
+    },
+    {
+      "id": 64613106167,
+      "resource_state": 2,
+      "name": "10K",
+      "activity": {
+        "id": 15411258341,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 3874,
+      "moving_time": 3874,
+      "start_date": "2025-08-10T13:04:16Z",
+      "start_date_local": "2025-08-10T09:04:16Z",
+      "distance": 10000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 6,
+      "end_index": 3478
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "19ff7d2d4802ffd73a4db9ca253b92411d9638da",
+  "similar_activities": {
+    "effort_count": 1,
+    "average_speed": 2.8070151679306607,
+    "min_average_speed": 2.8070151679306607,
+    "mid_average_speed": 2.8070151679306607,
+    "max_average_speed": 2.8070151679306607,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        2.8070151679306607
+      ],
+      "current_activity_index": 0,
+      "min_speed": 2.8070151679306607,
+      "mid_speed": 2.8070151679306607,
+      "max_speed": 2.8070151679306607,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "heartrate",
+    "pace"
+  ]
+}

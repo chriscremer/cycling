@@ -1,0 +1,3373 @@
+{
+  "segments": {
+    "https://www.strava.com/segments/806459": {
+      "name": "Beechwood Drive",
+      "url": "https://www.strava.com/segments/806459",
+      "compare_url": "https://www.strava.com/segments/806459/compare/MzQ4MDY0NDQ3NzU5MDY5ODAwNiwyNzQzMTU1ODc2ODA4NjkyMDMw",
+      "updated_at": "2026-05-29T16:13:11",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "Jeff is a Banana",
+          "date": "Friday, May 29, 2026",
+          "time": "1:12",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-29T16:13:11"
+        },
+        {
+          "rank": "1",
+          "name": "Chris Cremer",
+          "date": "Thursday, April 23, 2026",
+          "time": "1:13",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "174 bpm",
+          "cached_at": "2026-04-24T17:14:31"
+        },
+        {
+          "rank": "3",
+          "name": "Selva Yoga",
+          "date": "Saturday, September 25, 2021",
+          "time": "1:59",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "150 bpm",
+          "cached_at": "2026-04-24T17:14:31"
+        },
+        {
+          "rank": "4",
+          "name": "Max Nie",
+          "date": "Thursday, September 10, 2020",
+          "time": "2:34",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "159 bpm",
+          "cached_at": "2026-04-24T17:14:31"
+        },
+        {
+          "rank": "5",
+          "name": "Nicole Fan",
+          "date": "Monday, May 18, 2026",
+          "time": "3:40",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "161 bpm",
+          "cached_at": "2026-05-29T16:13:11"
+        },
+        {
+          "rank": "5",
+          "name": "Heidi M",
+          "date": "Sunday, June 5, 2022",
+          "time": "3:47",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:14:31"
+        }
+      ],
+      "distance_m": 510.0,
+      "elevation_gain_m": 35.0,
+      "average_grade_pct": 6.8,
+      "elevation_low_m": 72.0,
+      "elevation_high_m": 107.0,
+      "elevation_difference_m": 35.0,
+      "time_history": {
+        "chris cremer": [
+          {
+            "rank": "1",
+            "name": "Chris Cremer",
+            "date": "Thursday, April 23, 2026",
+            "time": "1:13",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "174 bpm",
+            "cached_at": "2026-04-24T17:14:31"
+          },
+          {
+            "rank": "1",
+            "name": "Chris Cremer",
+            "date": "Saturday, April 11, 2026",
+            "time": "1:42",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18071298729",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:19:20"
+          },
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Saturday, April 18, 2026",
+            "time": "1:26",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18162114402",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T19:19:20"
+          },
+          {
+            "rank": "7",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 5, 2025",
+            "time": "1:44",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15018692049",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:21:46"
+          },
+          {
+            "rank": "1",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 5, 2025",
+            "time": "1:56",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15018692049",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:21:46"
+          },
+          {
+            "rank": "6",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 5, 2025",
+            "time": "1:59",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15018692049",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:21:46"
+          },
+          {
+            "rank": "5",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 5, 2025",
+            "time": "2:01",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15018692049",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:21:46"
+          },
+          {
+            "rank": "4",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 5, 2025",
+            "time": "2:02",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15018692049",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:21:46"
+          },
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 5, 2025",
+            "time": "2:07",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15018692049",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:21:46"
+          },
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 5, 2025",
+            "time": "2:13",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15018692049",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:21:46"
+          }
+        ],
+        "heidi m": [
+          {
+            "rank": "5",
+            "name": "Heidi M",
+            "date": "Sunday, June 5, 2022",
+            "time": "3:47",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:14:31"
+          }
+        ],
+        "jeff is a banana": [
+          {
+            "rank": "2",
+            "name": "Jeff is a Banana",
+            "date": "Friday, July 27, 2018",
+            "time": "1:21",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:14:31"
+          },
+          {
+            "rank": "1",
+            "name": "Jeff is a Banana",
+            "date": "Friday, May 29, 2026",
+            "time": "1:12",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-29T16:13:11"
+          }
+        ],
+        "max nie": [
+          {
+            "rank": "4",
+            "name": "Max Nie",
+            "date": "Thursday, September 10, 2020",
+            "time": "2:34",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "159 bpm",
+            "cached_at": "2026-04-24T17:14:31"
+          }
+        ],
+        "nicole fan": [
+          {
+            "rank": "6",
+            "name": "Nicole Fan",
+            "date": "Saturday, April 11, 2026",
+            "time": "6:21",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "141 bpm",
+            "cached_at": "2026-04-24T17:14:31"
+          },
+          {
+            "rank": "5",
+            "name": "Nicole Fan",
+            "date": "Monday, May 18, 2026",
+            "time": "3:40",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "161 bpm",
+            "cached_at": "2026-05-29T16:13:11"
+          }
+        ],
+        "selva yoga": [
+          {
+            "rank": "3",
+            "name": "Selva Yoga",
+            "date": "Saturday, September 25, 2021",
+            "time": "1:59",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "150 bpm",
+            "cached_at": "2026-04-24T17:14:31"
+          }
+        ]
+      }
+    },
+    "https://www.strava.com/segments/17322995": {
+      "name": "Redway (Official)",
+      "url": "https://www.strava.com/segments/17322995",
+      "compare_url": "https://www.strava.com/segments/17322995/compare/MzQ4MDY0NDQ3NzU5MDkyNDMxMCwzMjM0NjI4NzMxNTMwNjQzMjcy",
+      "updated_at": "2026-05-29T16:13:21",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "Chris Cremer",
+          "date": "Saturday, April 18, 2026",
+          "time": "1:06",
+          "speed": "-",
+          "power": "532 W",
+          "heart_rate": "177 bpm",
+          "cached_at": "2026-04-24T17:14:39"
+        },
+        {
+          "rank": "2",
+          "name": "Jeff is a Banana",
+          "date": "Wednesday, August 29, 2018",
+          "time": "1:23",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:14:39"
+        },
+        {
+          "rank": "3",
+          "name": "Matt Chen",
+          "date": "Sunday, September 8, 2024",
+          "time": "1:34",
+          "speed": "-",
+          "power": "396 W",
+          "heart_rate": "164 bpm",
+          "cached_at": "2026-04-24T17:14:39"
+        },
+        {
+          "rank": "4",
+          "name": "Selva Yoga",
+          "date": "Tuesday, August 18, 2020",
+          "time": "1:35",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "136 bpm",
+          "cached_at": "2026-04-24T17:14:39"
+        }
+      ],
+      "distance_m": 300.0,
+      "elevation_gain_m": 40.0,
+      "average_grade_pct": 13.1,
+      "elevation_low_m": 63.0,
+      "elevation_high_m": 103.0,
+      "elevation_difference_m": 40.0,
+      "time_history": {
+        "chris cremer": [
+          {
+            "rank": "1",
+            "name": "Chris Cremer",
+            "date": "Saturday, April 18, 2026",
+            "time": "1:06",
+            "speed": "-",
+            "power": "532 W",
+            "heart_rate": "177 bpm",
+            "cached_at": "2026-04-24T17:14:39"
+          },
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Saturday, April 11, 2026",
+            "time": "1:25",
+            "speed": "-",
+            "power": "437 W",
+            "heart_rate": "164 bpm",
+            "cached_at": "2026-05-10T19:19:34"
+          },
+          {
+            "rank": "10",
+            "name": "Chris Cremer",
+            "date": "Saturday, April 11, 2026",
+            "time": "1:36",
+            "speed": "-",
+            "power": "381 W",
+            "heart_rate": "157 bpm",
+            "cached_at": "2026-05-10T19:19:34"
+          },
+          {
+            "rank": "19",
+            "name": "Chris Cremer",
+            "date": "Saturday, April 18, 2026",
+            "time": "1:43",
+            "speed": "-",
+            "power": "360 W",
+            "heart_rate": "164 bpm",
+            "cached_at": "2026-05-10T19:19:34"
+          },
+          {
+            "rank": "11",
+            "name": "Chris Cremer",
+            "date": "Friday, May 24, 2019",
+            "time": "1:38",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "138 bpm",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Friday, May 31, 2019",
+            "time": "1:27",
+            "speed": "-",
+            "power": "364 W",
+            "heart_rate": "126 bpm",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "16",
+            "name": "Chris Cremer",
+            "date": "Friday, May 31, 2019",
+            "time": "1:42",
+            "speed": "-",
+            "power": "295 W",
+            "heart_rate": "148 bpm",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "13",
+            "name": "Chris Cremer",
+            "date": "Monday, May 22, 2023",
+            "time": "1:38",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "163 bpm",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "21",
+            "name": "Chris Cremer",
+            "date": "Monday, May 22, 2023",
+            "time": "1:47",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "155 bpm",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "22",
+            "name": "Chris Cremer",
+            "date": "Monday, May 22, 2023",
+            "time": "1:48",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "159 bpm",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "6",
+            "name": "Chris Cremer",
+            "date": "Saturday, April 11, 2020",
+            "time": "1:33",
+            "speed": "-",
+            "power": "370 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "12",
+            "name": "Chris Cremer",
+            "date": "Saturday, April 3, 2021",
+            "time": "1:38",
+            "speed": "-",
+            "power": "317 W",
+            "heart_rate": "161 bpm",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "5",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 5, 2025",
+            "time": "1:30",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "25",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 5, 2025",
+            "time": "1:49",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 5, 2025",
+            "time": "2:05",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15018692049",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "4",
+            "name": "Chris Cremer",
+            "date": "Saturday, October 17, 2020",
+            "time": "1:27",
+            "speed": "-",
+            "power": "373 W",
+            "heart_rate": "161 bpm",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "18",
+            "name": "Chris Cremer",
+            "date": "Sunday, April 12, 2020",
+            "time": "1:43",
+            "speed": "-",
+            "power": "336 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "7",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "1:35",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "161 bpm",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "17",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "1:42",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "163 bpm",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "23",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "1:48",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "165 bpm",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "12",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "1:49",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15103739274",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "10",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "1:53",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15103739274",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "9",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "1:54",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15103739274",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "6",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "1:55",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15103739274",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "7",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "1:56",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15103739274",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "11",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "1:57",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15103739274",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "9",
+            "name": "Chris Cremer",
+            "date": "Sunday, November 8, 2020",
+            "time": "1:36",
+            "speed": "-",
+            "power": "329 W",
+            "heart_rate": "175 bpm",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "20",
+            "name": "Chris Cremer",
+            "date": "Sunday, November 8, 2020",
+            "time": "1:47",
+            "speed": "-",
+            "power": "294 W",
+            "heart_rate": "164 bpm",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "24",
+            "name": "Chris Cremer",
+            "date": "Sunday, November 8, 2020",
+            "time": "1:49",
+            "speed": "-",
+            "power": "287 W",
+            "heart_rate": "160 bpm",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "8",
+            "name": "Chris Cremer",
+            "date": "Thursday, April 23, 2020",
+            "time": "1:36",
+            "speed": "-",
+            "power": "327 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:27"
+          },
+          {
+            "rank": "14",
+            "name": "Chris Cremer",
+            "date": "Thursday, May 30, 2019",
+            "time": "1:41",
+            "speed": "-",
+            "power": "293 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:27"
+          }
+        ],
+        "jeff is a banana": [
+          {
+            "rank": "2",
+            "name": "Jeff is a Banana",
+            "date": "Wednesday, August 29, 2018",
+            "time": "1:23",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:14:39"
+          }
+        ],
+        "matt chen": [
+          {
+            "rank": "3",
+            "name": "Matt Chen",
+            "date": "Sunday, September 8, 2024",
+            "time": "1:34",
+            "speed": "-",
+            "power": "396 W",
+            "heart_rate": "164 bpm",
+            "cached_at": "2026-04-24T17:14:39"
+          }
+        ],
+        "selva yoga": [
+          {
+            "rank": "4",
+            "name": "Selva Yoga",
+            "date": "Tuesday, August 18, 2020",
+            "time": "1:35",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "136 bpm",
+            "cached_at": "2026-04-24T17:14:39"
+          }
+        ]
+      }
+    },
+    "https://www.strava.com/segments/7394805": {
+      "name": "Thorncliffe Park Drive climb",
+      "url": "https://www.strava.com/segments/7394805",
+      "compare_url": "https://www.strava.com/segments/7394805/compare/MzQ4MDY0NDQ3NzU4Mzc3MTY3MCwxNjAyMTk5NTA1Nw==",
+      "updated_at": "2026-05-29T16:13:31",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "Jeremy Hatt",
+          "date": "Thursday, September 10, 2015",
+          "time": "33s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "145 bpm",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "1",
+          "name": "Mike E",
+          "date": "Saturday, August 8, 2015",
+          "time": "33s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "3",
+          "name": "Ross Neilson",
+          "date": "Saturday, October 5, 2024",
+          "time": "35s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "4",
+          "name": "Mitch Kellar | \u00c9TAPE 22",
+          "date": "Tuesday, August 23, 2022",
+          "time": "36s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "4",
+          "name": "Tom Zielinski",
+          "date": "Monday, July 3, 2023",
+          "time": "36s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "91 bpm",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "6",
+          "name": "Adam Smith",
+          "date": "Saturday, May 27, 2023",
+          "time": "37s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "6",
+          "name": "Daniel Yang // BEACHES CC // WINSPACE // SPN",
+          "date": "Sunday, September 1, 2024",
+          "time": "37s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "6",
+          "name": "Filip Funk",
+          "date": "Saturday, July 15, 2017",
+          "time": "37s",
+          "speed": "-",
+          "power": "593 W",
+          "heart_rate": "185 bpm",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "6",
+          "name": "Tim Marshall",
+          "date": "Saturday, July 26, 2014",
+          "time": "37s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "156 bpm",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "10",
+          "name": "Giuseppe Franz\u00e9",
+          "date": "Thursday, May 9, 2024",
+          "time": "38s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "10",
+          "name": "Jim Sears | Bateman's Bike Co",
+          "date": "Saturday, September 17, 2022",
+          "time": "38s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "12",
+          "name": "Nick Boers",
+          "date": "Thursday, June 21, 2012",
+          "time": "39s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "13",
+          "name": "Betto Alarcon",
+          "date": "Sunday, June 29, 2025",
+          "time": "40s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "13",
+          "name": "Dj a",
+          "date": "Sunday, May 16, 2021",
+          "time": "40s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "13",
+          "name": "Ethan Cameron",
+          "date": "Monday, July 14, 2025",
+          "time": "40s",
+          "speed": "-",
+          "power": "885 W",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "13",
+          "name": "Noah Ramsay",
+          "date": "Thursday, October 19, 2023",
+          "time": "40s",
+          "speed": "-",
+          "power": "641 W",
+          "heart_rate": "181 bpm",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "13",
+          "name": "Paul McKeever",
+          "date": "Monday, October 13, 2014",
+          "time": "40s",
+          "speed": "-",
+          "power": "641 W",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "13",
+          "name": "Ron Migs",
+          "date": "Saturday, September 4, 2021",
+          "time": "40s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "19",
+          "name": "Atkinns To",
+          "date": "Tuesday, September 19, 2017",
+          "time": "41s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "168 bpm",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "19",
+          "name": "Eddie Gardner",
+          "date": "Wednesday, July 14, 2021",
+          "time": "41s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "19",
+          "name": "Francis Rubio",
+          "date": "Saturday, August 23, 2025",
+          "time": "41s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "19",
+          "name": "Luca Fanelli",
+          "date": "Friday, August 30, 2024",
+          "time": "41s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "19",
+          "name": "Michael Kelusky",
+          "date": "Saturday, June 3, 2023",
+          "time": "41s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "109 bpm",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "19",
+          "name": "Peter Roche",
+          "date": "Wednesday, October 4, 2023",
+          "time": "41s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "72 bpm",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "19",
+          "name": "Renfel Solinap",
+          "date": "Saturday, August 23, 2025",
+          "time": "41s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-10T18:57:17"
+        },
+        {
+          "rank": "1",
+          "name": "Jeff is a Banana",
+          "date": "Friday, May 29, 2026",
+          "time": "48s",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-29T16:13:31"
+        },
+        {
+          "rank": "1",
+          "name": "Chris Cremer",
+          "date": "Saturday, April 18, 2026",
+          "time": "49s",
+          "speed": "-",
+          "power": "502 W",
+          "heart_rate": "179 bpm",
+          "cached_at": "2026-04-24T17:14:48"
+        },
+        {
+          "rank": "3",
+          "name": "Simon Grant",
+          "date": "Friday, June 18, 2021",
+          "time": "1:10",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:14:48"
+        },
+        {
+          "rank": "4",
+          "name": "David Platt",
+          "date": "Sunday, November 8, 2020",
+          "time": "1:25",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "188 bpm",
+          "cached_at": "2026-04-24T17:14:48"
+        },
+        {
+          "rank": "5",
+          "name": "Lauren Deel",
+          "date": "Wednesday, May 12, 2021",
+          "time": "1:27",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "175 bpm",
+          "cached_at": "2026-04-24T17:14:48"
+        },
+        {
+          "rank": "6",
+          "name": "Selva Yoga",
+          "date": "Tuesday, August 18, 2020",
+          "time": "1:37",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "102 bpm",
+          "cached_at": "2026-04-24T17:14:48"
+        },
+        {
+          "rank": "7",
+          "name": "Daivik Doshi",
+          "date": "Sunday, June 23, 2019",
+          "time": "1:47",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:14:48"
+        },
+        {
+          "rank": "8",
+          "name": "Heidi M",
+          "date": "Sunday, June 5, 2022",
+          "time": "2:03",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:14:48"
+        },
+        {
+          "rank": "9",
+          "name": "Ahmad Shah",
+          "date": "Wednesday, July 28, 2021",
+          "time": "2:53",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:14:48"
+        }
+      ],
+      "distance_m": 310.0,
+      "elevation_gain_m": 25.0,
+      "average_grade_pct": 8.1,
+      "elevation_low_m": 93.0,
+      "elevation_high_m": 118.0,
+      "elevation_difference_m": 25.0,
+      "time_history": {
+        "adam smith": [
+          {
+            "rank": "6",
+            "name": "Adam Smith",
+            "date": "Saturday, May 27, 2023",
+            "time": "37s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "ahmad shah": [
+          {
+            "rank": "9",
+            "name": "Ahmad Shah",
+            "date": "Wednesday, July 28, 2021",
+            "time": "2:53",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:14:48"
+          }
+        ],
+        "atkinns to": [
+          {
+            "rank": "19",
+            "name": "Atkinns To",
+            "date": "Tuesday, September 19, 2017",
+            "time": "41s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "168 bpm",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "betto alarcon": [
+          {
+            "rank": "13",
+            "name": "Betto Alarcon",
+            "date": "Sunday, June 29, 2025",
+            "time": "40s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "chris cremer": [
+          {
+            "rank": "1",
+            "name": "Chris Cremer",
+            "date": "Saturday, April 18, 2026",
+            "time": "49s",
+            "speed": "-",
+            "power": "502 W",
+            "heart_rate": "179 bpm",
+            "cached_at": "2026-04-24T17:14:48"
+          },
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Monday, September 1, 2025",
+            "time": "57s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "15",
+            "name": "Chris Cremer",
+            "date": "Monday, September 21, 2020",
+            "time": "1:32",
+            "speed": "-",
+            "power": "222 W",
+            "heart_rate": "169 bpm",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "22",
+            "name": "Chris Cremer",
+            "date": "Monday, September 21, 2020",
+            "time": "1:35",
+            "speed": "-",
+            "power": "227 W",
+            "heart_rate": "179 bpm",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "17",
+            "name": "Chris Cremer",
+            "date": "Saturday, April 11, 2020",
+            "time": "1:33",
+            "speed": "-",
+            "power": "247 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Saturday, May 30, 2020",
+            "time": "1:15",
+            "speed": "-",
+            "power": "304 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "6",
+            "name": "Chris Cremer",
+            "date": "Saturday, May 30, 2020",
+            "time": "1:22",
+            "speed": "-",
+            "power": "320 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "7",
+            "name": "Chris Cremer",
+            "date": "Saturday, May 30, 2020",
+            "time": "1:23",
+            "speed": "-",
+            "power": "264 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "10",
+            "name": "Chris Cremer",
+            "date": "Saturday, May 30, 2020",
+            "time": "1:31",
+            "speed": "-",
+            "power": "269 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "14",
+            "name": "Chris Cremer",
+            "date": "Saturday, May 30, 2020",
+            "time": "1:32",
+            "speed": "-",
+            "power": "245 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "19",
+            "name": "Chris Cremer",
+            "date": "Saturday, May 30, 2020",
+            "time": "1:34",
+            "speed": "-",
+            "power": "281 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "21",
+            "name": "Chris Cremer",
+            "date": "Saturday, May 30, 2020",
+            "time": "1:35",
+            "speed": "-",
+            "power": "251 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "18",
+            "name": "Chris Cremer",
+            "date": "Saturday, September 14, 2019",
+            "time": "1:34",
+            "speed": "-",
+            "power": "145 W",
+            "heart_rate": "135 bpm",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "8",
+            "name": "Chris Cremer",
+            "date": "Sunday, May 26, 2019",
+            "time": "1:29",
+            "speed": "-",
+            "power": "156 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "9",
+            "name": "Chris Cremer",
+            "date": "Sunday, May 26, 2019",
+            "time": "1:31",
+            "speed": "-",
+            "power": "157 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "5",
+            "name": "Chris Cremer",
+            "date": "Thursday, April 2, 2020",
+            "time": "1:21",
+            "speed": "-",
+            "power": "169 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "12",
+            "name": "Chris Cremer",
+            "date": "Thursday, April 2, 2020",
+            "time": "1:32",
+            "speed": "-",
+            "power": "154 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "16",
+            "name": "Chris Cremer",
+            "date": "Thursday, July 1, 2021",
+            "time": "1:32",
+            "speed": "-",
+            "power": "245 W",
+            "heart_rate": "174 bpm",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "25",
+            "name": "Chris Cremer",
+            "date": "Thursday, July 1, 2021",
+            "time": "1:37",
+            "speed": "-",
+            "power": "225 W",
+            "heart_rate": "173 bpm",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "4",
+            "name": "Chris Cremer",
+            "date": "Tuesday, April 14, 2020",
+            "time": "1:19",
+            "speed": "-",
+            "power": "269 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "13",
+            "name": "Chris Cremer",
+            "date": "Tuesday, April 14, 2020",
+            "time": "1:32",
+            "speed": "-",
+            "power": "234 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:53"
+          },
+          {
+            "rank": "23",
+            "name": "Chris Cremer",
+            "date": "Tuesday, April 14, 2020",
+            "time": "1:37",
+            "speed": "-",
+            "power": "219 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:22:53"
+          }
+        ],
+        "daivik doshi": [
+          {
+            "rank": "7",
+            "name": "Daivik Doshi",
+            "date": "Sunday, June 23, 2019",
+            "time": "1:47",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:14:48"
+          }
+        ],
+        "daniel yang // beaches cc // winspace // spn": [
+          {
+            "rank": "6",
+            "name": "Daniel Yang // BEACHES CC // WINSPACE // SPN",
+            "date": "Sunday, September 1, 2024",
+            "time": "37s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "david platt": [
+          {
+            "rank": "4",
+            "name": "David Platt",
+            "date": "Sunday, November 8, 2020",
+            "time": "1:25",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "188 bpm",
+            "cached_at": "2026-04-24T17:14:48"
+          }
+        ],
+        "dj a": [
+          {
+            "rank": "13",
+            "name": "Dj a",
+            "date": "Sunday, May 16, 2021",
+            "time": "40s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "eddie gardner": [
+          {
+            "rank": "19",
+            "name": "Eddie Gardner",
+            "date": "Wednesday, July 14, 2021",
+            "time": "41s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "ethan cameron": [
+          {
+            "rank": "13",
+            "name": "Ethan Cameron",
+            "date": "Monday, July 14, 2025",
+            "time": "40s",
+            "speed": "-",
+            "power": "885 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "filip funk": [
+          {
+            "rank": "6",
+            "name": "Filip Funk",
+            "date": "Saturday, July 15, 2017",
+            "time": "37s",
+            "speed": "-",
+            "power": "593 W",
+            "heart_rate": "185 bpm",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "francis rubio": [
+          {
+            "rank": "19",
+            "name": "Francis Rubio",
+            "date": "Saturday, August 23, 2025",
+            "time": "41s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "giuseppe franz\u00e9": [
+          {
+            "rank": "10",
+            "name": "Giuseppe Franz\u00e9",
+            "date": "Thursday, May 9, 2024",
+            "time": "38s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "heidi m": [
+          {
+            "rank": "8",
+            "name": "Heidi M",
+            "date": "Sunday, June 5, 2022",
+            "time": "2:03",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:14:48"
+          }
+        ],
+        "jeff is a banana": [
+          {
+            "rank": "2",
+            "name": "Jeff is a Banana",
+            "date": "Sunday, May 28, 2023",
+            "time": "53s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "162 bpm",
+            "cached_at": "2026-04-24T17:14:48"
+          },
+          {
+            "rank": "1",
+            "name": "Jeff is a Banana",
+            "date": "Friday, May 29, 2026",
+            "time": "48s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-29T16:13:31"
+          }
+        ],
+        "jeremy hatt": [
+          {
+            "rank": "1",
+            "name": "Jeremy Hatt",
+            "date": "Thursday, September 10, 2015",
+            "time": "33s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "145 bpm",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "jim sears | bateman's bike co": [
+          {
+            "rank": "10",
+            "name": "Jim Sears | Bateman's Bike Co",
+            "date": "Saturday, September 17, 2022",
+            "time": "38s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "lauren deel": [
+          {
+            "rank": "5",
+            "name": "Lauren Deel",
+            "date": "Wednesday, May 12, 2021",
+            "time": "1:27",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "175 bpm",
+            "cached_at": "2026-04-24T17:14:48"
+          }
+        ],
+        "luca fanelli": [
+          {
+            "rank": "19",
+            "name": "Luca Fanelli",
+            "date": "Friday, August 30, 2024",
+            "time": "41s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "michael kelusky": [
+          {
+            "rank": "19",
+            "name": "Michael Kelusky",
+            "date": "Saturday, June 3, 2023",
+            "time": "41s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "109 bpm",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "mike e": [
+          {
+            "rank": "1",
+            "name": "Mike E",
+            "date": "Saturday, August 8, 2015",
+            "time": "33s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "mitch kellar | \u00e9tape 22": [
+          {
+            "rank": "4",
+            "name": "Mitch Kellar | \u00c9TAPE 22",
+            "date": "Tuesday, August 23, 2022",
+            "time": "36s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "nick boers": [
+          {
+            "rank": "12",
+            "name": "Nick Boers",
+            "date": "Thursday, June 21, 2012",
+            "time": "39s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "noah ramsay": [
+          {
+            "rank": "13",
+            "name": "Noah Ramsay",
+            "date": "Thursday, October 19, 2023",
+            "time": "40s",
+            "speed": "-",
+            "power": "641 W",
+            "heart_rate": "181 bpm",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "paul mckeever": [
+          {
+            "rank": "13",
+            "name": "Paul McKeever",
+            "date": "Monday, October 13, 2014",
+            "time": "40s",
+            "speed": "-",
+            "power": "641 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "peter roche": [
+          {
+            "rank": "19",
+            "name": "Peter Roche",
+            "date": "Wednesday, October 4, 2023",
+            "time": "41s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "72 bpm",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "renfel solinap": [
+          {
+            "rank": "19",
+            "name": "Renfel Solinap",
+            "date": "Saturday, August 23, 2025",
+            "time": "41s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "ron migs": [
+          {
+            "rank": "13",
+            "name": "Ron Migs",
+            "date": "Saturday, September 4, 2021",
+            "time": "40s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "ross neilson": [
+          {
+            "rank": "3",
+            "name": "Ross Neilson",
+            "date": "Saturday, October 5, 2024",
+            "time": "35s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "selva yoga": [
+          {
+            "rank": "6",
+            "name": "Selva Yoga",
+            "date": "Tuesday, August 18, 2020",
+            "time": "1:37",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "102 bpm",
+            "cached_at": "2026-04-24T17:14:48"
+          }
+        ],
+        "simon grant": [
+          {
+            "rank": "3",
+            "name": "Simon Grant",
+            "date": "Friday, June 18, 2021",
+            "time": "1:10",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:14:48"
+          }
+        ],
+        "tim marshall": [
+          {
+            "rank": "6",
+            "name": "Tim Marshall",
+            "date": "Saturday, July 26, 2014",
+            "time": "37s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "156 bpm",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ],
+        "tom zielinski": [
+          {
+            "rank": "4",
+            "name": "Tom Zielinski",
+            "date": "Monday, July 3, 2023",
+            "time": "36s",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "91 bpm",
+            "cached_at": "2026-05-10T18:57:17"
+          }
+        ]
+      }
+    },
+    "https://www.strava.com/segments/740423": {
+      "name": "Sunnybrook to hospital",
+      "url": "https://www.strava.com/segments/740423",
+      "compare_url": "https://www.strava.com/segments/740423/compare/MjgyNTE0NDk0NzgzOTQ2MjM2OCwyNzQzMjU5NjAyNjczNDUyNTI2",
+      "updated_at": "2026-05-29T16:13:50",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "David Platt",
+          "date": "Wednesday, August 26, 2020",
+          "time": "1:01",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "192 bpm",
+          "cached_at": "2026-04-24T17:14:56"
+        },
+        {
+          "rank": "2",
+          "name": "Jeff is a Banana",
+          "date": "Wednesday, May 27, 2026",
+          "time": "1:09",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-27T08:24:04"
+        },
+        {
+          "rank": "2",
+          "name": "Chris Cremer",
+          "date": "Sunday, May 10, 2026",
+          "time": "1:11",
+          "speed": "-",
+          "power": "490 W",
+          "heart_rate": "176 bpm",
+          "cached_at": "2026-05-10T18:57:21"
+        },
+        {
+          "rank": "4",
+          "name": "Simon Grant",
+          "date": "Friday, July 16, 2021",
+          "time": "1:50",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:14:56"
+        },
+        {
+          "rank": "5",
+          "name": "Lauren Deel",
+          "date": "Friday, May 14, 2021",
+          "time": "2:07",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "173 bpm",
+          "cached_at": "2026-04-24T17:14:56"
+        },
+        {
+          "rank": "6",
+          "name": "Madeleine H",
+          "date": "Wednesday, June 9, 2021",
+          "time": "2:10",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-16T20:06:39"
+        },
+        {
+          "rank": "6",
+          "name": "Heidi M",
+          "date": "Friday, July 15, 2022",
+          "time": "2:46",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:14:56"
+        }
+      ],
+      "distance_m": 610.0,
+      "elevation_gain_m": 25.0,
+      "average_grade_pct": 4.1,
+      "elevation_low_m": 90.0,
+      "elevation_high_m": 115.0,
+      "elevation_difference_m": 25.0,
+      "time_history": {
+        "chris cremer": [
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Saturday, May 2, 2026",
+            "time": "1:25",
+            "speed": "-",
+            "power": "404 W",
+            "heart_rate": "167 bpm",
+            "cached_at": "2026-05-02T16:21:07"
+          },
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Sunday, May 10, 2026",
+            "time": "1:11",
+            "speed": "-",
+            "power": "490 W",
+            "heart_rate": "176 bpm",
+            "cached_at": "2026-05-10T18:57:21"
+          },
+          {
+            "rank": "6",
+            "name": "Chris Cremer",
+            "date": "Saturday, April 18, 2026",
+            "time": "1:42",
+            "speed": "-",
+            "power": "309 W",
+            "heart_rate": "165 bpm",
+            "cached_at": "2026-05-10T19:20:05"
+          },
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Friday, July 3, 2020",
+            "time": "1:27",
+            "speed": "-",
+            "power": "328 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-10T19:23:07"
+          },
+          {
+            "rank": "4",
+            "name": "Chris Cremer",
+            "date": "Monday, September 21, 2020",
+            "time": "1:27",
+            "speed": "-",
+            "power": "349 W",
+            "heart_rate": "174 bpm",
+            "cached_at": "2026-05-10T19:23:07"
+          },
+          {
+            "rank": "7",
+            "name": "Chris Cremer",
+            "date": "Monday, September 21, 2020",
+            "time": "1:48",
+            "speed": "-",
+            "power": "250 W",
+            "heart_rate": "164 bpm",
+            "cached_at": "2026-05-10T19:23:07"
+          },
+          {
+            "rank": "8",
+            "name": "Chris Cremer",
+            "date": "Monday, September 21, 2020",
+            "time": "1:58",
+            "speed": "-",
+            "power": "223 W",
+            "heart_rate": "153 bpm",
+            "cached_at": "2026-05-10T19:23:07"
+          },
+          {
+            "rank": "9",
+            "name": "Chris Cremer",
+            "date": "Saturday, November 21, 2020",
+            "time": "25:00",
+            "speed": "-",
+            "power": "18 W",
+            "heart_rate": "120 bpm",
+            "cached_at": "2026-05-10T19:23:07"
+          },
+          {
+            "rank": "5",
+            "name": "Chris Cremer",
+            "date": "Thursday, July 1, 2021",
+            "time": "1:33",
+            "speed": "-",
+            "power": "307 W",
+            "heart_rate": "168 bpm",
+            "cached_at": "2026-05-10T19:23:07"
+          }
+        ],
+        "david platt": [
+          {
+            "rank": "1",
+            "name": "David Platt",
+            "date": "Wednesday, August 26, 2020",
+            "time": "1:01",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "192 bpm",
+            "cached_at": "2026-04-24T17:14:56"
+          }
+        ],
+        "heidi m": [
+          {
+            "rank": "6",
+            "name": "Heidi M",
+            "date": "Friday, July 15, 2022",
+            "time": "2:46",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:14:56"
+          }
+        ],
+        "jeff is a banana": [
+          {
+            "rank": "2",
+            "name": "Jeff is a Banana",
+            "date": "Friday, July 3, 2020",
+            "time": "1:20",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "161 bpm",
+            "cached_at": "2026-04-24T17:14:56"
+          },
+          {
+            "rank": "2",
+            "name": "Jeff is a Banana",
+            "date": "Wednesday, May 27, 2026",
+            "time": "1:09",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-27T08:24:04"
+          }
+        ],
+        "lauren deel": [
+          {
+            "rank": "5",
+            "name": "Lauren Deel",
+            "date": "Friday, May 14, 2021",
+            "time": "2:07",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "173 bpm",
+            "cached_at": "2026-04-24T17:14:56"
+          }
+        ],
+        "madeleine h": [
+          {
+            "rank": "6",
+            "name": "Madeleine H",
+            "date": "Wednesday, June 9, 2021",
+            "time": "2:10",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-16T20:06:39"
+          }
+        ],
+        "simon grant": [
+          {
+            "rank": "4",
+            "name": "Simon Grant",
+            "date": "Friday, July 16, 2021",
+            "time": "1:50",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:14:56"
+          }
+        ]
+      }
+    },
+    "https://www.strava.com/segments/1150663": {
+      "name": "Crestwood Hill - post parking lot climb only",
+      "url": "https://www.strava.com/segments/1150663",
+      "compare_url": "https://www.strava.com/segments/1150663/compare/MzM5NzY5MjU3NjM2MjU0MzYwOCwyNzMxNjI3ODU4OTg2Mjk2NTI4",
+      "updated_at": "2026-05-29T16:13:01",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "Jeff is a Banana",
+          "date": "Monday, September 1, 2025",
+          "time": "1:16",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "171 bpm",
+          "cached_at": "2026-04-24T17:15:04"
+        },
+        {
+          "rank": "2",
+          "name": "David Platt",
+          "date": "Tuesday, May 31, 2016",
+          "time": "1:18",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:04"
+        },
+        {
+          "rank": "3",
+          "name": "Chris Cremer",
+          "date": "Monday, September 1, 2025",
+          "time": "1:28",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:04"
+        },
+        {
+          "rank": "4",
+          "name": "Simon Grant",
+          "date": "Friday, July 16, 2021",
+          "time": "1:34",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:04"
+        },
+        {
+          "rank": "5",
+          "name": "Arwin Chan",
+          "date": "Thursday, June 6, 2019",
+          "time": "1:56",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:04"
+        },
+        {
+          "rank": "6",
+          "name": "Lauren Deel",
+          "date": "Saturday, October 2, 2021",
+          "time": "1:57",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "180 bpm",
+          "cached_at": "2026-04-24T17:15:04"
+        },
+        {
+          "rank": "7",
+          "name": "Heidi M",
+          "date": "Sunday, July 9, 2023",
+          "time": "3:56",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:04"
+        },
+        {
+          "rank": "8",
+          "name": "Ahmad Shah",
+          "date": "Saturday, July 31, 2021",
+          "time": "5:06",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:04"
+        }
+      ],
+      "distance_m": 440.0,
+      "elevation_gain_m": 39.0,
+      "average_grade_pct": 8.8,
+      "elevation_low_m": 108.0,
+      "elevation_high_m": 147.0,
+      "elevation_difference_m": 39.0,
+      "time_history": {
+        "ahmad shah": [
+          {
+            "rank": "8",
+            "name": "Ahmad Shah",
+            "date": "Saturday, July 31, 2021",
+            "time": "5:06",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:04"
+          }
+        ],
+        "arwin chan": [
+          {
+            "rank": "5",
+            "name": "Arwin Chan",
+            "date": "Thursday, June 6, 2019",
+            "time": "1:56",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:04"
+          }
+        ],
+        "chris cremer": [
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Monday, September 1, 2025",
+            "time": "1:28",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:04"
+          },
+          {
+            "rank": "6",
+            "name": "Chris Cremer",
+            "date": "Monday, September 1, 2025",
+            "time": "1:46",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15663768022",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:26"
+          },
+          {
+            "rank": "8",
+            "name": "Chris Cremer",
+            "date": "Monday, September 1, 2025",
+            "time": "1:48",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15663768022",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:26"
+          },
+          {
+            "rank": "7",
+            "name": "Chris Cremer",
+            "date": "Monday, September 1, 2025",
+            "time": "2:02",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15663768022",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:26"
+          },
+          {
+            "rank": "1",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 19, 2025",
+            "time": "1:38",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15168650043",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:26"
+          },
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 19, 2025",
+            "time": "1:45",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15168650043",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:26"
+          },
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 19, 2025",
+            "time": "2:10",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15168650043",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:26"
+          },
+          {
+            "rank": "4",
+            "name": "Chris Cremer",
+            "date": "Saturday, July 19, 2025",
+            "time": "2:13",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15168650043",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:26"
+          },
+          {
+            "rank": "9",
+            "name": "Chris Cremer",
+            "date": "Saturday, May 2, 2026",
+            "time": "1:29",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18351107061",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T18:57:26"
+          }
+        ],
+        "david platt": [
+          {
+            "rank": "2",
+            "name": "David Platt",
+            "date": "Tuesday, May 31, 2016",
+            "time": "1:18",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:04"
+          }
+        ],
+        "heidi m": [
+          {
+            "rank": "7",
+            "name": "Heidi M",
+            "date": "Sunday, July 9, 2023",
+            "time": "3:56",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:04"
+          }
+        ],
+        "jeff is a banana": [
+          {
+            "rank": "1",
+            "name": "Jeff is a Banana",
+            "date": "Monday, September 1, 2025",
+            "time": "1:16",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "171 bpm",
+            "cached_at": "2026-04-24T17:15:04"
+          }
+        ],
+        "lauren deel": [
+          {
+            "rank": "6",
+            "name": "Lauren Deel",
+            "date": "Saturday, October 2, 2021",
+            "time": "1:57",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "180 bpm",
+            "cached_at": "2026-04-24T17:15:04"
+          }
+        ],
+        "simon grant": [
+          {
+            "rank": "4",
+            "name": "Simon Grant",
+            "date": "Friday, July 16, 2021",
+            "time": "1:34",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:04"
+          }
+        ]
+      }
+    },
+    "https://www.strava.com/segments/7313636": {
+      "name": "Bridal Path Crazy 8",
+      "url": "https://www.strava.com/segments/7313636",
+      "compare_url": "https://www.strava.com/segments/7313636/compare/MzM5NzY5MjU3NjM2MTg3NTk2MCwzMTAwOTY1Mjk5MDAzNDc4NTYy",
+      "updated_at": "2026-05-29T16:12:32",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "Jeff is a Banana",
+          "date": "Thursday, August 22, 2024",
+          "time": "6:31",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "161 bpm",
+          "cached_at": "2026-04-24T17:15:12"
+        },
+        {
+          "rank": "2",
+          "name": "Chris Cremer",
+          "date": "Monday, September 1, 2025",
+          "time": "6:45",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:12"
+        },
+        {
+          "rank": "3",
+          "name": "Heidi M",
+          "date": "Saturday, July 19, 2025",
+          "time": "9:43",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:12"
+        }
+      ],
+      "distance_m": 3750.0,
+      "elevation_gain_m": 41.0,
+      "average_grade_pct": 0.1,
+      "elevation_low_m": 106.0,
+      "elevation_high_m": 128.0,
+      "elevation_difference_m": 22.0,
+      "time_history": {
+        "chris cremer": [
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Monday, September 1, 2025",
+            "time": "6:45",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:12"
+          }
+        ],
+        "heidi m": [
+          {
+            "rank": "3",
+            "name": "Heidi M",
+            "date": "Saturday, July 19, 2025",
+            "time": "9:43",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:12"
+          }
+        ],
+        "jeff is a banana": [
+          {
+            "rank": "1",
+            "name": "Jeff is a Banana",
+            "date": "Thursday, August 22, 2024",
+            "time": "6:31",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "161 bpm",
+            "cached_at": "2026-04-24T17:15:12"
+          }
+        ]
+      }
+    },
+    "https://www.strava.com/segments/8010711": {
+      "name": "Spit to Gravel South",
+      "url": "https://www.strava.com/segments/8010711",
+      "compare_url": "https://www.strava.com/segments/8010711/compare/MzE0NDA0OTA0OTk2NjEwMzkzOCwzMjU1MjM0Mjc2MDE1ODQxNzIw",
+      "updated_at": "2026-06-13T19:44:06",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "Jeff is a Banana",
+          "date": "Tuesday, September 14, 2021",
+          "time": "7:43",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "159 bpm",
+          "cached_at": "2026-04-24T17:15:21"
+        },
+        {
+          "rank": "2",
+          "name": "Chris Cremer",
+          "date": "Saturday, June 13, 2026",
+          "time": "8:38",
+          "speed": "-",
+          "power": "311 W",
+          "heart_rate": "171 bpm",
+          "cached_at": "2026-06-13T19:44:06"
+        },
+        {
+          "rank": "2",
+          "name": "Thien Luyt",
+          "date": "Thursday, June 23, 2022",
+          "time": "8:47",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:21"
+        },
+        {
+          "rank": "3",
+          "name": "Max Nie",
+          "date": "Tuesday, July 4, 2023",
+          "time": "9:27",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "173 bpm",
+          "cached_at": "2026-04-24T17:15:21"
+        },
+        {
+          "rank": "5",
+          "name": "James Sinclair",
+          "date": "Friday, April 2, 2021",
+          "time": "10:15",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:21"
+        },
+        {
+          "rank": "6",
+          "name": "Matthew Bianca",
+          "date": "Thursday, May 15, 2025",
+          "time": "10:25",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "123 bpm",
+          "cached_at": "2026-04-24T17:15:21"
+        },
+        {
+          "rank": "7",
+          "name": "koulie athens-hunsberger",
+          "date": "Sunday, April 12, 2026",
+          "time": "10:45",
+          "speed": "-",
+          "power": "137 W",
+          "heart_rate": "136 bpm",
+          "cached_at": "2026-04-24T17:15:21"
+        },
+        {
+          "rank": "8",
+          "name": "Heidi M",
+          "date": "Sunday, May 26, 2024",
+          "time": "11:14",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:21"
+        },
+        {
+          "rank": "9",
+          "name": "Selva Yoga",
+          "date": "Sunday, June 23, 2019",
+          "time": "35:43",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "86 bpm",
+          "cached_at": "2026-04-24T17:15:21"
+        }
+      ],
+      "distance_m": 4710.0,
+      "elevation_gain_m": 0.0,
+      "average_grade_pct": 0.0,
+      "elevation_low_m": 55.0,
+      "elevation_high_m": 55.0,
+      "elevation_difference_m": 0.0,
+      "time_history": {
+        "chris cremer": [
+          {
+            "rank": "4",
+            "name": "Chris Cremer",
+            "date": "Sunday, August 4, 2024",
+            "time": "9:35",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:21"
+          },
+          {
+            "rank": "1",
+            "name": "Chris Cremer",
+            "date": "Sunday, August 24, 2025",
+            "time": "10:12",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15576195080",
+            "source_activity_name": "Evening Ride",
+            "cached_at": "2026-05-10T18:57:01"
+          },
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Sunday, September 14, 2025",
+            "time": "12:42",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15814877985",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T18:57:01"
+          },
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Monday, May 25, 2026",
+            "time": "28:34",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18653957690",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-16T20:06:12"
+          },
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Saturday, June 13, 2026",
+            "time": "8:38",
+            "speed": "-",
+            "power": "311 W",
+            "heart_rate": "171 bpm",
+            "cached_at": "2026-06-13T19:44:06"
+          }
+        ],
+        "heidi m": [
+          {
+            "rank": "8",
+            "name": "Heidi M",
+            "date": "Sunday, May 26, 2024",
+            "time": "11:14",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:21"
+          }
+        ],
+        "james sinclair": [
+          {
+            "rank": "5",
+            "name": "James Sinclair",
+            "date": "Friday, April 2, 2021",
+            "time": "10:15",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:21"
+          }
+        ],
+        "jeff is a banana": [
+          {
+            "rank": "1",
+            "name": "Jeff is a Banana",
+            "date": "Tuesday, September 14, 2021",
+            "time": "7:43",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "159 bpm",
+            "cached_at": "2026-04-24T17:15:21"
+          }
+        ],
+        "koulie athens-hunsberger": [
+          {
+            "rank": "7",
+            "name": "koulie athens-hunsberger",
+            "date": "Sunday, April 12, 2026",
+            "time": "10:45",
+            "speed": "-",
+            "power": "137 W",
+            "heart_rate": "136 bpm",
+            "cached_at": "2026-04-24T17:15:21"
+          }
+        ],
+        "matthew bianca": [
+          {
+            "rank": "6",
+            "name": "Matthew Bianca",
+            "date": "Thursday, May 15, 2025",
+            "time": "10:25",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "123 bpm",
+            "cached_at": "2026-04-24T17:15:21"
+          }
+        ],
+        "max nie": [
+          {
+            "rank": "3",
+            "name": "Max Nie",
+            "date": "Tuesday, July 4, 2023",
+            "time": "9:27",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "173 bpm",
+            "cached_at": "2026-04-24T17:15:21"
+          }
+        ],
+        "selva yoga": [
+          {
+            "rank": "9",
+            "name": "Selva Yoga",
+            "date": "Sunday, June 23, 2019",
+            "time": "35:43",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "86 bpm",
+            "cached_at": "2026-04-24T17:15:21"
+          }
+        ],
+        "thien luyt": [
+          {
+            "rank": "2",
+            "name": "Thien Luyt",
+            "date": "Thursday, June 23, 2022",
+            "time": "8:47",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:21"
+          }
+        ]
+      }
+    },
+    "https://www.strava.com/segments/15637575": {
+      "name": "Bayview Avenue: Pottery Road to Nesbitt Drive",
+      "url": "https://www.strava.com/segments/15637575",
+      "compare_url": "https://www.strava.com/segments/15637575/compare/MzQ4MDY0NDQ3NzU4ODYxMzE0MiwyODI1MTQ0OTQwNjM1NDU0Njk0",
+      "updated_at": "2026-05-29T16:12:51",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "Jeff is a Banana",
+          "date": "Sunday, November 7, 2021",
+          "time": "1:55",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "170 bpm",
+          "cached_at": "2026-04-24T17:15:25"
+        },
+        {
+          "rank": "2",
+          "name": "koulie athens-hunsberger",
+          "date": "Tuesday, July 19, 2022",
+          "time": "2:10",
+          "speed": "-",
+          "power": "351 W",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:25"
+        },
+        {
+          "rank": "2",
+          "name": "Thien Luyt",
+          "date": "Friday, July 22, 2022",
+          "time": "2:10",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:25"
+        },
+        {
+          "rank": "4",
+          "name": "Chris Cremer",
+          "date": "Sunday, November 8, 2020",
+          "time": "2:12",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "181 bpm",
+          "cached_at": "2026-04-24T17:15:25"
+        },
+        {
+          "rank": "5",
+          "name": "Simon Grant",
+          "date": "Friday, July 16, 2021",
+          "time": "2:18",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:25"
+        },
+        {
+          "rank": "6",
+          "name": "Max Nie",
+          "date": "Thursday, August 7, 2025",
+          "time": "2:21",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "192 bpm",
+          "cached_at": "2026-04-24T17:15:25"
+        },
+        {
+          "rank": "7",
+          "name": "Selva Yoga",
+          "date": "Saturday, September 26, 2020",
+          "time": "2:24",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "165 bpm",
+          "cached_at": "2026-04-24T17:15:25"
+        },
+        {
+          "rank": "8",
+          "name": "David Platt",
+          "date": "Sunday, August 30, 2020",
+          "time": "2:25",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "182 bpm",
+          "cached_at": "2026-04-24T17:15:25"
+        },
+        {
+          "rank": "8",
+          "name": "Matt Chen",
+          "date": "Wednesday, August 5, 2020",
+          "time": "2:25",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "124 bpm",
+          "cached_at": "2026-04-24T17:15:25"
+        },
+        {
+          "rank": "10",
+          "name": "Arwin Chan",
+          "date": "Monday, May 31, 2021",
+          "time": "2:44",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:25"
+        },
+        {
+          "rank": "11",
+          "name": "Lauren Deel",
+          "date": "Wednesday, June 23, 2021",
+          "time": "2:55",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "174 bpm",
+          "cached_at": "2026-04-24T17:15:25"
+        },
+        {
+          "rank": "12",
+          "name": "James Sinclair",
+          "date": "Tuesday, October 6, 2020",
+          "time": "3:04",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "155 bpm",
+          "cached_at": "2026-04-24T17:15:25"
+        },
+        {
+          "rank": "13",
+          "name": "Stephanie Schneider",
+          "date": "Thursday, March 25, 2021",
+          "time": "3:07",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "163 bpm",
+          "cached_at": "2026-04-24T17:15:25"
+        },
+        {
+          "rank": "14",
+          "name": "Lynn Nguyen",
+          "date": "Saturday, September 23, 2023",
+          "time": "3:10",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:25"
+        },
+        {
+          "rank": "15",
+          "name": "Heidi M",
+          "date": "Monday, September 1, 2025",
+          "time": "7:02",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-04-24T17:15:25"
+        }
+      ],
+      "distance_m": 910.0,
+      "elevation_gain_m": 43.0,
+      "average_grade_pct": 4.7,
+      "elevation_low_m": 63.0,
+      "elevation_high_m": 106.0,
+      "elevation_difference_m": 43.0,
+      "time_history": {
+        "arwin chan": [
+          {
+            "rank": "10",
+            "name": "Arwin Chan",
+            "date": "Monday, May 31, 2021",
+            "time": "2:44",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:25"
+          }
+        ],
+        "chris cremer": [
+          {
+            "rank": "4",
+            "name": "Chris Cremer",
+            "date": "Sunday, November 8, 2020",
+            "time": "2:12",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "181 bpm",
+            "cached_at": "2026-04-24T17:15:25"
+          },
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Monday, September 1, 2025",
+            "time": "7:00",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15663768022",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:05"
+          },
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Saturday, April 11, 2026",
+            "time": "2:42",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18071298729",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T18:57:05"
+          },
+          {
+            "rank": "4",
+            "name": "Chris Cremer",
+            "date": "Saturday, April 18, 2026",
+            "time": "2:37",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18162114402",
+            "source_activity_name": "Morning Ride",
+            "cached_at": "2026-05-10T18:57:05"
+          },
+          {
+            "rank": "5",
+            "name": "Chris Cremer",
+            "date": "Saturday, May 2, 2026",
+            "time": "2:22",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18351107061",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T18:57:05"
+          },
+          {
+            "rank": "1",
+            "name": "Chris Cremer",
+            "date": "Sunday, July 13, 2025",
+            "time": "2:40",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "15103739274",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-10T18:57:05"
+          }
+        ],
+        "david platt": [
+          {
+            "rank": "8",
+            "name": "David Platt",
+            "date": "Sunday, August 30, 2020",
+            "time": "2:25",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "182 bpm",
+            "cached_at": "2026-04-24T17:15:25"
+          }
+        ],
+        "heidi m": [
+          {
+            "rank": "15",
+            "name": "Heidi M",
+            "date": "Monday, September 1, 2025",
+            "time": "7:02",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:25"
+          }
+        ],
+        "james sinclair": [
+          {
+            "rank": "12",
+            "name": "James Sinclair",
+            "date": "Tuesday, October 6, 2020",
+            "time": "3:04",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "155 bpm",
+            "cached_at": "2026-04-24T17:15:25"
+          }
+        ],
+        "jeff is a banana": [
+          {
+            "rank": "1",
+            "name": "Jeff is a Banana",
+            "date": "Sunday, November 7, 2021",
+            "time": "1:55",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "170 bpm",
+            "cached_at": "2026-04-24T17:15:25"
+          }
+        ],
+        "koulie athens-hunsberger": [
+          {
+            "rank": "2",
+            "name": "koulie athens-hunsberger",
+            "date": "Tuesday, July 19, 2022",
+            "time": "2:10",
+            "speed": "-",
+            "power": "351 W",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:25"
+          }
+        ],
+        "lauren deel": [
+          {
+            "rank": "11",
+            "name": "Lauren Deel",
+            "date": "Wednesday, June 23, 2021",
+            "time": "2:55",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "174 bpm",
+            "cached_at": "2026-04-24T17:15:25"
+          }
+        ],
+        "lynn nguyen": [
+          {
+            "rank": "14",
+            "name": "Lynn Nguyen",
+            "date": "Saturday, September 23, 2023",
+            "time": "3:10",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:25"
+          }
+        ],
+        "matt chen": [
+          {
+            "rank": "8",
+            "name": "Matt Chen",
+            "date": "Wednesday, August 5, 2020",
+            "time": "2:25",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "124 bpm",
+            "cached_at": "2026-04-24T17:15:25"
+          }
+        ],
+        "max nie": [
+          {
+            "rank": "6",
+            "name": "Max Nie",
+            "date": "Thursday, August 7, 2025",
+            "time": "2:21",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "192 bpm",
+            "cached_at": "2026-04-24T17:15:25"
+          }
+        ],
+        "selva yoga": [
+          {
+            "rank": "7",
+            "name": "Selva Yoga",
+            "date": "Saturday, September 26, 2020",
+            "time": "2:24",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "165 bpm",
+            "cached_at": "2026-04-24T17:15:25"
+          }
+        ],
+        "simon grant": [
+          {
+            "rank": "5",
+            "name": "Simon Grant",
+            "date": "Friday, July 16, 2021",
+            "time": "2:18",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:25"
+          }
+        ],
+        "stephanie schneider": [
+          {
+            "rank": "13",
+            "name": "Stephanie Schneider",
+            "date": "Thursday, March 25, 2021",
+            "time": "3:07",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "163 bpm",
+            "cached_at": "2026-04-24T17:15:25"
+          }
+        ],
+        "thien luyt": [
+          {
+            "rank": "2",
+            "name": "Thien Luyt",
+            "date": "Friday, July 22, 2022",
+            "time": "2:10",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-04-24T17:15:25"
+          }
+        ]
+      }
+    },
+    "https://www.strava.com/segments/16091644": {
+      "name": "IG2017 Criterium Lap",
+      "url": "https://www.strava.com/segments/16091644",
+      "compare_url": "https://www.strava.com/segments/16091644/compare/MjcyNzY2MDYyNjg4NzAwNzAzMiwyNzI3NjYwNjI2ODgzOTg3MjU2",
+      "updated_at": "2026-05-29T16:13:40",
+      "rows": [
+        {
+          "rank": "1",
+          "name": "Matt Chen",
+          "date": "Wednesday, August 14, 2024",
+          "time": "2:50",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "181 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "2",
+          "name": "koulie athens-hunsberger",
+          "date": "Wednesday, October 10, 2018",
+          "time": "2:53",
+          "speed": "-",
+          "power": "251 W",
+          "heart_rate": "-",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "3",
+          "name": "Chris Cremer",
+          "date": "Monday, May 25, 2026",
+          "time": "3:00",
+          "speed": "-",
+          "power": "315 W",
+          "heart_rate": "172 bpm",
+          "cached_at": "2026-05-25T18:04:20"
+        },
+        {
+          "rank": "3",
+          "name": "Jeff is a Banana",
+          "date": "Saturday, June 27, 2020",
+          "time": "3:00",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "5",
+          "name": "David Platt",
+          "date": "Sunday, August 9, 2020",
+          "time": "3:12",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "173 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "6",
+          "name": "Arwin Chan",
+          "date": "Wednesday, May 19, 2021",
+          "time": "3:18",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "7",
+          "name": "Max Nie",
+          "date": "Thursday, August 10, 2023",
+          "time": "3:19",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "173 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "8",
+          "name": "Lynn Nguyen",
+          "date": "Thursday, June 22, 2023",
+          "time": "3:20",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "9",
+          "name": "Dustin Zhang",
+          "date": "Sunday, June 21, 2020",
+          "time": "3:28",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "10",
+          "name": "Selva Yoga",
+          "date": "Friday, October 15, 2021",
+          "time": "3:36",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "110 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "11",
+          "name": "Kate Gay",
+          "date": "Thursday, May 20, 2021",
+          "time": "3:40",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "171 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "12",
+          "name": "Sola *",
+          "date": "Wednesday, June 21, 2023",
+          "time": "3:43",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "155 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "13",
+          "name": "Simon Grant",
+          "date": "Tuesday, July 13, 2021",
+          "time": "3:53",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "-",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "14",
+          "name": "Daivik Doshi",
+          "date": "Friday, April 3, 2026",
+          "time": "4:03",
+          "speed": "-",
+          "power": "142 W",
+          "heart_rate": "173 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        },
+        {
+          "rank": "15",
+          "name": "Lauren Deel",
+          "date": "Saturday, May 7, 2022",
+          "time": "5:00",
+          "speed": "-",
+          "power": "-",
+          "heart_rate": "145 bpm",
+          "cached_at": "2026-05-25T01:57:11"
+        }
+      ],
+      "time_history": {
+        "arwin chan": [
+          {
+            "rank": "6",
+            "name": "Arwin Chan",
+            "date": "Wednesday, May 19, 2021",
+            "time": "3:18",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "chris cremer": [
+          {
+            "rank": "4",
+            "name": "Chris Cremer",
+            "date": "Sunday, August 9, 2020",
+            "time": "3:07",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "182 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          },
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Monday, May 25, 2026",
+            "time": "3:00",
+            "speed": "-",
+            "power": "315 W",
+            "heart_rate": "172 bpm",
+            "cached_at": "2026-05-25T18:04:20"
+          },
+          {
+            "rank": "4",
+            "name": "Chris Cremer",
+            "date": "Monday, May 25, 2026",
+            "time": "3:05",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18653957690",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-25T18:04:20"
+          },
+          {
+            "rank": "3",
+            "name": "Chris Cremer",
+            "date": "Monday, May 25, 2026",
+            "time": "3:14",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18653957690",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-25T18:04:20"
+          },
+          {
+            "rank": "2",
+            "name": "Chris Cremer",
+            "date": "Monday, May 25, 2026",
+            "time": "9:27",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "source_activity_id": "18653957690",
+            "source_activity_name": "Afternoon Ride",
+            "cached_at": "2026-05-25T18:04:20"
+          }
+        ],
+        "daivik doshi": [
+          {
+            "rank": "14",
+            "name": "Daivik Doshi",
+            "date": "Friday, April 3, 2026",
+            "time": "4:03",
+            "speed": "-",
+            "power": "142 W",
+            "heart_rate": "173 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "david platt": [
+          {
+            "rank": "5",
+            "name": "David Platt",
+            "date": "Sunday, August 9, 2020",
+            "time": "3:12",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "173 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "dustin zhang": [
+          {
+            "rank": "9",
+            "name": "Dustin Zhang",
+            "date": "Sunday, June 21, 2020",
+            "time": "3:28",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "jeff is a banana": [
+          {
+            "rank": "3",
+            "name": "Jeff is a Banana",
+            "date": "Saturday, June 27, 2020",
+            "time": "3:00",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "kate gay": [
+          {
+            "rank": "11",
+            "name": "Kate Gay",
+            "date": "Thursday, May 20, 2021",
+            "time": "3:40",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "171 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "koulie athens-hunsberger": [
+          {
+            "rank": "2",
+            "name": "koulie athens-hunsberger",
+            "date": "Wednesday, October 10, 2018",
+            "time": "2:53",
+            "speed": "-",
+            "power": "251 W",
+            "heart_rate": "-",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "lauren deel": [
+          {
+            "rank": "15",
+            "name": "Lauren Deel",
+            "date": "Saturday, May 7, 2022",
+            "time": "5:00",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "145 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "lynn nguyen": [
+          {
+            "rank": "8",
+            "name": "Lynn Nguyen",
+            "date": "Thursday, June 22, 2023",
+            "time": "3:20",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "matt chen": [
+          {
+            "rank": "1",
+            "name": "Matt Chen",
+            "date": "Wednesday, August 14, 2024",
+            "time": "2:50",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "181 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "max nie": [
+          {
+            "rank": "7",
+            "name": "Max Nie",
+            "date": "Thursday, August 10, 2023",
+            "time": "3:19",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "173 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "selva yoga": [
+          {
+            "rank": "10",
+            "name": "Selva Yoga",
+            "date": "Friday, October 15, 2021",
+            "time": "3:36",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "110 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "simon grant": [
+          {
+            "rank": "13",
+            "name": "Simon Grant",
+            "date": "Tuesday, July 13, 2021",
+            "time": "3:53",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "-",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ],
+        "sola *": [
+          {
+            "rank": "12",
+            "name": "Sola *",
+            "date": "Wednesday, June 21, 2023",
+            "time": "3:43",
+            "speed": "-",
+            "power": "-",
+            "heart_rate": "155 bpm",
+            "cached_at": "2026-05-25T01:57:11"
+          }
+        ]
+      },
+      "distance_m": 1850.0,
+      "elevation_gain_m": 6.0,
+      "average_grade_pct": 0.0,
+      "elevation_low_m": 98.0,
+      "elevation_high_m": 106.0,
+      "elevation_difference_m": 8.0,
+      "map_polyline": "{oliGbn_dNmFMQ?a@FOLUj@AfAVn@jAn@~AxAjApAjAdB|@hBLP\\ZTHn@BpASrCi@rBY|CWvA]h@QpA]lA_@b@Ud@y@Rk@Nq@FoBQoAm@{@{@m@_AEaE|@U@sAAiFPmAKwASa@C]BmDK",
+      "start_latlng": "[43.650704,-79.464811]",
+      "end_latlng": "[43.650808,-79.464792]"
+    }
+  }
+}

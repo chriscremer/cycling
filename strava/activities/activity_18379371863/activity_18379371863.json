@@ -1,0 +1,918 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "resource_state": 1
+  },
+  "name": "Evening Run",
+  "distance": 5120.3,
+  "moving_time": 1520,
+  "elapsed_time": 2385,
+  "total_elevation_gain": 2.1,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": null,
+  "device_name": "Strava App",
+  "id": 18379371863,
+  "start_date": "2026-05-05T00:12:33Z",
+  "start_date_local": "2026-05-04T20:12:33Z",
+  "timezone": "(GMT-05:00) America/New_York",
+  "utc_offset": -14400.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 10,
+  "kudos_count": 6,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a18379371863",
+    "polyline": "eltwFl{tbMg@v@D?BLODOLX?@DB@@?BFHFH?DLZFNFFHB?d@hAKFEAAEOJIb@WPCFCXEBEJEx@M^UNS?KFI~@CDAREFA@[EIH[ICBMhAKBCJBHFSH@HAHKCKE?CDIVC`@Ol@G|@?@EAELD@BRB@CD@DF@^dA@x@PEFEFFBFXPPAHVFNVPNPXPd@N\\FDBN@RFH@VLj@?XJXD^LTNND\\PP@`@Tj@NLJVHD?LFR@JFTBTBFAf@DVAVHDAf@D^AVBP?NDNCh@DNARFd@C\\@hAFZFT?VE`@Db@ALBTCf@HTAb@DRALBxAB^HdADNAJBL?RFZ@D?HENOLGL?f@TFN@NA~AGvAElF?lBHHPANo@Gs@Bg@Ay@D_@B{AA{AFSEmADe@FCRBJCd@@PALB^BXD\\ALDr@DJAb@DLAX@VEPDb@C^BRAFBb@FDHGj@EJAHB`@GX?NBFCTDt@JDMN?PGF@PEf@DHBJAZEHBFMJAHBHEv@F^E`@BD@VFLXIR@XCLBJAZHNEn@Hb@DRAJDJANDDCLDj@DBFH@\\ID@@CEM@]AUBEAIBS@a@DIEGCOJ]D}@AOFM?IIe@PsAAO?i@CMBYCODSMG^ALCX@XEFBXEj@Cb@DFETFtAHb@?VCf@@VPHABFRDX?HBNEFHVFt@Fb@LFCVJr@LT?DB`@@j@J^@JFb@@`@JLANDZ@t@HDCVBFAPLTBJARF\\?VJX@JBFDL@HBbAHJAJFALGJGDDfAFBJALDZ@BD?FET@z@Gn@BT?XMRSPAFB^CRCfAE`@Ch@GTCd@NjAB\\chAq`@y@ZIBMC@DG?OCaAEc@Ic@E_AJOASG{ACWIa@?e@Kg@CYDeAG_@?e@BSIQAG@KCO@MCgAAOCYCKBQ?U@MEg@A]@m@IY?WGYC",
+    "resource_state": 3,
+    "summary_polyline": "eltwFl{tbMg@v@D?BLODOLX?@DB@@?BFHFH?DLZFNFFHB?d@hAKFEAAEOJIb@WPCFCXEBEJEx@M^UNS?KFI~@CDAREFA@[EIH[ICBMhAKBCJBHFSH@HAHKCKE?CDIVC`@Ol@G|@?@EAELD@BRB@CD@DF@^dA@x@PEFEFFBFXPPAHVFNVPNPXPd@N\\FDBN@RFH@VLj@?XJXD^LTNND\\PP@`@Tj@NLJVHD?LFR@JFTBTBFAf@DVAVHDAf@D^AVBP?NDNCh@DNARFd@C\\@hAFZFT?VE`@Db@ALBTCf@HTAb@DRALBxAB^HdADNAJBL?RFZ@D?HENOLGL?f@TFN@NA~AGvAElF?lBHHPANo@Gs@Bg@Ay@D_@B{AA{AFSEmADe@FCRBJCd@@PALB^BXD\\ALDr@DJAb@DLAX@VEPDb@C^BRAFBb@FDHGj@EJAHB`@GX?NBFCTDt@JDMN?PGF@PEf@DHBJAZEHBFMJAHBHEv@F^E`@BD@VFLXIR@XCLBJAZHNEn@Hb@DRAJDJANDDCLDj@DBFH@\\ID@@CEM@]AUBEAIBS@a@DIEGCOJ]D}@AOFM?IIe@PsAAO?i@CMBYCODSMG^ALCX@XEFBXEj@Cb@DFETFtAHb@?VCf@@VPHABFRDX?HBNEFHVFt@Fb@LFCVJr@LT?DB`@@j@J^@JFb@@`@JLANDZ@t@HDCVBFAPLTBJARF\\?VJX@JBFDL@HBbAHJAJFALGJGDDfAFBJALDZ@BD?FET@z@Gn@BT?XMRSPAFB^CRCfAE`@Ch@GTCd@NjAB\\chAq`@y@ZIBMC@DG?OCaAEc@Ic@E_AJOASG{ACWIa@?e@Kg@CYDeAG_@?e@BSIQAG@KCO@MCgAAOCYCKBQ?U@MEg@A]@m@IY?WGYC"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    40.741955,
+    -74.003906
+  ],
+  "end_latlng": [
+    40.739049,
+    -74.010369
+  ],
+  "average_speed": 3.369,
+  "max_speed": 11.28,
+  "has_heartrate": true,
+  "average_heartrate": 153.3,
+  "max_heartrate": 173.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 7.4,
+  "elev_low": -0.1,
+  "upload_id": 19483728704,
+  "upload_id_str": "19483728704",
+  "external_id": "9443DB36-C8E2-403E-AE50-8BF9BC743B8B-activity.fit",
+  "from_accepted_tag": false,
+  "pr_count": 6,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "suffer_score": 47.0,
+  "description": "",
+  "calories": 474.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3486546894860142028,
+      "resource_state": 2,
+      "name": "Gansevoort to Charles",
+      "activity": {
+        "id": 18379371863,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 164,
+      "moving_time": 164,
+      "start_date": "2026-05-05T00:19:01Z",
+      "start_date_local": "2026-05-04T20:19:01Z",
+      "distance": 635.6,
+      "start_index": 324,
+      "end_index": 488,
+      "device_watts": false,
+      "average_heartrate": 165.0,
+      "max_heartrate": 170.0,
+      "segment": {
+        "id": 12029473,
+        "resource_state": 2,
+        "name": "Gansevoort to Charles",
+        "activity_type": "Run",
+        "distance": 635.6,
+        "average_grade": -0.1,
+        "maximum_grade": 0.5,
+        "elevation_high": 2.2,
+        "elevation_low": 1.4,
+        "start_latlng": [
+          40.739209,
+          -74.010361
+        ],
+        "end_latlng": [
+          40.733504,
+          -74.010897
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "New York",
+        "state": "New York",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3486546894859431372,
+      "resource_state": 2,
+      "name": "True 3 Piers (Southbound)",
+      "activity": {
+        "id": 18379371863,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 282,
+      "moving_time": 282,
+      "start_date": "2026-05-05T00:19:26Z",
+      "start_date_local": "2026-05-04T20:19:26Z",
+      "distance": 1326.2,
+      "start_index": 349,
+      "end_index": 631,
+      "device_watts": false,
+      "average_heartrate": 166.3,
+      "max_heartrate": 170.0,
+      "segment": {
+        "id": 14247812,
+        "resource_state": 2,
+        "name": "True 3 Piers (Southbound)",
+        "activity_type": "Run",
+        "distance": 1326.2,
+        "average_grade": 0.1,
+        "maximum_grade": 8.8,
+        "elevation_high": 0.2,
+        "elevation_low": -2.2,
+        "start_latlng": [
+          40.738348,
+          -74.010486
+        ],
+        "end_latlng": [
+          40.73303,
+          -74.011059
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "New York",
+        "state": "New York",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3486546894861602252,
+      "resource_state": 2,
+      "name": "Pier 45 Out & Back",
+      "activity": {
+        "id": 18379371863,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 93,
+      "moving_time": 93,
+      "start_date": "2026-05-05T00:22:12Z",
+      "start_date_local": "2026-05-04T20:22:12Z",
+      "distance": 376.932,
+      "start_index": 515,
+      "end_index": 608,
+      "device_watts": false,
+      "average_heartrate": 165.5,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 853698,
+        "resource_state": 2,
+        "name": "Pier 45 Out & Back",
+        "activity_type": "Run",
+        "distance": 376.932,
+        "average_grade": 0.0,
+        "maximum_grade": 1.4,
+        "elevation_high": 0.3,
+        "elevation_low": 0.0,
+        "start_latlng": [
+          40.7332943,
+          -74.0117495
+        ],
+        "end_latlng": [
+          40.7330536,
+          -74.0119842
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "New York",
+        "state": "NY",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3486546894859430348,
+      "resource_state": 2,
+      "name": "Pier 40 Hudson Sprint (S)",
+      "activity": {
+        "id": 18379371863,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 64,
+      "moving_time": 63,
+      "start_date": "2026-05-05T00:26:45Z",
+      "start_date_local": "2026-05-04T20:26:45Z",
+      "distance": 218.8,
+      "start_index": 788,
+      "end_index": 852,
+      "device_watts": false,
+      "average_heartrate": 170.8,
+      "max_heartrate": 173.0,
+      "segment": {
+        "id": 16101053,
+        "resource_state": 2,
+        "name": "Pier 40 Hudson Sprint (S)",
+        "activity_type": "Run",
+        "distance": 218.8,
+        "average_grade": 0.1,
+        "maximum_grade": 5.8,
+        "elevation_high": 2.4,
+        "elevation_low": 1.4,
+        "start_latlng": [
+          40.730552,
+          -74.014023
+        ],
+        "end_latlng": [
+          40.728634,
+          -74.014348
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "New York",
+        "state": "New York",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3486546894860346828,
+      "resource_state": 2,
+      "name": "Spring Street Salt Shed Sprint",
+      "activity": {
+        "id": 18379371863,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 78,
+      "moving_time": 78,
+      "start_date": "2026-05-05T00:29:48Z",
+      "start_date_local": "2026-05-04T20:29:48Z",
+      "distance": 265.9,
+      "start_index": 971,
+      "end_index": 1049,
+      "device_watts": false,
+      "average_heartrate": 167.6,
+      "max_heartrate": 171.0,
+      "segment": {
+        "id": 32834347,
+        "resource_state": 2,
+        "name": "Spring Street Salt Shed Sprint",
+        "activity_type": "Run",
+        "distance": 265.9,
+        "average_grade": -0.3,
+        "maximum_grade": 1.0,
+        "elevation_high": 13.4,
+        "elevation_low": 12.2,
+        "start_latlng": [
+          40.727011,
+          -74.01144
+        ],
+        "end_latlng": [
+          40.724654,
+          -74.011866
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "New York",
+        "state": "New York",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3486546894861855180,
+      "resource_state": 2,
+      "name": "Mount Oral Boardwalk",
+      "activity": {
+        "id": 18379371863,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 56,
+      "moving_time": 56,
+      "start_date": "2026-05-05T00:31:16Z",
+      "start_date_local": "2026-05-04T20:31:16Z",
+      "distance": 201.433,
+      "start_index": 1059,
+      "end_index": 1115,
+      "device_watts": false,
+      "average_heartrate": 168.8,
+      "max_heartrate": 171.0,
+      "segment": {
+        "id": 852387,
+        "resource_state": 2,
+        "name": "Mount Oral Boardwalk",
+        "activity_type": "Run",
+        "distance": 201.433,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 0.3,
+        "elevation_low": 0.3,
+        "start_latlng": [
+          40.7243026,
+          -74.0118098
+        ],
+        "end_latlng": [
+          40.7225276,
+          -74.0120995
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Canal Street",
+        "state": "NY",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3486546894861011404,
+      "resource_state": 2,
+      "name": "Pier 45 Cafe - Gansevoort Street ",
+      "activity": {
+        "id": 18379371863,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 247,
+      "moving_time": 247,
+      "start_date": "2026-05-05T00:44:59Z",
+      "start_date_local": "2026-05-04T20:44:59Z",
+      "distance": 693.5,
+      "start_index": 1254,
+      "end_index": 1501,
+      "device_watts": false,
+      "average_heartrate": 141.8,
+      "max_heartrate": 149.0,
+      "segment": {
+        "id": 11029350,
+        "resource_state": 2,
+        "name": "Pier 45 Cafe - Gansevoort Street ",
+        "activity_type": "Run",
+        "distance": 693.5,
+        "average_grade": 0.0,
+        "maximum_grade": 1.6,
+        "elevation_high": 0.5,
+        "elevation_low": 0.2,
+        "start_latlng": [
+          40.733158,
+          -74.010821
+        ],
+        "end_latlng": [
+          40.739336,
+          -74.010181
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "New York",
+        "state": "New York",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3486546894858121676,
+      "resource_state": 2,
+      "name": "lululemon re:pair - Hudson River Park 3",
+      "activity": {
+        "id": 18379371863,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 154,
+      "moving_time": 154,
+      "start_date": "2026-05-05T00:45:45Z",
+      "start_date_local": "2026-05-04T20:45:45Z",
+      "distance": 409.3,
+      "start_index": 1300,
+      "end_index": 1454,
+      "device_watts": false,
+      "average_heartrate": 142.8,
+      "max_heartrate": 149.0,
+      "segment": {
+        "id": 21953655,
+        "resource_state": 2,
+        "name": "lululemon re:pair - Hudson River Park 3",
+        "activity_type": "Run",
+        "distance": 409.3,
+        "average_grade": 0.4,
+        "maximum_grade": 3.8,
+        "elevation_high": 3.8,
+        "elevation_low": -0.6,
+        "start_latlng": [
+          40.73427,
+          -74.01072
+        ],
+        "end_latlng": [
+          40.73794,
+          -74.01042
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "New York",
+        "state": "New York",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1002.7,
+      "elapsed_time": 373,
+      "elevation_difference": -3.0,
+      "moving_time": 305,
+      "split": 1,
+      "average_speed": 3.29,
+      "average_grade_adjusted_speed": 3.32,
+      "average_heartrate": 113.08064516129032,
+      "pace_zone": 2
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 261,
+      "elevation_difference": -0.7,
+      "moving_time": 261,
+      "split": 2,
+      "average_speed": 3.82,
+      "average_grade_adjusted_speed": 3.82,
+      "average_heartrate": 165.10384615384615,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 276,
+      "elevation_difference": 0.1,
+      "moving_time": 276,
+      "split": 3,
+      "average_speed": 3.63,
+      "average_grade_adjusted_speed": 3.63,
+      "average_heartrate": 166.6509090909091,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 279,
+      "elevation_difference": -0.1,
+      "moving_time": 279,
+      "split": 4,
+      "average_speed": 3.59,
+      "average_grade_adjusted_speed": 3.59,
+      "average_heartrate": 168.7562724014337,
+      "pace_zone": 3
+    },
+    {
+      "distance": 996.8,
+      "elapsed_time": 959,
+      "elevation_difference": -0.1,
+      "moving_time": 329,
+      "split": 5,
+      "average_speed": 3.03,
+      "average_grade_adjusted_speed": 3.06,
+      "average_heartrate": 151.1076923076923,
+      "pace_zone": 2
+    },
+    {
+      "distance": 119.7,
+      "elapsed_time": 45,
+      "elevation_difference": 0.1,
+      "moving_time": 45,
+      "split": 6,
+      "average_speed": 2.66,
+      "average_grade_adjusted_speed": 2.66,
+      "average_heartrate": 144.13333333333333,
+      "pace_zone": 1
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1612.6,
+      "elapsed_time": 525,
+      "elevation_difference": -3.7,
+      "moving_time": 457,
+      "split": 1,
+      "average_speed": 3.53,
+      "average_grade_adjusted_speed": 3.55,
+      "average_heartrate": 132.08771929824562,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1606.3,
+      "elapsed_time": 446,
+      "elevation_difference": 0.3,
+      "moving_time": 446,
+      "split": 2,
+      "average_speed": 3.6,
+      "average_grade_adjusted_speed": 3.6,
+      "average_heartrate": 167.35955056179776,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1610.4,
+      "elapsed_time": 1112,
+      "elevation_difference": -0.2,
+      "moving_time": 482,
+      "split": 3,
+      "average_speed": 3.34,
+      "average_grade_adjusted_speed": 3.36,
+      "average_heartrate": 159.8807531380753,
+      "pace_zone": 2
+    },
+    {
+      "distance": 291.0,
+      "elapsed_time": 110,
+      "elevation_difference": -0.1,
+      "moving_time": 110,
+      "split": 4,
+      "average_speed": 2.65,
+      "average_grade_adjusted_speed": 2.65,
+      "average_heartrate": 144.34545454545454,
+      "pace_zone": 1
+    }
+  ],
+  "laps": [
+    {
+      "id": 65753370366,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 18379371863,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 2403,
+      "moving_time": 1520,
+      "start_date": "2026-05-05T00:12:33Z",
+      "start_date_local": "2026-05-04T20:12:33Z",
+      "distance": 5120.32,
+      "average_speed": 3.37,
+      "max_speed": 11.28,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 1501,
+      "total_elevation_gain": 2.1,
+      "device_watts": false,
+      "average_heartrate": 153.3,
+      "max_heartrate": 173.0,
+      "pace_zone": 2
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 77261569770,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 18379371863,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 88,
+      "moving_time": 88,
+      "start_date": "2026-05-05T00:12:33Z",
+      "start_date_local": "2026-05-04T20:12:33Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 210,
+      "end_index": 298
+    },
+    {
+      "id": 77261569771,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 18379371863,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 193,
+      "moving_time": 193,
+      "start_date": "2026-05-05T00:12:33Z",
+      "start_date_local": "2026-05-04T20:12:33Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 210,
+      "end_index": 403
+    },
+    {
+      "id": 77261569772,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 18379371863,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 240,
+      "moving_time": 240,
+      "start_date": "2026-05-05T00:12:33Z",
+      "start_date_local": "2026-05-04T20:12:33Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 211,
+      "end_index": 451
+    },
+    {
+      "id": 77261569767,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 18379371863,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 410,
+      "moving_time": 410,
+      "start_date": "2026-05-05T00:12:33Z",
+      "start_date_local": "2026-05-04T20:12:33Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 207,
+      "end_index": 617
+    },
+    {
+      "id": 77261569768,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 18379371863,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 854,
+      "moving_time": 854,
+      "start_date": "2026-05-05T00:12:33Z",
+      "start_date_local": "2026-05-04T20:12:33Z",
+      "distance": 3219,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 211,
+      "end_index": 1065
+    },
+    {
+      "id": 77261569769,
+      "resource_state": 2,
+      "name": "5K",
+      "activity": {
+        "id": 18379371863,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 2105,
+      "moving_time": 2105,
+      "start_date": "2026-05-05T00:12:33Z",
+      "start_date_local": "2026-05-04T20:12:33Z",
+      "distance": 5000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 80,
+      "end_index": 1501
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "4042CE4C-E038-4435-88F0-21BA918C1506",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/UqYlKSwrgqPElzRxGe-N4hc1fi_OJGGKaVLjH2lmdJI-768x576.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/UqYlKSwrgqPElzRxGe-N4hc1fi_OJGGKaVLjH2lmdJI-128x96.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "b6f3aaa95d3204663bf8f3653e891bfed90bf8b3",
+  "similar_activities": {
+    "effort_count": 1,
+    "average_speed": 3.3686184210526315,
+    "min_average_speed": 3.3686184210526315,
+    "mid_average_speed": 3.3686184210526315,
+    "max_average_speed": 3.3686184210526315,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        3.3686184210526315
+      ],
+      "current_activity_index": 0,
+      "min_speed": 3.3686184210526315,
+      "mid_speed": 3.3686184210526315,
+      "max_speed": 3.3686184210526315,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "heartrate",
+    "pace"
+  ]
+}

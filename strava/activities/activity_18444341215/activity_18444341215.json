@@ -1,0 +1,998 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "resource_state": 1
+  },
+  "name": "Zwift - Race: Stage 1: Four by Four: Rolling Highlands",
+  "distance": 23311.8,
+  "moving_time": 2185,
+  "elapsed_time": 2185,
+  "total_elevation_gain": 183.0,
+  "type": "VirtualRide",
+  "sport_type": "VirtualRide",
+  "device_name": "Zwift",
+  "id": 18444341215,
+  "start_date": "2026-05-09T21:10:26Z",
+  "start_date_local": "2026-05-09T17:10:26Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -14400.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 7,
+  "photo_count": 0,
+  "map": {
+    "id": "a18444341215",
+    "polyline": "{srrIpi~^bAAv@F`DfAPHNRHZFbAH\\LRPFRCPMVq@PQPEf@CP@z@JP@z@ARERGf@]PS`@o@L_@?sABk@Fe@ZgAPa@P[f@u@RUl@e@n@Wn@IX?hAJTKP[Je@HqA?sAK{FIqAGg@Ie@O_@QWUMUA{AJm@Ak@I_AU_AGSGQMQSK]Ea@Aa@DgAb@_CXw@NURMTE~@HTGNYFe@DqAFg@PYVCTLRRVHTMPWJa@Fe@DmACoBGiBKaAG]Wq@w@wAWs@U_BK[{@aBeAyA]w@Ia@Gc@Ce@AkFIc@OYSK{CAi@CmHeAcB[q@Qo@WeAk@WEeAHU@WCQQ]w@UIUBQNM\\G`@K\\QTSJg@LSJQTMZSfBI\\MRQFQCMMKO{@aCYa@MIQEOAe@Hc@Vc@d@OXU`AOjAIxBEh@SlAYfAQ\\SZUTWLs@NYNWTUXS^a@hAi@pBcA|EM\\QVSPSFUAUMQUO[sAuDSUSIU?k@Ri@\\iB~Am@`@o@ZWFWBWKSW]aAUOWBaAt@ULWDUCUOSUo@mAQUSIU@SHa@`@cEjGc@ZQFSCQMOUqAmDQu@ScCK]OWQOSKSESBQNOXUx@G^?`@JX\\b@LVHZD^?bAO~@KZORSLSFi@FoAJe@Jc@Ra@\\o@x@gAz@ORMZI\\Cb@?b@D`@H\\LZPRRNRDj@HTHh@\\n@TVDX?ZCXKnAs@ZG\\AlBHXFXJXPTVP`@Fj@@hCDj@Lb@`@`Ab@t@RVVBRO`@w@fAqCHa@?e@UgBBc@b@oA@_@I_AG_@Ga@WaAGe@Fg@b@s@Ja@?g@Ee@{@{CI_@Ca@Bc@H]n@cAb@c@PKRCRDPNPTl@hAPRRLRBTEd@[d@a@PKR?PJNVVr@LRPHRAPCb@Or@a@n@i@xAyA\\U`@OPCP@PFNNLVlAfDLXNTRLTBRGPQPWL]zA}GXgA^_Ab@q@TQh@Yj@KRKROPWZu@V_ALgAHgADiAHeATaAZs@b@c@f@Uf@GPBRHNNNV~@jCPRT@RUJc@JmAJc@P]RSj@OTIPUL]Hc@J[ROTGRDRPZv@RHT?tAKRDnAn@z@XhCl@vG|@hADfC?RHNTJZD`@?fAApCFdAF^Xv@nAjBz@|AJZV`BJ\\z@bBXt@J^JdAJ|EClAGd@K^OXSPUBSMQQSMUDMXG`@IjBKZONSDQ?c@GQ?QFONMR_@lAWrAG~@?^B^F\\LVNPPHPDz@BnAZf@D|@@z@GR?PHPNLTRv@P|AD~@LzD?zAAz@Gx@Mr@KPMLODO?q@Ia@Aa@Ba@Jq@\\q@l@]f@]l@c@rAM`AAfBIZ]l@_@d@c@XQJQDc@@w@CiAKc@@QFMPIXMTOJQBSEOMMWOaBMYQMSGgCw@}@KSAsB@qBCS@QFONMVI\\I`AI^K\\OXc@h@oHxHe@j@c@n@c@t@aBnDa@t@STSRSJWDU?UGUISOSU_@y@o@iC]_Ac@s@USWMWGYAq@LmA\\[BYA[IWSW[Sa@Og@UwAUiCSuA]gAeCeFa@eA_@qAKi@SwACk@?k@HqAz@kGPu@Vg@LKNEN?NDNFNLLRJXD^A^E^G\\KXOPQFSCQIOMmA_BOOOGQAQFkAnAQFQCOMMUKYk@qCMWQMUBQTo@|ASXURYFWGUUc@q@M_@Ee@Dc@J_@pA{CRy@@a@S{AAa@D]^iA@]I}@M}@_@_B?e@J]`@o@F_@?c@Ea@K]m@oBMUQMQCSFOPi@|@_@`@QHSDSCQKMUeAoCQo@Ms@OoBQk@KQ[U]KM@MDU^Wx@Gf@ATBRFLRRPXL\\Hd@@f@Ch@Ih@Md@UZWNe@H}ALk@N]N[Vw@bAcAv@UXINKh@Cn@@VHj@Rd@XZLFhARjAp@`@JR@d@Cf@Qx@g@TIh@EtABf@Ff@NRL`@b@JVH^B`@AfBB`@F^HZd@fAj@|@LLP?NId@_Az@qBPs@B]A]SsA?]FY\\aA@YA[YsBWy@Ea@Be@L[^m@Da@?a@G_@_AeDE]A_@B]H[v@kA\\]NINEP@NF^d@h@bANPPLRDRCPIdAy@PGP@PNb@hANRNFP?t@Up@_@j@e@`A_At@i@h@W\\ALBLFV`@tAtDT`@JHLFN@LCXWJORg@d@aCl@eCf@kBXo@\\e@^]^Sr@M\\SXa@Tg@VaAJq@JmAHiBLmAXcATc@X[f@[ZILAZDXNV^z@fCLRPHPENUH_@JgAFa@L[PWPKh@KPINQL[N{@NSPKPAPBNNVp@NNP@P?dAKP?b@Np@^^PbAXnAVhIhAj@B|@CnABNFLNJRFXBZ?hF@ZLt@Rl@JRtAnBj@fANj@V`BTj@z@fBTp@FZF|@H`D?bACbAG`@IZMVONQFSCo@i@OBMNIVCXCrAEXGTKNOHM@_AGOBMHMN]z@a@tBGt@@v@BZHTJRLLNFNDr@@NBdAXb@Ft@?rAKNBNFNJJPRl@PlAHpAH`DBhBAlAIlAMj@IPKLODMBm@I_@C_@B_@F]L]Ru@n@W\\_@p@Sd@Ux@KdA@hACVGTS`@a@h@e@^YNMB]@{@AkAMo@BOFKPSj@MLODO?MGMMKUEYEy@GWMQMKaAWaBk@aAKsABwCA_@DOHMPKVOxAG\\Yp@_@f@{HdIc@h@aA~A{BrEa@j@QNSJSDS?UESISKSQOW[y@m@_CK_@_@s@QWSSSKUIWAo@F_Bb@YBWCYIUQUUS[Oa@UkA_@cESgAk@{AiBoDo@cBg@oBQoACi@?oAHiAx@_GT_AP]JIXGZBLFXZHPFVBXCr@Ml@IRKNMFMBOC[SkA}A[YOEO?OFgAlAQFQAOKMSUu@a@wBMYQMU@QRq@|ASZWRWFYIUUe@s@Kc@Ag@Dc@vAiDTy@Bc@Ca@O_AAa@D_@Vq@FY@]C_@M}@G_@W}@Gc@Be@N]PUL[Dc@Cc@G_@W{@e@qAOQQISBQL{@rAa@ZSFSAQKOSMYgA{COy@S}BI[KUOO_@SOCO@OHWf@Qn@EZCZDXd@p@JRNp@@ZCz@Mv@IVMRMLQF_@H}ALk@L[Ng@`@s@|@gAz@Yb@GVGp@@p@Lj@R`@TVJDhARv@d@d@R",
+    "resource_state": 3,
+    "summary_polyline": "{srrIpi~^zBDrDpAj@pC^Z`B{AvEBnBiBXeEfB{DpBsAhDI\\aAAaLk@_Eg@e@_Jg@u@aBBiB|@wDnCg@v@sEnBX\\y@LsBW{GoB{Ea@{B_DsFUkBAkFm@iAsNkAkGqBkC@o@iAk@EeAbCaBz@k@`D_@ZoCoEgA@gA|@e@zA_@nFm@tC{@nAeBl@aAnAoCxKs@fAqA]cBqEg@_@cGrD_Bf@_BuB}ChA_CsCkAl@cEjGiA^sBqEq@wE}Au@_AbCfArD[~C{F|AyCrCg@lA@hBh@lAbE|ArEeAxEl@f@x@\\dGpBrCfC{FUmCh@sCy@iFv@eDoAcGLaArAgBx@IvBpCzCkAfAjBd@FhBu@fDyCdAQn@n@jBvE|@Hp@gAtCeLx@cAhBq@`A}A~@_Jp@uBdC}@r@p@~@jCf@ThAiEtAm@t@sBh@WvAxAjBKhH|B|NlA`@rAL~HdD`Gn@zCtAxCb@bIg@lDyBQk@bE{Cx@w@`DC~Bv@pArId@p@n@d@tCRzFWdGi@d@gDBcBjA_BhDYdEeC~BiEKyAxAq@k@]{Be@UeEcA_HDwA~EyJnKkEjI{@t@aCq@mBcGy@gA_GTs@]{@eB_AwHeEsJcA_GH}BlAaIt@y@~@Z\\lBYvAa@XcDsCsCxAuBuFaCdDq@?y@gAMiBpBuFS_Df@eCw@{Et@wDmAeEw@IkBzBy@IeBuEo@oEsAq@cAfCfAhDY`D{FbBwD|DMpB\\pA|DhBzAH`DiAxDh@v@zAVfFpBrCbCoFQmDd@qCw@oEp@oBDcAoAcGLy@tAiB`AE~BnCnCmAdAlB`@FrI_Fr@l@jBvEv@Nx@oAtCcLnDyBn@iAfAyJn@gBfC}@p@n@hAzCb@Bz@{D~Ay@nAiCb@@v@pAzBIhGrBbOlAt@`BNzH`DxFf@lCfBdEX~HKdBg@bAsBQk@dEiC`@_ApDElBv@zAvId@j@d@d@zBRrF@vDWxBe@d@{C@qBpAaBnDU|DcC~BuEI}AxAg@k@a@}BqDoA}IDkArE_KvK}DrHgAfAyBg@eBqFeA_BcGRiBoBiAwIeEoJ}@iFHyCnA_Iv@o@bAf@PvBW`Ag@ZcDuCkCzAuBuFg@T}AlCq@A{@iAGoBlBcFQgDd@kBw@}Fx@yCo@{Ci@gAe@EoB|By@EeBiEm@sE{@y@o@Fs@nCfApCYfDaGfBcDbDYbADbBd@bA~D|A"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    55.642381,
+    -5.239446
+  ],
+  "end_latlng": [
+    55.657822,
+    -5.232361
+  ],
+  "average_speed": 10.669,
+  "max_speed": 15.8,
+  "average_cadence": 84.8,
+  "average_watts": 265.5,
+  "max_watts": 697,
+  "weighted_average_watts": 289,
+  "device_watts": true,
+  "kilojoules": 580.2,
+  "has_heartrate": true,
+  "average_heartrate": 165.8,
+  "max_heartrate": 181.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 53.8,
+  "elev_low": 21.8,
+  "upload_id": 19549268035,
+  "upload_id_str": "19549268035",
+  "external_id": "zwift-activity-2134499855261777968.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "suffer_score": 104.0,
+  "description": "\ud83d\uddfa\ufe0f Rolling Highlands in Scotland",
+  "calories": 563.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3488312064482736224,
+      "resource_state": 2,
+      "name": "Breakaway Brae",
+      "activity": {
+        "id": 18444341215,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 57,
+      "moving_time": 57,
+      "start_date": "2026-05-09T21:16:38Z",
+      "start_date_local": "2026-05-09T17:16:38Z",
+      "distance": 621.8,
+      "start_index": 372,
+      "end_index": 429,
+      "average_cadence": 87.1,
+      "device_watts": true,
+      "average_watts": 442.3,
+      "average_heartrate": 173.4,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 33620168,
+        "resource_state": 2,
+        "name": "Breakaway Brae",
+        "activity_type": "VirtualRide",
+        "distance": 621.8,
+        "average_grade": 2.3,
+        "maximum_grade": 6.8,
+        "elevation_high": 37.8,
+        "elevation_low": 23.0,
+        "start_latlng": [
+          55.655472,
+          -5.229405
+        ],
+        "end_latlng": [
+          55.658637,
+          -5.230507
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488312064481995872,
+      "resource_state": 2,
+      "name": "Rolling Highlands",
+      "activity": {
+        "id": 18444341215,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 807,
+      "moving_time": 807,
+      "start_date": "2026-05-09T21:17:35Z",
+      "start_date_local": "2026-05-09T17:17:35Z",
+      "distance": 8964.8,
+      "start_index": 429,
+      "end_index": 1236,
+      "average_cadence": 85.0,
+      "device_watts": true,
+      "average_watts": 277.0,
+      "average_heartrate": 171.1,
+      "max_heartrate": 181.0,
+      "segment": {
+        "id": 33620176,
+        "resource_state": 2,
+        "name": "Rolling Highlands",
+        "activity_type": "VirtualRide",
+        "distance": 8964.8,
+        "average_grade": 0.0,
+        "maximum_grade": 9.4,
+        "elevation_high": 53.8,
+        "elevation_low": 21.8,
+        "start_latlng": [
+          55.658637,
+          -5.230504
+        ],
+        "end_latlng": [
+          55.658637,
+          -5.230507
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488312064479518816,
+      "resource_state": 2,
+      "name": "Corkscrew Castle Climb",
+      "activity": {
+        "id": 18444341215,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 33,
+      "moving_time": 33,
+      "start_date": "2026-05-09T21:27:31Z",
+      "start_date_local": "2026-05-09T17:27:31Z",
+      "distance": 365.2,
+      "start_index": 1025,
+      "end_index": 1058,
+      "average_cadence": 91.1,
+      "device_watts": true,
+      "average_watts": 525.9,
+      "average_heartrate": 163.8,
+      "max_heartrate": 172.0,
+      "segment": {
+        "id": 38770365,
+        "resource_state": 2,
+        "name": "Corkscrew Castle Climb",
+        "activity_type": "VirtualRide",
+        "distance": 365.2,
+        "average_grade": 4.3,
+        "maximum_grade": 10.0,
+        "elevation_high": 39.0,
+        "elevation_low": 23.4,
+        "start_latlng": [
+          55.652109,
+          -5.23755
+        ],
+        "end_latlng": [
+          55.651519,
+          -5.23603
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488312064479695968,
+      "resource_state": 2,
+      "name": "Breakaway Brae",
+      "activity": {
+        "id": 18444341215,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 85,
+      "moving_time": 85,
+      "start_date": "2026-05-09T21:29:37Z",
+      "start_date_local": "2026-05-09T17:29:37Z",
+      "distance": 621.8,
+      "start_index": 1151,
+      "end_index": 1236,
+      "average_cadence": 77.6,
+      "device_watts": true,
+      "average_watts": 239.1,
+      "average_heartrate": 161.8,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 33620168,
+        "resource_state": 2,
+        "name": "Breakaway Brae",
+        "activity_type": "VirtualRide",
+        "distance": 621.8,
+        "average_grade": 2.3,
+        "maximum_grade": 6.8,
+        "elevation_high": 37.8,
+        "elevation_low": 23.0,
+        "start_latlng": [
+          55.655472,
+          -5.229405
+        ],
+        "end_latlng": [
+          55.658637,
+          -5.230507
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488312064483383392,
+      "resource_state": 2,
+      "name": "Rolling Highlands",
+      "activity": {
+        "id": 18444341215,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 919,
+      "moving_time": 919,
+      "start_date": "2026-05-09T21:31:02Z",
+      "start_date_local": "2026-05-09T17:31:02Z",
+      "distance": 8964.8,
+      "start_index": 1236,
+      "end_index": 2155,
+      "average_cadence": 84.5,
+      "device_watts": true,
+      "average_watts": 258.0,
+      "average_heartrate": 164.6,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 33620176,
+        "resource_state": 2,
+        "name": "Rolling Highlands",
+        "activity_type": "VirtualRide",
+        "distance": 8964.8,
+        "average_grade": 0.0,
+        "maximum_grade": 9.4,
+        "elevation_high": 53.8,
+        "elevation_low": 21.8,
+        "start_latlng": [
+          55.658637,
+          -5.230504
+        ],
+        "end_latlng": [
+          55.658637,
+          -5.230507
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488312064480395360,
+      "resource_state": 2,
+      "name": "Corkscrew Castle Climb",
+      "activity": {
+        "id": 18444341215,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 41,
+      "moving_time": 41,
+      "start_date": "2026-05-09T21:43:01Z",
+      "start_date_local": "2026-05-09T17:43:01Z",
+      "distance": 365.2,
+      "start_index": 1955,
+      "end_index": 1996,
+      "average_cadence": 86.7,
+      "device_watts": true,
+      "average_watts": 418.3,
+      "average_heartrate": 169.7,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 38770365,
+        "resource_state": 2,
+        "name": "Corkscrew Castle Climb",
+        "activity_type": "VirtualRide",
+        "distance": 365.2,
+        "average_grade": 4.3,
+        "maximum_grade": 10.0,
+        "elevation_high": 39.0,
+        "elevation_low": 23.4,
+        "start_latlng": [
+          55.652109,
+          -5.23755
+        ],
+        "end_latlng": [
+          55.651519,
+          -5.23603
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3488312064481430624,
+      "resource_state": 2,
+      "name": "Breakaway Brae",
+      "activity": {
+        "id": 18444341215,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 67,
+      "moving_time": 67,
+      "start_date": "2026-05-09T21:45:14Z",
+      "start_date_local": "2026-05-09T17:45:14Z",
+      "distance": 621.8,
+      "start_index": 2088,
+      "end_index": 2155,
+      "average_cadence": 90.1,
+      "device_watts": true,
+      "average_watts": 367.9,
+      "average_heartrate": 172.4,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 33620168,
+        "resource_state": 2,
+        "name": "Breakaway Brae",
+        "activity_type": "VirtualRide",
+        "distance": 621.8,
+        "average_grade": 2.3,
+        "maximum_grade": 6.8,
+        "elevation_high": 37.8,
+        "elevation_low": 23.0,
+        "start_latlng": [
+          55.655472,
+          -5.229405
+        ],
+        "end_latlng": [
+          55.658637,
+          -5.230507
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1003.7,
+      "elapsed_time": 84,
+      "elevation_difference": -13.8,
+      "moving_time": 84,
+      "split": 1,
+      "average_speed": 11.95,
+      "average_grade_adjusted_speed": 11.62,
+      "average_heartrate": 144.83333333333334,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.0,
+      "elapsed_time": 84,
+      "elevation_difference": -3.6,
+      "moving_time": 84,
+      "split": 2,
+      "average_speed": 11.87,
+      "average_grade_adjusted_speed": 11.83,
+      "average_heartrate": 147.58333333333334,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 81,
+      "elevation_difference": -4.2,
+      "moving_time": 81,
+      "split": 3,
+      "average_speed": 12.36,
+      "average_grade_adjusted_speed": 12.33,
+      "average_heartrate": 155.77777777777777,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 80,
+      "elevation_difference": -9.8,
+      "moving_time": 80,
+      "split": 4,
+      "average_speed": 12.53,
+      "average_grade_adjusted_speed": 12.31,
+      "average_heartrate": 166.975,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 88,
+      "elevation_difference": 13.0,
+      "moving_time": 88,
+      "split": 5,
+      "average_speed": 11.37,
+      "average_grade_adjusted_speed": 11.85,
+      "average_heartrate": 170.10227272727272,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 78,
+      "elevation_difference": -7.4,
+      "moving_time": 78,
+      "split": 6,
+      "average_speed": 12.82,
+      "average_grade_adjusted_speed": 12.68,
+      "average_heartrate": 177.76923076923077,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 90,
+      "elevation_difference": 0.4,
+      "moving_time": 90,
+      "split": 7,
+      "average_speed": 11.12,
+      "average_grade_adjusted_speed": 11.18,
+      "average_heartrate": 165.3111111111111,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.5,
+      "elapsed_time": 82,
+      "elevation_difference": -0.6,
+      "moving_time": 82,
+      "split": 8,
+      "average_speed": 12.15,
+      "average_grade_adjusted_speed": 12.19,
+      "average_heartrate": 178.4878048780488,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.6,
+      "elapsed_time": 90,
+      "elevation_difference": 8.0,
+      "moving_time": 90,
+      "split": 9,
+      "average_speed": 11.17,
+      "average_grade_adjusted_speed": 11.45,
+      "average_heartrate": 178.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 96,
+      "elevation_difference": 11.0,
+      "moving_time": 96,
+      "split": 10,
+      "average_speed": 10.41,
+      "average_grade_adjusted_speed": 10.72,
+      "average_heartrate": 176.11458333333334,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.0,
+      "elapsed_time": 92,
+      "elevation_difference": 2.8,
+      "moving_time": 92,
+      "split": 11,
+      "average_speed": 10.91,
+      "average_grade_adjusted_speed": 11.05,
+      "average_heartrate": 177.3695652173913,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.5,
+      "elapsed_time": 73,
+      "elevation_difference": -24.8,
+      "moving_time": 73,
+      "split": 12,
+      "average_speed": 13.64,
+      "average_grade_adjusted_speed": 12.97,
+      "average_heartrate": 163.86301369863014,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.0,
+      "elapsed_time": 88,
+      "elevation_difference": 2.0,
+      "moving_time": 88,
+      "split": 13,
+      "average_speed": 11.33,
+      "average_grade_adjusted_speed": 11.73,
+      "average_heartrate": 166.4090909090909,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 113,
+      "elevation_difference": 9.6,
+      "moving_time": 113,
+      "split": 14,
+      "average_speed": 8.88,
+      "average_grade_adjusted_speed": 9.2,
+      "average_heartrate": 161.4867256637168,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.7,
+      "elapsed_time": 109,
+      "elevation_difference": -8.8,
+      "moving_time": 109,
+      "split": 15,
+      "average_speed": 9.19,
+      "average_grade_adjusted_speed": 9.05,
+      "average_heartrate": 153.75229357798165,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 104,
+      "elevation_difference": 0.4,
+      "moving_time": 104,
+      "split": 16,
+      "average_speed": 9.6,
+      "average_grade_adjusted_speed": 9.66,
+      "average_heartrate": 153.8846153846154,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 105,
+      "elevation_difference": -0.2,
+      "moving_time": 105,
+      "split": 17,
+      "average_speed": 9.53,
+      "average_grade_adjusted_speed": 9.57,
+      "average_heartrate": 164.03809523809525,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 111,
+      "elevation_difference": 8.2,
+      "moving_time": 111,
+      "split": 18,
+      "average_speed": 9.02,
+      "average_grade_adjusted_speed": 9.25,
+      "average_heartrate": 168.40540540540542,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.9,
+      "elapsed_time": 112,
+      "elevation_difference": 11.4,
+      "moving_time": 112,
+      "split": 19,
+      "average_speed": 8.88,
+      "average_grade_adjusted_speed": 9.16,
+      "average_heartrate": 167.53571428571428,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.0,
+      "elapsed_time": 110,
+      "elevation_difference": 1.8,
+      "moving_time": 110,
+      "split": 20,
+      "average_speed": 9.1,
+      "average_grade_adjusted_speed": 9.19,
+      "average_heartrate": 169.14545454545456,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.6,
+      "elapsed_time": 80,
+      "elevation_difference": -25.2,
+      "moving_time": 80,
+      "split": 21,
+      "average_speed": 12.56,
+      "average_grade_adjusted_speed": 11.94,
+      "average_heartrate": 163.4625,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 97,
+      "elevation_difference": 2.8,
+      "moving_time": 97,
+      "split": 22,
+      "average_speed": 10.29,
+      "average_grade_adjusted_speed": 10.67,
+      "average_heartrate": 170.82474226804123,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 99,
+      "elevation_difference": 10.4,
+      "moving_time": 99,
+      "split": 23,
+      "average_speed": 10.11,
+      "average_grade_adjusted_speed": 10.5,
+      "average_heartrate": 169.4949494949495,
+      "pace_zone": 0
+    },
+    {
+      "distance": 305.0,
+      "elapsed_time": 39,
+      "elevation_difference": -2.2,
+      "moving_time": 39,
+      "split": 24,
+      "average_speed": 7.82,
+      "average_grade_adjusted_speed": 7.71,
+      "average_heartrate": 175.53846153846155,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1614.4,
+      "elapsed_time": 134,
+      "elevation_difference": -17.8,
+      "moving_time": 134,
+      "split": 1,
+      "average_speed": 12.05,
+      "average_grade_adjusted_speed": 11.79,
+      "average_heartrate": 144.82089552238807,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1617.1,
+      "elapsed_time": 137,
+      "elevation_difference": -6.0,
+      "moving_time": 137,
+      "split": 2,
+      "average_speed": 11.8,
+      "average_grade_adjusted_speed": 11.78,
+      "average_heartrate": 155.20437956204378,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.9,
+      "elapsed_time": 131,
+      "elevation_difference": 1.8,
+      "moving_time": 131,
+      "split": 3,
+      "average_speed": 12.26,
+      "average_grade_adjusted_speed": 12.39,
+      "average_heartrate": 169.33587786259542,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.8,
+      "elapsed_time": 131,
+      "elevation_difference": -9.8,
+      "moving_time": 131,
+      "split": 4,
+      "average_speed": 12.3,
+      "average_grade_adjusted_speed": 12.22,
+      "average_heartrate": 174.9770992366412,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1599.8,
+      "elapsed_time": 138,
+      "elevation_difference": 5.8,
+      "moving_time": 138,
+      "split": 5,
+      "average_speed": 11.59,
+      "average_grade_adjusted_speed": 11.74,
+      "average_heartrate": 172.6086956521739,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.4,
+      "elapsed_time": 146,
+      "elevation_difference": 12.2,
+      "moving_time": 146,
+      "split": 6,
+      "average_speed": 11.04,
+      "average_grade_adjusted_speed": 11.29,
+      "average_heartrate": 177.67123287671234,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.3,
+      "elapsed_time": 149,
+      "elevation_difference": 5.0,
+      "moving_time": 149,
+      "split": 7,
+      "average_speed": 10.85,
+      "average_grade_adjusted_speed": 11.0,
+      "average_heartrate": 175.63087248322148,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.0,
+      "elapsed_time": 130,
+      "elevation_difference": -18.2,
+      "moving_time": 130,
+      "split": 8,
+      "average_speed": 12.38,
+      "average_grade_adjusted_speed": 12.35,
+      "average_heartrate": 164.53846153846155,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1600.3,
+      "elapsed_time": 181,
+      "elevation_difference": 2.6,
+      "moving_time": 181,
+      "split": 9,
+      "average_speed": 8.84,
+      "average_grade_adjusted_speed": 8.97,
+      "average_heartrate": 160.8342541436464,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.2,
+      "elapsed_time": 165,
+      "elevation_difference": -2.6,
+      "moving_time": 165,
+      "split": 10,
+      "average_speed": 9.79,
+      "average_grade_adjusted_speed": 9.8,
+      "average_heartrate": 152.52121212121213,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.0,
+      "elapsed_time": 175,
+      "elevation_difference": 10.8,
+      "moving_time": 175,
+      "split": 11,
+      "average_speed": 9.15,
+      "average_grade_adjusted_speed": 9.35,
+      "average_heartrate": 166.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.9,
+      "elapsed_time": 182,
+      "elevation_difference": 16.0,
+      "moving_time": 182,
+      "split": 12,
+      "average_speed": 8.85,
+      "average_grade_adjusted_speed": 9.1,
+      "average_heartrate": 168.2967032967033,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.5,
+      "elapsed_time": 145,
+      "elevation_difference": -26.8,
+      "moving_time": 145,
+      "split": 13,
+      "average_speed": 11.11,
+      "average_grade_adjusted_speed": 10.75,
+      "average_heartrate": 166.15172413793104,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 151,
+      "elevation_difference": -2.2,
+      "moving_time": 151,
+      "split": 14,
+      "average_speed": 10.65,
+      "average_grade_adjusted_speed": 10.86,
+      "average_heartrate": 169.0728476821192,
+      "pace_zone": 0
+    },
+    {
+      "distance": 777.6,
+      "elapsed_time": 90,
+      "elevation_difference": 10.4,
+      "moving_time": 90,
+      "split": 15,
+      "average_speed": 8.64,
+      "average_grade_adjusted_speed": 9.04,
+      "average_heartrate": 173.75555555555556,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 65985549590,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 18444341215,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 2185,
+      "moving_time": 2186,
+      "start_date": "2026-05-09T21:10:26Z",
+      "start_date_local": "2026-05-09T17:10:26Z",
+      "distance": 23312.1,
+      "average_speed": 10.66,
+      "max_speed": 15.8,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 2185,
+      "total_elevation_gain": 170.2,
+      "average_cadence": 84.8,
+      "device_watts": true,
+      "average_watts": 265.5,
+      "average_heartrate": 165.8,
+      "max_heartrate": 181.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "9c2b62a6-f57d-45f2-b0e7-e0737b72d499",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/-kydtMpIsWl_Dv5fcfGoxaZIxn6OUnZM-mDyhxkmLjs-768x432.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/-kydtMpIsWl_Dv5fcfGoxaZIxn6OUnZM-mDyhxkmLjs-128x72.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "4d02791b1dc37d010e89c186060702e2364102ea",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}

@@ -1,0 +1,1928 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "resource_state": 1
+  },
+  "name": "Zwift - Race: Stage 4: Four by Four: Queen's Highway After Party (A)",
+  "distance": 21472.8,
+  "moving_time": 2011,
+  "elapsed_time": 2047,
+  "total_elevation_gain": 325.0,
+  "type": "VirtualRide",
+  "sport_type": "VirtualRide",
+  "device_name": "Zwift",
+  "id": 18683350255,
+  "start_date": "2026-05-28T01:10:24Z",
+  "start_date_local": "2026-05-27T21:10:24Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -14400.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 14,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 5,
+  "photo_count": 0,
+  "map": {
+    "id": "a18683350255",
+    "polyline": "k~ohI`elHwAyAuGrB{Cx@s@ZiAv@uCdCu@v@Wb@At@pB~ILb@`@v@J`@@b@QVULk@RaATm@FU?SGSOu@w@_AsA[m@iAwCQIQHmDjC}@f@}@XkBj@oCn@iATWJCh@NpDLdCHh@N`@f@v@RT|AxANPJRbA~FnArE^dA`D`HhEtInA~Ch@fBp@xC`@`Cv@nFJTRCtAu@jB{@fCwAl@a@JMVi@^kAL}A?gBJ[PQd@YfAa@`@SLQB_@C_@c@_DmGg^mEsMMo@Eq@BkBUc@[Dw@ZsATs@DWIWSg@k@iA_B_@w@{@yBQWU@eE~Cg@X}C~@_GpAGf@VnGLvAP`@f@t@f@n@|AxALT`AbGfBdGVn@|FzLdBjDr@fBf@tA^zAt@lDfAxHNVRIx@c@hAg@dCsAjBiAJQVg@To@FYF]F}@?eBH[NSPMzBaANMD[G{@c@uC_Gk]Ka@i@eBwB}Fo@}BIo@Aq@Bs@Go@YOoAd@mATq@DWISOg@i@sAkB[o@aAgCOQSFoDnCa@V_@PoAd@cAVaB`@qCh@UT@l@PzDPhCPd@z@rArBnBLXF\\d@|CXzAhAzD^fAjB`ErEjJ`ArBb@hAn@lBx@lDf@xCr@fFNTRG|A}@dCmAjBiA^UNOd@cATw@HaABc@CiAFa@PURM`CeALQB]G{@S{AsG}^Kc@{BuGaAyCOk@Io@As@Bs@Eq@[UsAf@u@Rq@HW?WIi@e@{AuB_@u@kAwCWAcE~Ce@ViA^{Ab@qFhASXLxDTpDNb@d@v@d@l@zAvANPHXr@rERz@fBdGxIzQpA|Cr@|Bp@tC`@xBx@xFJVPAlDeBpC_Bt@c@JKTc@Tg@Pq@LyA?aBH]NQb@YdAa@n@]HU?]E[_@sCiEoV_A{FqEyMKk@Ek@?q@Bo@Kk@WKmAd@gAVo@FWCUKSQe@i@s@cAm@kAeAkCQQSHmDjC_@T_@RoA`@cAXqFhAWP?l@XvGDl@Nf@R`@h@t@RV~AzALV~@bGnBvGvBrEbBdDfCdFlAvCj@hBv@fDf@tCr@dFLVRGjAo@|BiAbCuAl@c@b@{@Tq@F[H}@@_@AcAD_@LWb@]vBaALQ@[I{@k@yDqBcLgC_OIa@{CsIq@uBIo@Eq@@gBU[]Fu@XmAVs@DWGWQg@k@kA}A]u@eAmCQQSH{AfAeBrA_@TuC|@mGvAGd@PxEPbCNb@f@v@f@l@hAdA\\^Np@f@jDNx@Rt@zAxEh@lAzBvE|DdIzArDX|@|@vD^`Ct@hFH\\P@d@SjFqChBeALMb@_ATu@D]HaA?gBJ[PQb@Yv@Yp@]LQB[C]QwAs@qEuAqHwC}PmEiMKk@Em@?q@Hq@Rc@\\?TXv@lAfDhEx@`A`B`BzDfCnAn@rBt@LNLRb@`AZlAhCjMtAbGt@jChAvCp@xA~@hB|@jBdAtB\\t@DVAVGRm@hAaAxA{EfI_ArAgAbAyCxBu@d@mBj@YTQ\\a@bAwGzRs@zBMl@Cr@VlEdApKJdB?r@Qj@[L]MU[i@y@WUWEm@Di@Jc@ROJyExGsAtBIZAd@L|B",
+    "resource_state": 3,
+    "summary_polyline": "k~ohI`elHwAyAqLlDs@ZiAv@uCdCu@v@Wb@At@pB~ILb@l@xA@b@QVULmBh@cAFSGiAgA_AsAeBeEQI_EtC}@f@iDdAqFpACh@NpDLdCHh@N`@f@v@pBnBZd@bA~FnBxGjJvRnA~Ch@fB~@jEjA~HJTRClGaDhBiAVa@Vk@XsAF_A?gBJ[v@k@hBu@LQB_@g@_EmGg^mEsMMo@Eq@BkBUc@[DkCp@s@DWI_A_AiA_B{AqDQWU@mFxD}C~@_GpAGf@VnGLvAP`@f@t@f@n@|AxALT`AbGfBdGtGjNdBjDfApCd@vAr@fDvAnJNVhD_B~EsCb@y@\\iAN{A?eBH[`@a@zBaANMD[G{@c@uC_Gk]u@gCwB}Fo@}BIo@Aq@Bs@Go@YOoAd@mATq@DWI{@y@sAkB}AwDOQSFoDnCaAh@sC|@sFjAUTRhFPhCPd@z@rArBnBTv@~@xFhBbGfJpRhAtCl@lBn@pCf@xCr@fFNTvFsCzCoBd@cATw@HaA?mBFa@d@c@`CeALQB][wCsG}^Kc@{BuGqAeEIo@@gBEq@[UiCz@iAHWIi@e@{AuBkBmEWAiFvDeDbAqFhASXLxDTpDNb@d@v@pCvCHXfAnGfBdGxIzQpA|Cr@|Bp@tC`@xBx@xFJVPAlDeBrEoCj@kAPq@LyA?aBH]r@k@tB_AHUEy@_@sCiGk^qEyMQwABaBKk@WKmAd@wB^m@Oy@{@s@cAm@kAeAkCQQaEtC_Ah@sCz@qFhAWP?l@XvGDl@Nf@|@vArBrBLV~@bGnBvGvBrEjFjKlAvCj@hBv@fDzAzJLV|EaCpDyBb@{@\\mAH}@?cBD_@LWb@]vBaALQ@[u@uFyFc\\Ia@mEiMOaB@gBU[aDx@s@DWG_A}@kA}AcBcEQQSHaFpDuC|@mGvAGd@PxEPbCNb@f@v@nCrCNp@v@dFnBnGdDdH|DdIzArDX|@|@vD~AhKP@d@SjFqCvBsAb@_ATu@N_B?gBJ[t@k@hBw@LQB[UuBs@qEmFoZmEiMQyA?q@Hq@Rc@\\?lAfBfDhEzCbDzDfCnAn@rBt@Zb@b@`AZlAhCjMtAbGt@jChAvCtFdL\\t@DVAVGRm@hA}G`L_ArAgAbAyCxBu@d@mBj@YTQ\\yH~Ts@zBMl@Cr@VlEdApKJdB?r@Qj@[L]M_AuAWUWEwAPs@^mHnKIZAd@L|B"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    53.990307,
+    -1.542089
+  ],
+  "end_latlng": [
+    53.994568,
+    -1.575111
+  ],
+  "average_speed": 10.678,
+  "max_speed": 18.1,
+  "average_cadence": 81.8,
+  "average_watts": 251.8,
+  "max_watts": 720,
+  "weighted_average_watts": 291,
+  "device_watts": true,
+  "kilojoules": 506.4,
+  "has_heartrate": true,
+  "average_heartrate": 155.7,
+  "max_heartrate": 182.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 162.8,
+  "elev_low": 97.0,
+  "upload_id": 19791644646,
+  "upload_id_str": "19791644646",
+  "external_id": "zwift-activity-2147663400602173472.fit",
+  "from_accepted_tag": false,
+  "pr_count": 8,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "suffer_score": 65.0,
+  "description": "\ud83d\uddfa\ufe0f Queen's Highway After Party in Yorkshire",
+  "calories": 520.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3494894872569231532,
+      "resource_state": 2,
+      "name": "Queen's Highway After Party (OLD)",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 1768,
+      "moving_time": 1768,
+      "start_date": "2026-05-28T01:10:31Z",
+      "start_date_local": "2026-05-27T21:10:31Z",
+      "distance": 19813.5,
+      "start_index": 2,
+      "end_index": 1770,
+      "average_cadence": 83.4,
+      "device_watts": true,
+      "average_watts": 273.3,
+      "average_heartrate": 156.9,
+      "max_heartrate": 181.0,
+      "segment": {
+        "id": 36853899,
+        "resource_state": 2,
+        "name": "Queen's Highway After Party (OLD)",
+        "activity_type": "VirtualRide",
+        "distance": 19813.5,
+        "average_grade": 0.2,
+        "maximum_grade": 11.3,
+        "elevation_high": 162.8,
+        "elevation_low": 103.0,
+        "start_latlng": [
+          53.990794,
+          -1.541653
+        ],
+        "end_latlng": [
+          53.985958,
+          -1.559449
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872570144940,
+      "resource_state": 2,
+      "name": "Queen's Highway (with Lead In)",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 471,
+      "moving_time": 471,
+      "start_date": "2026-05-28T01:10:51Z",
+      "start_date_local": "2026-05-27T21:10:51Z",
+      "distance": 5381.0,
+      "start_index": 22,
+      "end_index": 493,
+      "average_cadence": 83.1,
+      "device_watts": true,
+      "average_watts": 281.0,
+      "average_heartrate": 151.0,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 21748231,
+        "resource_state": 2,
+        "name": "Queen's Highway (with Lead In)",
+        "activity_type": "VirtualRide",
+        "distance": 5381.0,
+        "average_grade": 0.3,
+        "maximum_grade": 6.6,
+        "elevation_high": 133.0,
+        "elevation_low": 102.8,
+        "start_latlng": [
+          53.993216,
+          -1.542685
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.55924
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872571359404,
+      "resource_state": 2,
+      "name": "Kent Rd Climb to Sprint Banner",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 119,
+      "moving_time": 119,
+      "start_date": "2026-05-28T01:12:32Z",
+      "start_date_local": "2026-05-27T21:12:32Z",
+      "distance": 1137.3,
+      "start_index": 123,
+      "end_index": 242,
+      "average_cadence": 80.3,
+      "device_watts": true,
+      "average_watts": 307.8,
+      "average_heartrate": 147.6,
+      "max_heartrate": 159.0,
+      "segment": {
+        "id": 27180136,
+        "resource_state": 2,
+        "name": "Kent Rd Climb to Sprint Banner",
+        "activity_type": "VirtualRide",
+        "distance": 1137.3,
+        "average_grade": 2.6,
+        "maximum_grade": 7.0,
+        "elevation_high": 132.6,
+        "elevation_low": 102.8,
+        "start_latlng": [
+          53.999439,
+          -1.54916
+        ],
+        "end_latlng": [
+          53.99269,
+          -1.559248
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872568034476,
+      "resource_state": 2,
+      "name": "Yorkshire Sprint Reverse",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 41,
+      "moving_time": 41,
+      "start_date": "2026-05-28T01:13:50Z",
+      "start_date_local": "2026-05-27T21:13:50Z",
+      "distance": 394.3,
+      "start_index": 201,
+      "end_index": 242,
+      "average_cadence": 81.8,
+      "device_watts": true,
+      "average_watts": 326.7,
+      "average_heartrate": 153.3,
+      "max_heartrate": 159.0,
+      "segment": {
+        "id": 21748007,
+        "resource_state": 2,
+        "name": "Yorkshire Sprint Reverse",
+        "activity_type": "VirtualRide",
+        "distance": 394.3,
+        "average_grade": 2.1,
+        "maximum_grade": 5.7,
+        "elevation_high": 132.6,
+        "elevation_low": 124.2,
+        "start_latlng": [
+          53.995104,
+          -1.557614
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.559249
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872569370796,
+      "resource_state": 2,
+      "name": "Queen's Highway",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 251,
+      "moving_time": 251,
+      "start_date": "2026-05-28T01:14:31Z",
+      "start_date_local": "2026-05-27T21:14:31Z",
+      "distance": 2984.4,
+      "start_index": 242,
+      "end_index": 493,
+      "average_cadence": 84.4,
+      "device_watts": true,
+      "average_watts": 294.7,
+      "average_heartrate": 157.6,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 21748253,
+        "resource_state": 2,
+        "name": "Queen's Highway",
+        "activity_type": "VirtualRide",
+        "distance": 2984.4,
+        "average_grade": 0.0,
+        "maximum_grade": 6.6,
+        "elevation_high": 133.0,
+        "elevation_low": 102.8,
+        "start_latlng": [
+          53.992685,
+          -1.559243
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.55924
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872570196140,
+      "resource_state": 2,
+      "name": "Kent Rd Climb to Sprint Banner",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 110,
+      "moving_time": 110,
+      "start_date": "2026-05-28T01:16:52Z",
+      "start_date_local": "2026-05-27T21:16:52Z",
+      "distance": 1137.3,
+      "start_index": 383,
+      "end_index": 493,
+      "average_cadence": 85.9,
+      "device_watts": true,
+      "average_watts": 360.9,
+      "average_heartrate": 164.8,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 27180136,
+        "resource_state": 2,
+        "name": "Kent Rd Climb to Sprint Banner",
+        "activity_type": "VirtualRide",
+        "distance": 1137.3,
+        "average_grade": 2.6,
+        "maximum_grade": 7.0,
+        "elevation_high": 132.6,
+        "elevation_low": 102.8,
+        "start_latlng": [
+          53.999439,
+          -1.54916
+        ],
+        "end_latlng": [
+          53.99269,
+          -1.559248
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872569503916,
+      "resource_state": 2,
+      "name": "Yorkshire Sprint Reverse",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 38,
+      "moving_time": 38,
+      "start_date": "2026-05-28T01:18:04Z",
+      "start_date_local": "2026-05-27T21:18:04Z",
+      "distance": 394.3,
+      "start_index": 455,
+      "end_index": 493,
+      "average_cadence": 87.5,
+      "device_watts": true,
+      "average_watts": 359.9,
+      "average_heartrate": 167.9,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 21748007,
+        "resource_state": 2,
+        "name": "Yorkshire Sprint Reverse",
+        "activity_type": "VirtualRide",
+        "distance": 394.3,
+        "average_grade": 2.1,
+        "maximum_grade": 5.7,
+        "elevation_high": 132.6,
+        "elevation_low": 124.2,
+        "start_latlng": [
+          53.995104,
+          -1.557614
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.559249
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872569337004,
+      "resource_state": 2,
+      "name": "Queen's Highway",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 257,
+      "moving_time": 257,
+      "start_date": "2026-05-28T01:18:42Z",
+      "start_date_local": "2026-05-27T21:18:42Z",
+      "distance": 2984.4,
+      "start_index": 493,
+      "end_index": 750,
+      "average_cadence": 83.1,
+      "device_watts": true,
+      "average_watts": 266.7,
+      "average_heartrate": 154.5,
+      "max_heartrate": 171.0,
+      "segment": {
+        "id": 21748253,
+        "resource_state": 2,
+        "name": "Queen's Highway",
+        "activity_type": "VirtualRide",
+        "distance": 2984.4,
+        "average_grade": 0.0,
+        "maximum_grade": 6.6,
+        "elevation_high": 133.0,
+        "elevation_low": 102.8,
+        "start_latlng": [
+          53.992685,
+          -1.559243
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.55924
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872569039020,
+      "resource_state": 2,
+      "name": "Kent Rd Climb to Sprint Banner",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 106,
+      "moving_time": 106,
+      "start_date": "2026-05-28T01:21:13Z",
+      "start_date_local": "2026-05-27T21:21:13Z",
+      "distance": 1137.3,
+      "start_index": 644,
+      "end_index": 750,
+      "average_cadence": 88.7,
+      "device_watts": true,
+      "average_watts": 381.4,
+      "average_heartrate": 160.7,
+      "max_heartrate": 171.0,
+      "segment": {
+        "id": 27180136,
+        "resource_state": 2,
+        "name": "Kent Rd Climb to Sprint Banner",
+        "activity_type": "VirtualRide",
+        "distance": 1137.3,
+        "average_grade": 2.6,
+        "maximum_grade": 7.0,
+        "elevation_high": 132.6,
+        "elevation_low": 102.8,
+        "start_latlng": [
+          53.999439,
+          -1.54916
+        ],
+        "end_latlng": [
+          53.99269,
+          -1.559248
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872571803820,
+      "resource_state": 2,
+      "name": "Yorkshire Sprint Reverse",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 37,
+      "moving_time": 37,
+      "start_date": "2026-05-28T01:22:22Z",
+      "start_date_local": "2026-05-27T21:22:22Z",
+      "distance": 394.3,
+      "start_index": 713,
+      "end_index": 750,
+      "average_cadence": 90.5,
+      "device_watts": true,
+      "average_watts": 346.5,
+      "average_heartrate": 170.0,
+      "max_heartrate": 171.0,
+      "segment": {
+        "id": 21748007,
+        "resource_state": 2,
+        "name": "Yorkshire Sprint Reverse",
+        "activity_type": "VirtualRide",
+        "distance": 394.3,
+        "average_grade": 2.1,
+        "maximum_grade": 5.7,
+        "elevation_high": 132.6,
+        "elevation_low": 124.2,
+        "start_latlng": [
+          53.995104,
+          -1.557614
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.559249
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872568157356,
+      "resource_state": 2,
+      "name": "Queen's Highway",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 267,
+      "moving_time": 267,
+      "start_date": "2026-05-28T01:22:59Z",
+      "start_date_local": "2026-05-27T21:22:59Z",
+      "distance": 2984.4,
+      "start_index": 750,
+      "end_index": 1017,
+      "average_cadence": 84.5,
+      "device_watts": true,
+      "average_watts": 257.5,
+      "average_heartrate": 161.1,
+      "max_heartrate": 171.0,
+      "segment": {
+        "id": 21748253,
+        "resource_state": 2,
+        "name": "Queen's Highway",
+        "activity_type": "VirtualRide",
+        "distance": 2984.4,
+        "average_grade": 0.0,
+        "maximum_grade": 6.6,
+        "elevation_high": 133.0,
+        "elevation_low": 102.8,
+        "start_latlng": [
+          53.992685,
+          -1.559243
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.55924
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872571242668,
+      "resource_state": 2,
+      "name": "Kent Rd Climb to Sprint Banner",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 123,
+      "moving_time": 123,
+      "start_date": "2026-05-28T01:25:23Z",
+      "start_date_local": "2026-05-27T21:25:23Z",
+      "distance": 1137.3,
+      "start_index": 894,
+      "end_index": 1017,
+      "average_cadence": 84.0,
+      "device_watts": true,
+      "average_watts": 290.3,
+      "average_heartrate": 161.2,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 27180136,
+        "resource_state": 2,
+        "name": "Kent Rd Climb to Sprint Banner",
+        "activity_type": "VirtualRide",
+        "distance": 1137.3,
+        "average_grade": 2.6,
+        "maximum_grade": 7.0,
+        "elevation_high": 132.6,
+        "elevation_low": 102.8,
+        "start_latlng": [
+          53.999439,
+          -1.54916
+        ],
+        "end_latlng": [
+          53.99269,
+          -1.559248
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872570947756,
+      "resource_state": 2,
+      "name": "Yorkshire Sprint Reverse",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 44,
+      "moving_time": 44,
+      "start_date": "2026-05-28T01:26:42Z",
+      "start_date_local": "2026-05-27T21:26:42Z",
+      "distance": 394.3,
+      "start_index": 973,
+      "end_index": 1017,
+      "average_cadence": 84.2,
+      "device_watts": true,
+      "average_watts": 279.6,
+      "average_heartrate": 160.8,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 21748007,
+        "resource_state": 2,
+        "name": "Yorkshire Sprint Reverse",
+        "activity_type": "VirtualRide",
+        "distance": 394.3,
+        "average_grade": 2.1,
+        "maximum_grade": 5.7,
+        "elevation_high": 132.6,
+        "elevation_low": 124.2,
+        "start_latlng": [
+          53.995104,
+          -1.557614
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.559249
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872568100012,
+      "resource_state": 2,
+      "name": "Queen's Highway",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 259,
+      "moving_time": 259,
+      "start_date": "2026-05-28T01:27:26Z",
+      "start_date_local": "2026-05-27T21:27:26Z",
+      "distance": 2984.4,
+      "start_index": 1017,
+      "end_index": 1276,
+      "average_cadence": 87.1,
+      "device_watts": true,
+      "average_watts": 277.2,
+      "average_heartrate": 155.9,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 21748253,
+        "resource_state": 2,
+        "name": "Queen's Highway",
+        "activity_type": "VirtualRide",
+        "distance": 2984.4,
+        "average_grade": 0.0,
+        "maximum_grade": 6.6,
+        "elevation_high": 133.0,
+        "elevation_low": 102.8,
+        "start_latlng": [
+          53.992685,
+          -1.559243
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.55924
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872569147564,
+      "resource_state": 2,
+      "name": "Kent Rd Climb to Sprint Banner",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 104,
+      "moving_time": 104,
+      "start_date": "2026-05-28T01:30:01Z",
+      "start_date_local": "2026-05-27T21:30:01Z",
+      "distance": 1137.3,
+      "start_index": 1172,
+      "end_index": 1276,
+      "average_cadence": 91.6,
+      "device_watts": true,
+      "average_watts": 397.4,
+      "average_heartrate": 167.4,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 27180136,
+        "resource_state": 2,
+        "name": "Kent Rd Climb to Sprint Banner",
+        "activity_type": "VirtualRide",
+        "distance": 1137.3,
+        "average_grade": 2.6,
+        "maximum_grade": 7.0,
+        "elevation_high": 132.6,
+        "elevation_low": 102.8,
+        "start_latlng": [
+          53.999439,
+          -1.54916
+        ],
+        "end_latlng": [
+          53.99269,
+          -1.559248
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872571431084,
+      "resource_state": 2,
+      "name": "Yorkshire Sprint Reverse",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 37,
+      "moving_time": 37,
+      "start_date": "2026-05-28T01:31:08Z",
+      "start_date_local": "2026-05-27T21:31:08Z",
+      "distance": 394.3,
+      "start_index": 1239,
+      "end_index": 1276,
+      "average_cadence": 92.7,
+      "device_watts": true,
+      "average_watts": 381.1,
+      "average_heartrate": 173.9,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 21748007,
+        "resource_state": 2,
+        "name": "Yorkshire Sprint Reverse",
+        "activity_type": "VirtualRide",
+        "distance": 394.3,
+        "average_grade": 2.1,
+        "maximum_grade": 5.7,
+        "elevation_high": 132.6,
+        "elevation_low": 124.2,
+        "start_latlng": [
+          53.995104,
+          -1.557614
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.559249
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872568421548,
+      "resource_state": 2,
+      "name": "Queen's Highway",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 272,
+      "moving_time": 272,
+      "start_date": "2026-05-28T01:31:45Z",
+      "start_date_local": "2026-05-27T21:31:45Z",
+      "distance": 2984.4,
+      "start_index": 1276,
+      "end_index": 1548,
+      "average_cadence": 80.3,
+      "device_watts": true,
+      "average_watts": 242.8,
+      "average_heartrate": 161.0,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 21748253,
+        "resource_state": 2,
+        "name": "Queen's Highway",
+        "activity_type": "VirtualRide",
+        "distance": 2984.4,
+        "average_grade": 0.0,
+        "maximum_grade": 6.6,
+        "elevation_high": 133.0,
+        "elevation_low": 102.8,
+        "start_latlng": [
+          53.992685,
+          -1.559243
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.55924
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872570805420,
+      "resource_state": 2,
+      "name": "Kent Rd Climb to Sprint Banner",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 119,
+      "moving_time": 119,
+      "start_date": "2026-05-28T01:34:17Z",
+      "start_date_local": "2026-05-27T21:34:17Z",
+      "distance": 1137.3,
+      "start_index": 1428,
+      "end_index": 1547,
+      "average_cadence": 81.6,
+      "device_watts": true,
+      "average_watts": 318.0,
+      "average_heartrate": 160.7,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 27180136,
+        "resource_state": 2,
+        "name": "Kent Rd Climb to Sprint Banner",
+        "activity_type": "VirtualRide",
+        "distance": 1137.3,
+        "average_grade": 2.6,
+        "maximum_grade": 7.0,
+        "elevation_high": 132.6,
+        "elevation_low": 102.8,
+        "start_latlng": [
+          53.999439,
+          -1.54916
+        ],
+        "end_latlng": [
+          53.99269,
+          -1.559248
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872569691308,
+      "resource_state": 2,
+      "name": "Yorkshire Sprint Reverse",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 42,
+      "moving_time": 42,
+      "start_date": "2026-05-28T01:35:35Z",
+      "start_date_local": "2026-05-27T21:35:35Z",
+      "distance": 394.3,
+      "start_index": 1506,
+      "end_index": 1548,
+      "average_cadence": 83.0,
+      "device_watts": true,
+      "average_watts": 323.3,
+      "average_heartrate": 165.6,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 21748007,
+        "resource_state": 2,
+        "name": "Yorkshire Sprint Reverse",
+        "activity_type": "VirtualRide",
+        "distance": 394.3,
+        "average_grade": 2.1,
+        "maximum_grade": 5.7,
+        "elevation_high": 132.6,
+        "elevation_low": 124.2,
+        "start_latlng": [
+          53.995104,
+          -1.557614
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.559249
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872568691884,
+      "resource_state": 2,
+      "name": "Yorkshire KOM Reverse",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 132,
+      "moving_time": 132,
+      "start_date": "2026-05-28T01:37:47Z",
+      "start_date_local": "2026-05-27T21:37:47Z",
+      "distance": 1162.5,
+      "start_index": 1638,
+      "end_index": 1770,
+      "average_cadence": 85.7,
+      "device_watts": true,
+      "average_watts": 429.9,
+      "average_heartrate": 169.9,
+      "max_heartrate": 181.0,
+      "segment": {
+        "id": 21747891,
+        "resource_state": 2,
+        "name": "Yorkshire KOM Reverse",
+        "activity_type": "VirtualRide",
+        "distance": 1162.5,
+        "average_grade": 4.1,
+        "maximum_grade": 7.0,
+        "elevation_high": 162.8,
+        "elevation_low": 114.8,
+        "start_latlng": [
+          53.992969,
+          -1.54761
+        ],
+        "end_latlng": [
+          53.985958,
+          -1.559466
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872570853548,
+      "resource_state": 2,
+      "name": "KOM Reverse Up and Down",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 214,
+      "moving_time": 214,
+      "start_date": "2026-05-28T01:37:48Z",
+      "start_date_local": "2026-05-27T21:37:48Z",
+      "distance": 2363.5,
+      "start_index": 1639,
+      "end_index": 1853,
+      "average_cadence": 81.3,
+      "device_watts": true,
+      "average_watts": 290.1,
+      "average_heartrate": 169.6,
+      "max_heartrate": 182.0,
+      "segment": {
+        "id": 27180109,
+        "resource_state": 2,
+        "name": "KOM Reverse Up and Down",
+        "activity_type": "VirtualRide",
+        "distance": 2363.5,
+        "average_grade": -0.8,
+        "maximum_grade": 7.1,
+        "elevation_high": 162.8,
+        "elevation_low": 97.0,
+        "start_latlng": [
+          53.992953,
+          -1.547631
+        ],
+        "end_latlng": [
+          53.991634,
+          -1.572555
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3494894872569840812,
+      "resource_state": 2,
+      "name": "KOM Reverse Descent",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 82,
+      "moving_time": 82,
+      "start_date": "2026-05-28T01:40:00Z",
+      "start_date_local": "2026-05-27T21:40:00Z",
+      "distance": 1211.4,
+      "start_index": 1771,
+      "end_index": 1853,
+      "average_cadence": 74.1,
+      "device_watts": true,
+      "average_watts": 69.6,
+      "average_heartrate": 168.5,
+      "max_heartrate": 182.0,
+      "segment": {
+        "id": 27180074,
+        "resource_state": 2,
+        "name": "KOM Reverse Descent",
+        "activity_type": "VirtualRide",
+        "distance": 1211.4,
+        "average_grade": -5.4,
+        "maximum_grade": 0.0,
+        "elevation_high": 162.8,
+        "elevation_low": 97.0,
+        "start_latlng": [
+          53.985963,
+          -1.559477
+        ],
+        "end_latlng": [
+          53.991666,
+          -1.572581
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1008.8,
+      "elapsed_time": 80,
+      "elevation_difference": -15.2,
+      "moving_time": 80,
+      "split": 1,
+      "average_speed": 12.61,
+      "average_grade_adjusted_speed": 12.35,
+      "average_heartrate": 134.6375,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.3,
+      "elapsed_time": 93,
+      "elevation_difference": 7.8,
+      "moving_time": 93,
+      "split": 2,
+      "average_speed": 10.7,
+      "average_grade_adjusted_speed": 11.17,
+      "average_heartrate": 139.58064516129033,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.1,
+      "elapsed_time": 106,
+      "elevation_difference": 13.8,
+      "moving_time": 106,
+      "split": 3,
+      "average_speed": 9.49,
+      "average_grade_adjusted_speed": 9.96,
+      "average_heartrate": 153.12264150943398,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.7,
+      "elapsed_time": 69,
+      "elevation_difference": -21.2,
+      "moving_time": 69,
+      "split": 4,
+      "average_speed": 14.44,
+      "average_grade_adjusted_speed": 13.89,
+      "average_heartrate": 148.43478260869566,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 83,
+      "elevation_difference": 8.0,
+      "moving_time": 83,
+      "split": 5,
+      "average_speed": 12.06,
+      "average_grade_adjusted_speed": 12.59,
+      "average_heartrate": 158.44578313253012,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 101,
+      "elevation_difference": 13.0,
+      "moving_time": 101,
+      "split": 6,
+      "average_speed": 9.9,
+      "average_grade_adjusted_speed": 10.36,
+      "average_heartrate": 166.40594059405942,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.8,
+      "elapsed_time": 75,
+      "elevation_difference": -20.6,
+      "moving_time": 75,
+      "split": 7,
+      "average_speed": 13.28,
+      "average_grade_adjusted_speed": 12.79,
+      "average_heartrate": 146.62666666666667,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.4,
+      "elapsed_time": 88,
+      "elevation_difference": 8.0,
+      "moving_time": 88,
+      "split": 8,
+      "average_speed": 11.41,
+      "average_grade_adjusted_speed": 11.91,
+      "average_heartrate": 148.0568181818182,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.1,
+      "elapsed_time": 93,
+      "elevation_difference": 12.2,
+      "moving_time": 93,
+      "split": 9,
+      "average_speed": 10.72,
+      "average_grade_adjusted_speed": 11.2,
+      "average_heartrate": 169.01075268817203,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.3,
+      "elapsed_time": 74,
+      "elevation_difference": -19.6,
+      "moving_time": 74,
+      "split": 10,
+      "average_speed": 13.6,
+      "average_grade_adjusted_speed": 13.14,
+      "average_heartrate": 157.55405405405406,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.7,
+      "elapsed_time": 89,
+      "elevation_difference": 7.6,
+      "moving_time": 89,
+      "split": 11,
+      "average_speed": 11.19,
+      "average_grade_adjusted_speed": 11.66,
+      "average_heartrate": 160.38202247191012,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.5,
+      "elapsed_time": 109,
+      "elevation_difference": 11.8,
+      "moving_time": 109,
+      "split": 12,
+      "average_speed": 9.11,
+      "average_grade_adjusted_speed": 9.52,
+      "average_heartrate": 160.22935779816513,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.2,
+      "elapsed_time": 77,
+      "elevation_difference": -19.0,
+      "moving_time": 77,
+      "split": 13,
+      "average_speed": 13.04,
+      "average_grade_adjusted_speed": 12.62,
+      "average_heartrate": 142.76623376623377,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 88,
+      "elevation_difference": 7.6,
+      "moving_time": 88,
+      "split": 14,
+      "average_speed": 11.4,
+      "average_grade_adjusted_speed": 11.89,
+      "average_heartrate": 155.79545454545453,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.0,
+      "elapsed_time": 94,
+      "elevation_difference": 10.8,
+      "moving_time": 94,
+      "split": 15,
+      "average_speed": 10.61,
+      "average_grade_adjusted_speed": 11.05,
+      "average_heartrate": 172.74468085106383,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 76,
+      "elevation_difference": -17.8,
+      "moving_time": 76,
+      "split": 16,
+      "average_speed": 13.18,
+      "average_grade_adjusted_speed": 12.79,
+      "average_heartrate": 158.19736842105263,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 94,
+      "elevation_difference": 7.6,
+      "moving_time": 94,
+      "split": 17,
+      "average_speed": 10.64,
+      "average_grade_adjusted_speed": 11.09,
+      "average_heartrate": 155.70212765957447,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 103,
+      "elevation_difference": 10.0,
+      "moving_time": 103,
+      "split": 18,
+      "average_speed": 9.67,
+      "average_grade_adjusted_speed": 10.06,
+      "average_heartrate": 165.6990291262136,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.7,
+      "elapsed_time": 87,
+      "elevation_difference": -4.0,
+      "moving_time": 87,
+      "split": 19,
+      "average_speed": 11.47,
+      "average_grade_adjusted_speed": 11.75,
+      "average_heartrate": 154.17241379310346,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.9,
+      "elapsed_time": 115,
+      "elevation_difference": 30.4,
+      "moving_time": 115,
+      "split": 20,
+      "average_speed": 8.76,
+      "average_grade_adjusted_speed": 9.81,
+      "average_heartrate": 175.68695652173912,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 63,
+      "elevation_difference": -58.4,
+      "moving_time": 63,
+      "split": 21,
+      "average_speed": 15.87,
+      "average_grade_adjusted_speed": 14.24,
+      "average_heartrate": 165.47619047619048,
+      "pace_zone": 0
+    },
+    {
+      "distance": 466.4,
+      "elapsed_time": 190,
+      "elevation_difference": 23.6,
+      "moving_time": 154,
+      "split": 22,
+      "average_speed": 3.03,
+      "average_grade_adjusted_speed": 3.63,
+      "average_heartrate": 136.75324675324674,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1612.2,
+      "elapsed_time": 133,
+      "elevation_difference": -18.6,
+      "moving_time": 133,
+      "split": 1,
+      "average_speed": 12.12,
+      "average_grade_adjusted_speed": 12.01,
+      "average_heartrate": 136.38345864661653,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 162,
+      "elevation_difference": 20.6,
+      "moving_time": 162,
+      "split": 2,
+      "average_speed": 9.92,
+      "average_grade_adjusted_speed": 10.41,
+      "average_heartrate": 149.85185185185185,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1618.1,
+      "elapsed_time": 119,
+      "elevation_difference": -14.4,
+      "moving_time": 119,
+      "split": 3,
+      "average_speed": 13.6,
+      "average_grade_adjusted_speed": 13.56,
+      "average_heartrate": 152.43697478991598,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.9,
+      "elapsed_time": 153,
+      "elevation_difference": 7.4,
+      "moving_time": 153,
+      "split": 4,
+      "average_speed": 10.54,
+      "average_grade_adjusted_speed": 10.81,
+      "average_heartrate": 163.44444444444446,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1600.9,
+      "elapsed_time": 132,
+      "elevation_difference": -0.4,
+      "moving_time": 132,
+      "split": 5,
+      "average_speed": 12.13,
+      "average_grade_adjusted_speed": 12.37,
+      "average_heartrate": 146.18939393939394,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 137,
+      "elevation_difference": -10.8,
+      "moving_time": 137,
+      "split": 6,
+      "average_speed": 11.75,
+      "average_grade_adjusted_speed": 11.75,
+      "average_heartrate": 166.5182481751825,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 146,
+      "elevation_difference": 16.8,
+      "moving_time": 146,
+      "split": 7,
+      "average_speed": 11.02,
+      "average_grade_adjusted_speed": 11.5,
+      "average_heartrate": 159.02739726027397,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.8,
+      "elapsed_time": 144,
+      "elevation_difference": -15.4,
+      "moving_time": 144,
+      "split": 8,
+      "average_speed": 11.15,
+      "average_grade_adjusted_speed": 11.06,
+      "average_heartrate": 152.15277777777777,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.9,
+      "elapsed_time": 143,
+      "elevation_difference": 18.6,
+      "moving_time": 143,
+      "split": 9,
+      "average_speed": 11.29,
+      "average_grade_adjusted_speed": 11.86,
+      "average_heartrate": 159.25174825174824,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.4,
+      "elapsed_time": 135,
+      "elevation_difference": -14.0,
+      "moving_time": 135,
+      "split": 10,
+      "average_speed": 11.9,
+      "average_grade_adjusted_speed": 11.8,
+      "average_heartrate": 163.7111111111111,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 160,
+      "elevation_difference": 17.2,
+      "moving_time": 160,
+      "split": 11,
+      "average_speed": 10.05,
+      "average_grade_adjusted_speed": 10.54,
+      "average_heartrate": 160.35625,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.2,
+      "elapsed_time": 150,
+      "elevation_difference": 6.6,
+      "moving_time": 150,
+      "split": 12,
+      "average_speed": 10.76,
+      "average_grade_adjusted_speed": 11.22,
+      "average_heartrate": 159.67333333333335,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1619.3,
+      "elapsed_time": 139,
+      "elevation_difference": -36.0,
+      "moving_time": 139,
+      "split": 13,
+      "average_speed": 11.65,
+      "average_grade_adjusted_speed": 11.5,
+      "average_heartrate": 173.6115107913669,
+      "pace_zone": 0
+    },
+    {
+      "distance": 535.1,
+      "elapsed_time": 194,
+      "elevation_difference": 18.8,
+      "moving_time": 158,
+      "split": 14,
+      "average_speed": 3.39,
+      "average_grade_adjusted_speed": 3.93,
+      "average_heartrate": 137.21518987341773,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 66834822904,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 18683350255,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 2047,
+      "moving_time": 2043,
+      "start_date": "2026-05-28T01:10:24Z",
+      "start_date_local": "2026-05-27T21:10:24Z",
+      "distance": 21473.1,
+      "average_speed": 10.51,
+      "max_speed": 18.1,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 2042,
+      "total_elevation_gain": 302.6,
+      "average_cadence": 81.8,
+      "device_watts": true,
+      "average_watts": 251.8,
+      "average_heartrate": 155.7,
+      "max_heartrate": 182.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "d3828c8b-5c78-46cb-85e6-deb780544a03",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/XtmNp0tlp_dEPuFVlFkuqmbNUQTHFhaD1UKHZvHWUrE-768x432.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/XtmNp0tlp_dEPuFVlFkuqmbNUQTHFhaD1UKHZvHWUrE-128x72.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "1ba9de4de8f27aa131f4c4d3b6252c34b404c986",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Segments Over Time</title>
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+  <script src="https://cdn.plot.ly/plotly-3.4.0.min.js" crossorigin="anonymous"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #0b0f14;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 10px 14px 18px;
+    }
+    h1 {
+      margin: 8px 0 6px;
+      font-size: 28px;
+      text-align: center;
+    }
+    .sub {
+      color: #9fb0c7;
+      margin-bottom: 16px;
+      font-size: 14px;
+    }
+    .nav-link {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      margin: 0;
+      color: #7dd3fc;
+      text-decoration: none;
+      font-weight: 700;
+    }
+    .nav-link:hover {
+      text-decoration: underline;
+    }
+    .mode-actions {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      margin: 0 0 18px;
+    }
+    .segment-card {
+      margin: 0 0 16px;
+      padding: 14px;
+      border: 1px solid #243042;
+      border-radius: 14px;
+      background: #10151d;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
+    }
+    .segment-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+      align-items: start;
+    }
+    .segment-column-full {
+      grid-column: 1 / -1;
+    }
+    .column-title {
+      margin: 0 0 10px;
+      font-size: 20px;
+    }
+    .column-title.title-fast {
+      color: #5ea1ff;
+    }
+    .column-title.title-slow {
+      color: #f87171;
+    }
+    .segment-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 10px;
+    }
+    .segment-head h2 {
+      margin: 0;
+      font-size: 20px;
+    }
+    .segment-head h2.title-fast {
+      color: #5ea1ff;
+    }
+    .segment-head h2.title-slow {
+      color: #f87171;
+    }
+    .segment-head a {
+      color: #5ea1ff;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 13px;
+      white-space: nowrap;
+    }
+    .segment-head a:hover {
+      text-decoration: underline;
+    }
+    .segment-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 16px;
+      margin: 0 0 10px;
+      color: #c6d3e3;
+      font-size: 15px;
+      font-weight: 700;
+    }
+    .meta-label {
+      color: #7f8da3;
+      font-weight: 700;
+      text-transform: uppercase;
+      font-size: 11px;
+      letter-spacing: 0.04em;
+    }
+    .segment-note {
+      margin: 12px 0 8px;
+      color: #9fb0c7;
+      font-size: 13px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .mini-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 0 0 6px;
+      overflow: hidden;
+      border-radius: 10px;
+    }
+    .mini-table th,
+    .mini-table td {
+      padding: 10px 12px;
+      border-bottom: 1px solid #243042;
+      text-align: left;
+      white-space: nowrap;
+      font-size: 20px;
+    }
+    .mini-table thead th {
+      background: #0f1726;
+      color: #e6edf3;
+    }
+    .mini-table td.muted,
+    .mini-table th.muted {
+      color: #6f7c91;
+    }
+    .segment-plot-view {
+      display: block;
+    }
+    .segment-table-view {
+      display: none;
+    }
+    .segment-history-plot {
+      width: 100%;
+      height: 280px;
+      margin-top: 4px;
+    }
+    .plot-empty {
+      color: #6f7c91;
+      font-size: 15px;
+      font-weight: 700;
+      padding: 10px 0 4px;
+    }
+    .athlete-name {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .athlete-icon {
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      object-fit: cover;
+      flex: 0 0 auto;
+      background: #0f1726;
+    }
+    .numeric {
+      text-align: right !important;
+    }
+    .muted {
+      color: #6f7c91;
+    }
+    @media (max-width: 760px) {
+      .segment-grid {
+        grid-template-columns: 1fr;
+      }
+      .segment-column-full {
+        grid-column: auto;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Segments Over Time</h1>
+    <div class="mode-actions">
+      <a class="nav-link" href="segments_map.html">Map</a><a class="nav-link" href="segments.html">Tables</a>
+    </div>
+    <div class='segment-grid'><div class='segment-column'><section class='segment-card'><div class='segment-head'><h2 class='title-fast'>Redway (Official)</h2><a href='https://www.strava.com/segments/17322995' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 0.30 km</span><span><span class='meta-label'>Elevation</span> 40 m</span></div><div class='segment-plot-view'><div class="segment-history-plot" data-start-date="2026-01-01" data-end-date="2026-07-05" data-series="[{&quot;name&quot;:&quot;Chris 1:06&quot;,&quot;color&quot;:&quot;#5ea1ff&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-04-11&quot;,&quot;2026-04-18&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[87,85,66,66],&quot;text&quot;:[&quot;1:27&quot;,&quot;1:25&quot;,&quot;1:06&quot;,&quot;1:06&quot;]},{&quot;name&quot;:&quot;Jeff 1:23&quot;,&quot;color&quot;:&quot;#f87171&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[83,83],&quot;text&quot;:[&quot;1:23&quot;,&quot;1:23&quot;]}]"></div></div></section></div><div class='segment-column'><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>IG2017 Criterium Lap</h2><a href='https://www.strava.com/segments/16091644' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 1.85 km</span><span><span class='meta-label'>Elevation</span> 6 m</span></div><div class='segment-plot-view'><div class="segment-history-plot" data-start-date="2026-01-01" data-end-date="2026-07-05" data-series="[{&quot;name&quot;:&quot;Jeff 3:00&quot;,&quot;color&quot;:&quot;#f87171&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[180,180],&quot;text&quot;:[&quot;3:00&quot;,&quot;3:00&quot;]},{&quot;name&quot;:&quot;Chris 3:00&quot;,&quot;color&quot;:&quot;#5ea1ff&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-05-25&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[187,180,180],&quot;text&quot;:[&quot;3:07&quot;,&quot;3:00&quot;,&quot;3:00&quot;]}]"></div></div></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Beechwood Drive</h2><a href='https://www.strava.com/segments/806459' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 0.51 km</span><span><span class='meta-label'>Elevation</span> 35 m</span></div><div class='segment-plot-view'><div class="segment-history-plot" data-start-date="2026-01-01" data-end-date="2026-07-05" data-series="[{&quot;name&quot;:&quot;Jeff 1:12&quot;,&quot;color&quot;:&quot;#f87171&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-05-29&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[81,72,72],&quot;text&quot;:[&quot;1:21&quot;,&quot;1:12&quot;,&quot;1:12&quot;]},{&quot;name&quot;:&quot;Chris 1:13&quot;,&quot;color&quot;:&quot;#5ea1ff&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-04-11&quot;,&quot;2026-04-18&quot;,&quot;2026-04-23&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[104,102,86,73,73],&quot;text&quot;:[&quot;1:44&quot;,&quot;1:42&quot;,&quot;1:26&quot;,&quot;1:13&quot;,&quot;1:13&quot;]}]"></div></div></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Thorncliffe Park Drive climb</h2><a href='https://www.strava.com/segments/7394805' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 0.31 km</span><span><span class='meta-label'>Elevation</span> 25 m</span></div><div class='segment-plot-view'><div class="segment-history-plot" data-start-date="2026-01-01" data-end-date="2026-07-05" data-series="[{&quot;name&quot;:&quot;Jeff 48s&quot;,&quot;color&quot;:&quot;#f87171&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-05-29&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[53,48,48],&quot;text&quot;:[&quot;53s&quot;,&quot;48s&quot;,&quot;48s&quot;]},{&quot;name&quot;:&quot;Chris 49s&quot;,&quot;color&quot;:&quot;#5ea1ff&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-04-18&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[57,49,49],&quot;text&quot;:[&quot;57s&quot;,&quot;49s&quot;,&quot;49s&quot;]}]"></div></div></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Sunnybrook to hospital</h2><a href='https://www.strava.com/segments/740423' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 0.61 km</span><span><span class='meta-label'>Elevation</span> 25 m</span></div><div class='segment-plot-view'><div class="segment-history-plot" data-start-date="2026-01-01" data-end-date="2026-07-05" data-series="[{&quot;name&quot;:&quot;Jeff 1:09&quot;,&quot;color&quot;:&quot;#f87171&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-05-27&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[80,69,69],&quot;text&quot;:[&quot;1:20&quot;,&quot;1:09&quot;,&quot;1:09&quot;]},{&quot;name&quot;:&quot;Chris 1:11&quot;,&quot;color&quot;:&quot;#5ea1ff&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-05-02&quot;,&quot;2026-05-10&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[87,85,71,71],&quot;text&quot;:[&quot;1:27&quot;,&quot;1:25&quot;,&quot;1:11&quot;,&quot;1:11&quot;]}]"></div></div></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Crestwood Hill - post parking lot climb only</h2><a href='https://www.strava.com/segments/1150663' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 0.44 km</span><span><span class='meta-label'>Elevation</span> 39 m</span></div><div class='segment-plot-view'><div class="segment-history-plot" data-start-date="2026-01-01" data-end-date="2026-07-05" data-series="[{&quot;name&quot;:&quot;Jeff 1:16&quot;,&quot;color&quot;:&quot;#f87171&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[76,76],&quot;text&quot;:[&quot;1:16&quot;,&quot;1:16&quot;]},{&quot;name&quot;:&quot;Chris 1:28&quot;,&quot;color&quot;:&quot;#5ea1ff&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[88,88],&quot;text&quot;:[&quot;1:28&quot;,&quot;1:28&quot;]}]"></div></div></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Bridal Path Crazy 8</h2><a href='https://www.strava.com/segments/7313636' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 3.75 km</span><span><span class='meta-label'>Elevation</span> 41 m</span></div><div class='segment-plot-view'><div class="segment-history-plot" data-start-date="2026-01-01" data-end-date="2026-07-05" data-series="[{&quot;name&quot;:&quot;Jeff 6:31&quot;,&quot;color&quot;:&quot;#f87171&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[391,391],&quot;text&quot;:[&quot;6:31&quot;,&quot;6:31&quot;]},{&quot;name&quot;:&quot;Chris 6:45&quot;,&quot;color&quot;:&quot;#5ea1ff&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[405,405],&quot;text&quot;:[&quot;6:45&quot;,&quot;6:45&quot;]}]"></div></div></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Bayview Avenue: Pottery Road to Nesbitt Drive</h2><a href='https://www.strava.com/segments/15637575' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 0.91 km</span><span><span class='meta-label'>Elevation</span> 43 m</span></div><div class='segment-plot-view'><div class="segment-history-plot" data-start-date="2026-01-01" data-end-date="2026-07-05" data-series="[{&quot;name&quot;:&quot;Jeff 1:55&quot;,&quot;color&quot;:&quot;#f87171&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[115,115],&quot;text&quot;:[&quot;1:55&quot;,&quot;1:55&quot;]},{&quot;name&quot;:&quot;Chris 2:12&quot;,&quot;color&quot;:&quot;#5ea1ff&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[132,132],&quot;text&quot;:[&quot;2:12&quot;,&quot;2:12&quot;]}]"></div></div></section><section class='segment-card'><div class='segment-head'><h2 class='title-slow'>Spit to Gravel South</h2><a href='https://www.strava.com/segments/8010711' target='_blank' rel='noreferrer'>Open Strava</a></div><div class='segment-meta'><span><span class='meta-label'>Distance</span> 4.71 km</span><span><span class='meta-label'>Elevation</span> 0 m</span></div><div class='segment-plot-view'><div class="segment-history-plot" data-start-date="2026-01-01" data-end-date="2026-07-05" data-series="[{&quot;name&quot;:&quot;Jeff 7:43&quot;,&quot;color&quot;:&quot;#f87171&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[463,463],&quot;text&quot;:[&quot;7:43&quot;,&quot;7:43&quot;]},{&quot;name&quot;:&quot;Chris 8:38&quot;,&quot;color&quot;:&quot;#5ea1ff&quot;,&quot;x&quot;:[&quot;2026-01-01&quot;,&quot;2026-06-13&quot;,&quot;2026-07-05&quot;],&quot;y&quot;:[575,518,518],&quot;text&quot;:[&quot;9:35&quot;,&quot;8:38&quot;,&quot;8:38&quot;]}]"></div></div></section></div></div>
+  </div>
+  
+  <script>
+    function formatSegmentSeconds(totalSeconds) {
+      const seconds = Math.round(Number(totalSeconds));
+      if (!Number.isFinite(seconds)) return "-";
+      const minutes = Math.floor(seconds / 60);
+      const remaining = seconds % 60;
+      return minutes > 0 ? `${minutes}:${String(remaining).padStart(2, "0")}` : `${remaining}s`;
+    }
+
+    function renderSegmentHistoryPlots() {
+      if (!window.Plotly) return;
+      document.querySelectorAll(".segment-history-plot").forEach((plotEl) => {
+        const series = JSON.parse(plotEl.dataset.series || "[]");
+        const startDate = plotEl.dataset.startDate || "2026-01-01";
+        const endDate = plotEl.dataset.endDate || new Date().toISOString().slice(0, 10);
+        const traces = series.map((item) => ({
+          x: item.x,
+          y: item.y,
+          text: item.text,
+          mode: "lines+markers",
+          name: item.name,
+          line: { color: item.color, width: 3, shape: "hv" },
+          marker: { color: item.color, size: 8 },
+          hovertemplate: "%{x}<br>%{fullData.name}: %{text}<extra></extra>",
+        }));
+        Plotly.newPlot(
+          plotEl,
+          traces,
+          {
+            template: "plotly_dark",
+            height: 280,
+            margin: { t: 12, r: 12, b: 58, l: 58 },
+            paper_bgcolor: "#10151d",
+            plot_bgcolor: "#10151d",
+            font: { color: "#e6edf3" },
+            xaxis: { title: "", gridcolor: "#243042", range: [startDate, endDate] },
+            yaxis: {
+              title: "",
+              gridcolor: "#243042",
+              tickformat: "d",
+              ticktext: [],
+              tickvals: [],
+            },
+            legend: { orientation: "h", yanchor: "top", y: -0.22, xanchor: "center", x: 0.5 },
+          },
+          { responsive: true, displayModeBar: false }
+        ).then(() => {
+          const yValues = traces.flatMap((trace) => trace.y || []);
+          const minY = Math.min(...yValues);
+          const maxY = Math.max(...yValues);
+          const tickVals = minY === maxY ? [minY] : [minY, maxY];
+          Plotly.relayout(plotEl, {
+            "yaxis.tickvals": tickVals,
+            "yaxis.ticktext": tickVals.map(formatSegmentSeconds),
+          });
+        });
+      });
+    }
+
+    renderSegmentHistoryPlots();
+  </script>
+
+</body>
+</html>

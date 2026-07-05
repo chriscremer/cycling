@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zwift Race Time Estimator</title>
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+  <style>
+    :root {
+      --bg: #0b1020;
+      --panel: #11172a;
+      --text: #e9edf7;
+      --muted: #9ba8c7;
+      --accent: #5ea1ff;
+      --border: #26314d;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: #0b1020;
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+    .wrap {
+      max-width: 1320px;
+      margin: 0 auto;
+      padding: 18px 14px 28px;
+    }
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      margin-bottom: 12px;
+      padding: 8px 12px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: rgba(94, 161, 255, 0.12);
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 13px;
+    }
+    .panel {
+      padding: 16px;
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      background: var(--panel);
+      margin-bottom: 14px;
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 30px;
+    }
+    h2 {
+      margin: 0 0 12px;
+      font-size: 20px;
+    }
+    .sub {
+      color: var(--muted);
+      margin: 0;
+      line-height: 1.45;
+    }
+    .calculator {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+      align-items: end;
+    }
+    label {
+      display: grid;
+      gap: 6px;
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 700;
+    }
+    input {
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #3a4b66;
+      border-radius: 10px;
+      background: #0d1426;
+      color: var(--text);
+      font-size: 18px;
+      font-variant-numeric: tabular-nums;
+    }
+    .result {
+      grid-column: 1 / -1;
+      padding: 14px;
+      border: 1px solid #3a4b66;
+      border-radius: 12px;
+      background: #0d1426;
+      font-size: 28px;
+      font-weight: 800;
+      text-align: center;
+    }
+    .result-label {
+      display: block;
+      margin-bottom: 4px;
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 700;
+    }
+    .carbs {
+      grid-column: 1 / -1;
+      padding: 12px 14px;
+      border: 1px solid #3a4b66;
+      border-radius: 12px;
+      background: #0d1426;
+      font-size: 20px;
+      font-weight: 800;
+      text-align: center;
+    }
+    .carbs-main {
+      display: block;
+      font-size: 32px;
+      font-weight: 850;
+      font-variant-numeric: tabular-nums;
+    }
+    .spoons {
+      display: block;
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 14px;
+      font-weight: 700;
+    }
+    .fuel-needed {
+      grid-column: 1 / -1;
+      padding: 12px 14px;
+      border: 1px solid #3a4b66;
+      border-radius: 12px;
+      background: #0d1426;
+    }
+    .fuel-needed-title {
+      grid-column: 1 / -1;
+      margin: 4px 0 -2px;
+      color: var(--text);
+      font-size: 16px;
+      font-weight: 850;
+      text-align: center;
+    }
+    .fuel-needed-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+    }
+    .fuel-needed-item {
+      padding: 12px 14px;
+      border: 1px solid #3a4b66;
+      border-radius: 12px;
+      background: #0d1426;
+      text-align: center;
+    }
+    .fuel-needed-item .carbs-main {
+      font-size: 28px;
+      line-height: 1.1;
+    }
+    .calc-section-title {
+      grid-column: 1 / -1;
+      margin: 4px 0 -2px;
+      color: var(--text);
+      font-size: 15px;
+      font-weight: 800;
+    }
+    .plan-grid {
+      grid-column: 1 / -1;
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+      align-items: start;
+    }
+    .plan-column {
+      display: grid;
+      gap: 10px;
+      min-width: 0;
+    }
+    .plan-column .calc-section-title {
+      grid-column: auto;
+      margin: 0;
+    }
+    .ledger {
+      display: grid;
+      gap: 0;
+      border: 1px solid #3a4b66;
+      border-radius: 12px;
+      background: #0d1426;
+      overflow: hidden;
+    }
+    .ledger-row {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 10px;
+      align-items: center;
+      padding: 10px 12px;
+      border-bottom: 1px solid #26314d;
+    }
+    .ledger-row:last-child {
+      border-bottom: 0;
+    }
+    .ledger-row.total {
+      background: rgba(94, 161, 255, 0.10);
+    }
+    .ledger-row.note {
+      grid-template-columns: 1fr;
+    }
+    .ledger-label {
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 750;
+      line-height: 1.35;
+    }
+    .ledger-value {
+      color: var(--text);
+      font-size: 18px;
+      font-weight: 850;
+      font-variant-numeric: tabular-nums;
+      text-align: right;
+      white-space: nowrap;
+    }
+    .bring-highlight {
+      color: #5ea1ff;
+      font-weight: 900;
+    }
+    .ledger-row.note .ledger-value {
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 750;
+      line-height: 1.35;
+      text-align: left;
+      white-space: normal;
+    }
+    .nutrition {
+      grid-column: 1 / -1;
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+    }
+    .nutrition-card {
+      padding: 12px;
+      border: 1px solid #3a4b66;
+      border-radius: 12px;
+      background: #0d1426;
+    }
+    .nutrition-value {
+      display: block;
+      font-size: 24px;
+      font-weight: 850;
+      font-variant-numeric: tabular-nums;
+    }
+    .nutrition-note {
+      display: block;
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 700;
+      line-height: 1.35;
+    }
+    .mix-list {
+      grid-column: 1 / -1;
+      margin: 0;
+      padding: 12px 14px;
+      border: 1px solid #3a4b66;
+      border-radius: 12px;
+      background: #0d1426;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.45;
+    }
+    .mix-list strong {
+      color: var(--text);
+    }
+    .formula {
+      margin-top: 10px;
+      color: var(--muted);
+      font-size: 14px;
+      text-align: center;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+    }
+    th, td {
+      padding: 9px 10px;
+      border-bottom: 1px solid var(--border);
+      text-align: left;
+      white-space: nowrap;
+      font-variant-numeric: tabular-nums;
+    }
+    th {
+      color: var(--muted);
+      font-size: 12px;
+    }
+    td:last-child, th:last-child {
+      white-space: normal;
+    }
+    .table-wrap {
+      overflow-x: auto;
+    }
+    @media (max-width: 640px) {
+      .calculator { grid-template-columns: 1fr; }
+      .fuel-needed-grid { grid-template-columns: 1fr; }
+      .plan-grid { grid-template-columns: 1fr; }
+      .nutrition { grid-template-columns: 1fr; }
+      h1 { font-size: 25px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <a class="back-link" href="../index.html">Back to Cycling Power</a>
+    <section class="panel">
+      <h1>Zwift Race Time Estimator</h1>
+    </section>
+    <section class="panel">
+      <h2>Calculator</h2>
+      <div class="calculator">
+        <label>
+          Distance, km
+          <input id="distanceKm" type="number" min="0" step="1" value="122.2" inputmode="decimal" />
+        </label>
+        <label>
+          Elevation, m
+          <input id="elevationM" type="number" min="0" step="10" value="1676" inputmode="decimal" />
+        </label>
+        <label>
+          Mix scoops per bottle
+          <input id="mixScoopsPerBottle" type="number" min="0" step="0.5" value="3" inputmode="decimal" />
+        </label>
+        <div class="result"><span class="result-label">Predicted time</span><span id="result">-</span></div>
+        <div class="fuel-needed-title">Fuel Needed</div>
+        <div class="plan-grid">
+          <div class="plan-column">
+            <div class="fuel-needed-item">
+              <span class="result-label">Water</span>
+              <span class="carbs-main" id="waterNeededResult">-</span>
+            </div>
+            <div class="calc-section-title">Hydration Plan</div>
+            <div class="ledger">
+              <div class="ledger-row">
+                <span class="ledger-label">Carry, capped at 2 bottles</span>
+                <span class="ledger-value" id="waterResult">-</span>
+              </div>
+              <div class="ledger-row">
+                <span class="ledger-label">Water pack</span>
+                <span class="ledger-value" id="waterPackResult">-</span>
+              </div>
+              <div class="ledger-row total">
+                <span class="ledger-label">Total water</span>
+                <span class="ledger-value" id="totalWaterResult">-</span>
+              </div>
+            </div>
+          </div>
+          <div class="plan-column">
+            <div class="fuel-needed-item">
+              <span class="result-label">Salt</span>
+              <span class="carbs-main" id="saltNeededResult">-</span>
+            </div>
+            <div class="calc-section-title">Salt Plan</div>
+            <div class="ledger">
+              <div class="ledger-row">
+                <span class="ledger-label">From bottle mix</span>
+                <span class="ledger-value" id="bottleSodiumResult">-</span>
+              </div>
+              <div class="ledger-row">
+                <span class="ledger-label">Extra SaltStick capsules</span>
+                <span class="ledger-value bring-highlight" id="saltResult">-</span>
+              </div>
+              <div class="ledger-row total">
+                <span class="ledger-label">Total salt planned</span>
+                <span class="ledger-value" id="totalSodiumResult">-</span>
+              </div>
+            </div>
+          </div>
+          <div class="plan-column">
+            <div class="fuel-needed-item">
+              <span class="result-label">Carbs at 75 g/hour</span>
+              <span class="carbs-main" id="carbsResult">-</span>
+            </div>
+            <div class="calc-section-title">Carbs Plan</div>
+            <div class="ledger">
+              <div class="ledger-row">
+                <span class="ledger-label" id="bottleCarbsLabel">Bottle mix, 3 scoops per bottle</span>
+                <span class="ledger-value" id="bottleCarbsResult">-</span>
+              </div>
+              <div class="ledger-row">
+                <span class="ledger-label">Haribos <span class="bring-highlight" id="haribosBagLabel"></span></span>
+                <span class="ledger-value" id="haribosResult">-</span>
+              </div>
+              <div class="ledger-row total">
+                <span class="ledger-label">Total planned carbs</span>
+                <span class="ledger-value" id="plannedCarbsResult">-</span>
+              </div>
+            </div>
+            <!--
+            <div class="calc-section-title">If Only Gatorade Powder</div>
+            <div class="carbs">
+              <span class="spoons" id="powderResult">27 g carbs = 29 g powder</span>
+              <span class="spoons" id="spoonsResult">1 scoop = 18 g powder</span>
+            </div>
+            -->
+          </div>
+        </div>
+        <div class="mix-list">
+          <div><strong>Info</strong></div>
+          <div><strong>Assumptions:</strong> carbs at 75 g/hour, water at 750 ml/hour for a high sweat rate, sodium target at 500 mg/hour, carrying up to two 750 ml bottles before using the water pack.</div>
+          <div><strong>The mix:</strong> 1 scoop Gatorade, 1 scoop sugar, 1 scoop maltodextrin, 1 SaltStick capsule, pinch of salt, blended. Default is 3 scoops of mix per 750 ml bottle.</div>
+          <div><strong>Per bottle:</strong> <span id="perBottleInfo">about 53 g carbs and about 471 mg sodium</span>.</div>
+          <div><strong>Bottle sodium math:</strong> sodium scales with scoops per bottle. The full 3-scoop batch has about 106 mg from Gatorade + 215 mg from SaltStick + 150 mg from a light pinch of salt = 471 mg sodium.</div>
+          <div><strong>Salt math:</strong> salt rows are shown as table-salt equivalent. Sodium is converted to salt with about 2.54 g salt per 1 g sodium.</div>
+          <div><strong>Gatorade powder:</strong> 27 g carbs per 29 g powder, 170 mg sodium per 29 g powder. One 18 g scoop is about 16.8 g carbs and 106 mg sodium.</div>
+          <div><strong>Sugar:</strong> 1 scoop = 18 g carbs. <strong>Maltodextrin:</strong> 1 scoop = 18 g carbs.</div>
+          <div><strong>SaltStick:</strong> 1 capsule = 215 mg sodium. Add a capsule hourly on hot days or heavy sweat days.</div>
+          <div><strong>Haribos:</strong> 17 pieces = 40 g, 31 g carbs. 1 piece = 1.8 g carbs. 1 bag = 150 g, 116 g carbs, about 64 gummies.</div>
+          <div>Water and salt depend on heat and sweat rate; carbs are the steady target.</div>
+        </div>
+      </div>
+    </section>
+    <section class="panel">
+      <h2>Recent Race Fit</h2>
+      <div class="formula">
+        minutes = 1.313 * distance_km + 0.0320 * elevation_m
+      </div>
+      <div class="formula">
+        10 km = 13:08, 100 m = 3:12
+      </div>
+      <div class="formula">
+        Avg incline = <span id="inclineResult">-</span>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Km</th>
+              <th>Elev</th>
+              <th>Actual</th>
+              <th>Estimate</th>
+              <th>Performance</th>
+              <th>Race</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>2026-07-04</td><td>31.1</td><td>379</td><td>53:03</td><td>52:58</td><td>+0.1 min</td><td>Herd Summer Racing League</td></tr><tr><td>2026-07-02</td><td>19.1</td><td>158</td><td>28:24</td><td>30:04</td><td>-1.7 min</td><td>Rhino Racing Short Crits (A)</td></tr><tr><td>2026-07-01</td><td>21.4</td><td>317</td><td>33:17</td><td>38:11</td><td>-4.9 min</td><td>Stage 5: Level Up Racing: Queen&#x27;s Highway After Party (A)</td></tr><tr><td>2026-06-30</td><td>30.9</td><td>216</td><td>45:25</td><td>47:25</td><td>-2.0 min</td><td>SISU World Cup - Game 4 (A)</td></tr><tr><td>2026-06-25</td><td>22.6</td><td>161</td><td>33:41</td><td>34:51</td><td>-1.2 min</td><td>Stage 4: Level Up Racing: Issendorf Express (A)</td></tr><tr><td>2026-06-16</td><td>67.1</td><td>587</td><td>1:56:55</td><td>1:46:53</td><td>+10.0 min</td><td>Zwift Epic Race - Tire Bouchon (A)</td></tr><tr><td>2026-06-15</td><td>19.5</td><td>229</td><td>29:42</td><td>32:55</td><td>-3.2 min</td><td>Stage 3: Level Up Racing: Hilly Route Reverse (A)</td></tr><tr><td>2026-06-14</td><td>46.3</td><td>883</td><td>1:27:25</td><td>1:29:01</td><td>-1.6 min</td><td>Zwift Epic Race - Three Sisters Reverse (A)</td></tr><tr><td>2026-06-11</td><td>23.3</td><td>265</td><td>34:22</td><td>39:03</td><td>-4.7 min</td><td>Stage 2: Level Up Racing: BRAEk-fast Crits and Grits (A)</td></tr><tr><td>2026-06-10</td><td>23.8</td><td>265</td><td>35:09</td><td>39:45</td><td>-4.6 min</td><td>Stage 2: Level Up Racing: BRAEk-fast Crits and Grits | Advanced (A)</td></tr><tr><td>2026-06-04</td><td>25.2</td><td>135</td><td>41:51</td><td>37:25</td><td>+4.4 min</td><td>Stage 1: Level Up Racing: Sprinter&#x27;s Playground</td></tr><tr><td>2026-06-03</td><td>26.7</td><td>143</td><td>38:12</td><td>39:36</td><td>-1.4 min</td><td>Stage 1: Level Up Racing: Sprinter&#x27;s Playground</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+  <script>
+    const distanceCoef = 1.313387823853;
+    const elevationCoef = 0.031962517459;
+    const distanceInput = document.getElementById("distanceKm");
+    const elevationInput = document.getElementById("elevationM");
+    const mixScoopsInput = document.getElementById("mixScoopsPerBottle");
+    const result = document.getElementById("result");
+    const inclineResult = document.getElementById("inclineResult");
+    const carbsResult = document.getElementById("carbsResult");
+    const waterNeededResult = document.getElementById("waterNeededResult");
+    const saltNeededResult = document.getElementById("saltNeededResult");
+    const powderResult = document.getElementById("powderResult");
+    const spoonsResult = document.getElementById("spoonsResult");
+    const waterResult = document.getElementById("waterResult");
+    const waterPackResult = document.getElementById("waterPackResult");
+    const totalWaterResult = document.getElementById("totalWaterResult");
+    const bottleSodiumResult = document.getElementById("bottleSodiumResult");
+    const saltResult = document.getElementById("saltResult");
+    const totalSodiumResult = document.getElementById("totalSodiumResult");
+    const perBottleInfo = document.getElementById("perBottleInfo");
+    const bottleCarbsLabel = document.getElementById("bottleCarbsLabel");
+    const bottleCarbsResult = document.getElementById("bottleCarbsResult");
+    const haribosBagLabel = document.getElementById("haribosBagLabel");
+    const haribosResult = document.getElementById("haribosResult");
+    const plannedCarbsResult = document.getElementById("plannedCarbsResult");
+    const carbRatePerHour = 75;
+    const waterMlPerHour = 750;
+    const sodiumMgPerHour = 500;
+    const saltGramsPerSodiumMg = 58.44 / 22.99 / 1000;
+    const sodiumMgPerSaltStick = 215;
+    const bottleMl = 750;
+    const maxBottles = 2;
+    const gatoradeCarbsPerGram = 27 / 29;
+    const gatoradeSodiumMgPerGram = 170 / 29;
+    const sugarCarbsPerGram = 1;
+    const maltodextrinCarbsPerGram = 1;
+    const mixCarbsPerGram = (gatoradeCarbsPerGram + sugarCarbsPerGram + maltodextrinCarbsPerGram) / 3;
+    const powderGramsPerScoop = 18;
+    const mixBatchScoops = 3;
+    const gatoradeSodiumMgPerScoop = powderGramsPerScoop * gatoradeSodiumMgPerGram;
+    const pinchSaltSodiumMg = 150;
+    const sodiumMgPerMixBatch = gatoradeSodiumMgPerScoop + sodiumMgPerSaltStick + pinchSaltSodiumMg;
+    const hariboCarbsPerPiece = 1.8;
+    const hariboCarbsPerBag = 116;
+    const haribosPerBag = 64;
+
+    function formatDuration(minutes) {
+      if (!Number.isFinite(minutes) || minutes < 0) return "-";
+      const totalSeconds = Math.round(minutes * 60);
+      const hours = Math.floor(totalSeconds / 3600);
+      const mins = Math.floor((totalSeconds % 3600) / 60);
+      const seconds = totalSeconds % 60;
+      if (hours > 0) {
+        return `${hours}:${String(mins).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+      }
+      return `${mins}:${String(seconds).padStart(2, "0")}`;
+    }
+
+    function updateEstimate() {
+      const distanceKm = Number(distanceInput.value);
+      const elevationM = Number(elevationInput.value);
+      const mixScoopsPerBottle = Number(mixScoopsInput.value);
+      const minutes = (distanceCoef * distanceKm) + (elevationCoef * elevationM);
+      result.textContent = formatDuration(minutes);
+      if (Number.isFinite(distanceKm) && distanceKm > 0 && Number.isFinite(elevationM) && elevationM >= 0) {
+        const inclinePct = (elevationM / (distanceKm * 1000)) * 100;
+        inclineResult.textContent = `${inclinePct.toFixed(1)}%`;
+      } else {
+        inclineResult.textContent = "-";
+      }
+      if (Number.isFinite(minutes) && minutes >= 0) {
+        const hours = minutes / 60;
+        const carbs = Math.round(hours * carbRatePerHour);
+        const powder = Math.round((carbs / 27) * 29);
+        const spoons = powder / 18;
+        const targetWaterMl = Math.round(hours * waterMlPerHour);
+        const targetSodiumMg = Math.round(hours * sodiumMgPerHour);
+        const targetSaltGrams = hours * sodiumMgPerHour * saltGramsPerSodiumMg;
+        const bottleMixScoops = Number.isFinite(mixScoopsPerBottle) && mixScoopsPerBottle > 0 ? mixScoopsPerBottle : 0;
+        const bottleMixFraction = bottleMixScoops / mixBatchScoops;
+        const sodiumMgPerBottle = bottleMixFraction * sodiumMgPerMixBatch;
+        const carbsPerBottle = powderGramsPerScoop * bottleMixScoops * mixCarbsPerGram;
+        perBottleInfo.textContent = `about ${Math.round(carbsPerBottle)} g carbs and about ${Math.round(sodiumMgPerBottle)} mg sodium`;
+        const bottles = Math.min(maxBottles, Math.ceil(targetWaterMl / bottleMl));
+        const bottleWaterMl = bottles * bottleMl;
+        const waterPackMl = Math.max(0, targetWaterMl - bottleWaterMl);
+        const bottleSodiumMg = bottles * sodiumMgPerBottle;
+        const sodiumGapMg = Math.max(0, targetSodiumMg - bottleSodiumMg);
+        const extraSaltStickCapsules = Math.ceil(sodiumGapMg / sodiumMgPerSaltStick);
+        const totalSodiumMg = bottleSodiumMg + (extraSaltStickCapsules * sodiumMgPerSaltStick);
+        const bottleSaltGrams = bottleSodiumMg * saltGramsPerSodiumMg;
+        const totalSaltGrams = totalSodiumMg * saltGramsPerSodiumMg;
+        const bottleCarbs = bottles * carbsPerBottle;
+        const hariboCarbs = Math.max(0, carbs - bottleCarbs);
+        const hariboPieces = Math.ceil(hariboCarbs / hariboCarbsPerPiece);
+        const plannedCarbs = Math.round(bottleCarbs + (hariboPieces * hariboCarbsPerPiece));
+        carbsResult.textContent = `${carbs} g`;
+        waterNeededResult.textContent = `${(targetWaterMl / 1000).toFixed(2)} L`;
+        saltNeededResult.textContent = `${targetSaltGrams.toFixed(1)} g`;
+        if (powderResult && spoonsResult) {
+          powderResult.textContent = `27 g carbs = 29 g powder, so ${powder} g powder`;
+          spoonsResult.textContent = `1 scoop = 18 g powder, so ${spoons.toFixed(1)} scoops`;
+        }
+        waterResult.textContent = `${bottles} x 750 ml = ${(bottleWaterMl / 1000).toFixed(bottleWaterMl % 1000 === 0 ? 0 : 2)} L`;
+        waterPackResult.textContent = `${(waterPackMl / 1000).toFixed(2)} L`;
+        totalWaterResult.textContent = `${((bottleWaterMl + waterPackMl) / 1000).toFixed(2)} L`;
+        bottleSodiumResult.textContent = `${bottleSaltGrams.toFixed(1)} g`;
+        saltResult.textContent = `${extraSaltStickCapsules} capsule${extraSaltStickCapsules === 1 ? "" : "s"}`;
+        totalSodiumResult.textContent = `${totalSaltGrams.toFixed(1)} g`;
+        bottleCarbsLabel.textContent = `Bottle mix, ${bottleMixScoops.toFixed(1).replace(/\.0$/, "")} scoop${bottleMixScoops === 1 ? "" : "s"} per bottle`;
+        bottleCarbsResult.textContent = `${Math.round(bottleCarbs)} g`;
+        haribosBagLabel.textContent = hariboPieces === 0
+          ? ""
+          : `(${haribosPerBag === 0 ? 0 : (hariboPieces / haribosPerBag).toFixed(2)} bag)`;
+        haribosResult.textContent = hariboPieces === 0 ? "0 g" : `${Math.round(hariboPieces * hariboCarbsPerPiece)} g`;
+        plannedCarbsResult.textContent = `${plannedCarbs} g`;
+      } else {
+        carbsResult.textContent = "-";
+        waterNeededResult.textContent = "-";
+        saltNeededResult.textContent = "-";
+        if (powderResult && spoonsResult) {
+          powderResult.textContent = "27 g carbs = 29 g powder";
+          spoonsResult.textContent = "1 scoop = 18 g powder";
+        }
+        waterResult.textContent = "-";
+        waterPackResult.textContent = "-";
+        totalWaterResult.textContent = "-";
+        bottleSodiumResult.textContent = "-";
+        saltResult.textContent = "-";
+        totalSodiumResult.textContent = "-";
+        perBottleInfo.textContent = "about 53 g carbs and about 471 mg sodium";
+        bottleCarbsLabel.textContent = "Bottle mix, 3 scoops per bottle";
+        bottleCarbsResult.textContent = "-";
+        haribosBagLabel.textContent = "";
+        haribosResult.textContent = "-";
+        plannedCarbsResult.textContent = "-";
+      }
+    }
+
+    distanceInput.addEventListener("input", updateEstimate);
+    elevationInput.addEventListener("input", updateEstimate);
+    mixScoopsInput.addEventListener("input", updateEstimate);
+    updateEstimate();
+  </script>
+</body>
+</html>

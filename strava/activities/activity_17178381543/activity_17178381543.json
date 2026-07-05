@@ -1,0 +1,991 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "resource_state": 1
+  },
+  "name": "Mountain View run",
+  "distance": 8117.6,
+  "moving_time": 2727,
+  "elapsed_time": 3355,
+  "total_elevation_gain": 94.0,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": null,
+  "device_name": "Strava App",
+  "id": 17178381543,
+  "start_date": "2026-01-26T00:33:10Z",
+  "start_date_local": "2026-01-25T16:33:10Z",
+  "timezone": "(GMT-08:00) America/Los_Angeles",
+  "utc_offset": -28800.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 2,
+  "kudos_count": 3,
+  "comment_count": 4,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a17178381543",
+    "polyline": "eqhcFtijhVf@Lc@?@D?E`BLTHJPDBr@n@T`@b@PDLJJPHRRBHPFLLXNVZNHFNPH\\\\`@VJRHFLP^\\PL@HMLCL@JFZCJBj@GVCbAELAl@Db@HRFb@N\\TpADHFx@?z@G^B\\T`ABt@DPAj@Lv@@vAHjA?nAFzABHAVBb@Jv@BVAHLn@?JDNJz@DDBb@ANBF?VF`@KPIXRn@^f@d@rADFLj@NZFb@Vt@Np@FLDZVp@Nn@LVFTDHDVLTDRBD@PFRAHHHNj@Rb@Vf@FF?HN^A\\]l@ADJf@^jADh@BFfApBJ^FHHTZ^Hb@RZBPDH@LHJ?FXn@HFDNNXVl@Lb@JJHb@Zn@FDNf@Pb@?JDPFHHVV`@DVNTP`@HHJh@NR?FXl@BN?LBLXd@Hf@J^JNJB@IJGDI?QGI?IBIRSF?HKJBXi@@MJ[?GFCNYRMRIBA?EXCD@LEZ?PEf@Cb@IH@JCTAJCR@JCp@EE?MIS@IEKDc@@UFK?WFe@A]FS?ODS@c@HQFSPQ^EDERIJGJI@GRGHMHOP@HHMPKXWN[BMP]PQd@UZIt@EFEr@ETI~@Ev@@TIEKpBGTGx@GLGHMBSCS@WEk@FSXALBb@C^ULK@GJEp@i@NWbAgA~BaD~@y@Zc@XQb@OLKJOFUFOxBcDDGHCDOJKd@Qf@?t@DPAf@@FA@E@DHKt@G`@@z@AD@v@CVEBODw@H[COJaCEc@BE@B@i@BKASDMGAGIIQII_@GM?GGC?QKUC_@OQCCCi@OCBQEQI]I]Oe@Ka@Si@OGIYM]e@OI[i@SQSYGA]SOAIE[HEACBICEEUESOCEIAWSEEOw@?UEg@@E?_@HWCEH]HCADC?ARMd@U^QDkAe@_Bg@MA]Qi@ME?[QEMQO@CXb@RNVLb@XLBTJ^FDDD@DABDf@PDEJJLD@@h@LVR@J?DX\\B\\HRNN@LFNDFPFJJJNUhBAFOPOLG?eA`@k@?QCIEG?QKODO?]CECI@QGS@YJOJE@i@XCDQJMNG@gA~@M@URYHE?UVKAAFWIOAEBOEu@COA]?IAg@Cm@L]RO?e@L_@HIEuABaACI@c@GIBECk@BGCO@e@Gc@?w@Ci@?k@Ek@Pg@^?Bw@~@_@l@g@l@AFDHIp@BJGBCJPX?LAJMFKEU_@MeAABIMIWG_@CCKc@EIEA[k@UaAu@cCAOEEEKK@KZFgAIWG_@IOAMECEQKUCYw@cCS_ASm@c@s@Sc@GHBQHMBQ?MA_@CO?]Ky@@[OeAEGCoAGu@B]Gg@EaA?m@EQ?a@CGE{@AwAEUEq@GWEcAGKK[M[C[Nq@AcAMy@GMOo@?I[aAGa@Fm@Cc@HyACU@MCu@Pc@CIsBeBE?W]QKMQEAWWMIe@i@[QUUOGGK[W@EGISM[[",
+    "resource_state": 3,
+    "summary_polyline": "eqhcFtijhVf@Lc@?@D?E`BLTHJPx@r@T`@b@PDL\\TRRBHPFLLXNVZNHFNpA~@JRhAdA@HMLCL@JFZCJBj@GVCbAELAl@Db@HRFb@N\\TpADHFx@?z@G^B\\T`ABt@DPAj@Lv@@vAHjA?nAFzABH@z@Jv@BVAHLn@?JPjADDBb@ANBFFx@KPIXRn@^f@j@zALj@NZFb@Vt@Np@FLDZVp@Nn@LVRv@LTHX@PFRAHHHNj@Rb@^n@Nh@A\\]l@ADJf@^jAHp@fApBJ^P^Z^Hb@RZHZ@LHJ?FXn@HFDNNXVl@Lb@JJHb@Zn@FD`@jAD\\h@bADV`@v@HHJh@NR?FXl@Fj@Vb@VhAJNJB@IPM@II[BMRSF?HKJBXi@@MJ[?GFCNYf@WBGbCQb@Iv@GR@|@ISIS@IEKDc@@y@Ne@Aq@FmAR_@VQ^EDERQVI@GRc@b@AFB@r@o@N[BMP]PQd@UZIpBQTI~@Ev@@TIEKpBGTGx@GLGHMBSGwAFSjAA^ULK@GJEp@i@NWbAgA~BaD~@y@Zc@XQb@OLKJONe@xBcDNKDOJKd@Q|ADx@?FA@E@DHKj@GpC?j@GHgAH[COJaCEc@BE@B@i@BKASDMOKIQIIm@G]SuBk@CBQE_EsAa@W]e@OI[i@g@k@e@UYG[HQ?]MWUIA]YOw@?UEg@@E?_@HWCEH]HCEDARMd@U^QDkAe@mBi@]Qo@M[QEMQO@CXb@nAv@bAVDDJ?j@VDEJJNFh@LVR@J?DX\\B\\HRNN@LFNDFPFJJJNUhBQXOLG?eA`@}@Cc@Q_@Dm@EQGS@YJOJE@i@XUPMNG@gA~@M@UR_@HUVKAAFWIU@OEuCKm@L]RO?eAVIEuABkAAc@G{@B}@IeCCk@Ek@Pg@^w@bA_@l@g@l@AFDHIp@BJGBCJPX?LAJMFKEU_@MeAABIMIWWgAEIEA[k@UaAu@cCAOKQK@KZFgAQw@IOAMECQg@CYw@cCg@mBw@wAGHBQL_@?MA_@CO?]Ky@@[UmACoAGu@B]Gg@EaA?m@EQ?a@IcAAwAEUEq@GWEcAGKYw@C[Nq@AcAMy@W}@?I[aAGa@Fm@Cc@HyACU@MCu@Pc@CIsBeBE?W]QKMQEAWWMIe@i@aAo@c@c@@EGISM[["
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    37.40451,
+    -122.118827
+  ],
+  "end_latlng": [
+    37.403658,
+    -122.119291
+  ],
+  "average_speed": 2.977,
+  "max_speed": 10.2,
+  "has_heartrate": true,
+  "average_heartrate": 153.5,
+  "max_heartrate": 179.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 63.8,
+  "elev_low": 20.7,
+  "upload_id": 18273728100,
+  "upload_id_str": "18273728100",
+  "external_id": "27E35802-DCFF-4B93-B2FF-BEB307A7FCE9-activity.fit",
+  "from_accepted_tag": false,
+  "pr_count": 1,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 81.0,
+  "description": "",
+  "calories": 773.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3450679739020151452,
+      "resource_state": 2,
+      "name": "Alta Mesa to Camino",
+      "activity": {
+        "id": 17178381543,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 605,
+      "moving_time": 448,
+      "start_date": "2026-01-26T00:36:54Z",
+      "start_date_local": "2026-01-25T16:36:54Z",
+      "distance": 1580.6,
+      "start_index": 14,
+      "end_index": 487,
+      "device_watts": false,
+      "average_heartrate": 133.2,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 12774888,
+        "resource_state": 2,
+        "name": "Alta Mesa to Camino",
+        "activity_type": "Run",
+        "distance": 1580.6,
+        "average_grade": 0.7,
+        "maximum_grade": 2.2,
+        "elevation_high": 32.8,
+        "elevation_low": 20.5,
+        "start_latlng": [
+          37.40416,
+          -122.118526
+        ],
+        "end_latlng": [
+          37.399019,
+          -122.133806
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Los Altos",
+        "state": "California",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3450679739017122460,
+      "resource_state": 2,
+      "name": "PA-LA bike path (east to west)",
+      "activity": {
+        "id": 17178381543,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 243,
+      "moving_time": 232,
+      "start_date": "2026-01-26T00:40:39Z",
+      "start_date_local": "2026-01-25T16:40:39Z",
+      "distance": 773.3,
+      "start_index": 133,
+      "end_index": 371,
+      "device_watts": false,
+      "average_heartrate": 154.7,
+      "max_heartrate": 160.0,
+      "segment": {
+        "id": 36667740,
+        "resource_state": 2,
+        "name": "PA-LA bike path (east to west)",
+        "activity_type": "Run",
+        "distance": 773.3,
+        "average_grade": 0.6,
+        "maximum_grade": 3.7,
+        "elevation_high": 31.4,
+        "elevation_low": 26.4,
+        "start_latlng": [
+          37.401601,
+          -122.121288
+        ],
+        "end_latlng": [
+          37.40075,
+          -122.129767
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Los Altos",
+        "state": "California",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3450679739020296860,
+      "resource_state": 2,
+      "name": "Arastadero: Foothill to Old Adobe",
+      "activity": {
+        "id": 17178381543,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 163,
+      "moving_time": 163,
+      "start_date": "2026-01-26T00:49:13Z",
+      "start_date_local": "2026-01-25T16:49:13Z",
+      "distance": 555.9,
+      "start_index": 544,
+      "end_index": 707,
+      "device_watts": false,
+      "average_heartrate": 157.2,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 9217686,
+        "resource_state": 2,
+        "name": "Arastadero: Foothill to Old Adobe",
+        "activity_type": "Run",
+        "distance": 555.9,
+        "average_grade": 1.1,
+        "maximum_grade": 2.0,
+        "elevation_high": 37.6,
+        "elevation_low": 31.2,
+        "start_latlng": [
+          37.39863,
+          -122.135567
+        ],
+        "end_latlng": [
+          37.395858,
+          -122.140769
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Palo Alto",
+        "state": "California",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3450679739020896924,
+      "resource_state": 2,
+      "name": "Ido's up and to the right hill",
+      "activity": {
+        "id": 17178381543,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 81,
+      "moving_time": 72,
+      "start_date": "2026-01-26T00:52:34Z",
+      "start_date_local": "2026-01-25T16:52:34Z",
+      "distance": 209.7,
+      "start_index": 745,
+      "end_index": 826,
+      "device_watts": false,
+      "average_heartrate": 170.7,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 9578931,
+        "resource_state": 2,
+        "name": "Ido's up and to the right hill",
+        "activity_type": "Run",
+        "distance": 209.7,
+        "average_grade": 6.9,
+        "maximum_grade": 19.0,
+        "elevation_high": 55.8,
+        "elevation_low": 38.9,
+        "start_latlng": [
+          37.395571,
+          -122.140745
+        ],
+        "end_latlng": [
+          37.394148,
+          -122.139799
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Palo Alto",
+        "state": "California",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3450679739020115612,
+      "resource_state": 2,
+      "name": "speed bumps entering lala land",
+      "activity": {
+        "id": 17178381543,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 183,
+      "moving_time": 158,
+      "start_date": "2026-01-26T00:56:43Z",
+      "start_date_local": "2026-01-25T16:56:43Z",
+      "distance": 476.6,
+      "start_index": 984,
+      "end_index": 1149,
+      "device_watts": false,
+      "average_heartrate": 165.3,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 9430735,
+        "resource_state": 2,
+        "name": "speed bumps entering lala land",
+        "activity_type": "Run",
+        "distance": 476.6,
+        "average_grade": 2.5,
+        "maximum_grade": 21.2,
+        "elevation_high": 62.7,
+        "elevation_low": 37.5,
+        "start_latlng": [
+          37.395749,
+          -122.140792
+        ],
+        "end_latlng": [
+          37.392232,
+          -122.138872
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Los Altos Hills",
+        "state": "California",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3450679739017369244,
+      "resource_state": 2,
+      "name": "Ido's up and to the right hill",
+      "activity": {
+        "id": 17178381543,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 59,
+      "moving_time": 58,
+      "start_date": "2026-01-26T00:56:49Z",
+      "start_date_local": "2026-01-25T16:56:49Z",
+      "distance": 209.7,
+      "start_index": 990,
+      "end_index": 1049,
+      "device_watts": false,
+      "average_heartrate": 164.0,
+      "max_heartrate": 174.0,
+      "segment": {
+        "id": 9578931,
+        "resource_state": 2,
+        "name": "Ido's up and to the right hill",
+        "activity_type": "Run",
+        "distance": 209.7,
+        "average_grade": 6.9,
+        "maximum_grade": 19.0,
+        "elevation_high": 55.8,
+        "elevation_low": 38.9,
+        "start_latlng": [
+          37.395571,
+          -122.140745
+        ],
+        "end_latlng": [
+          37.394148,
+          -122.139799
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Palo Alto",
+        "state": "California",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3450679739019283100,
+      "resource_state": 2,
+      "name": "Esther Clark Park Uphill",
+      "activity": {
+        "id": 17178381543,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 227,
+      "moving_time": 212,
+      "start_date": "2026-01-26T00:59:14Z",
+      "start_date_local": "2026-01-25T16:59:14Z",
+      "distance": 633.207,
+      "start_index": 1117,
+      "end_index": 1337,
+      "device_watts": false,
+      "average_heartrate": 158.9,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 1479433,
+        "resource_state": 2,
+        "name": "Esther Clark Park Uphill",
+        "activity_type": "Run",
+        "distance": 633.207,
+        "average_grade": 1.7,
+        "maximum_grade": 9.2,
+        "elevation_high": 64.5,
+        "elevation_low": 49.1,
+        "start_latlng": [
+          37.39231016847572,
+          -122.1400493343226
+        ],
+        "end_latlng": [
+          37.38854920028036,
+          -122.13501053329985
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Los Altos Hills",
+        "state": "CA",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3450679739020620444,
+      "resource_state": 2,
+      "name": "Pasha's Final Push",
+      "activity": {
+        "id": 17178381543,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 91,
+      "moving_time": 83,
+      "start_date": "2026-01-26T01:21:41Z",
+      "start_date_local": "2026-01-25T17:21:41Z",
+      "distance": 283.3,
+      "start_index": 2332,
+      "end_index": 2418,
+      "device_watts": false,
+      "average_heartrate": 146.2,
+      "max_heartrate": 154.0,
+      "segment": {
+        "id": 16435099,
+        "resource_state": 2,
+        "name": "Pasha's Final Push",
+        "activity_type": "Run",
+        "distance": 283.3,
+        "average_grade": -1.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 32.6,
+        "elevation_low": 29.9,
+        "start_latlng": [
+          37.399279,
+          -122.133813
+        ],
+        "end_latlng": [
+          37.400396,
+          -122.130944
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3450679739018391196,
+      "resource_state": 2,
+      "name": "LA-PA Bike Path",
+      "activity": {
+        "id": 17178381543,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 218,
+      "moving_time": 211,
+      "start_date": "2026-01-26T01:23:55Z",
+      "start_date_local": "2026-01-25T17:23:55Z",
+      "distance": 708.6,
+      "start_index": 2456,
+      "end_index": 2670,
+      "device_watts": false,
+      "average_heartrate": 165.6,
+      "max_heartrate": 173.0,
+      "segment": {
+        "id": 8307766,
+        "resource_state": 2,
+        "name": "LA-PA Bike Path",
+        "activity_type": "Run",
+        "distance": 708.6,
+        "average_grade": -0.6,
+        "maximum_grade": 31.1,
+        "elevation_high": 29.0,
+        "elevation_low": 20.1,
+        "start_latlng": [
+          37.400697,
+          -122.129633
+        ],
+        "end_latlng": [
+          37.401526,
+          -122.121088
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Palo Alto",
+        "state": "California",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1000.3,
+      "elapsed_time": 642,
+      "elevation_difference": 7.2,
+      "moving_time": 317,
+      "split": 1,
+      "average_speed": 3.16,
+      "average_grade_adjusted_speed": 3.2,
+      "average_heartrate": 141.04026845637583,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1002.5,
+      "elapsed_time": 404,
+      "elevation_difference": 5.5,
+      "moving_time": 301,
+      "split": 2,
+      "average_speed": 3.33,
+      "average_grade_adjusted_speed": 3.37,
+      "average_heartrate": 147.0958904109589,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 383,
+      "elevation_difference": 12.4,
+      "moving_time": 373,
+      "split": 3,
+      "average_speed": 2.68,
+      "average_grade_adjusted_speed": 3.14,
+      "average_heartrate": 160.62099125364432,
+      "pace_zone": 2
+    },
+    {
+      "distance": 996.5,
+      "elapsed_time": 399,
+      "elevation_difference": 15.7,
+      "moving_time": 359,
+      "split": 4,
+      "average_speed": 2.78,
+      "average_grade_adjusted_speed": 3.08,
+      "average_heartrate": 162.89565217391305,
+      "pace_zone": 2
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 385,
+      "elevation_difference": -11.2,
+      "moving_time": 354,
+      "split": 5,
+      "average_speed": 2.82,
+      "average_grade_adjusted_speed": 2.78,
+      "average_heartrate": 156.49705882352941,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1001.3,
+      "elapsed_time": 411,
+      "elevation_difference": -8.0,
+      "moving_time": 376,
+      "split": 6,
+      "average_speed": 2.66,
+      "average_grade_adjusted_speed": 2.71,
+      "average_heartrate": 148.28125,
+      "pace_zone": 1
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 392,
+      "elevation_difference": -12.4,
+      "moving_time": 326,
+      "split": 7,
+      "average_speed": 3.06,
+      "average_grade_adjusted_speed": 3.0,
+      "average_heartrate": 143.9142857142857,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 290,
+      "elevation_difference": -7.5,
+      "moving_time": 279,
+      "split": 8,
+      "average_speed": 3.59,
+      "average_grade_adjusted_speed": 3.55,
+      "average_heartrate": 165.41304347826087,
+      "pace_zone": 2
+    },
+    {
+      "distance": 116.3,
+      "elapsed_time": 42,
+      "elevation_difference": -1.3,
+      "moving_time": 36,
+      "split": 9,
+      "average_speed": 3.23,
+      "average_grade_adjusted_speed": 3.17,
+      "average_heartrate": 170.8125,
+      "pace_zone": 2
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1611.1,
+      "elapsed_time": 908,
+      "elevation_difference": 12.0,
+      "moving_time": 506,
+      "split": 1,
+      "average_speed": 3.18,
+      "average_grade_adjusted_speed": 3.23,
+      "average_heartrate": 144.75365344467642,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 591,
+      "elevation_difference": 26.7,
+      "moving_time": 555,
+      "split": 2,
+      "average_speed": 2.9,
+      "average_grade_adjusted_speed": 3.35,
+      "average_heartrate": 157.7265774378585,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 637,
+      "elevation_difference": -5.9,
+      "moving_time": 578,
+      "split": 3,
+      "average_speed": 2.78,
+      "average_grade_adjusted_speed": 2.82,
+      "average_heartrate": 159.8705035971223,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1610.8,
+      "elapsed_time": 651,
+      "elevation_difference": -20.2,
+      "moving_time": 596,
+      "split": 4,
+      "average_speed": 2.7,
+      "average_grade_adjusted_speed": 2.69,
+      "average_heartrate": 146.86964285714285,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 532,
+      "elevation_difference": -11.5,
+      "moving_time": 463,
+      "split": 5,
+      "average_speed": 3.47,
+      "average_grade_adjusted_speed": 3.44,
+      "average_heartrate": 157.7390350877193,
+      "pace_zone": 2
+    },
+    {
+      "distance": 69.2,
+      "elapsed_time": 29,
+      "elevation_difference": -0.7,
+      "moving_time": 23,
+      "split": 6,
+      "average_speed": 3.01,
+      "average_grade_adjusted_speed": 2.95,
+      "average_heartrate": 170.47368421052633,
+      "pace_zone": 1
+    }
+  ],
+  "laps": [
+    {
+      "id": 61326094957,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 17178381543,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 3376,
+      "moving_time": 2727,
+      "start_date": "2026-01-26T00:33:10Z",
+      "start_date_local": "2026-01-25T16:33:10Z",
+      "distance": 8117.63,
+      "average_speed": 2.98,
+      "max_speed": 10.2,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 2750,
+      "total_elevation_gain": 94.0,
+      "device_watts": false,
+      "average_heartrate": 153.5,
+      "max_heartrate": 179.0,
+      "pace_zone": 1
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 72323563407,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 17178381543,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 106,
+      "moving_time": 106,
+      "start_date": "2026-01-26T00:33:10Z",
+      "start_date_local": "2026-01-25T16:33:10Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 2504,
+      "end_index": 2610
+    },
+    {
+      "id": 72323563408,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 17178381543,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 225,
+      "moving_time": 225,
+      "start_date": "2026-01-26T00:33:10Z",
+      "start_date_local": "2026-01-25T16:33:10Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 2503,
+      "end_index": 2724
+    },
+    {
+      "id": 72323563409,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 17178381543,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 283,
+      "moving_time": 283,
+      "start_date": "2026-01-26T00:33:10Z",
+      "start_date_local": "2026-01-25T16:33:10Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 2451,
+      "end_index": 2730
+    },
+    {
+      "id": 72323563404,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 17178381543,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 527,
+      "moving_time": 527,
+      "start_date": "2026-01-26T00:33:10Z",
+      "start_date_local": "2026-01-25T16:33:10Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 2261,
+      "end_index": 2729
+    },
+    {
+      "id": 72323563405,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 17178381543,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 1168,
+      "moving_time": 1168,
+      "start_date": "2026-01-26T00:33:10Z",
+      "start_date_local": "2026-01-25T16:33:10Z",
+      "distance": 3219,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 1679,
+      "end_index": 2741
+    },
+    {
+      "id": 72323563406,
+      "resource_state": 2,
+      "name": "5K",
+      "activity": {
+        "id": 17178381543,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 1877,
+      "moving_time": 1877,
+      "start_date": "2026-01-26T00:33:10Z",
+      "start_date_local": "2026-01-25T16:33:10Z",
+      "distance": 5000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 995,
+      "end_index": 2708
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "1e9cf1017a3cf329bda3b3c7e98206b73118fdac",
+  "similar_activities": {
+    "effort_count": 1,
+    "average_speed": 2.976751008434177,
+    "min_average_speed": 2.976751008434177,
+    "mid_average_speed": 2.976751008434177,
+    "max_average_speed": 2.976751008434177,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        2.976751008434177
+      ],
+      "current_activity_index": 0,
+      "min_speed": 2.976751008434177,
+      "mid_speed": 2.976751008434177,
+      "max_speed": 2.976751008434177,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "heartrate",
+    "pace"
+  ]
+}

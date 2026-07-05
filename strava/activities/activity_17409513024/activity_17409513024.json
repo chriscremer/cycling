@@ -1,0 +1,1803 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "resource_state": 1
+  },
+  "name": "Zwift - Race: Zwift Crit Racing Club - The Bell Lap (B) on The Bell Lap in Crit City",
+  "distance": 21420.4,
+  "moving_time": 1891,
+  "elapsed_time": 1891,
+  "total_elevation_gain": 176.0,
+  "type": "VirtualRide",
+  "sport_type": "VirtualRide",
+  "device_name": "Zwift",
+  "id": 17409513024,
+  "start_date": "2026-02-15T18:41:13Z",
+  "start_date_local": "2026-02-15T13:41:13Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -18000.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 2,
+  "kudos_count": 5,
+  "comment_count": 0,
+  "athlete_count": 53,
+  "photo_count": 0,
+  "map": {
+    "id": "a17409513024",
+    "polyline": "hbk~@gg~r^Cj@KJQBqFAU@MPDRTFzA@`ALV?h@OV@TDPJHPFj@LR^\\Hh@HT\\^HPBTCTUd@BRf@l@|ApAlBdBb@VT@LMBU?gCAk@ESQKcA@WEQQGW?YAiBGYWGoABWEIWAkA@q@FUTGdFATEFS@qBAyAISSIUCeA?UIc@]UEeAASFET@lFARMNQBS@mJCQFERLLRBvAB~@JT?h@MTATDRFJNDj@JR^\\HRJj@h@t@DRAVWh@BTj@n@dEtDb@VT@LOBW?eCAk@ESQKaA@WCQMIWAWAaCSOgB@QOAeB@o@PQ~ACdC?TCNKBS@{B?_AGUOKSEaA@UASKa@[UEcACQHGRBtDA`AGTSHU?wJCOJATPJTBpA@lALz@OT?PFNHHNBf@HNf@f@Px@f@p@DR?TIRKPCTHP|@z@lDzC`@VRBNIDS?qCAg@CQOKuAAUKIUCW?}BIUYEkA@WCGUAgA@o@BWPKbAC`D@PCLKDQ?sD?SIQQISC{@@UAQI_@[SE_ACS@MNAT@~E?RKNQFS?wEC_D@OJ?RLJR@pA@nANRCd@MT@RDNFJNDf@FPh@j@Pz@Z^JPBRAVWj@DTr@t@hA|@zBnBPLRFREHU?m@?{AAm@EUQKgA?WGQQEY?Y?kBKW[CoABUMCY?s@@kAPOhAExC?R?NIDS@iC?{@GQQISC{@@SASI_@[SGk@Ck@@KPCTBzEATKPUDcKAQH?TNJT@~@@pANR?f@MTARBRDLLLz@h@j@T|@d@r@BP?TUb@APFPf@h@rE~DNHPDRCFQ@S?uCCk@OKyACUMIUAYAaCSOYAqABOSA[@kBHWXEX?fEARIFU?yDCUOOUEaA?WCu@e@WEaAAQHER?jFATMLSD{DAcBCaB@QJAPLLRBnA@lALR?d@MRARBRFLLJ|@j@n@Lf@HTZ^FPBRATWd@BRX^pE|Db@ZTDPIDU@aDAWGUSGiA?WIMUCY?_CMUYCmABWGEYB_CLSVCjAApC?RIFU?uDAUMQSEUAaA?SGa@]SGaAASBKN@tFARKLSFQ?iJESBKLBRPFbBFjALPCd@KR?RBPFJLBd@FRh@j@Rx@d@n@DP@RERKNGPBPf@j@hEvD\\TPDPCHO@S?gCCw@MMQC}@BUGOOGUAWA}BQOYAmA@QMCkABiANOdACjDAREFQ@U?qDESQMSCcA?UCc@[SKm@Em@?OLCVB~EATKNSFS?oJAQHARNLlBF`AJR?h@OT@RBPHHNDh@HR^ZHNHf@HRZ^FNBRARUb@?RHNh@h@dErD`@TR?LMBSC{DGQSGcA?UEOSEWAY?gBGWYGmABYEGW?_CHUVE`FAPEJQ?S@sDESMKSEQA{@@SE_@[QIi@Ek@AQHIR@|FIPSDS?mJ?QDGNFPRD~ADjALPAd@MR?RBNFJLBd@FPf@h@FNJf@HRX\\FNBPCTU`@@RHNx@x@`DpC\\VPJPDPGDQBmCC{@KQQEaA@UGOOGo@?kA?YEYWIeBAMQAaBBo@PMbACjDAPGHQ@aC?eAIUQKWCgA@UIe@_@UEiA?QLCV@bFARMLSDU?gJCSHCTNL|ADbAJV@j@KVCTBRHJPFj@JR`@^T|@d@r@DPATUd@?RHNh@h@|@t@hC~BPLRFRCHQ@UAwC?UGUSIgA@WGMUEY?kCUMsA@[CKW?qA@s@NSVCn@AzA@pAAPGFQ@_EAUOOUEgA?WCc@]UKWCo@AWFIRBjDApAOT[FeJEW@QNDTRFrA@vANNA^KNC\\DTJJRDf@DJb@b@HRHf@f@r@DJ@PAVQXEL@LJP\\^lEvDd@XN@FCJKD[A}BEcAMMIAoA?MEKKEOCO?_CCQMKSC{ABMICQ?qA@m@BOJGZCtE?LAHGFI@M?aEAKEIIGUGWAs@@KAKC_@YUKYCs@AK@IFEHCV@j@",
+    "resource_state": 3,
+    "summary_polyline": "hbk~@gg~r^Cj@]NqFAc@RDRTF|CNxAMf@PP|@l@p@R~@f@p@UpABRrFdFx@XPc@GgEuAIi@WQuD_CIKcBHgATGzFGHeCAyAISoBMoAm@eAAY\\@lFOb@sK@WZ`@PlDN~@Oh@L\\nA^\\T~@h@t@Bj@Wh@BTpFdFx@XPg@GeE}B[MqDSOgB@QOAeB@o@PQdFCd@OAeFc@QwA?kAm@cACY\\ElGaLDQ`@fE^pAO`@PVfAf@f@Px@f@p@Dh@Yz@HPjFvEt@ZT]EkE{BYMkDIU}BGI}ADgAPKdFA^ODeEIe@wBMeAk@sAAOd@@~EKb@}KDO^bE^x@Qx@NXhAh@j@Pz@f@p@@j@Wj@DTxFbFd@TREHcAG_DqBSQQE_DKWkB?UMCmA@kAPOfGO?kFuBMgAm@wAAOf@BzEMf@yKBQH?TvD^pAOf@HZhAh@j@T|@d@r@Bf@Wt@FPzFhFt@JHe@CaE_C]MqDSOkB@Qo@JcCnGQFoESe@oBIu@e@yAGW\\?jFOb@uK@S\\`@P|CNlAOf@JXjAj@n@V|@b@p@UnABRjF|Ex@`@V_@GoEuBQQo@?_CMUgB?WGEYB_CLShGOFkEOg@kBGiAm@uA@KN@tFM`@oK@_@PTZnDTpBCVfAh@j@Rx@j@`ASzApFbFn@ZPCJc@C_E_@Q}@Be@WKkDQOgB?QMCkABiANOdGKHg@EeEe@QyACw@g@{AESd@B~EMd@wKDQHAR~D`@|@Oz@NNx@r@~@Hf@l@bA@f@Ub@Hb@nF|Et@TPa@C{D[YcA?e@YOqDaCIGwCHUVErFGJe@CgEa@QaBEq@e@uAG[\\@|FIPuKDYTZVjDRnBCVdAf@h@Rv@j@`A?f@U`@Jb@zEjE`Ah@VY?iEKQsACe@WMoD}BKMQAaBBo@PM`GMJsCI{Ai@OgA@qAo@iA?Ud@@bFO`@qK@SHCTNL`DPzAMh@LR|@l@r@T|@d@r@Bf@Ud@Hb@pF~Ex@PJg@IcEsBOSo@?kCUMoBAKW?qA@s@NSfGMHqEQe@uBIy@i@_B@IR@|FOTaK@i@PDTRFjDP~@Qr@PVfAb@b@Rz@l@~@?h@Wf@L^vF`F`@PVGHc@GaEWOoA?YQMqDkCUCsA@}@NWhGMFeFe@YwAAaAi@mAE[RAbA"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    -10.383887,
+    165.802287
+  ],
+  "end_latlng": [
+    -10.384531,
+    165.803081
+  ],
+  "average_speed": 11.328,
+  "max_speed": 16.02,
+  "average_cadence": 79.3,
+  "average_watts": 244.1,
+  "max_watts": 1040,
+  "weighted_average_watts": 277,
+  "device_watts": true,
+  "kilojoules": 461.6,
+  "has_heartrate": true,
+  "average_heartrate": 155.6,
+  "max_heartrate": 181.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 127.4,
+  "elev_low": 119.4,
+  "upload_id": 18506501175,
+  "upload_id_str": "18506501175",
+  "external_id": "zwift-activity-2074263860734328848.fit",
+  "from_accepted_tag": false,
+  "pr_count": 1,
+  "total_photo_count": 2,
+  "has_kudoed": false,
+  "suffer_score": 63.0,
+  "description": null,
+  "calories": 462.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3458195153258750078,
+      "resource_state": 2,
+      "name": "Bell Lap",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 158,
+      "moving_time": 158,
+      "start_date": "2026-02-15T18:41:18Z",
+      "start_date_local": "2026-02-15T13:41:18Z",
+      "distance": 1949.2,
+      "start_index": 5,
+      "end_index": 163,
+      "average_cadence": 84.2,
+      "device_watts": true,
+      "average_watts": 283.2,
+      "average_heartrate": 145.3,
+      "max_heartrate": 153.0,
+      "segment": {
+        "id": 22419554,
+        "resource_state": 2,
+        "name": "Bell Lap",
+        "activity_type": "VirtualRide",
+        "distance": 1949.2,
+        "average_grade": 0.0,
+        "maximum_grade": 4.6,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383708,
+          165.802006
+        ],
+        "end_latlng": [
+          -10.383719,
+          165.802006
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153256949886,
+      "resource_state": 2,
+      "name": "Bell Lap Prime Sprint",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 25,
+      "moving_time": 25,
+      "start_date": "2026-02-15T18:42:06Z",
+      "start_date_local": "2026-02-15T13:42:06Z",
+      "distance": 297.7,
+      "start_index": 53,
+      "end_index": 78,
+      "average_cadence": 85.3,
+      "device_watts": true,
+      "average_watts": 314.0,
+      "average_heartrate": 151.0,
+      "max_heartrate": 153.0,
+      "segment": {
+        "id": 38170254,
+        "resource_state": 2,
+        "name": "Bell Lap Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 297.7,
+        "average_grade": 0.5,
+        "maximum_grade": 1.8,
+        "elevation_high": 127.4,
+        "elevation_low": 125.8,
+        "start_latlng": [
+          -10.38455,
+          165.79986
+        ],
+        "end_latlng": [
+          -10.38605,
+          165.799592
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153256659070,
+      "resource_state": 2,
+      "name": "Bell Lap",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 158,
+      "moving_time": 158,
+      "start_date": "2026-02-15T18:43:57Z",
+      "start_date_local": "2026-02-15T13:43:57Z",
+      "distance": 1949.2,
+      "start_index": 164,
+      "end_index": 322,
+      "average_cadence": 81.2,
+      "device_watts": true,
+      "average_watts": 276.3,
+      "average_heartrate": 155.3,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 22419554,
+        "resource_state": 2,
+        "name": "Bell Lap",
+        "activity_type": "VirtualRide",
+        "distance": 1949.2,
+        "average_grade": 0.0,
+        "maximum_grade": 4.6,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383708,
+          165.802006
+        ],
+        "end_latlng": [
+          -10.383719,
+          165.802006
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153258629246,
+      "resource_state": 2,
+      "name": "Bell Lap Prime Sprint",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 24,
+      "moving_time": 24,
+      "start_date": "2026-02-15T18:44:45Z",
+      "start_date_local": "2026-02-15T13:44:45Z",
+      "distance": 297.7,
+      "start_index": 212,
+      "end_index": 236,
+      "average_cadence": 88.4,
+      "device_watts": true,
+      "average_watts": 301.2,
+      "average_heartrate": 162.6,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 38170254,
+        "resource_state": 2,
+        "name": "Bell Lap Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 297.7,
+        "average_grade": 0.5,
+        "maximum_grade": 1.8,
+        "elevation_high": 127.4,
+        "elevation_low": 125.8,
+        "start_latlng": [
+          -10.38455,
+          165.79986
+        ],
+        "end_latlng": [
+          -10.38605,
+          165.799592
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153258372222,
+      "resource_state": 2,
+      "name": "Bell Lap",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 168,
+      "moving_time": 168,
+      "start_date": "2026-02-15T18:46:35Z",
+      "start_date_local": "2026-02-15T13:46:35Z",
+      "distance": 1949.2,
+      "start_index": 322,
+      "end_index": 490,
+      "average_cadence": 77.4,
+      "device_watts": true,
+      "average_watts": 237.1,
+      "average_heartrate": 152.9,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 22419554,
+        "resource_state": 2,
+        "name": "Bell Lap",
+        "activity_type": "VirtualRide",
+        "distance": 1949.2,
+        "average_grade": 0.0,
+        "maximum_grade": 4.6,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383708,
+          165.802006
+        ],
+        "end_latlng": [
+          -10.383719,
+          165.802006
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153258449022,
+      "resource_state": 2,
+      "name": "Bell Lap Prime Sprint",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 26,
+      "moving_time": 26,
+      "start_date": "2026-02-15T18:47:25Z",
+      "start_date_local": "2026-02-15T13:47:25Z",
+      "distance": 297.7,
+      "start_index": 372,
+      "end_index": 398,
+      "average_cadence": 83.1,
+      "device_watts": true,
+      "average_watts": 240.7,
+      "average_heartrate": 163.0,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 38170254,
+        "resource_state": 2,
+        "name": "Bell Lap Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 297.7,
+        "average_grade": 0.5,
+        "maximum_grade": 1.8,
+        "elevation_high": 127.4,
+        "elevation_low": 125.8,
+        "start_latlng": [
+          -10.38455,
+          165.79986
+        ],
+        "end_latlng": [
+          -10.38605,
+          165.799592
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153255177342,
+      "resource_state": 2,
+      "name": "Bell Lap",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 160,
+      "moving_time": 160,
+      "start_date": "2026-02-15T18:49:23Z",
+      "start_date_local": "2026-02-15T13:49:23Z",
+      "distance": 1949.2,
+      "start_index": 490,
+      "end_index": 650,
+      "average_cadence": 81.1,
+      "device_watts": true,
+      "average_watts": 275.3,
+      "average_heartrate": 157.4,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 22419554,
+        "resource_state": 2,
+        "name": "Bell Lap",
+        "activity_type": "VirtualRide",
+        "distance": 1949.2,
+        "average_grade": 0.0,
+        "maximum_grade": 4.6,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383708,
+          165.802006
+        ],
+        "end_latlng": [
+          -10.383719,
+          165.802006
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153257367678,
+      "resource_state": 2,
+      "name": "Bell Lap Prime Sprint",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 23,
+      "moving_time": 23,
+      "start_date": "2026-02-15T18:50:13Z",
+      "start_date_local": "2026-02-15T13:50:13Z",
+      "distance": 297.7,
+      "start_index": 540,
+      "end_index": 563,
+      "average_cadence": 91.9,
+      "device_watts": true,
+      "average_watts": 302.2,
+      "average_heartrate": 166.1,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 38170254,
+        "resource_state": 2,
+        "name": "Bell Lap Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 297.7,
+        "average_grade": 0.5,
+        "maximum_grade": 1.8,
+        "elevation_high": 127.4,
+        "elevation_low": 125.8,
+        "start_latlng": [
+          -10.38455,
+          165.79986
+        ],
+        "end_latlng": [
+          -10.38605,
+          165.799592
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153255624830,
+      "resource_state": 2,
+      "name": "Bell Lap",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 161,
+      "moving_time": 161,
+      "start_date": "2026-02-15T18:52:03Z",
+      "start_date_local": "2026-02-15T13:52:03Z",
+      "distance": 1949.2,
+      "start_index": 650,
+      "end_index": 811,
+      "average_cadence": 81.3,
+      "device_watts": true,
+      "average_watts": 272.6,
+      "average_heartrate": 161.0,
+      "max_heartrate": 168.0,
+      "segment": {
+        "id": 22419554,
+        "resource_state": 2,
+        "name": "Bell Lap",
+        "activity_type": "VirtualRide",
+        "distance": 1949.2,
+        "average_grade": 0.0,
+        "maximum_grade": 4.6,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383708,
+          165.802006
+        ],
+        "end_latlng": [
+          -10.383719,
+          165.802006
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153257267326,
+      "resource_state": 2,
+      "name": "Bell Lap Prime Sprint",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 27,
+      "moving_time": 27,
+      "start_date": "2026-02-15T18:52:53Z",
+      "start_date_local": "2026-02-15T13:52:53Z",
+      "distance": 297.7,
+      "start_index": 700,
+      "end_index": 727,
+      "average_cadence": 81.7,
+      "device_watts": true,
+      "average_watts": 291.3,
+      "average_heartrate": 162.6,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 38170254,
+        "resource_state": 2,
+        "name": "Bell Lap Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 297.7,
+        "average_grade": 0.5,
+        "maximum_grade": 1.8,
+        "elevation_high": 127.4,
+        "elevation_low": 125.8,
+        "start_latlng": [
+          -10.38455,
+          165.79986
+        ],
+        "end_latlng": [
+          -10.38605,
+          165.799592
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153256378494,
+      "resource_state": 2,
+      "name": "Bell Lap",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 161,
+      "moving_time": 161,
+      "start_date": "2026-02-15T18:54:44Z",
+      "start_date_local": "2026-02-15T13:54:44Z",
+      "distance": 1949.2,
+      "start_index": 811,
+      "end_index": 972,
+      "average_cadence": 82.3,
+      "device_watts": true,
+      "average_watts": 283.9,
+      "average_heartrate": 164.5,
+      "max_heartrate": 172.0,
+      "segment": {
+        "id": 22419554,
+        "resource_state": 2,
+        "name": "Bell Lap",
+        "activity_type": "VirtualRide",
+        "distance": 1949.2,
+        "average_grade": 0.0,
+        "maximum_grade": 4.6,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383708,
+          165.802006
+        ],
+        "end_latlng": [
+          -10.383719,
+          165.802006
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153256185982,
+      "resource_state": 2,
+      "name": "Bell Lap Prime Sprint",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 24,
+      "moving_time": 24,
+      "start_date": "2026-02-15T18:55:35Z",
+      "start_date_local": "2026-02-15T13:55:35Z",
+      "distance": 297.7,
+      "start_index": 862,
+      "end_index": 886,
+      "average_cadence": 90.2,
+      "device_watts": true,
+      "average_watts": 390.2,
+      "average_heartrate": 169.0,
+      "max_heartrate": 172.0,
+      "segment": {
+        "id": 38170254,
+        "resource_state": 2,
+        "name": "Bell Lap Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 297.7,
+        "average_grade": 0.5,
+        "maximum_grade": 1.8,
+        "elevation_high": 127.4,
+        "elevation_low": 125.8,
+        "start_latlng": [
+          -10.38455,
+          165.79986
+        ],
+        "end_latlng": [
+          -10.38605,
+          165.799592
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153255913598,
+      "resource_state": 2,
+      "name": "Bell Lap",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 167,
+      "moving_time": 167,
+      "start_date": "2026-02-15T18:57:25Z",
+      "start_date_local": "2026-02-15T13:57:25Z",
+      "distance": 1949.2,
+      "start_index": 972,
+      "end_index": 1139,
+      "average_cadence": 77.4,
+      "device_watts": true,
+      "average_watts": 244.8,
+      "average_heartrate": 154.6,
+      "max_heartrate": 160.0,
+      "segment": {
+        "id": 22419554,
+        "resource_state": 2,
+        "name": "Bell Lap",
+        "activity_type": "VirtualRide",
+        "distance": 1949.2,
+        "average_grade": 0.0,
+        "maximum_grade": 4.6,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383708,
+          165.802006
+        ],
+        "end_latlng": [
+          -10.383719,
+          165.802006
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153255797886,
+      "resource_state": 2,
+      "name": "Bell Lap Prime Sprint",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 28,
+      "moving_time": 28,
+      "start_date": "2026-02-15T18:58:17Z",
+      "start_date_local": "2026-02-15T13:58:17Z",
+      "distance": 297.7,
+      "start_index": 1024,
+      "end_index": 1052,
+      "average_cadence": 78.0,
+      "device_watts": true,
+      "average_watts": 223.6,
+      "average_heartrate": 157.1,
+      "max_heartrate": 158.0,
+      "segment": {
+        "id": 38170254,
+        "resource_state": 2,
+        "name": "Bell Lap Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 297.7,
+        "average_grade": 0.5,
+        "maximum_grade": 1.8,
+        "elevation_high": 127.4,
+        "elevation_low": 125.8,
+        "start_latlng": [
+          -10.38455,
+          165.79986
+        ],
+        "end_latlng": [
+          -10.38605,
+          165.799592
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153257405566,
+      "resource_state": 2,
+      "name": "Bell Lap",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 166,
+      "moving_time": 166,
+      "start_date": "2026-02-15T19:00:12Z",
+      "start_date_local": "2026-02-15T14:00:12Z",
+      "distance": 1949.2,
+      "start_index": 1139,
+      "end_index": 1305,
+      "average_cadence": 78.8,
+      "device_watts": true,
+      "average_watts": 242.9,
+      "average_heartrate": 160.5,
+      "max_heartrate": 167.0,
+      "segment": {
+        "id": 22419554,
+        "resource_state": 2,
+        "name": "Bell Lap",
+        "activity_type": "VirtualRide",
+        "distance": 1949.2,
+        "average_grade": 0.0,
+        "maximum_grade": 4.6,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383708,
+          165.802006
+        ],
+        "end_latlng": [
+          -10.383719,
+          165.802006
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153256598654,
+      "resource_state": 2,
+      "name": "Bell Lap Prime Sprint",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 28,
+      "moving_time": 28,
+      "start_date": "2026-02-15T19:01:01Z",
+      "start_date_local": "2026-02-15T14:01:01Z",
+      "distance": 297.7,
+      "start_index": 1188,
+      "end_index": 1216,
+      "average_cadence": 79.3,
+      "device_watts": true,
+      "average_watts": 259.0,
+      "average_heartrate": 165.9,
+      "max_heartrate": 167.0,
+      "segment": {
+        "id": 38170254,
+        "resource_state": 2,
+        "name": "Bell Lap Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 297.7,
+        "average_grade": 0.5,
+        "maximum_grade": 1.8,
+        "elevation_high": 127.4,
+        "elevation_low": 125.8,
+        "start_latlng": [
+          -10.38455,
+          165.79986
+        ],
+        "end_latlng": [
+          -10.38605,
+          165.799592
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153256931454,
+      "resource_state": 2,
+      "name": "Bell Lap",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 165,
+      "moving_time": 165,
+      "start_date": "2026-02-15T19:02:58Z",
+      "start_date_local": "2026-02-15T14:02:58Z",
+      "distance": 1949.2,
+      "start_index": 1305,
+      "end_index": 1470,
+      "average_cadence": 82.3,
+      "device_watts": true,
+      "average_watts": 286.9,
+      "average_heartrate": 162.6,
+      "max_heartrate": 172.0,
+      "segment": {
+        "id": 22419554,
+        "resource_state": 2,
+        "name": "Bell Lap",
+        "activity_type": "VirtualRide",
+        "distance": 1949.2,
+        "average_grade": 0.0,
+        "maximum_grade": 4.6,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383708,
+          165.802006
+        ],
+        "end_latlng": [
+          -10.383719,
+          165.802006
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153256782974,
+      "resource_state": 2,
+      "name": "Bell Lap Prime Sprint",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 27,
+      "moving_time": 27,
+      "start_date": "2026-02-15T19:03:50Z",
+      "start_date_local": "2026-02-15T14:03:50Z",
+      "distance": 297.7,
+      "start_index": 1357,
+      "end_index": 1384,
+      "average_cadence": 84.3,
+      "device_watts": true,
+      "average_watts": 292.8,
+      "average_heartrate": 164.0,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 38170254,
+        "resource_state": 2,
+        "name": "Bell Lap Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 297.7,
+        "average_grade": 0.5,
+        "maximum_grade": 1.8,
+        "elevation_high": 127.4,
+        "elevation_low": 125.8,
+        "start_latlng": [
+          -10.38455,
+          165.79986
+        ],
+        "end_latlng": [
+          -10.38605,
+          165.799592
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153256524926,
+      "resource_state": 2,
+      "name": "Bell Lap",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 153,
+      "moving_time": 153,
+      "start_date": "2026-02-15T19:05:43Z",
+      "start_date_local": "2026-02-15T14:05:43Z",
+      "distance": 1949.2,
+      "start_index": 1470,
+      "end_index": 1623,
+      "average_cadence": 87.1,
+      "device_watts": true,
+      "average_watts": 362.5,
+      "average_heartrate": 174.2,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 22419554,
+        "resource_state": 2,
+        "name": "Bell Lap",
+        "activity_type": "VirtualRide",
+        "distance": 1949.2,
+        "average_grade": 0.0,
+        "maximum_grade": 4.6,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383708,
+          165.802006
+        ],
+        "end_latlng": [
+          -10.383719,
+          165.802006
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153258865790,
+      "resource_state": 2,
+      "name": "Bell Lap Prime Sprint",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 26,
+      "moving_time": 26,
+      "start_date": "2026-02-15T19:06:30Z",
+      "start_date_local": "2026-02-15T14:06:30Z",
+      "distance": 297.7,
+      "start_index": 1517,
+      "end_index": 1543,
+      "average_cadence": 85.4,
+      "device_watts": true,
+      "average_watts": 345.1,
+      "average_heartrate": 177.5,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 38170254,
+        "resource_state": 2,
+        "name": "Bell Lap Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 297.7,
+        "average_grade": 0.5,
+        "maximum_grade": 1.8,
+        "elevation_high": 127.4,
+        "elevation_low": 125.8,
+        "start_latlng": [
+          -10.38455,
+          165.79986
+        ],
+        "end_latlng": [
+          -10.38605,
+          165.799592
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3458195153256483966,
+      "resource_state": 2,
+      "name": "Bell Lap Prime Sprint",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 67,
+      "moving_time": 67,
+      "start_date": "2026-02-15T19:09:28Z",
+      "start_date_local": "2026-02-15T14:09:28Z",
+      "distance": 297.7,
+      "start_index": 1695,
+      "end_index": 1762,
+      "average_cadence": 63.0,
+      "device_watts": true,
+      "average_watts": 60.7,
+      "average_heartrate": 146.6,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 38170254,
+        "resource_state": 2,
+        "name": "Bell Lap Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 297.7,
+        "average_grade": 0.5,
+        "maximum_grade": 1.8,
+        "elevation_high": 127.4,
+        "elevation_low": 125.8,
+        "start_latlng": [
+          -10.38455,
+          165.79986
+        ],
+        "end_latlng": [
+          -10.38605,
+          165.799592
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1005.2,
+      "elapsed_time": 85,
+      "elevation_difference": 5.4,
+      "moving_time": 85,
+      "split": 1,
+      "average_speed": 11.83,
+      "average_grade_adjusted_speed": 12.05,
+      "average_heartrate": 139.71764705882353,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.0,
+      "elapsed_time": 78,
+      "elevation_difference": -5.4,
+      "moving_time": 78,
+      "split": 2,
+      "average_speed": 12.79,
+      "average_grade_adjusted_speed": 12.7,
+      "average_heartrate": 149.53846153846155,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.3,
+      "elapsed_time": 83,
+      "elevation_difference": 4.0,
+      "moving_time": 83,
+      "split": 3,
+      "average_speed": 12.11,
+      "average_grade_adjusted_speed": 12.31,
+      "average_heartrate": 155.5421686746988,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 79,
+      "elevation_difference": -4.0,
+      "moving_time": 79,
+      "split": 4,
+      "average_speed": 12.66,
+      "average_grade_adjusted_speed": 12.61,
+      "average_heartrate": 154.84810126582278,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 86,
+      "elevation_difference": 2.6,
+      "moving_time": 86,
+      "split": 5,
+      "average_speed": 11.63,
+      "average_grade_adjusted_speed": 11.8,
+      "average_heartrate": 156.51162790697674,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.4,
+      "elapsed_time": 85,
+      "elevation_difference": -2.6,
+      "moving_time": 85,
+      "split": 6,
+      "average_speed": 11.68,
+      "average_grade_adjusted_speed": 11.65,
+      "average_heartrate": 148.58823529411765,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1010.7,
+      "elapsed_time": 82,
+      "elevation_difference": 1.0,
+      "moving_time": 82,
+      "split": 7,
+      "average_speed": 12.33,
+      "average_grade_adjusted_speed": 12.47,
+      "average_heartrate": 155.6341463414634,
+      "pace_zone": 0
+    },
+    {
+      "distance": 990.3,
+      "elapsed_time": 81,
+      "elevation_difference": -1.0,
+      "moving_time": 81,
+      "split": 8,
+      "average_speed": 12.23,
+      "average_grade_adjusted_speed": 12.24,
+      "average_heartrate": 160.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.3,
+      "elapsed_time": 86,
+      "elevation_difference": 0.4,
+      "moving_time": 86,
+      "split": 9,
+      "average_speed": 11.69,
+      "average_grade_adjusted_speed": 11.81,
+      "average_heartrate": 159.97674418604652,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.0,
+      "elapsed_time": 79,
+      "elevation_difference": -0.4,
+      "moving_time": 79,
+      "split": 10,
+      "average_speed": 12.57,
+      "average_grade_adjusted_speed": 12.59,
+      "average_heartrate": 162.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.9,
+      "elapsed_time": 82,
+      "elevation_difference": 0.0,
+      "moving_time": 82,
+      "split": 11,
+      "average_speed": 12.29,
+      "average_grade_adjusted_speed": 12.41,
+      "average_heartrate": 164.32926829268294,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 83,
+      "elevation_difference": 0.0,
+      "moving_time": 83,
+      "split": 12,
+      "average_speed": 12.07,
+      "average_grade_adjusted_speed": 12.1,
+      "average_heartrate": 164.78313253012047,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.7,
+      "elapsed_time": 88,
+      "elevation_difference": 0.0,
+      "moving_time": 88,
+      "split": 13,
+      "average_speed": 11.41,
+      "average_grade_adjusted_speed": 11.53,
+      "average_heartrate": 155.04545454545453,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.1,
+      "elapsed_time": 81,
+      "elevation_difference": 0.0,
+      "moving_time": 81,
+      "split": 14,
+      "average_speed": 12.25,
+      "average_grade_adjusted_speed": 12.28,
+      "average_heartrate": 153.8395061728395,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 84,
+      "elevation_difference": 0.0,
+      "moving_time": 84,
+      "split": 15,
+      "average_speed": 11.96,
+      "average_grade_adjusted_speed": 12.08,
+      "average_heartrate": 163.95238095238096,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 87,
+      "elevation_difference": 1.0,
+      "moving_time": 87,
+      "split": 16,
+      "average_speed": 11.47,
+      "average_grade_adjusted_speed": 11.53,
+      "average_heartrate": 155.13793103448276,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.5,
+      "elapsed_time": 85,
+      "elevation_difference": -1.0,
+      "moving_time": 85,
+      "split": 17,
+      "average_speed": 11.68,
+      "average_grade_adjusted_speed": 11.78,
+      "average_heartrate": 161.76470588235293,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 81,
+      "elevation_difference": 0.4,
+      "moving_time": 81,
+      "split": 18,
+      "average_speed": 12.36,
+      "average_grade_adjusted_speed": 12.42,
+      "average_heartrate": 168.20987654320987,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1009.3,
+      "elapsed_time": 79,
+      "elevation_difference": 0.2,
+      "moving_time": 79,
+      "split": 19,
+      "average_speed": 12.78,
+      "average_grade_adjusted_speed": 12.89,
+      "average_heartrate": 176.79746835443038,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.0,
+      "elapsed_time": 79,
+      "elevation_difference": 2.0,
+      "moving_time": 79,
+      "split": 20,
+      "average_speed": 12.57,
+      "average_grade_adjusted_speed": 12.7,
+      "average_heartrate": 174.84810126582278,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 167,
+      "elevation_difference": -1.6,
+      "moving_time": 167,
+      "split": 21,
+      "average_speed": 5.98,
+      "average_grade_adjusted_speed": 6.06,
+      "average_heartrate": 141.8682634730539,
+      "pace_zone": 0
+    },
+    {
+      "distance": 418.5,
+      "elapsed_time": 71,
+      "elevation_difference": -1.0,
+      "moving_time": 71,
+      "split": 22,
+      "average_speed": 5.89,
+      "average_grade_adjusted_speed": 5.89,
+      "average_heartrate": 111.02816901408451,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1618.1,
+      "elapsed_time": 131,
+      "elevation_difference": 1.2,
+      "moving_time": 131,
+      "split": 1,
+      "average_speed": 12.35,
+      "average_grade_adjusted_speed": 12.45,
+      "average_heartrate": 143.01526717557252,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.9,
+      "elapsed_time": 130,
+      "elevation_difference": -1.2,
+      "moving_time": 130,
+      "split": 2,
+      "average_speed": 12.34,
+      "average_grade_adjusted_speed": 12.4,
+      "average_heartrate": 154.6076923076923,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.7,
+      "elapsed_time": 136,
+      "elevation_difference": 7.8,
+      "moving_time": 136,
+      "split": 3,
+      "average_speed": 11.89,
+      "average_grade_adjusted_speed": 12.1,
+      "average_heartrate": 154.91176470588235,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.2,
+      "elapsed_time": 138,
+      "elevation_difference": -3.6,
+      "moving_time": 138,
+      "split": 4,
+      "average_speed": 11.6,
+      "average_grade_adjusted_speed": 11.62,
+      "average_heartrate": 148.64492753623188,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 128,
+      "elevation_difference": -4.2,
+      "moving_time": 128,
+      "split": 5,
+      "average_speed": 12.58,
+      "average_grade_adjusted_speed": 12.55,
+      "average_heartrate": 161.71875,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 131,
+      "elevation_difference": 0.0,
+      "moving_time": 131,
+      "split": 6,
+      "average_speed": 12.27,
+      "average_grade_adjusted_speed": 12.37,
+      "average_heartrate": 161.73282442748092,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.5,
+      "elapsed_time": 131,
+      "elevation_difference": 2.4,
+      "moving_time": 131,
+      "split": 7,
+      "average_speed": 12.31,
+      "average_grade_adjusted_speed": 12.43,
+      "average_heartrate": 163.4885496183206,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.8,
+      "elapsed_time": 143,
+      "elevation_difference": -1.2,
+      "moving_time": 143,
+      "split": 8,
+      "average_speed": 11.3,
+      "average_grade_adjusted_speed": 11.36,
+      "average_heartrate": 159.13286713286712,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.1,
+      "elapsed_time": 133,
+      "elevation_difference": 6.4,
+      "moving_time": 133,
+      "split": 9,
+      "average_speed": 12.05,
+      "average_grade_adjusted_speed": 12.24,
+      "average_heartrate": 156.48872180451127,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.6,
+      "elapsed_time": 137,
+      "elevation_difference": -5.4,
+      "moving_time": 137,
+      "split": 10,
+      "average_speed": 11.79,
+      "average_grade_adjusted_speed": 11.75,
+      "average_heartrate": 158.08029197080293,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.7,
+      "elapsed_time": 133,
+      "elevation_difference": -2.2,
+      "moving_time": 133,
+      "split": 11,
+      "average_speed": 12.06,
+      "average_grade_adjusted_speed": 12.11,
+      "average_heartrate": 165.2781954887218,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1618.2,
+      "elapsed_time": 129,
+      "elevation_difference": 0.4,
+      "moving_time": 129,
+      "split": 12,
+      "average_speed": 12.54,
+      "average_grade_adjusted_speed": 12.64,
+      "average_heartrate": 174.1782945736434,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1599.3,
+      "elapsed_time": 209,
+      "elevation_difference": -0.4,
+      "moving_time": 209,
+      "split": 13,
+      "average_speed": 7.65,
+      "average_grade_adjusted_speed": 7.74,
+      "average_heartrate": 151.94258373205741,
+      "pace_zone": 0
+    },
+    {
+      "distance": 497.0,
+      "elapsed_time": 82,
+      "elevation_difference": 0.0,
+      "moving_time": 82,
+      "split": 14,
+      "average_speed": 6.06,
+      "average_grade_adjusted_speed": 6.09,
+      "average_heartrate": 111.64634146341463,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 62194957033,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 17409513024,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 1891,
+      "moving_time": 1892,
+      "start_date": "2026-02-15T18:41:13Z",
+      "start_date_local": "2026-02-15T13:41:13Z",
+      "distance": 21420.7,
+      "average_speed": 11.32,
+      "max_speed": 16.02,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 1891,
+      "total_elevation_gain": 114.4,
+      "average_cadence": 79.3,
+      "device_watts": true,
+      "average_watts": 244.1,
+      "average_heartrate": 155.6,
+      "max_heartrate": 181.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "2d02d62b-b95d-4e86-b58f-9a5b83c3231c",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/Ma2QfSgG_1rklI8Y_NJPgwUrJFK4WBt2WZ-C4UmTMr0-768x432.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/Ma2QfSgG_1rklI8Y_NJPgwUrJFK4WBt2WZ-C4UmTMr0-128x72.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 2
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "281fa41ab9aab278c7033aa3e9f3641782575be4",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}

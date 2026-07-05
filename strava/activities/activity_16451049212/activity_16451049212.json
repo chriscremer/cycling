@@ -1,0 +1,3265 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "resource_state": 1
+  },
+  "name": "Zwift - Race: KRG Thursday Night Crit  (B) on Downtown Dolphin in Crit City",
+  "distance": 36230.8,
+  "moving_time": 3115,
+  "elapsed_time": 3115,
+  "total_elevation_gain": 303.0,
+  "type": "VirtualRide",
+  "sport_type": "VirtualRide",
+  "device_name": "Zwift",
+  "id": 16451049212,
+  "start_date": "2025-11-13T23:16:59Z",
+  "start_date_local": "2025-11-13T18:16:59Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -18000.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 11,
+  "kudos_count": 5,
+  "comment_count": 0,
+  "athlete_count": 26,
+  "photo_count": 0,
+  "map": {
+    "id": "a16451049212",
+    "polyline": "rck~@ok~r^YVO\\?jBBPJLPFz@?RCNKDS?mBCgCFSTEl@?T@TF`@\\RFvA@RFJR?rCA|@OLS@}E@SFIR?dA?bAFRTDtAATDDPBhCBPFNNHNBbAALBHLFvA?`BARIPQ@c@UkEuDk@m@CWVi@@WGW]e@MUMq@e@a@IWCYIUSKWGY?q@NaBQkAASKDSTEvG@vA?TANMDUCmFDSPK|@?TBRH^ZRD~@?R@RFJN@TAlDCTQJ}A@wBAW@UFGVA|ABn@NNzAATBJP?`C@TFPLLRFlAALHDPBdB?tAGTS@e@UmEyD_@_@KQDWNSDWCWIU_@e@Oo@KSc@a@GWAYKQSKYEW?o@NWCo@IYCiAAUGBWTEnJ@TAPMDSAuFHSRE`ABTD^ZRHR@z@ARBNHFP?R?pDENQFS@oDAm@BSJET?dA@fAPLT@dACVBHR@bC@THPNJRD|@ARBHNBz@@zBARIPS?c@UmF{EKSFULSBYCWKU_@g@Oq@OSSQMWCYGYUMYG[@YHYBmAMmAAWCISPOV?|IBRAPGJO@S?wFLKh@Af@BPD\\XPHRBx@AP@PDHL@P?zDGPQDS@mD?m@@QJET?bA?`AJPTDvACRFDR?|B@RHRLJRDjA?LJDP@x@?|BCRSFQGa@YaEkD_@_@KQ@ULSFWAYIU_@e@IWEYMUc@c@Gs@OSWIYCYDYHY?kAMkAAWGCUTIXAjIBV?RELQBUCaFBUPK`A?TDt@f@TB`AATBNNBR?nBC`AATSHcF@WDKRCzA@n@DTTFxACTDFT?`CBRFRPJRBjA?JJBPBnAAhBGRQBc@SmEwDm@o@AUVi@@WGU]g@KUOo@c@c@KWAWGWSMUGY?o@LU?eAM}AAQKDSREfJ@T?PELO@SCqFFQRGx@@RBPF\\XNFRBx@CP@NFJL@R?|DINQFkE?i@BMLCR?h@?rADPNJbBCRDDPAdCBPDNLLNFP@t@CPBHLDx@?~B?TMNSAc@WoEyD]_@IUHSLSBYEWIS_@e@Mq@MSSOOSIs@OOWIYAs@NYAkAOoAASMHSVAbJ?TARIFS@UC_FDSRI`A@RBr@d@TD|@CRDPHFR?fDCf@OJU@{E@SJGRAzA@l@LPTBxACPJ@V@~BBRJNPHR@z@?PFDP@RBxCARGRS@c@U{EeE]c@@WNSDWAYIUa@g@Mq@MSc@c@Gq@MQUKWEW@m@L{AOcA?UCKOLMTA`HBnA?PELMDSCsFDSRE|@?RDPH^XRD|@AP@RDJL@RAbEKLSBkDAm@@WBMPC~A?l@FTTHxACTBFR?~B@RFRNJPFjAALHDNBb@@vCCROFQCo@a@aEoD]]IQDULSDUAWIS]c@IWEWISa@a@IWCWGUQMWGY?m@NW?gAOiAAWAKSLOVA`JBRARGJO@UAcF@UPIf@Ah@BPH^XPFR@z@APBNHFR?tCCv@KJSBeD?aABQJCTA`A@~@FRRDrACR@LN@pCBPHPPHPBv@AP@JJDf@@tCATKNSAc@UoE{D]]KSDSLSFWAWIS_@e@IUEYKSc@c@GWAWIUSKWEYAm@NWAeAMgAAUCKQNMTA`HBnAAPCLO@SAqFDSRE|@@RBPH\\ZRDnA?PBNLBRA~DGPQDoE?S?UDKNAT?|BHPRFrAETBHP@|BDd@JNNHRBx@CPDHNBpA?lBERSFQIc@YcCyBeA}@_@a@?WLSHWAYIUa@g@Os@MUSOOSIs@QQWGYAq@NW?iAOiACWCGURKrH@fA?VCNQ@U?iFDUTEdA@THb@\\VDfAATDNN@TApDATSHeF@UDMPCfCBRPLhB?PHBjC@RDPNLPFlA?NHBNBlA?rBINOB_@QcFiE[a@AULQJW?WGU_@e@KWEYIUc@a@IWAYIUSMWEY?o@NYAgAMkAAUGAURIVAvIDTARGHS@UAoFLOh@Ah@BRF\\ZPFRB|@ARBNHDR@pAAfBCRQJeF@WDKRCfABfAHRVBdACV@NL@hC@RHRLLRDz@AP@LLDx@@lCEPOFQEo@a@gEsD[_@AUVg@@UEUi@w@Mm@KQa@_@GWAWGSQMUEWAm@LW@cAO{AAUGASNKvJ@R?PGHQBSCcF@SNKh@Ah@BRF\\ZRFR@x@AP@PHFN@RE`EMJS@}E@SFIR?T?jB@RPJhB?PJ@T?zBBRHPNJPBlA?JLDz@?bCATQJUGc@YaEmD_@_@KSDWLSDWCWIU]e@Oo@KUc@a@Iq@MSUKWCY@WHWDkAOeBCOOLSVAjJDRCNIFS@SCoFLOh@Af@BRD\\XNHRBfA?PBLHDN?PApDCNMHO@iE?S@SDKRAtA?j@BTPJvAATBLLBnCBRHNNJPBjA?JLFdBAvAATMLSCa@UsE}D[]GSHSLQBWAWIS]c@IWEWISc@a@IWAYISSMUGY?o@NWAgAMiA?WEGSRM`KBRELMBSAwFJORCx@BRBl@`@d@Fv@CPBNHFP@dCAz@EPOHU@_F@QLETAbABdANNV@dACTBLN?dC@RFRNLRD~@ARDHPBlB?vAIPS@c@WiEwDk@m@AULSHU@UGUi@y@Km@KQa@_@GU?WIQQKUGUCWDUFUBaAM{ACSCKOLORApJ@RCLMBSAiF@SNMTA|@DRF^\\RDtA?RDJP@TA|DONS@cDAq@@WDMRA`B@p@LPV@hAATBHR@fCBTJNPHRBz@APDFNBf@@x@A|AEPMHQEk@_@}DiDi@k@AUVe@@UCUIQ]c@Mm@ISa@_@IUAWGUOMSIWCWBUHUB{AOyAAMQJORClJ@PAPIHO?SCkFFQPGlADPF\\ZPFRBx@ARBNFFN?P?|DKJSBgE@W@UFIT?zA@l@HPTDzAAPJ@T@bCDRJNRFRBz@ANHDPBdB?tAGRS@e@UmEuD_@_@KS@UNSDU?WGU]c@KWEWIUa@_@KUAWGUQOUGWAo@LW@gAM_BCQOFSVChJBTAPIHQ@UAmFJOTC~@BRF^ZRHtA?RFJN@R?zDKNSB_FBUDIRAxA?l@FTRFxACRDHP@~B@RDPLNRDnA?LLBPBdBAtAGPS@e@SwEcE]_@CUVi@@WEWk@{@Oq@e@c@IWC[IUUMYE[BYHYBqAQuACSORQlGBjBAVEPOBYAiFBQNGt@?^DNF`@\\LBtA@VHFH@J@nBCrAAHGFSByD?m@BMDGJCLAhA@bADJJFJ@rACR@FFBP?`C@RFNPJRDdA?JBFLBh@",
+    "resource_state": 3,
+    "summary_polyline": "rck~@ok~r^i@t@?jB`@f@z@?h@c@BiGxACjAl@vA@^ZApEuGXIxAFvA`CHT|DzB\\C~Eu@SwFcFLqBwBwEwBCaE_@ZYdK?Tc@CmFV_@rABnDt@FhFuGTItBR~@pB@JPHhD|B\\@bFy@SmFyEKQV{A_CeFuBAaE[X]dK?Va@FiGtAAhAj@rBL@fFcGJY`@?dARtArB@V~D~Bb@E|Ew@UmF{EHoBmBmDKs@o@UkF?a@WlLUL{GLKrCj@pBHBlFaGHW`@?bAJrA`CHPxDzB\\FhEWZaH_GT{AcCoF_C@wCO[]fLMPg@CaFTa@lCl@|BTAzEoGPOnBFdAdCHR~D|BZA~Eu@O{FgFNmB}AqCUgAi@U_BLuD[XYnKCNc@CqFZYlADnDr@BnFgGJQjADdBfCLLxD`Cd@G~Ew@YmFyEJoBcCgFoH]`@UlKKDiGX]hCj@xBPBbFaGN[^AzAN~@`CJRzDrBR@fFw@SyFiFT}AaCkFuHe@fLQRa@CsFXYpADhDn@JdFqGTQpBFbAdCHPzDzBZJjESZaHsFLiBcB}CUeAi@UqFAc@Ud@QhKEJiGR_@tCl@pBLB`FgGRQJEvAHrAhCRNtDxBXEbFw@WmFyELkBiBaDSeA{Hk@hLQNc@AqFXYpADbAj@`BBR`@IpEkGJMbD\\XhBAPtDZX~ADFbFiA[iFyET}AiCqFoGM_@YfLMPg@D_GzACx@f@tBHPd@CfEoGPQxCT`@zBHJpD~B^A`Fo@M_GkFVwA}BmFk@SwFAW]lLOViHrA@bAj@tBN@`FoGROzALzAdCNLpD|B`@FfEUXeH{FPiBeBwCQcAeCEuDYL_@|KEHiGP_@xCl@pBJBdF_GN]p@@~BlCVNvDzB\\D~DS`@{GoFKST{A_CiFwB@aEc@d@UnKGRgHpA@`Ah@zBP?bFoGRMhBTlAzBNPrDxB\\D|DOb@eHuFPiB{BcFi@UsF?_@YhLOPa@HgGlA?`Ad@~BP@dFeGLWb@AbARtA`CPHlDvBVBhFw@UuFeFVuA}BoF}@WcAP}De@fLSPa@AiFPa@rABpDp@JdFqGVOtBNbAvBBZ`ErBPJnESZeH{FRgBeCiFsH_@^SpKIDoGXYlADrDx@F~EuGZIpBJ~@bCNBxCPb@rBR@`Fy@SmFuEKSVwAyBcFg@W_BLyDa@^WpKGTeH|Cl@hBFLb@KjEiGLKlBFbA`CHRvD~Bb@A~Ey@QuFcFNoByB{E_CA{De@RQpKCTi@AiFRYtADlDt@DbFqGTMbBFnAfCNLvDvBTJv@"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    -10.384099,
+    165.80297
+  ],
+  "end_latlng": [
+    -10.385998,
+    165.799648
+  ],
+  "average_speed": 11.631,
+  "max_speed": 16.78,
+  "average_cadence": 83.0,
+  "average_watts": 244.6,
+  "max_watts": 871,
+  "weighted_average_watts": 266,
+  "device_watts": true,
+  "kilojoules": 761.8,
+  "has_heartrate": true,
+  "average_heartrate": 157.4,
+  "max_heartrate": 178.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 127.4,
+  "elev_low": 119.4,
+  "upload_id": 17537372184,
+  "upload_id_str": "17537372184",
+  "external_id": "zwift-activity-2006268314854096928.fit",
+  "from_accepted_tag": false,
+  "pr_count": 6,
+  "total_photo_count": 2,
+  "has_kudoed": false,
+  "suffer_score": 110.0,
+  "description": null,
+  "calories": 792.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3424205181204954058,
+      "resource_state": 2,
+      "name": "Downtown Dolphin - 10 Laps from Start Pens",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 1600,
+      "moving_time": 1600,
+      "start_date": "2025-11-13T23:17:07Z",
+      "start_date_local": "2025-11-13T18:17:07Z",
+      "distance": 19500.5,
+      "start_index": 8,
+      "end_index": 1608,
+      "average_cadence": 84.4,
+      "device_watts": true,
+      "average_watts": 254.7,
+      "average_heartrate": 154.1,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 27200533,
+        "resource_state": 2,
+        "name": "Downtown Dolphin - 10 Laps from Start Pens",
+        "activity_type": "VirtualRide",
+        "distance": 19500.5,
+        "average_grade": 0.0,
+        "maximum_grade": 5.7,
+        "elevation_high": 127.4,
+        "elevation_low": 119.2,
+        "start_latlng": [
+          -10.383916,
+          165.802789
+        ],
+        "end_latlng": [
+          -10.383757,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181205563338,
+      "resource_state": 2,
+      "name": "Downtown Dolphin - 6 Laps from Start Pens",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 939,
+      "moving_time": 939,
+      "start_date": "2025-11-13T23:17:16Z",
+      "start_date_local": "2025-11-13T18:17:16Z",
+      "distance": 11657.7,
+      "start_index": 17,
+      "end_index": 956,
+      "average_cadence": 85.3,
+      "device_watts": true,
+      "average_watts": 259.6,
+      "average_heartrate": 153.7,
+      "max_heartrate": 167.0,
+      "segment": {
+        "id": 27646530,
+        "resource_state": 2,
+        "name": "Downtown Dolphin - 6 Laps from Start Pens",
+        "activity_type": "VirtualRide",
+        "distance": 11657.7,
+        "average_grade": 0.0,
+        "maximum_grade": 5.7,
+        "elevation_high": 127.4,
+        "elevation_low": 119.2,
+        "start_latlng": [
+          -10.383884,
+          165.802156
+        ],
+        "end_latlng": [
+          -10.383748,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181205928906,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 137,
+      "moving_time": 137,
+      "start_date": "2025-11-13T23:17:17Z",
+      "start_date_local": "2025-11-13T18:17:17Z",
+      "distance": 1939.6,
+      "start_index": 18,
+      "end_index": 155,
+      "average_cadence": 89.0,
+      "device_watts": true,
+      "average_watts": 280.5,
+      "average_heartrate": 145.8,
+      "max_heartrate": 156.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181206007754,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 20,
+      "moving_time": 20,
+      "start_date": "2025-11-13T23:18:29Z",
+      "start_date_local": "2025-11-13T18:18:29Z",
+      "distance": 199.5,
+      "start_index": 90,
+      "end_index": 110,
+      "average_cadence": 88.2,
+      "device_watts": true,
+      "average_watts": 387.8,
+      "average_heartrate": 148.1,
+      "max_heartrate": 153.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181204713418,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 133,
+      "moving_time": 133,
+      "start_date": "2025-11-13T23:19:57Z",
+      "start_date_local": "2025-11-13T18:19:57Z",
+      "distance": 1939.6,
+      "start_index": 178,
+      "end_index": 311,
+      "average_cadence": 85.8,
+      "device_watts": true,
+      "average_watts": 269.3,
+      "average_heartrate": 153.7,
+      "max_heartrate": 162.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181206131658,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 18,
+      "moving_time": 18,
+      "start_date": "2025-11-13T23:21:09Z",
+      "start_date_local": "2025-11-13T18:21:09Z",
+      "distance": 199.5,
+      "start_index": 250,
+      "end_index": 268,
+      "average_cadence": 87.7,
+      "device_watts": true,
+      "average_watts": 397.2,
+      "average_heartrate": 157.6,
+      "max_heartrate": 161.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181205409738,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 135,
+      "moving_time": 135,
+      "start_date": "2025-11-13T23:22:33Z",
+      "start_date_local": "2025-11-13T18:22:33Z",
+      "distance": 1939.6,
+      "start_index": 334,
+      "end_index": 469,
+      "average_cadence": 86.0,
+      "device_watts": true,
+      "average_watts": 277.2,
+      "average_heartrate": 156.1,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181205931978,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 17,
+      "moving_time": 17,
+      "start_date": "2025-11-13T23:23:47Z",
+      "start_date_local": "2025-11-13T18:23:47Z",
+      "distance": 199.5,
+      "start_index": 408,
+      "end_index": 425,
+      "average_cadence": 93.3,
+      "device_watts": true,
+      "average_watts": 451.5,
+      "average_heartrate": 160.6,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181204578250,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 140,
+      "moving_time": 140,
+      "start_date": "2025-11-13T23:25:11Z",
+      "start_date_local": "2025-11-13T18:25:11Z",
+      "distance": 1939.6,
+      "start_index": 492,
+      "end_index": 632,
+      "average_cadence": 84.2,
+      "device_watts": true,
+      "average_watts": 256.8,
+      "average_heartrate": 154.2,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181206612938,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 18,
+      "moving_time": 18,
+      "start_date": "2025-11-13T23:26:29Z",
+      "start_date_local": "2025-11-13T18:26:29Z",
+      "distance": 199.5,
+      "start_index": 570,
+      "end_index": 588,
+      "average_cadence": 90.0,
+      "device_watts": true,
+      "average_watts": 446.3,
+      "average_heartrate": 155.8,
+      "max_heartrate": 161.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181205404618,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 133,
+      "moving_time": 133,
+      "start_date": "2025-11-13T23:27:53Z",
+      "start_date_local": "2025-11-13T18:27:53Z",
+      "distance": 1939.6,
+      "start_index": 654,
+      "end_index": 787,
+      "average_cadence": 87.7,
+      "device_watts": true,
+      "average_watts": 284.4,
+      "average_heartrate": 160.1,
+      "max_heartrate": 167.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181207347146,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 18,
+      "moving_time": 18,
+      "start_date": "2025-11-13T23:29:04Z",
+      "start_date_local": "2025-11-13T18:29:04Z",
+      "distance": 199.5,
+      "start_index": 725,
+      "end_index": 743,
+      "average_cadence": 90.7,
+      "device_watts": true,
+      "average_watts": 440.2,
+      "average_heartrate": 162.8,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181205009354,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 145,
+      "moving_time": 145,
+      "start_date": "2025-11-13T23:30:31Z",
+      "start_date_local": "2025-11-13T18:30:31Z",
+      "distance": 1939.6,
+      "start_index": 812,
+      "end_index": 957,
+      "average_cadence": 82.6,
+      "device_watts": true,
+      "average_watts": 250.0,
+      "average_heartrate": 152.5,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181205480394,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 19,
+      "moving_time": 19,
+      "start_date": "2025-11-13T23:31:52Z",
+      "start_date_local": "2025-11-13T18:31:52Z",
+      "distance": 199.5,
+      "start_index": 893,
+      "end_index": 912,
+      "average_cadence": 87.9,
+      "device_watts": true,
+      "average_watts": 470.8,
+      "average_heartrate": 151.4,
+      "max_heartrate": 158.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181204852682,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 133,
+      "moving_time": 133,
+      "start_date": "2025-11-13T23:33:18Z",
+      "start_date_local": "2025-11-13T18:33:18Z",
+      "distance": 1939.6,
+      "start_index": 979,
+      "end_index": 1112,
+      "average_cadence": 87.4,
+      "device_watts": true,
+      "average_watts": 277.3,
+      "average_heartrate": 160.4,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181208047562,
+      "resource_state": 2,
+      "name": "Downtown Dolphin - 6 Laps from Start Pens",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 946,
+      "moving_time": 946,
+      "start_date": "2025-11-13T23:33:19Z",
+      "start_date_local": "2025-11-13T18:33:19Z",
+      "distance": 11657.7,
+      "start_index": 980,
+      "end_index": 1926,
+      "average_cadence": 84.2,
+      "device_watts": true,
+      "average_watts": 252.7,
+      "average_heartrate": 158.6,
+      "max_heartrate": 171.0,
+      "segment": {
+        "id": 27646530,
+        "resource_state": 2,
+        "name": "Downtown Dolphin - 6 Laps from Start Pens",
+        "activity_type": "VirtualRide",
+        "distance": 11657.7,
+        "average_grade": 0.0,
+        "maximum_grade": 5.7,
+        "elevation_high": 127.4,
+        "elevation_low": 119.2,
+        "start_latlng": [
+          -10.383884,
+          165.802156
+        ],
+        "end_latlng": [
+          -10.383748,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181206395850,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 18,
+      "moving_time": 18,
+      "start_date": "2025-11-13T23:34:30Z",
+      "start_date_local": "2025-11-13T18:34:30Z",
+      "distance": 199.5,
+      "start_index": 1051,
+      "end_index": 1069,
+      "average_cadence": 91.5,
+      "device_watts": true,
+      "average_watts": 490.6,
+      "average_heartrate": 161.2,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181208387530,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 142,
+      "moving_time": 142,
+      "start_date": "2025-11-13T23:35:56Z",
+      "start_date_local": "2025-11-13T18:35:56Z",
+      "distance": 1939.6,
+      "start_index": 1137,
+      "end_index": 1279,
+      "average_cadence": 82.8,
+      "device_watts": true,
+      "average_watts": 249.8,
+      "average_heartrate": 155.3,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181205412810,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 18,
+      "moving_time": 18,
+      "start_date": "2025-11-13T23:37:13Z",
+      "start_date_local": "2025-11-13T18:37:13Z",
+      "distance": 199.5,
+      "start_index": 1214,
+      "end_index": 1232,
+      "average_cadence": 89.4,
+      "device_watts": true,
+      "average_watts": 420.2,
+      "average_heartrate": 159.6,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181206223818,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 141,
+      "moving_time": 141,
+      "start_date": "2025-11-13T23:38:42Z",
+      "start_date_local": "2025-11-13T18:38:42Z",
+      "distance": 1939.6,
+      "start_index": 1303,
+      "end_index": 1444,
+      "average_cadence": 82.1,
+      "device_watts": true,
+      "average_watts": 244.4,
+      "average_heartrate": 151.7,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181206427594,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 19,
+      "moving_time": 19,
+      "start_date": "2025-11-13T23:40:00Z",
+      "start_date_local": "2025-11-13T18:40:00Z",
+      "distance": 199.5,
+      "start_index": 1381,
+      "end_index": 1400,
+      "average_cadence": 87.5,
+      "device_watts": true,
+      "average_watts": 441.8,
+      "average_heartrate": 152.6,
+      "max_heartrate": 160.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181205105610,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 139,
+      "moving_time": 139,
+      "start_date": "2025-11-13T23:41:28Z",
+      "start_date_local": "2025-11-13T18:41:28Z",
+      "distance": 1939.6,
+      "start_index": 1469,
+      "end_index": 1608,
+      "average_cadence": 84.3,
+      "device_watts": true,
+      "average_watts": 267.2,
+      "average_heartrate": 154.1,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181204964298,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 18,
+      "moving_time": 18,
+      "start_date": "2025-11-13T23:42:47Z",
+      "start_date_local": "2025-11-13T18:42:47Z",
+      "distance": 199.5,
+      "start_index": 1548,
+      "end_index": 1566,
+      "average_cadence": 90.3,
+      "device_watts": true,
+      "average_watts": 466.6,
+      "average_heartrate": 156.2,
+      "max_heartrate": 162.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181208013770,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 134,
+      "moving_time": 134,
+      "start_date": "2025-11-13T23:44:11Z",
+      "start_date_local": "2025-11-13T18:44:11Z",
+      "distance": 1939.6,
+      "start_index": 1632,
+      "end_index": 1766,
+      "average_cadence": 87.7,
+      "device_watts": true,
+      "average_watts": 278.0,
+      "average_heartrate": 168.1,
+      "max_heartrate": 171.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181205485514,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 19,
+      "moving_time": 19,
+      "start_date": "2025-11-13T23:45:20Z",
+      "start_date_local": "2025-11-13T18:45:20Z",
+      "distance": 199.5,
+      "start_index": 1701,
+      "end_index": 1720,
+      "average_cadence": 88.7,
+      "device_watts": true,
+      "average_watts": 453.5,
+      "average_heartrate": 166.7,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181208138698,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 136,
+      "moving_time": 136,
+      "start_date": "2025-11-13T23:46:49Z",
+      "start_date_local": "2025-11-13T18:46:49Z",
+      "distance": 1939.6,
+      "start_index": 1790,
+      "end_index": 1926,
+      "average_cadence": 84.9,
+      "device_watts": true,
+      "average_watts": 261.8,
+      "average_heartrate": 162.7,
+      "max_heartrate": 171.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181205320650,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 17,
+      "moving_time": 17,
+      "start_date": "2025-11-13T23:48:01Z",
+      "start_date_local": "2025-11-13T18:48:01Z",
+      "distance": 199.5,
+      "start_index": 1862,
+      "end_index": 1879,
+      "average_cadence": 94.2,
+      "device_watts": true,
+      "average_watts": 452.8,
+      "average_heartrate": 167.4,
+      "max_heartrate": 170.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181206892490,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 139,
+      "moving_time": 139,
+      "start_date": "2025-11-13T23:49:31Z",
+      "start_date_local": "2025-11-13T18:49:31Z",
+      "distance": 1939.6,
+      "start_index": 1952,
+      "end_index": 2091,
+      "average_cadence": 86.0,
+      "device_watts": true,
+      "average_watts": 275.5,
+      "average_heartrate": 161.1,
+      "max_heartrate": 171.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181204925386,
+      "resource_state": 2,
+      "name": "Downtown Dolphin - 6 Laps from Start Pens",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 955,
+      "moving_time": 955,
+      "start_date": "2025-11-13T23:49:33Z",
+      "start_date_local": "2025-11-13T18:49:33Z",
+      "distance": 11657.7,
+      "start_index": 1954,
+      "end_index": 2909,
+      "average_cadence": 84.0,
+      "device_watts": true,
+      "average_watts": 254.6,
+      "average_heartrate": 163.0,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 27646530,
+        "resource_state": 2,
+        "name": "Downtown Dolphin - 6 Laps from Start Pens",
+        "activity_type": "VirtualRide",
+        "distance": 11657.7,
+        "average_grade": 0.0,
+        "maximum_grade": 5.7,
+        "elevation_high": 127.4,
+        "elevation_low": 119.2,
+        "start_latlng": [
+          -10.383884,
+          165.802156
+        ],
+        "end_latlng": [
+          -10.383748,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181207274442,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 18,
+      "moving_time": 18,
+      "start_date": "2025-11-13T23:50:49Z",
+      "start_date_local": "2025-11-13T18:50:49Z",
+      "distance": 199.5,
+      "start_index": 2030,
+      "end_index": 2048,
+      "average_cadence": 90.8,
+      "device_watts": true,
+      "average_watts": 451.1,
+      "average_heartrate": 162.3,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181206985674,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 144,
+      "moving_time": 144,
+      "start_date": "2025-11-13T23:52:13Z",
+      "start_date_local": "2025-11-13T18:52:13Z",
+      "distance": 1939.6,
+      "start_index": 2114,
+      "end_index": 2258,
+      "average_cadence": 82.4,
+      "device_watts": true,
+      "average_watts": 245.6,
+      "average_heartrate": 161.3,
+      "max_heartrate": 170.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181205674954,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 18,
+      "moving_time": 18,
+      "start_date": "2025-11-13T23:53:33Z",
+      "start_date_local": "2025-11-13T18:53:33Z",
+      "distance": 199.5,
+      "start_index": 2194,
+      "end_index": 2212,
+      "average_cadence": 89.3,
+      "device_watts": true,
+      "average_watts": 452.5,
+      "average_heartrate": 162.5,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181207124938,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 139,
+      "moving_time": 139,
+      "start_date": "2025-11-13T23:55:01Z",
+      "start_date_local": "2025-11-13T18:55:01Z",
+      "distance": 1939.6,
+      "start_index": 2282,
+      "end_index": 2421,
+      "average_cadence": 84.6,
+      "device_watts": true,
+      "average_watts": 261.1,
+      "average_heartrate": 163.2,
+      "max_heartrate": 173.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181208491978,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 17,
+      "moving_time": 17,
+      "start_date": "2025-11-13T23:56:17Z",
+      "start_date_local": "2025-11-13T18:56:17Z",
+      "distance": 199.5,
+      "start_index": 2358,
+      "end_index": 2375,
+      "average_cadence": 95.4,
+      "device_watts": true,
+      "average_watts": 504.5,
+      "average_heartrate": 166.0,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181207311306,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 138,
+      "moving_time": 138,
+      "start_date": "2025-11-13T23:57:46Z",
+      "start_date_local": "2025-11-13T18:57:46Z",
+      "distance": 1939.6,
+      "start_index": 2447,
+      "end_index": 2585,
+      "average_cadence": 82.9,
+      "device_watts": true,
+      "average_watts": 244.0,
+      "average_heartrate": 163.5,
+      "max_heartrate": 170.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181206091722,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 17,
+      "moving_time": 17,
+      "start_date": "2025-11-13T23:58:58Z",
+      "start_date_local": "2025-11-13T18:58:58Z",
+      "distance": 199.5,
+      "start_index": 2519,
+      "end_index": 2536,
+      "average_cadence": 88.6,
+      "device_watts": true,
+      "average_watts": 392.9,
+      "average_heartrate": 167.9,
+      "max_heartrate": 170.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181207893962,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 139,
+      "moving_time": 139,
+      "start_date": "2025-11-14T00:00:30Z",
+      "start_date_local": "2025-11-13T19:00:30Z",
+      "distance": 1939.6,
+      "start_index": 2611,
+      "end_index": 2750,
+      "average_cadence": 84.4,
+      "device_watts": true,
+      "average_watts": 266.9,
+      "average_heartrate": 160.0,
+      "max_heartrate": 173.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181207555018,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 18,
+      "moving_time": 18,
+      "start_date": "2025-11-14T00:01:47Z",
+      "start_date_local": "2025-11-13T19:01:47Z",
+      "distance": 199.5,
+      "start_index": 2688,
+      "end_index": 2706,
+      "average_cadence": 91.9,
+      "device_watts": true,
+      "average_watts": 424.1,
+      "average_heartrate": 164.7,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181205754826,
+      "resource_state": 2,
+      "name": "Downtown Dolphin",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 135,
+      "moving_time": 135,
+      "start_date": "2025-11-14T00:03:13Z",
+      "start_date_local": "2025-11-13T19:03:13Z",
+      "distance": 1939.6,
+      "start_index": 2774,
+      "end_index": 2909,
+      "average_cadence": 87.8,
+      "device_watts": true,
+      "average_watts": 292.9,
+      "average_heartrate": 168.5,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 22445564,
+        "resource_state": 2,
+        "name": "Downtown Dolphin",
+        "activity_type": "VirtualRide",
+        "distance": 1939.6,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 127.4,
+        "elevation_low": 119.4,
+        "start_latlng": [
+          -10.383705,
+          165.801941
+        ],
+        "end_latlng": [
+          -10.383699,
+          165.801941
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu Province",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181206319050,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 18,
+      "moving_time": 18,
+      "start_date": "2025-11-14T00:04:26Z",
+      "start_date_local": "2025-11-13T19:04:26Z",
+      "distance": 199.5,
+      "start_index": 2847,
+      "end_index": 2865,
+      "average_cadence": 94.5,
+      "device_watts": true,
+      "average_watts": 499.6,
+      "average_heartrate": 168.2,
+      "max_heartrate": 172.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3424205181208604618,
+      "resource_state": 2,
+      "name": "Downtown Dolphin Prime Sprint",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 81,
+      "moving_time": 81,
+      "start_date": "2025-11-14T00:07:33Z",
+      "start_date_local": "2025-11-13T19:07:33Z",
+      "distance": 199.5,
+      "start_index": 3034,
+      "end_index": 3115,
+      "average_cadence": 50.8,
+      "device_watts": true,
+      "average_watts": 75.7,
+      "average_heartrate": 126.8,
+      "max_heartrate": 136.0,
+      "segment": {
+        "id": 38170270,
+        "resource_state": 2,
+        "name": "Downtown Dolphin Prime Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 199.5,
+        "average_grade": 3.4,
+        "maximum_grade": 5.8,
+        "elevation_high": 127.4,
+        "elevation_low": 120.4,
+        "start_latlng": [
+          -10.385279,
+          165.800922
+        ],
+        "end_latlng": [
+          -10.386003,
+          165.799645
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Temotu",
+        "country": "Solomon Islands",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1006.8,
+      "elapsed_time": 93,
+      "elevation_difference": 2.2,
+      "moving_time": 93,
+      "split": 1,
+      "average_speed": 10.83,
+      "average_grade_adjusted_speed": 10.91,
+      "average_heartrate": 133.93478260869566,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 83,
+      "elevation_difference": -2.2,
+      "moving_time": 83,
+      "split": 2,
+      "average_speed": 12.04,
+      "average_grade_adjusted_speed": 12.1,
+      "average_heartrate": 151.93975903614458,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.9,
+      "elapsed_time": 81,
+      "elevation_difference": 4.0,
+      "moving_time": 81,
+      "split": 3,
+      "average_speed": 12.28,
+      "average_grade_adjusted_speed": 12.44,
+      "average_heartrate": 150.02469135802468,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.7,
+      "elapsed_time": 79,
+      "elevation_difference": -4.0,
+      "moving_time": 79,
+      "split": 4,
+      "average_speed": 12.68,
+      "average_grade_adjusted_speed": 12.67,
+      "average_heartrate": 156.70886075949366,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.6,
+      "elapsed_time": 84,
+      "elevation_difference": 6.6,
+      "moving_time": 84,
+      "split": 5,
+      "average_speed": 11.97,
+      "average_grade_adjusted_speed": 12.25,
+      "average_heartrate": 152.76190476190476,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 79,
+      "elevation_difference": -6.6,
+      "moving_time": 79,
+      "split": 6,
+      "average_speed": 12.67,
+      "average_grade_adjusted_speed": 12.54,
+      "average_heartrate": 159.8860759493671,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.5,
+      "elapsed_time": 88,
+      "elevation_difference": 7.8,
+      "moving_time": 88,
+      "split": 7,
+      "average_speed": 11.28,
+      "average_grade_adjusted_speed": 11.58,
+      "average_heartrate": 150.48863636363637,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 77,
+      "elevation_difference": -7.8,
+      "moving_time": 77,
+      "split": 8,
+      "average_speed": 12.98,
+      "average_grade_adjusted_speed": 12.8,
+      "average_heartrate": 159.5194805194805,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.1,
+      "elapsed_time": 83,
+      "elevation_difference": 7.8,
+      "moving_time": 83,
+      "split": 9,
+      "average_speed": 12.12,
+      "average_grade_adjusted_speed": 12.44,
+      "average_heartrate": 158.59036144578315,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.7,
+      "elapsed_time": 81,
+      "elevation_difference": -7.8,
+      "moving_time": 81,
+      "split": 10,
+      "average_speed": 12.27,
+      "average_grade_adjusted_speed": 12.09,
+      "average_heartrate": 159.02469135802468,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 92,
+      "elevation_difference": 7.8,
+      "moving_time": 92,
+      "split": 11,
+      "average_speed": 10.87,
+      "average_grade_adjusted_speed": 11.15,
+      "average_heartrate": 149.08695652173913,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.3,
+      "elapsed_time": 77,
+      "elevation_difference": -7.8,
+      "moving_time": 77,
+      "split": 12,
+      "average_speed": 13.03,
+      "average_grade_adjusted_speed": 12.85,
+      "average_heartrate": 158.9090909090909,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 84,
+      "elevation_difference": 7.8,
+      "moving_time": 84,
+      "split": 13,
+      "average_speed": 11.88,
+      "average_grade_adjusted_speed": 12.19,
+      "average_heartrate": 159.14285714285714,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1009.4,
+      "elapsed_time": 82,
+      "elevation_difference": -7.6,
+      "moving_time": 82,
+      "split": 14,
+      "average_speed": 12.31,
+      "average_grade_adjusted_speed": 12.14,
+      "average_heartrate": 157.84146341463415,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 88,
+      "elevation_difference": 7.0,
+      "moving_time": 88,
+      "split": 15,
+      "average_speed": 11.35,
+      "average_grade_adjusted_speed": 11.64,
+      "average_heartrate": 155.5909090909091,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.8,
+      "elapsed_time": 81,
+      "elevation_difference": -6.8,
+      "moving_time": 81,
+      "split": 16,
+      "average_speed": 12.31,
+      "average_grade_adjusted_speed": 12.15,
+      "average_heartrate": 153.41975308641975,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.9,
+      "elapsed_time": 88,
+      "elevation_difference": 6.6,
+      "moving_time": 88,
+      "split": 17,
+      "average_speed": 11.32,
+      "average_grade_adjusted_speed": 11.6,
+      "average_heartrate": 150.95454545454547,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 83,
+      "elevation_difference": -6.0,
+      "moving_time": 83,
+      "split": 18,
+      "average_speed": 12.06,
+      "average_grade_adjusted_speed": 11.93,
+      "average_heartrate": 153.27710843373495,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 87,
+      "elevation_difference": 5.4,
+      "moving_time": 87,
+      "split": 19,
+      "average_speed": 11.49,
+      "average_grade_adjusted_speed": 11.73,
+      "average_heartrate": 154.58620689655172,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.6,
+      "elapsed_time": 75,
+      "elevation_difference": -4.8,
+      "moving_time": 75,
+      "split": 20,
+      "average_speed": 13.42,
+      "average_grade_adjusted_speed": 13.31,
+      "average_heartrate": 166.89333333333335,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.0,
+      "elapsed_time": 87,
+      "elevation_difference": 2.0,
+      "moving_time": 87,
+      "split": 21,
+      "average_speed": 11.54,
+      "average_grade_adjusted_speed": 11.74,
+      "average_heartrate": 168.49425287356323,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.0,
+      "elapsed_time": 79,
+      "elevation_difference": -1.6,
+      "moving_time": 79,
+      "split": 22,
+      "average_speed": 12.59,
+      "average_grade_adjusted_speed": 12.54,
+      "average_heartrate": 160.63291139240508,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 84,
+      "elevation_difference": 1.0,
+      "moving_time": 84,
+      "split": 23,
+      "average_speed": 11.93,
+      "average_grade_adjusted_speed": 12.09,
+      "average_heartrate": 165.0595238095238,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.0,
+      "elapsed_time": 85,
+      "elevation_difference": -0.6,
+      "moving_time": 85,
+      "split": 24,
+      "average_speed": 11.69,
+      "average_grade_adjusted_speed": 11.68,
+      "average_heartrate": 157.83529411764707,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.8,
+      "elapsed_time": 84,
+      "elevation_difference": 0.8,
+      "moving_time": 84,
+      "split": 25,
+      "average_speed": 12.0,
+      "average_grade_adjusted_speed": 12.14,
+      "average_heartrate": 163.92857142857142,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.0,
+      "elapsed_time": 85,
+      "elevation_difference": -1.6,
+      "moving_time": 85,
+      "split": 26,
+      "average_speed": 11.69,
+      "average_grade_adjusted_speed": 11.67,
+      "average_heartrate": 162.0705882352941,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.7,
+      "elapsed_time": 86,
+      "elevation_difference": 0.8,
+      "moving_time": 86,
+      "split": 27,
+      "average_speed": 11.72,
+      "average_grade_adjusted_speed": 11.87,
+      "average_heartrate": 162.77906976744185,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.0,
+      "elapsed_time": 84,
+      "elevation_difference": -1.8,
+      "moving_time": 84,
+      "split": 28,
+      "average_speed": 11.85,
+      "average_grade_adjusted_speed": 11.81,
+      "average_heartrate": 159.46428571428572,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.8,
+      "elapsed_time": 82,
+      "elevation_difference": -0.2,
+      "moving_time": 82,
+      "split": 29,
+      "average_speed": 12.24,
+      "average_grade_adjusted_speed": 12.39,
+      "average_heartrate": 167.0,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 84,
+      "elevation_difference": -0.4,
+      "moving_time": 84,
+      "split": 30,
+      "average_speed": 11.89,
+      "average_grade_adjusted_speed": 11.88,
+      "average_heartrate": 160.47619047619048,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.3,
+      "elapsed_time": 84,
+      "elevation_difference": 1.0,
+      "moving_time": 84,
+      "split": 31,
+      "average_speed": 11.84,
+      "average_grade_adjusted_speed": 11.99,
+      "average_heartrate": 166.0595238095238,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.2,
+      "elapsed_time": 89,
+      "elevation_difference": -1.0,
+      "moving_time": 89,
+      "split": 32,
+      "average_speed": 11.31,
+      "average_grade_adjusted_speed": 11.29,
+      "average_heartrate": 152.52808988764045,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 80,
+      "elevation_difference": 0.0,
+      "moving_time": 80,
+      "split": 33,
+      "average_speed": 12.48,
+      "average_grade_adjusted_speed": 12.62,
+      "average_heartrate": 167.8625,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.1,
+      "elapsed_time": 82,
+      "elevation_difference": 0.0,
+      "moving_time": 82,
+      "split": 34,
+      "average_speed": 12.12,
+      "average_grade_adjusted_speed": 12.13,
+      "average_heartrate": 165.8048780487805,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1009.6,
+      "elapsed_time": 80,
+      "elevation_difference": 0.0,
+      "moving_time": 80,
+      "split": 35,
+      "average_speed": 12.62,
+      "average_grade_adjusted_speed": 12.77,
+      "average_heartrate": 171.9375,
+      "pace_zone": 0
+    },
+    {
+      "distance": 989.6,
+      "elapsed_time": 109,
+      "elevation_difference": 0.4,
+      "moving_time": 109,
+      "split": 36,
+      "average_speed": 9.08,
+      "average_grade_adjusted_speed": 9.09,
+      "average_heartrate": 159.1651376146789,
+      "pace_zone": 0
+    },
+    {
+      "distance": 227.4,
+      "elapsed_time": 86,
+      "elevation_difference": 7.4,
+      "moving_time": 86,
+      "split": 37,
+      "average_speed": 2.64,
+      "average_grade_adjusted_speed": 2.95,
+      "average_heartrate": 127.5,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1622.6,
+      "elapsed_time": 148,
+      "elevation_difference": 3.4,
+      "moving_time": 148,
+      "split": 1,
+      "average_speed": 10.96,
+      "average_grade_adjusted_speed": 11.08,
+      "average_heartrate": 140.9047619047619,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.6,
+      "elapsed_time": 129,
+      "elevation_difference": 4.6,
+      "moving_time": 129,
+      "split": 2,
+      "average_speed": 12.43,
+      "average_grade_adjusted_speed": 12.6,
+      "average_heartrate": 151.73643410852713,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.4,
+      "elapsed_time": 129,
+      "elevation_difference": -7.6,
+      "moving_time": 129,
+      "split": 3,
+      "average_speed": 12.51,
+      "average_grade_adjusted_speed": 12.41,
+      "average_heartrate": 153.32558139534885,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.4,
+      "elapsed_time": 133,
+      "elevation_difference": 2.0,
+      "moving_time": 133,
+      "split": 4,
+      "average_speed": 12.06,
+      "average_grade_adjusted_speed": 12.17,
+      "average_heartrate": 157.0300751879699,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 129,
+      "elevation_difference": -2.4,
+      "moving_time": 129,
+      "split": 5,
+      "average_speed": 12.46,
+      "average_grade_adjusted_speed": 12.52,
+      "average_heartrate": 155.93023255813952,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1615.2,
+      "elapsed_time": 131,
+      "elevation_difference": 0.0,
+      "moving_time": 131,
+      "split": 6,
+      "average_speed": 12.33,
+      "average_grade_adjusted_speed": 12.42,
+      "average_heartrate": 160.55725190839695,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.1,
+      "elapsed_time": 144,
+      "elevation_difference": 4.2,
+      "moving_time": 144,
+      "split": 7,
+      "average_speed": 11.2,
+      "average_grade_adjusted_speed": 11.34,
+      "average_heartrate": 151.74305555555554,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.4,
+      "elapsed_time": 128,
+      "elevation_difference": 3.6,
+      "moving_time": 128,
+      "split": 8,
+      "average_speed": 12.53,
+      "average_grade_adjusted_speed": 12.67,
+      "average_heartrate": 157.6953125,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.1,
+      "elapsed_time": 133,
+      "elevation_difference": -7.8,
+      "moving_time": 133,
+      "split": 9,
+      "average_speed": 12.05,
+      "average_grade_adjusted_speed": 11.94,
+      "average_heartrate": 156.2781954887218,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 136,
+      "elevation_difference": 1.4,
+      "moving_time": 136,
+      "split": 10,
+      "average_speed": 11.84,
+      "average_grade_adjusted_speed": 11.95,
+      "average_heartrate": 155.34558823529412,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1617.6,
+      "elapsed_time": 137,
+      "elevation_difference": -1.4,
+      "moving_time": 137,
+      "split": 11,
+      "average_speed": 11.81,
+      "average_grade_adjusted_speed": 11.87,
+      "average_heartrate": 153.5912408759124,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.5,
+      "elapsed_time": 135,
+      "elevation_difference": 1.0,
+      "moving_time": 135,
+      "split": 12,
+      "average_speed": 11.86,
+      "average_grade_adjusted_speed": 11.96,
+      "average_heartrate": 154.75555555555556,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.2,
+      "elapsed_time": 133,
+      "elevation_difference": 5.8,
+      "moving_time": 133,
+      "split": 13,
+      "average_speed": 12.12,
+      "average_grade_adjusted_speed": 12.3,
+      "average_heartrate": 168.08270676691728,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.1,
+      "elapsed_time": 128,
+      "elevation_difference": -1.0,
+      "moving_time": 128,
+      "split": 14,
+      "average_speed": 12.56,
+      "average_grade_adjusted_speed": 12.61,
+      "average_heartrate": 161.1953125,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.5,
+      "elapsed_time": 140,
+      "elevation_difference": -5.8,
+      "moving_time": 140,
+      "split": 15,
+      "average_speed": 11.53,
+      "average_grade_adjusted_speed": 11.48,
+      "average_heartrate": 161.11428571428573,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.4,
+      "elapsed_time": 131,
+      "elevation_difference": 0.4,
+      "moving_time": 131,
+      "split": 16,
+      "average_speed": 12.3,
+      "average_grade_adjusted_speed": 12.4,
+      "average_heartrate": 165.08396946564886,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.8,
+      "elapsed_time": 137,
+      "elevation_difference": -0.4,
+      "moving_time": 137,
+      "split": 17,
+      "average_speed": 11.69,
+      "average_grade_adjusted_speed": 11.78,
+      "average_heartrate": 161.44525547445255,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.2,
+      "elapsed_time": 137,
+      "elevation_difference": 2.6,
+      "moving_time": 137,
+      "split": 18,
+      "average_speed": 11.78,
+      "average_grade_adjusted_speed": 11.9,
+      "average_heartrate": 163.13138686131387,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.3,
+      "elapsed_time": 136,
+      "elevation_difference": 4.8,
+      "moving_time": 136,
+      "split": 19,
+      "average_speed": 11.82,
+      "average_grade_adjusted_speed": 11.98,
+      "average_heartrate": 163.1764705882353,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.3,
+      "elapsed_time": 138,
+      "elevation_difference": -4.8,
+      "moving_time": 138,
+      "split": 20,
+      "average_speed": 11.63,
+      "average_grade_adjusted_speed": 11.6,
+      "average_heartrate": 156.06521739130434,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1617.1,
+      "elapsed_time": 132,
+      "elevation_difference": -1.2,
+      "moving_time": 132,
+      "split": 21,
+      "average_speed": 12.25,
+      "average_grade_adjusted_speed": 12.29,
+      "average_heartrate": 167.91666666666666,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.0,
+      "elapsed_time": 125,
+      "elevation_difference": -1.4,
+      "moving_time": 125,
+      "split": 22,
+      "average_speed": 12.87,
+      "average_grade_adjusted_speed": 12.95,
+      "average_heartrate": 171.784,
+      "pace_zone": 0
+    },
+    {
+      "distance": 817.4,
+      "elapsed_time": 166,
+      "elevation_difference": 7.8,
+      "moving_time": 166,
+      "split": 23,
+      "average_speed": 4.92,
+      "average_grade_adjusted_speed": 5.09,
+      "average_heartrate": 139.93373493975903,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 58636174956,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 16451049212,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 3115,
+      "moving_time": 3116,
+      "start_date": "2025-11-13T23:16:59Z",
+      "start_date_local": "2025-11-13T18:16:59Z",
+      "distance": 36230.8,
+      "average_speed": 11.63,
+      "max_speed": 16.78,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 3115,
+      "total_elevation_gain": 197.6,
+      "average_cadence": 83.0,
+      "device_watts": true,
+      "average_watts": 244.6,
+      "average_heartrate": 157.4,
+      "max_heartrate": 178.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "c70cc6ff-4488-4305-82b9-75a51f0e0eb9",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/ZNV0N9lLDc2B2AFI5KqcdX9dBKvIkJEztXpqEPQaxLo-768x432.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/ZNV0N9lLDc2B2AFI5KqcdX9dBKvIkJEztXpqEPQaxLo-128x72.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 2
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "d4f47c6a1ce0761d077d3f3f42b268f73b5ecf12",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}

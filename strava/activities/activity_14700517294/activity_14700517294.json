@@ -1,0 +1,1630 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "resource_state": 1
+  },
+  "name": "Zwift - Race: Stage 1: Cityscapes: Glasgow Crit Circuit (B) on Glasgow Crit Circuit in Scotland",
+  "distance": 18953.4,
+  "moving_time": 1743,
+  "elapsed_time": 1743,
+  "total_elevation_gain": 200.0,
+  "type": "VirtualRide",
+  "sport_type": "VirtualRide",
+  "device_name": "Zwift",
+  "id": 14700517294,
+  "start_date": "2025-06-05T02:11:36Z",
+  "start_date_local": "2025-06-04T22:11:36Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -14400.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 2,
+  "kudos_count": 2,
+  "comment_count": 0,
+  "athlete_count": 5,
+  "photo_count": 0,
+  "map": {
+    "id": "a14700517294",
+    "polyline": "u}qrIrgz^|KHxEATFPTJ`@Bf@@nA?d@Ed@M^SPUBeE@MXErKCd@K^ORUFg@BaBCg@GQKOSMYG_@Aa@@}HA_@G]OSQEw@AgA@w@Dw@PwA`@aA^O@OGMQIWG[C]BuBAcNBqIF]LWRGfHAVCN]Bi@AsCB_@HYNQPEz@AxI?lABd@FPLNTF^@nKIh@YPwI@QJKXMRQHSAOM[o@QGaC?O@KNEXAlJ@\\HXNJdEBrM?RBRHNVH^Bb@?jBCb@I^OVSFS@}DBMVA`JElAG`@OVUJk@BqBGUCUMQUM_@Ee@?sIC_@G[MQQEQAgB@u@Dc@HsA\\o@Ro@VQ@OGMOIWGYA]BsEAwUDYFULONCrH@VQDi@?eDBc@J[NOf@ChCAxF@nAB^HNJLRFZBbA?nIIj@WPqI@SB]p@QJSAQM[o@QEmCAMHEVCX?lJD\\LTPBxIDxH?RBPJLVF`@B`@?dBA`@I\\MVQHQ@}DBQLC^AtIEjAI^QTSHg@ByBGQEQMQQKYG_@Ac@BoGA_AE]KUMMQA{B?w@FuBh@e@Ne@RQDSAOMMWG]E_ADyC?sVD[JUNKlAChF?TIJe@@aEF_@LURIlI?~AAp@@^DNDNJJRHXB`@?pJGj@WRsI?SD]n@QJQ?QIWm@QKkCAOBIPCVA~JBZLRNBdJDlH?R@RJNXH`@BnBAb@Cd@M\\QPU@}DBQHG^AnICjAG`@OVQJSDg@?sBISGOOMSK[C_@AaJC[IWMOOCeA?cA?a@BeATaBd@m@VOBOCOMKUG[E}@DoDA{UB]HWNONCf@?`G@XKJg@@gEF]NSPGzKC`AB^DPDLJLRH\\@`@?pIAn@Od@YHoE?qBCS@QRKXQNQDSGMUKYQMuCAMJGXAx@?rH@^F\\NJvIHjI?RDPNLZD`@@b@AfBC`@KZOPSBeE@QNE`@?lIChAG^MVQLQBe@@{AEc@CQKOMMUI[C_@?oIC_@G[MQOGQ?yB?c@Bu@NcBd@_A^O@QGMSIYG_@Aa@B}A@yDAqO@_CH]NQRC|G?ZCP_@@k@?aDFa@LWRG|BCjHA`AB`@HNJLRHZB`@?~JMf@YLwIAQPKXQPSBSIOUK[SIqCCOLGZA|@?vHBb@LZRDnID~HCR@PFNRJ\\DbA?fBE^IZQRQDS?qD@QHE\\AbIAfAE`@IZORQFSBe@?sBIQIQMMUK[C_@?kHA}@E[KSOKiCAw@Fy@PiAXiAb@S?QKMYI]Ea@?c@BcB?uW@_@J[NORClH?VUDk@?aDBc@J[PMvCCfG?fA@`@DNFNLLTFZ@b@A`I?j@Ih@WNsICSFWn@QJQ@OIMSKWOOcBCq@?QLG\\AbA?~HF`@PPlLHlFAV@TNN\\Db@@f@AjBE`@KXQNQB_E?ODITAtJCr@Ih@INIHWH_@B_BC",
+    "resource_state": 3,
+    "summary_polyline": "u}qrIrgz^`RFj@FPTJ`@Bf@@tBEd@M^SPUBeE@MXCjJElAK^OR}@JiCKa@_@MYG_@Aa@@}HA_@G]OSiAG_CFoCr@aA^O@OGMQIWKy@BuB@uXF]LWRG~HEN]@}DB_@HYNQfLGrBJPLNTF^@nKIh@YPwI@QJYl@QHSAOM[o@QGqC@KNEXAlJ@\\HXNJxSBf@LNVH^Bb@?jBCb@I^OVg@H}DBMVChKCd@G`@OVk@NgCGUCUMQUM_@Ee@?sIC_@G[MQc@G}CFwBf@_Bj@a@EMOQq@A]BsEAwUDYFULONCrH@VQDi@?eDBc@J[NOzN?^HNJLRFZBbA?nIIj@WPqI@SB]p@QJSAQM[o@QEmCAMHEVCfKD\\LTdTHd@NLVF`@B`@?dBA`@I\\MVc@J}DBQLC^AtIEjAI^QTSHaDCQEc@_@KYG_@Ac@@oIE]KUMMmCAw@FuBh@}Ah@SAOMMWG]E_ADyC?sVD[JUNKvHCTIJe@@aEF_@LURI~M?n@JNJJRHXB`@?pJGj@WRsI?SD]n@QJQ?QIWm@QKkCAOBIPCVA~JBZLRbTHf@LNXH`@BnBEhAM\\QPU@}DBQHG^AnICjAG`@OVQJ{@DsBISG]c@K[C_@AaJC[IWMO{D?eAT_D`AOCOMKUG[E}@DoDA{UB]HWNOxHAXKJg@@gEF]NSPG|M?p@JLJLRH\\@`@A`KOd@YHuIAQRKXQNQDSGYo@QMuCAMJGXAx@?rH@^F\\NJbTHRDPNLZFdAAfBC`@KZOPSBeE@QNE`@?lIChAG^MVQLw@D_CIa@YMUI[C_@?oIC_@G[MQa@G}CByCt@_A^a@EMSIYIaADwGAqO@_CH]NQRCxHCP_@@k@?aDFa@LWRGjNAp@TLRHZB`@?~JMf@YLwIAQPKXQPSBSI[q@SIqCCOLGZAtJBb@LZbJJ~HCd@HNRJ\\DbA?fBE^IZQRe@DqD@QHE\\CjKE`@IZORQFy@BsBIc@WMUK[C_@AiJE[KSOKaEDcCj@iAb@S?QKMYI]EeABcB?uW@_@J[NORClH?VUDk@?aDBc@J[PMfNAp@LNLLTFZ@b@A`I?j@Ih@WNsICSFWn@QJQ@OIYk@OOuCCQLG\\AbKF`@PPzSFV@TNN\\Db@@f@AjBE`@KXQNQB_E?ODITAtJCr@Ih@SXWH_C?"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    55.638837,
+    -5.218655
+  ],
+  "end_latlng": [
+    55.637703,
+    -5.222921
+  ],
+  "average_speed": 10.874,
+  "max_speed": 16.8,
+  "average_cadence": 74.4,
+  "average_watts": 222.9,
+  "max_watts": 1063,
+  "weighted_average_watts": 260,
+  "device_watts": true,
+  "kilojoules": 388.5,
+  "has_heartrate": true,
+  "average_heartrate": 161.2,
+  "max_heartrate": 191.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 50.6,
+  "elev_low": 34.6,
+  "upload_id": 15687257182,
+  "upload_id_str": "15687257182",
+  "external_id": "zwift-activity-1888947850402873376.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 2,
+  "has_kudoed": false,
+  "suffer_score": 62.0,
+  "description": null,
+  "calories": 397.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3365536567971732464,
+      "resource_state": 2,
+      "name": "Champion\u2019s Sprint",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 16,
+      "moving_time": 16,
+      "start_date": "2025-06-05T02:11:41Z",
+      "start_date_local": "2025-06-04T22:11:41Z",
+      "distance": 200.5,
+      "start_index": 5,
+      "end_index": 21,
+      "average_cadence": 79.6,
+      "device_watts": true,
+      "average_watts": 175.6,
+      "average_heartrate": 147.6,
+      "max_heartrate": 148.0,
+      "segment": {
+        "id": 38170243,
+        "resource_state": 2,
+        "name": "Champion\u2019s Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 200.5,
+        "average_grade": -0.4,
+        "maximum_grade": 1.8,
+        "elevation_high": 41.0,
+        "elevation_low": 39.8,
+        "start_latlng": [
+          55.638419,
+          -5.218661
+        ],
+        "end_latlng": [
+          55.636622,
+          -5.218676
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567971644400,
+      "resource_state": 2,
+      "name": "Glasgow Crit Circuit",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 273,
+      "moving_time": 273,
+      "start_date": "2025-06-05T02:11:57Z",
+      "start_date_local": "2025-06-04T22:11:57Z",
+      "distance": 3013.7,
+      "start_index": 21,
+      "end_index": 294,
+      "average_cadence": 74.7,
+      "device_watts": true,
+      "average_watts": 232.1,
+      "average_heartrate": 157.3,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 33620076,
+        "resource_state": 2,
+        "name": "Glasgow Crit Circuit",
+        "activity_type": "VirtualRide",
+        "distance": 3013.7,
+        "average_grade": 0.0,
+        "maximum_grade": 9.6,
+        "elevation_high": 50.6,
+        "elevation_low": 34.6,
+        "start_latlng": [
+          55.636611,
+          -5.218677
+        ],
+        "end_latlng": [
+          55.636616,
+          -5.218676
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567971789808,
+      "resource_state": 2,
+      "name": "The Clyde Kicker",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 34,
+      "moving_time": 34,
+      "start_date": "2025-06-05T02:13:34Z",
+      "start_date_local": "2025-06-04T22:13:34Z",
+      "distance": 300.9,
+      "start_index": 118,
+      "end_index": 152,
+      "average_cadence": 75.8,
+      "device_watts": true,
+      "average_watts": 401.2,
+      "average_heartrate": 157.1,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 38170244,
+        "resource_state": 2,
+        "name": "The Clyde Kicker",
+        "activity_type": "VirtualRide",
+        "distance": 300.9,
+        "average_grade": 3.6,
+        "maximum_grade": 10.0,
+        "elevation_high": 50.6,
+        "elevation_low": 39.8,
+        "start_latlng": [
+          55.640693,
+          -5.220472
+        ],
+        "end_latlng": [
+          55.640742,
+          -5.215705
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567973447664,
+      "resource_state": 2,
+      "name": "Champion\u2019s Sprint",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 16,
+      "moving_time": 16,
+      "start_date": "2025-06-05T02:16:14Z",
+      "start_date_local": "2025-06-04T22:16:14Z",
+      "distance": 200.5,
+      "start_index": 278,
+      "end_index": 294,
+      "average_cadence": 81.1,
+      "device_watts": true,
+      "average_watts": 216.8,
+      "average_heartrate": 160.6,
+      "max_heartrate": 162.0,
+      "segment": {
+        "id": 38170243,
+        "resource_state": 2,
+        "name": "Champion\u2019s Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 200.5,
+        "average_grade": -0.4,
+        "maximum_grade": 1.8,
+        "elevation_high": 41.0,
+        "elevation_low": 39.8,
+        "start_latlng": [
+          55.638419,
+          -5.218661
+        ],
+        "end_latlng": [
+          55.636622,
+          -5.218676
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567974623216,
+      "resource_state": 2,
+      "name": "Glasgow Crit Circuit",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 276,
+      "moving_time": 276,
+      "start_date": "2025-06-05T02:16:31Z",
+      "start_date_local": "2025-06-04T22:16:31Z",
+      "distance": 3013.7,
+      "start_index": 295,
+      "end_index": 571,
+      "average_cadence": 73.2,
+      "device_watts": true,
+      "average_watts": 217.4,
+      "average_heartrate": 160.8,
+      "max_heartrate": 173.0,
+      "segment": {
+        "id": 33620076,
+        "resource_state": 2,
+        "name": "Glasgow Crit Circuit",
+        "activity_type": "VirtualRide",
+        "distance": 3013.7,
+        "average_grade": 0.0,
+        "maximum_grade": 9.6,
+        "elevation_high": 50.6,
+        "elevation_low": 34.6,
+        "start_latlng": [
+          55.636611,
+          -5.218677
+        ],
+        "end_latlng": [
+          55.636616,
+          -5.218676
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567974123504,
+      "resource_state": 2,
+      "name": "The Clyde Kicker",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 33,
+      "moving_time": 33,
+      "start_date": "2025-06-05T02:18:08Z",
+      "start_date_local": "2025-06-04T22:18:08Z",
+      "distance": 300.9,
+      "start_index": 392,
+      "end_index": 425,
+      "average_cadence": 77.5,
+      "device_watts": true,
+      "average_watts": 371.5,
+      "average_heartrate": 168.2,
+      "max_heartrate": 173.0,
+      "segment": {
+        "id": 38170244,
+        "resource_state": 2,
+        "name": "The Clyde Kicker",
+        "activity_type": "VirtualRide",
+        "distance": 300.9,
+        "average_grade": 3.6,
+        "maximum_grade": 10.0,
+        "elevation_high": 50.6,
+        "elevation_low": 39.8,
+        "start_latlng": [
+          55.640693,
+          -5.220472
+        ],
+        "end_latlng": [
+          55.640742,
+          -5.215705
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567972264944,
+      "resource_state": 2,
+      "name": "Champion\u2019s Sprint",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 17,
+      "moving_time": 17,
+      "start_date": "2025-06-05T02:20:50Z",
+      "start_date_local": "2025-06-04T22:20:50Z",
+      "distance": 200.5,
+      "start_index": 554,
+      "end_index": 571,
+      "average_cadence": 77.5,
+      "device_watts": true,
+      "average_watts": 211.1,
+      "average_heartrate": 156.5,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 38170243,
+        "resource_state": 2,
+        "name": "Champion\u2019s Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 200.5,
+        "average_grade": -0.4,
+        "maximum_grade": 1.8,
+        "elevation_high": 41.0,
+        "elevation_low": 39.8,
+        "start_latlng": [
+          55.638419,
+          -5.218661
+        ],
+        "end_latlng": [
+          55.636622,
+          -5.218676
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567972257776,
+      "resource_state": 2,
+      "name": "Glasgow Crit Circuit",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 279,
+      "moving_time": 279,
+      "start_date": "2025-06-05T02:21:07Z",
+      "start_date_local": "2025-06-04T22:21:07Z",
+      "distance": 3013.7,
+      "start_index": 571,
+      "end_index": 850,
+      "average_cadence": 72.1,
+      "device_watts": true,
+      "average_watts": 208.5,
+      "average_heartrate": 157.7,
+      "max_heartrate": 174.0,
+      "segment": {
+        "id": 33620076,
+        "resource_state": 2,
+        "name": "Glasgow Crit Circuit",
+        "activity_type": "VirtualRide",
+        "distance": 3013.7,
+        "average_grade": 0.0,
+        "maximum_grade": 9.6,
+        "elevation_high": 50.6,
+        "elevation_low": 34.6,
+        "start_latlng": [
+          55.636611,
+          -5.218677
+        ],
+        "end_latlng": [
+          55.636616,
+          -5.218676
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567973007344,
+      "resource_state": 2,
+      "name": "The Clyde Kicker",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 31,
+      "moving_time": 31,
+      "start_date": "2025-06-05T02:22:47Z",
+      "start_date_local": "2025-06-04T22:22:47Z",
+      "distance": 300.9,
+      "start_index": 671,
+      "end_index": 702,
+      "average_cadence": 81.6,
+      "device_watts": true,
+      "average_watts": 406.9,
+      "average_heartrate": 163.9,
+      "max_heartrate": 172.0,
+      "segment": {
+        "id": 38170244,
+        "resource_state": 2,
+        "name": "The Clyde Kicker",
+        "activity_type": "VirtualRide",
+        "distance": 300.9,
+        "average_grade": 3.6,
+        "maximum_grade": 10.0,
+        "elevation_high": 50.6,
+        "elevation_low": 39.8,
+        "start_latlng": [
+          55.640693,
+          -5.220472
+        ],
+        "end_latlng": [
+          55.640742,
+          -5.215705
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567974683632,
+      "resource_state": 2,
+      "name": "Champion\u2019s Sprint",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 18,
+      "moving_time": 18,
+      "start_date": "2025-06-05T02:25:28Z",
+      "start_date_local": "2025-06-04T22:25:28Z",
+      "distance": 200.5,
+      "start_index": 832,
+      "end_index": 850,
+      "average_cadence": 69.8,
+      "device_watts": true,
+      "average_watts": 157.8,
+      "average_heartrate": 150.1,
+      "max_heartrate": 153.0,
+      "segment": {
+        "id": 38170243,
+        "resource_state": 2,
+        "name": "Champion\u2019s Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 200.5,
+        "average_grade": -0.4,
+        "maximum_grade": 1.8,
+        "elevation_high": 41.0,
+        "elevation_low": 39.8,
+        "start_latlng": [
+          55.638419,
+          -5.218661
+        ],
+        "end_latlng": [
+          55.636622,
+          -5.218676
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567972030448,
+      "resource_state": 2,
+      "name": "Glasgow Crit Circuit",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 280,
+      "moving_time": 280,
+      "start_date": "2025-06-05T02:25:46Z",
+      "start_date_local": "2025-06-04T22:25:46Z",
+      "distance": 3013.7,
+      "start_index": 850,
+      "end_index": 1130,
+      "average_cadence": 71.1,
+      "device_watts": true,
+      "average_watts": 202.9,
+      "average_heartrate": 153.2,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 33620076,
+        "resource_state": 2,
+        "name": "Glasgow Crit Circuit",
+        "activity_type": "VirtualRide",
+        "distance": 3013.7,
+        "average_grade": 0.0,
+        "maximum_grade": 9.6,
+        "elevation_high": 50.6,
+        "elevation_low": 34.6,
+        "start_latlng": [
+          55.636611,
+          -5.218677
+        ],
+        "end_latlng": [
+          55.636616,
+          -5.218676
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567972092912,
+      "resource_state": 2,
+      "name": "The Clyde Kicker",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 35,
+      "moving_time": 35,
+      "start_date": "2025-06-05T02:27:28Z",
+      "start_date_local": "2025-06-04T22:27:28Z",
+      "distance": 300.9,
+      "start_index": 952,
+      "end_index": 987,
+      "average_cadence": 74.3,
+      "device_watts": true,
+      "average_watts": 349.8,
+      "average_heartrate": 153.7,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 38170244,
+        "resource_state": 2,
+        "name": "The Clyde Kicker",
+        "activity_type": "VirtualRide",
+        "distance": 300.9,
+        "average_grade": 3.6,
+        "maximum_grade": 10.0,
+        "elevation_high": 50.6,
+        "elevation_low": 39.8,
+        "start_latlng": [
+          55.640693,
+          -5.220472
+        ],
+        "end_latlng": [
+          55.640742,
+          -5.215705
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567973839856,
+      "resource_state": 2,
+      "name": "Champion\u2019s Sprint",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 17,
+      "moving_time": 17,
+      "start_date": "2025-06-05T02:30:09Z",
+      "start_date_local": "2025-06-04T22:30:09Z",
+      "distance": 200.5,
+      "start_index": 1113,
+      "end_index": 1130,
+      "average_cadence": 73.9,
+      "device_watts": true,
+      "average_watts": 139.1,
+      "average_heartrate": 157.9,
+      "max_heartrate": 159.0,
+      "segment": {
+        "id": 38170243,
+        "resource_state": 2,
+        "name": "Champion\u2019s Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 200.5,
+        "average_grade": -0.4,
+        "maximum_grade": 1.8,
+        "elevation_high": 41.0,
+        "elevation_low": 39.8,
+        "start_latlng": [
+          55.638419,
+          -5.218661
+        ],
+        "end_latlng": [
+          55.636622,
+          -5.218676
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567974661104,
+      "resource_state": 2,
+      "name": "Glasgow Crit Circuit",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 276,
+      "moving_time": 276,
+      "start_date": "2025-06-05T02:30:26Z",
+      "start_date_local": "2025-06-04T22:30:26Z",
+      "distance": 3013.7,
+      "start_index": 1130,
+      "end_index": 1406,
+      "average_cadence": 74.2,
+      "device_watts": true,
+      "average_watts": 229.0,
+      "average_heartrate": 161.7,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 33620076,
+        "resource_state": 2,
+        "name": "Glasgow Crit Circuit",
+        "activity_type": "VirtualRide",
+        "distance": 3013.7,
+        "average_grade": 0.0,
+        "maximum_grade": 9.6,
+        "elevation_high": 50.6,
+        "elevation_low": 34.6,
+        "start_latlng": [
+          55.636611,
+          -5.218677
+        ],
+        "end_latlng": [
+          55.636616,
+          -5.218676
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567971533808,
+      "resource_state": 2,
+      "name": "The Clyde Kicker",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 32,
+      "moving_time": 32,
+      "start_date": "2025-06-05T02:32:10Z",
+      "start_date_local": "2025-06-04T22:32:10Z",
+      "distance": 300.9,
+      "start_index": 1234,
+      "end_index": 1266,
+      "average_cadence": 80.1,
+      "device_watts": true,
+      "average_watts": 419.5,
+      "average_heartrate": 163.0,
+      "max_heartrate": 170.0,
+      "segment": {
+        "id": 38170244,
+        "resource_state": 2,
+        "name": "The Clyde Kicker",
+        "activity_type": "VirtualRide",
+        "distance": 300.9,
+        "average_grade": 3.6,
+        "maximum_grade": 10.0,
+        "elevation_high": 50.6,
+        "elevation_low": 39.8,
+        "start_latlng": [
+          55.640693,
+          -5.220472
+        ],
+        "end_latlng": [
+          55.640742,
+          -5.215705
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567973078000,
+      "resource_state": 2,
+      "name": "Champion\u2019s Sprint",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 19,
+      "moving_time": 19,
+      "start_date": "2025-06-05T02:34:43Z",
+      "start_date_local": "2025-06-04T22:34:43Z",
+      "distance": 200.5,
+      "start_index": 1387,
+      "end_index": 1406,
+      "average_cadence": 78.8,
+      "device_watts": true,
+      "average_watts": 181.8,
+      "average_heartrate": 172.6,
+      "max_heartrate": 174.0,
+      "segment": {
+        "id": 38170243,
+        "resource_state": 2,
+        "name": "Champion\u2019s Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 200.5,
+        "average_grade": -0.4,
+        "maximum_grade": 1.8,
+        "elevation_high": 41.0,
+        "elevation_low": 39.8,
+        "start_latlng": [
+          55.638419,
+          -5.218661
+        ],
+        "end_latlng": [
+          55.636622,
+          -5.218676
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567974857712,
+      "resource_state": 2,
+      "name": "Glasgow Crit Circuit",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 265,
+      "moving_time": 265,
+      "start_date": "2025-06-05T02:35:02Z",
+      "start_date_local": "2025-06-04T22:35:02Z",
+      "distance": 3013.7,
+      "start_index": 1406,
+      "end_index": 1671,
+      "average_cadence": 80.8,
+      "device_watts": true,
+      "average_watts": 307.9,
+      "average_heartrate": 173.3,
+      "max_heartrate": 188.0,
+      "segment": {
+        "id": 33620076,
+        "resource_state": 2,
+        "name": "Glasgow Crit Circuit",
+        "activity_type": "VirtualRide",
+        "distance": 3013.7,
+        "average_grade": 0.0,
+        "maximum_grade": 9.6,
+        "elevation_high": 50.6,
+        "elevation_low": 34.6,
+        "start_latlng": [
+          55.636611,
+          -5.218677
+        ],
+        "end_latlng": [
+          55.636616,
+          -5.218676
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567971416048,
+      "resource_state": 2,
+      "name": "The Clyde Kicker",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 29,
+      "moving_time": 29,
+      "start_date": "2025-06-05T02:36:44Z",
+      "start_date_local": "2025-06-04T22:36:44Z",
+      "distance": 300.9,
+      "start_index": 1508,
+      "end_index": 1537,
+      "average_cadence": 87.5,
+      "device_watts": true,
+      "average_watts": 483.7,
+      "average_heartrate": 177.7,
+      "max_heartrate": 182.0,
+      "segment": {
+        "id": 38170244,
+        "resource_state": 2,
+        "name": "The Clyde Kicker",
+        "activity_type": "VirtualRide",
+        "distance": 300.9,
+        "average_grade": 3.6,
+        "maximum_grade": 10.0,
+        "elevation_high": 50.6,
+        "elevation_low": 39.8,
+        "start_latlng": [
+          55.640693,
+          -5.220472
+        ],
+        "end_latlng": [
+          55.640742,
+          -5.215705
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3365536567971427312,
+      "resource_state": 2,
+      "name": "Champion\u2019s Sprint",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 12,
+      "moving_time": 12,
+      "start_date": "2025-06-05T02:39:15Z",
+      "start_date_local": "2025-06-04T22:39:15Z",
+      "distance": 200.5,
+      "start_index": 1659,
+      "end_index": 1671,
+      "average_cadence": 116.8,
+      "device_watts": true,
+      "average_watts": 680.4,
+      "average_heartrate": 186.5,
+      "max_heartrate": 188.0,
+      "segment": {
+        "id": 38170243,
+        "resource_state": 2,
+        "name": "Champion\u2019s Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 200.5,
+        "average_grade": -0.4,
+        "maximum_grade": 1.8,
+        "elevation_high": 41.0,
+        "elevation_low": 39.8,
+        "start_latlng": [
+          55.638419,
+          -5.218661
+        ],
+        "end_latlng": [
+          55.636622,
+          -5.218676
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1006.7,
+      "elapsed_time": 85,
+      "elevation_difference": -6.0,
+      "moving_time": 85,
+      "split": 1,
+      "average_speed": 11.84,
+      "average_grade_adjusted_speed": 11.74,
+      "average_heartrate": 148.6705882352941,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.9,
+      "elapsed_time": 98,
+      "elevation_difference": 9.8,
+      "moving_time": 98,
+      "split": 2,
+      "average_speed": 10.16,
+      "average_grade_adjusted_speed": 10.68,
+      "average_heartrate": 157.8673469387755,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.4,
+      "elapsed_time": 89,
+      "elevation_difference": -3.8,
+      "moving_time": 89,
+      "split": 3,
+      "average_speed": 11.21,
+      "average_grade_adjusted_speed": 11.29,
+      "average_heartrate": 161.7078651685393,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1011.8,
+      "elapsed_time": 85,
+      "elevation_difference": -6.2,
+      "moving_time": 85,
+      "split": 4,
+      "average_speed": 11.9,
+      "average_grade_adjusted_speed": 11.79,
+      "average_heartrate": 158.4470588235294,
+      "pace_zone": 0
+    },
+    {
+      "distance": 990.4,
+      "elapsed_time": 98,
+      "elevation_difference": 10.6,
+      "moving_time": 98,
+      "split": 5,
+      "average_speed": 10.11,
+      "average_grade_adjusted_speed": 10.63,
+      "average_heartrate": 167.3673469387755,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.3,
+      "elapsed_time": 92,
+      "elevation_difference": -4.4,
+      "moving_time": 92,
+      "split": 6,
+      "average_speed": 10.91,
+      "average_grade_adjusted_speed": 10.98,
+      "average_heartrate": 157.18478260869566,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.1,
+      "elapsed_time": 89,
+      "elevation_difference": -6.2,
+      "moving_time": 89,
+      "split": 7,
+      "average_speed": 11.24,
+      "average_grade_adjusted_speed": 11.13,
+      "average_heartrate": 150.42696629213484,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 95,
+      "elevation_difference": 10.8,
+      "moving_time": 95,
+      "split": 8,
+      "average_speed": 10.57,
+      "average_grade_adjusted_speed": 11.13,
+      "average_heartrate": 161.0842105263158,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 92,
+      "elevation_difference": -4.6,
+      "moving_time": 92,
+      "split": 9,
+      "average_speed": 10.85,
+      "average_grade_adjusted_speed": 10.92,
+      "average_heartrate": 162.54347826086956,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 90,
+      "elevation_difference": -6.2,
+      "moving_time": 90,
+      "split": 10,
+      "average_speed": 11.12,
+      "average_grade_adjusted_speed": 11.02,
+      "average_heartrate": 145.94444444444446,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.7,
+      "elapsed_time": 100,
+      "elevation_difference": 11.2,
+      "moving_time": 100,
+      "split": 11,
+      "average_speed": 9.95,
+      "average_grade_adjusted_speed": 10.49,
+      "average_heartrate": 153.13,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.4,
+      "elapsed_time": 90,
+      "elevation_difference": -5.0,
+      "moving_time": 90,
+      "split": 12,
+      "average_speed": 11.13,
+      "average_grade_adjusted_speed": 11.18,
+      "average_heartrate": 158.57777777777778,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 91,
+      "elevation_difference": -6.2,
+      "moving_time": 91,
+      "split": 13,
+      "average_speed": 10.98,
+      "average_grade_adjusted_speed": 10.87,
+      "average_heartrate": 151.93406593406593,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.0,
+      "elapsed_time": 96,
+      "elevation_difference": 11.0,
+      "moving_time": 96,
+      "split": 14,
+      "average_speed": 10.41,
+      "average_grade_adjusted_speed": 10.96,
+      "average_heartrate": 159.02083333333334,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 86,
+      "elevation_difference": -4.8,
+      "moving_time": 86,
+      "split": 15,
+      "average_speed": 11.6,
+      "average_grade_adjusted_speed": 11.65,
+      "average_heartrate": 169.82558139534885,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.0,
+      "elapsed_time": 92,
+      "elevation_difference": -6.0,
+      "moving_time": 92,
+      "split": 16,
+      "average_speed": 10.9,
+      "average_grade_adjusted_speed": 10.8,
+      "average_heartrate": 163.30434782608697,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.3,
+      "elapsed_time": 92,
+      "elevation_difference": 9.8,
+      "moving_time": 92,
+      "split": 17,
+      "average_speed": 10.91,
+      "average_grade_adjusted_speed": 11.46,
+      "average_heartrate": 172.84782608695653,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.8,
+      "elapsed_time": 87,
+      "elevation_difference": -3.6,
+      "moving_time": 87,
+      "split": 18,
+      "average_speed": 11.41,
+      "average_grade_adjusted_speed": 11.5,
+      "average_heartrate": 181.06896551724137,
+      "pace_zone": 0
+    },
+    {
+      "distance": 953.6,
+      "elapsed_time": 96,
+      "elevation_difference": -6.2,
+      "moving_time": 96,
+      "split": 19,
+      "average_speed": 9.93,
+      "average_grade_adjusted_speed": 9.84,
+      "average_heartrate": 181.29032258064515,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1614.9,
+      "elapsed_time": 150,
+      "elevation_difference": 8.8,
+      "moving_time": 150,
+      "split": 1,
+      "average_speed": 10.77,
+      "average_grade_adjusted_speed": 11.06,
+      "average_heartrate": 150.98,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.8,
+      "elapsed_time": 141,
+      "elevation_difference": -10.8,
+      "moving_time": 141,
+      "split": 2,
+      "average_speed": 11.4,
+      "average_grade_adjusted_speed": 11.41,
+      "average_heartrate": 162.32624113475177,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.6,
+      "elapsed_time": 151,
+      "elevation_difference": 4.0,
+      "moving_time": 151,
+      "split": 3,
+      "average_speed": 10.68,
+      "average_grade_adjusted_speed": 10.9,
+      "average_heartrate": 162.9933774834437,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1604.1,
+      "elapsed_time": 143,
+      "elevation_difference": -5.4,
+      "moving_time": 143,
+      "split": 4,
+      "average_speed": 11.22,
+      "average_grade_adjusted_speed": 11.31,
+      "average_heartrate": 157.84615384615384,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1617.8,
+      "elapsed_time": 150,
+      "elevation_difference": 6.6,
+      "moving_time": 150,
+      "split": 5,
+      "average_speed": 10.79,
+      "average_grade_adjusted_speed": 11.1,
+      "average_heartrate": 156.60666666666665,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.5,
+      "elapsed_time": 147,
+      "elevation_difference": -8.0,
+      "moving_time": 147,
+      "split": 6,
+      "average_speed": 10.94,
+      "average_grade_adjusted_speed": 10.94,
+      "average_heartrate": 156.63945578231292,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 156,
+      "elevation_difference": 9.2,
+      "moving_time": 156,
+      "split": 7,
+      "average_speed": 10.31,
+      "average_grade_adjusted_speed": 10.67,
+      "average_heartrate": 152.8653846153846,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 144,
+      "elevation_difference": -10.4,
+      "moving_time": 144,
+      "split": 8,
+      "average_speed": 11.17,
+      "average_grade_adjusted_speed": 11.12,
+      "average_heartrate": 154.17361111111111,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.4,
+      "elapsed_time": 151,
+      "elevation_difference": 0.6,
+      "moving_time": 151,
+      "split": 9,
+      "average_speed": 10.67,
+      "average_grade_adjusted_speed": 10.93,
+      "average_heartrate": 161.66887417218544,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.9,
+      "elapsed_time": 144,
+      "elevation_difference": -0.2,
+      "moving_time": 144,
+      "split": 10,
+      "average_speed": 11.15,
+      "average_grade_adjusted_speed": 11.23,
+      "average_heartrate": 164.25,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.1,
+      "elapsed_time": 141,
+      "elevation_difference": 0.2,
+      "moving_time": 141,
+      "split": 11,
+      "average_speed": 11.4,
+      "average_grade_adjusted_speed": 11.67,
+      "average_heartrate": 178.04255319148936,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1248.3,
+      "elapsed_time": 125,
+      "elevation_difference": -0.6,
+      "moving_time": 125,
+      "split": 12,
+      "average_speed": 9.99,
+      "average_grade_adjusted_speed": 10.06,
+      "average_heartrate": 180.1639344262295,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 52269568028,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 14700517294,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 1743,
+      "moving_time": 1744,
+      "start_date": "2025-06-05T02:11:36Z",
+      "start_date_local": "2025-06-04T22:11:36Z",
+      "distance": 18953.6,
+      "average_speed": 10.87,
+      "max_speed": 16.8,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 1743,
+      "total_elevation_gain": 184.8,
+      "average_cadence": 74.4,
+      "device_watts": true,
+      "average_watts": 222.9,
+      "average_heartrate": 161.2,
+      "max_heartrate": 191.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "ed36b63f-ef4a-4eed-865d-1efc2957c6bf",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/PufOlq6VTpYb-qu14eU3GJ780oaSGFDliuSMS7qRfLk-768x480.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/PufOlq6VTpYb-qu14eU3GJ780oaSGFDliuSMS7qRfLk-128x80.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 2
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "c66198f744ee1e3a04e771a68be0414791de4eec",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}

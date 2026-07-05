@@ -1,0 +1,881 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "resource_state": 1
+  },
+  "name": "Zwift - Race: Stage 1: Kick 'N' Sprint: Innsbruckring (A) on Innsbruckring in Innsbruck",
+  "distance": 18604.0,
+  "moving_time": 1684,
+  "elapsed_time": 1733,
+  "total_elevation_gain": 157.0,
+  "type": "VirtualRide",
+  "sport_type": "VirtualRide",
+  "device_name": "Zwift",
+  "id": 15416477311,
+  "start_date": "2025-08-11T01:10:25Z",
+  "start_date_local": "2025-08-10T21:10:25Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -14400.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 6,
+  "kudos_count": 1,
+  "comment_count": 0,
+  "athlete_count": 9,
+  "photo_count": 0,
+  "map": {
+    "id": "a15416477311",
+    "polyline": "guo_HaypdA@n@DZJXLRPNTFfDTvGj@R@PIJW?]C{@UuCo@}Ga@aDCa@@_@NUTIbBg@zAWN?`@JpAt@b@PR@RENQJYH[PyATyC\\yFF_@LWTOl@SRQd@o@|@eBtAwCXq@tAsFNQP@d@NtB`@R@RGLSD[@]C{AK{CSaC?a@H[PSf@WhFkB`CiArCeBbBmAxA}@`@_@|@kARKRFHZ\\lHT`DVtBXnALv@NrAJrAjBv\\PdCTnBRnAv@zDl@pBF^@d@K`@QXWRo@^cBr@_Bh@gCb@k@?aAIUBUHSLORm@|@eAfB]d@a@Ze@Rg@LgBXsD|@{@H{@@_CK}@Ci@Be@FkAZ{D|AoBn@_Bd@sBf@aFbAQHITCZRjDHt@Zf@EXcBlC[l@GXAZDrACZGV_@p@oAtAs@|@qAtBwD|GORIFICGMAUHqABcACc@W}C[_COg@Uc@[U_@O_Ba@]SYYk@}@iC{FQUc@c@QKg@MgBFSIE_@Bc@NiATiANa@t@i@n@_AVa@Lk@Cq@Ok@Qe@k@}@{AuAcAm@aFqCaDqBq@e@]]]a@Ye@iBuE_DoFm@wA_@iAwDiMe@mBYwAScBCa@?e@L[XATLnCbBd@^PR^l@zLfVvCtFh@|@bChDzAhBpBjBzCfCbCrAf@TRDxBBnTfBRCPOD]A_@eAeMi@gEAa@H]ROfBi@~AWPAd@JpAv@`@NP?PCNKRk@Lq@Hu@v@}KDYLUNKd@Qb@Y\\g@t@sA|@gBv@iBPm@nA_FLGN@l@RnB^N?NELMFUBW@q@SiFQqB?_@H[NQd@YbC_AlBm@dAe@nEkCvAeA|AcAb@_@r@_APQREPND^XzF^jFRtA\\hB^~ChB|[XhEV|BTlAn@~Ct@pCD`@Gb@QXk@f@uB`AgA^eAXqBZU@cAIU?UFUJc@d@yAbCk@x@a@\\u@ZwBZaDv@oAR}@@wDOe@@{@He@Ly@VuClAsBr@mEjA{Bd@wB`@MHITCVT|DLn@JPHTITiBvCUj@CVAVDhAATKh@[h@sB|BiAfBuEhISRKAGOCWHu@BaAEgAe@oFKg@Mg@U_@YW]OyA[]MYUU[g@_AcCqFc@g@QOc@SQEe@@w@FSAOMA]H_ANeAXeATWZQdAwARe@Dm@Im@Oi@Ua@k@{@UWm@i@{AaAgFqCgCcBe@Yq@o@m@w@g@cAsAmDoCqEe@cAa@gA_EwMi@wB[}AOcAIgA?g@L]X?|CjBh@`@RTb@p@`Pj[rA`C~@rApAfBp@x@tAvAxArAnCzB`B|@x@^f@D|@?z@DtIt@fAFzFd@P?PKFW@WCs@gAkMe@eDAYBWJQNIl@Mr@UhB[P@TDfAp@b@R^FVCRSHSJa@PuAPaC",
+    "resource_state": 3,
+    "summary_polyline": "guo_HaypdA@n@Pt@^b@TF~L`AR@PIJW?]C{@eAsLa@aDCa@@_@NUTIbBg@zAWp@JpAt@b@Pf@CNQTu@PyAz@sLLWbAc@RQd@o@|@eBnBiEtAsFNQP@zCp@f@ELSFy@C{AK{CSaC?a@H[PSf@WhFkB`CiArCeB|DkC`@_@|@kARKRFHZ\\lHT`DVtBf@fCZfD|B|`@TnBRnAv@zDt@pC@d@K`@i@l@o@^cE|AgCb@k@?aAIk@Lc@`@sBdD]d@a@Ze@RoCf@sD|@{@H{@@}DOoAJkAZ{D|AoBn@sElAsFlAITCZRjDHt@Zf@EX_CzDGXAZDrAKr@_@p@oAtAs@|@iGrKYZICGMAUHqABcA[aE[_COg@Uc@[U_@O_Ba@]SYYk@}@iC{Fu@y@y@YgBFSIE_@Bc@NiATiANa@t@i@n@_AVa@Lk@Cq@Ok@Qe@k@}@{AuAeH_EaDqBoAcAw@gAiBuE_DoFmAaDwDiMe@mBYwAScBCgAL[XATLnCbBv@r@^l@zLfV`ErHbChDzAhBpBjBzCfCbCrAz@ZxBBnTfBRCPOD]A_@eAeMi@gEAa@H]ROfBi@pBYd@JpAv@`@Nb@CNKRk@VgBv@}KDYLUt@]b@YrA{B|@gBv@iB`BmGLGN@l@RnB^^ELMJm@@q@SiFQqB?_@H[NQd@YpFmBdAe@nEkCtDiCb@_@dAqAREPN^zG^jFRtA\\hB^~ChB|[XhEV|BTlAn@~Ct@pCD`@Gb@QXk@f@uB`AgA^wDt@yAGk@FUJc@d@eC|Da@\\u@ZwBZaDv@oAR}@@wDOaBJ_Bd@uClAsBr@mEjAsFfAMHITCVT|DLn@Tf@ITiBvCUj@En@B~AKh@[h@sB|BiAfBuEhISRKAGOCWHu@BeBc@iFSqAMg@U_@YW]OyA[]MYU}@{AcCqFu@w@u@Y}AHSAOMA]H_ANeAXeATWZQdAwARe@Dm@Im@Oi@Ua@k@{@cAaA{AaAgFqCgCcBwAiAm@w@g@cAsAmDoCqEe@cAa@gA_EwMi@wBk@aDIgA?g@L]X?|CjB|@v@b@p@`Pj[rA`C~@rAbC`DnDjDnCzBzC|A`DJxSbBP?PKFW@WCs@gAkMe@eDAYBWJQNI`Bc@hB[f@FjBdA^FVCRSTu@PuAPaC"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    47.271409,
+    11.396176
+  ],
+  "end_latlng": [
+    47.266527,
+    11.40055
+  ],
+  "average_speed": 11.048,
+  "max_speed": 18.48,
+  "average_cadence": 81.4,
+  "average_watts": 229.9,
+  "max_watts": 809,
+  "weighted_average_watts": 262,
+  "device_watts": true,
+  "kilojoules": 387.1,
+  "has_heartrate": true,
+  "average_heartrate": 152.4,
+  "max_heartrate": 179.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 317.2,
+  "elev_low": 278.8,
+  "upload_id": 16463693536,
+  "upload_id_str": "16463693536",
+  "external_id": "zwift-activity-1937481313665712176.fit",
+  "from_accepted_tag": false,
+  "pr_count": 1,
+  "total_photo_count": 2,
+  "has_kudoed": false,
+  "suffer_score": 49.0,
+  "description": null,
+  "calories": 377.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3389801077763850820,
+      "resource_state": 2,
+      "name": "Innsbruckring",
+      "activity": {
+        "id": 15416477311,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 772,
+      "moving_time": 772,
+      "start_date": "2025-08-11T01:10:45Z",
+      "start_date_local": "2025-08-10T21:10:45Z",
+      "distance": 8791.6,
+      "start_index": 20,
+      "end_index": 792,
+      "average_cadence": 82.2,
+      "device_watts": true,
+      "average_watts": 240.7,
+      "average_heartrate": 150.5,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 18398895,
+        "resource_state": 2,
+        "name": "Innsbruckring",
+        "activity_type": "VirtualRide",
+        "distance": 8791.6,
+        "average_grade": 0.0,
+        "maximum_grade": 8.3,
+        "elevation_high": 317.2,
+        "elevation_low": 278.8,
+        "start_latlng": [
+          47.269707,
+          11.39524
+        ],
+        "end_latlng": [
+          47.269685,
+          11.395238
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Innsbruck",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389801077765023300,
+      "resource_state": 2,
+      "name": "Legsnapper OLD",
+      "activity": {
+        "id": 15416477311,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 59,
+      "moving_time": 59,
+      "start_date": "2025-08-11T01:17:45Z",
+      "start_date_local": "2025-08-10T21:17:45Z",
+      "distance": 438.3,
+      "start_index": 440,
+      "end_index": 499,
+      "average_cadence": 88.2,
+      "device_watts": true,
+      "average_watts": 447.2,
+      "average_heartrate": 168.3,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 25718000,
+        "resource_state": 2,
+        "name": "Legsnapper OLD",
+        "activity_type": "VirtualRide",
+        "distance": 438.3,
+        "average_grade": 6.9,
+        "maximum_grade": 8.6,
+        "elevation_high": 317.2,
+        "elevation_low": 287.0,
+        "start_latlng": [
+          47.268848,
+          11.390695
+        ],
+        "end_latlng": [
+          47.271305,
+          11.386432
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Innsbruck",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389801077764251204,
+      "resource_state": 2,
+      "name": "Innsbruck Sprint",
+      "activity": {
+        "id": 15416477311,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 25,
+      "moving_time": 25,
+      "start_date": "2025-08-11T01:20:22Z",
+      "start_date_local": "2025-08-10T21:20:22Z",
+      "distance": 271.4,
+      "start_index": 597,
+      "end_index": 622,
+      "average_cadence": 82.0,
+      "device_watts": true,
+      "average_watts": 266.9,
+      "average_heartrate": 154.2,
+      "max_heartrate": 155.0,
+      "segment": {
+        "id": 38147733,
+        "resource_state": 2,
+        "name": "Innsbruck Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 271.4,
+        "average_grade": 0.7,
+        "maximum_grade": 1.5,
+        "elevation_high": 284.6,
+        "elevation_low": 282.8,
+        "start_latlng": [
+          47.277587,
+          11.397484
+        ],
+        "end_latlng": [
+          47.279212,
+          11.400163
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Innsbruck",
+        "state": "Tyrol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389801077764912708,
+      "resource_state": 2,
+      "name": "Innsbruckring",
+      "activity": {
+        "id": 15416477311,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 774,
+      "moving_time": 774,
+      "start_date": "2025-08-11T01:23:37Z",
+      "start_date_local": "2025-08-10T21:23:37Z",
+      "distance": 8791.6,
+      "start_index": 792,
+      "end_index": 1566,
+      "average_cadence": 82.6,
+      "device_watts": true,
+      "average_watts": 248.9,
+      "average_heartrate": 156.1,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 18398895,
+        "resource_state": 2,
+        "name": "Innsbruckring",
+        "activity_type": "VirtualRide",
+        "distance": 8791.6,
+        "average_grade": 0.0,
+        "maximum_grade": 8.3,
+        "elevation_high": 317.2,
+        "elevation_low": 278.8,
+        "start_latlng": [
+          47.269707,
+          11.39524
+        ],
+        "end_latlng": [
+          47.269685,
+          11.395238
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Innsbruck",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389801077765885508,
+      "resource_state": 2,
+      "name": "Legsnapper OLD",
+      "activity": {
+        "id": 15416477311,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 59,
+      "moving_time": 59,
+      "start_date": "2025-08-11T01:30:51Z",
+      "start_date_local": "2025-08-10T21:30:51Z",
+      "distance": 438.3,
+      "start_index": 1226,
+      "end_index": 1285,
+      "average_cadence": 88.2,
+      "device_watts": true,
+      "average_watts": 460.0,
+      "average_heartrate": 166.3,
+      "max_heartrate": 177.0,
+      "segment": {
+        "id": 25718000,
+        "resource_state": 2,
+        "name": "Legsnapper OLD",
+        "activity_type": "VirtualRide",
+        "distance": 438.3,
+        "average_grade": 6.9,
+        "maximum_grade": 8.6,
+        "elevation_high": 317.2,
+        "elevation_low": 287.0,
+        "start_latlng": [
+          47.268848,
+          11.390695
+        ],
+        "end_latlng": [
+          47.271305,
+          11.386432
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Innsbruck",
+        "state": "Tirol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3389801077763867204,
+      "resource_state": 2,
+      "name": "Innsbruck Sprint",
+      "activity": {
+        "id": 15416477311,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 24,
+      "moving_time": 24,
+      "start_date": "2025-08-11T01:33:29Z",
+      "start_date_local": "2025-08-10T21:33:29Z",
+      "distance": 271.4,
+      "start_index": 1384,
+      "end_index": 1408,
+      "average_cadence": 83.0,
+      "device_watts": true,
+      "average_watts": 271.3,
+      "average_heartrate": 160.0,
+      "max_heartrate": 161.0,
+      "segment": {
+        "id": 38147733,
+        "resource_state": 2,
+        "name": "Innsbruck Sprint",
+        "activity_type": "VirtualRide",
+        "distance": 271.4,
+        "average_grade": 0.7,
+        "maximum_grade": 1.5,
+        "elevation_high": 284.6,
+        "elevation_low": 282.8,
+        "start_latlng": [
+          47.277587,
+          11.397484
+        ],
+        "end_latlng": [
+          47.279212,
+          11.400163
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Innsbruck",
+        "state": "Tyrol",
+        "country": "Austria",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1002.4,
+      "elapsed_time": 88,
+      "elevation_difference": -2.0,
+      "moving_time": 88,
+      "split": 1,
+      "average_speed": 11.39,
+      "average_grade_adjusted_speed": 11.38,
+      "average_heartrate": 125.36363636363636,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.9,
+      "elapsed_time": 85,
+      "elevation_difference": 0.6,
+      "moving_time": 85,
+      "split": 2,
+      "average_speed": 11.74,
+      "average_grade_adjusted_speed": 11.78,
+      "average_heartrate": 144.48235294117646,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1009.1,
+      "elapsed_time": 91,
+      "elevation_difference": 4.8,
+      "moving_time": 91,
+      "split": 3,
+      "average_speed": 11.09,
+      "average_grade_adjusted_speed": 11.25,
+      "average_heartrate": 146.92307692307693,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.4,
+      "elapsed_time": 84,
+      "elevation_difference": -5.6,
+      "moving_time": 84,
+      "split": 4,
+      "average_speed": 11.8,
+      "average_grade_adjusted_speed": 11.71,
+      "average_heartrate": 149.16666666666666,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.7,
+      "elapsed_time": 91,
+      "elevation_difference": 5.0,
+      "moving_time": 91,
+      "split": 5,
+      "average_speed": 11.03,
+      "average_grade_adjusted_speed": 11.14,
+      "average_heartrate": 149.46153846153845,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.0,
+      "elapsed_time": 98,
+      "elevation_difference": 10.2,
+      "moving_time": 98,
+      "split": 6,
+      "average_speed": 10.24,
+      "average_grade_adjusted_speed": 11.26,
+      "average_heartrate": 169.25510204081633,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.4,
+      "elapsed_time": 78,
+      "elevation_difference": -13.0,
+      "moving_time": 78,
+      "split": 7,
+      "average_speed": 12.79,
+      "average_grade_adjusted_speed": 12.56,
+      "average_heartrate": 159.87179487179486,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.0,
+      "elapsed_time": 85,
+      "elevation_difference": -3.4,
+      "moving_time": 85,
+      "split": 8,
+      "average_speed": 11.73,
+      "average_grade_adjusted_speed": 11.66,
+      "average_heartrate": 149.98823529411766,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 91,
+      "elevation_difference": 4.0,
+      "moving_time": 91,
+      "split": 9,
+      "average_speed": 10.99,
+      "average_grade_adjusted_speed": 11.07,
+      "average_heartrate": 151.97802197802199,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 88,
+      "elevation_difference": -4.6,
+      "moving_time": 88,
+      "split": 10,
+      "average_speed": 11.34,
+      "average_grade_adjusted_speed": 11.29,
+      "average_heartrate": 147.32954545454547,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.4,
+      "elapsed_time": 97,
+      "elevation_difference": 3.6,
+      "moving_time": 97,
+      "split": 11,
+      "average_speed": 10.33,
+      "average_grade_adjusted_speed": 10.44,
+      "average_heartrate": 133.31958762886597,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.8,
+      "elapsed_time": 92,
+      "elevation_difference": 6.2,
+      "moving_time": 92,
+      "split": 12,
+      "average_speed": 10.91,
+      "average_grade_adjusted_speed": 11.09,
+      "average_heartrate": 154.1086956521739,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.0,
+      "elapsed_time": 83,
+      "elevation_difference": -7.4,
+      "moving_time": 83,
+      "split": 13,
+      "average_speed": 12.1,
+      "average_grade_adjusted_speed": 11.95,
+      "average_heartrate": 154.43373493975903,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.7,
+      "elapsed_time": 100,
+      "elevation_difference": 17.4,
+      "moving_time": 100,
+      "split": 14,
+      "average_speed": 9.92,
+      "average_grade_adjusted_speed": 10.53,
+      "average_heartrate": 156.11,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1012.0,
+      "elapsed_time": 91,
+      "elevation_difference": -11.8,
+      "moving_time": 91,
+      "split": 15,
+      "average_speed": 11.12,
+      "average_grade_adjusted_speed": 11.49,
+      "average_heartrate": 172.65934065934067,
+      "pace_zone": 0
+    },
+    {
+      "distance": 989.2,
+      "elapsed_time": 78,
+      "elevation_difference": -2.8,
+      "moving_time": 78,
+      "split": 16,
+      "average_speed": 12.68,
+      "average_grade_adjusted_speed": 12.67,
+      "average_heartrate": 160.47435897435898,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.1,
+      "elapsed_time": 79,
+      "elevation_difference": -2.4,
+      "moving_time": 79,
+      "split": 17,
+      "average_speed": 12.74,
+      "average_grade_adjusted_speed": 12.69,
+      "average_heartrate": 164.81012658227849,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.8,
+      "elapsed_time": 86,
+      "elevation_difference": 0.2,
+      "moving_time": 86,
+      "split": 18,
+      "average_speed": 11.57,
+      "average_grade_adjusted_speed": 11.58,
+      "average_heartrate": 167.96511627906978,
+      "pace_zone": 0
+    },
+    {
+      "distance": 599.4,
+      "elapsed_time": 148,
+      "elevation_difference": -1.2,
+      "moving_time": 99,
+      "split": 19,
+      "average_speed": 6.05,
+      "average_grade_adjusted_speed": 6.06,
+      "average_heartrate": 141.6060606060606,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1613.6,
+      "elapsed_time": 139,
+      "elevation_difference": -1.8,
+      "moving_time": 139,
+      "split": 1,
+      "average_speed": 11.61,
+      "average_grade_adjusted_speed": 11.61,
+      "average_heartrate": 132.0935251798561,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 146,
+      "elevation_difference": 7.6,
+      "moving_time": 146,
+      "split": 2,
+      "average_speed": 11.01,
+      "average_grade_adjusted_speed": 11.17,
+      "average_heartrate": 147.31506849315068,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 138,
+      "elevation_difference": -3.6,
+      "moving_time": 138,
+      "split": 3,
+      "average_speed": 11.66,
+      "average_grade_adjusted_speed": 11.63,
+      "average_heartrate": 148.1086956521739,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.5,
+      "elapsed_time": 143,
+      "elevation_difference": -5.6,
+      "moving_time": 143,
+      "split": 4,
+      "average_speed": 11.26,
+      "average_grade_adjusted_speed": 11.8,
+      "average_heartrate": 167.08391608391608,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.1,
+      "elapsed_time": 139,
+      "elevation_difference": 0.8,
+      "moving_time": 139,
+      "split": 5,
+      "average_speed": 11.61,
+      "average_grade_adjusted_speed": 11.64,
+      "average_heartrate": 152.13669064748203,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 142,
+      "elevation_difference": 1.4,
+      "moving_time": 142,
+      "split": 6,
+      "average_speed": 11.33,
+      "average_grade_adjusted_speed": 11.37,
+      "average_heartrate": 151.51408450704224,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.7,
+      "elapsed_time": 151,
+      "elevation_difference": -3.0,
+      "moving_time": 151,
+      "split": 7,
+      "average_speed": 10.68,
+      "average_grade_adjusted_speed": 10.67,
+      "average_heartrate": 137.9205298013245,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 142,
+      "elevation_difference": 2.0,
+      "moving_time": 142,
+      "split": 8,
+      "average_speed": 11.32,
+      "average_grade_adjusted_speed": 11.4,
+      "average_heartrate": 154.81690140845072,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 164,
+      "elevation_difference": 15.6,
+      "moving_time": 164,
+      "split": 9,
+      "average_speed": 9.81,
+      "average_grade_adjusted_speed": 10.43,
+      "average_heartrate": 161.58536585365854,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.8,
+      "elapsed_time": 124,
+      "elevation_difference": -12.6,
+      "moving_time": 124,
+      "split": 10,
+      "average_speed": 12.93,
+      "average_grade_adjusted_speed": 12.86,
+      "average_heartrate": 163.6290322580645,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.9,
+      "elapsed_time": 131,
+      "elevation_difference": -0.4,
+      "moving_time": 131,
+      "split": 11,
+      "average_speed": 12.34,
+      "average_grade_adjusted_speed": 12.34,
+      "average_heartrate": 166.03053435114504,
+      "pace_zone": 0
+    },
+    {
+      "distance": 890.6,
+      "elapsed_time": 174,
+      "elevation_difference": -2.6,
+      "moving_time": 125,
+      "split": 12,
+      "average_speed": 7.12,
+      "average_grade_adjusted_speed": 7.11,
+      "average_heartrate": 147.632,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 54867373734,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 15416477311,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "resource_state": 1
+      },
+      "elapsed_time": 1733,
+      "moving_time": 1734,
+      "start_date": "2025-08-11T01:10:25Z",
+      "start_date_local": "2025-08-10T21:10:25Z",
+      "distance": 18604.3,
+      "average_speed": 10.73,
+      "max_speed": 18.48,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 1733,
+      "total_elevation_gain": 147.4,
+      "average_cadence": 81.4,
+      "device_watts": true,
+      "average_watts": 229.9,
+      "average_heartrate": 152.4,
+      "max_heartrate": 179.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "d0b99b55-2337-40e0-83cb-d4da388dc606",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/x9tqtSJ-QBECPoL5UFTvrro2vccCkZ2Mn5SY5UWyi6g-768x480.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/x9tqtSJ-QBECPoL5UFTvrro2vccCkZ2Mn5SY5UWyi6g-128x80.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 2
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "0229785f27060ab41e47b0ab7424e110efb58741",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}
