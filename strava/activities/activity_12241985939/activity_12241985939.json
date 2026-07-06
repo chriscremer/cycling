@@ -1,0 +1,5054 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "id_str": "9693467",
+    "resource_state": 1
+  },
+  "name": "Afternoon Run",
+  "distance": 10035.3,
+  "moving_time": 2823,
+  "elapsed_time": 2857,
+  "total_elevation_gain": 35.6,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": 0,
+  "device_name": "Strava App",
+  "id": 12241985939,
+  "id_str": "12241985939",
+  "start_date": "2024-08-25T19:25:16Z",
+  "start_date_local": "2024-08-25T15:25:16Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -14400.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 8,
+  "kudos_count": 13,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a12241985939",
+    "polyline": "qhoiG~qqcNTKLMHCFIFCDKNCTKDE|@[HIZWp@c@h@s@BQ?YSsBI_@Co@[c@CKMOMEMAYJOEO?KBGCSHED_@H[TEBGASP[C_A^QHI@o@`@Uh@Mv@C^Fd@?\\JZDDBRJRFB@P\\bACDGGEHA@HFh@?j@Kb@OLI`@AdA_@b@EREh@[PS\\S\\a@PWFQ@SG_@@UCYQ_AIw@a@u@MEOQUFECG@CDYHEDGESDOFY@[TI?M@KFU?KFI?EFKDIAm@P[Tc@j@M\\Gx@FTB\\CVP^@LFZLTF@JXHH?VE?EB?HXJDBd@Cr@O\\C`A]HIZIJGRIJ@TKFE\\]VKn@u@J]AYEU?c@Iu@Uu@AQCGIYCGQKS@IC[SUAIL_@@CBGAG@QNG?]Li@HI?SDGDKAQLE?QLK@EDOFCF_@^O`@Q~@@d@FTGN?LDDBPJNJZ@FNLBHLJLVCLF@HHFCFH^Lh@Gd@Sh@MFGTKD?FEPCLIF?LCb@YNOVOd@a@V_@FYCm@@QAWSaAGk@[u@KMOBEGG@QGE@KAC@UES?SHM?MHE?KDONQ@MAQHYBe@VIJe@H_@RCFOL_@|@G`AF\\@^Th@@TDPDBNf@X^AABEDDF@@A?FJ@VHj@CTELIL@LEVELKRENOFADENAFGf@ULSPMf@e@X]DMFc@ImACYKWAUGSC[M[A@MKI?WSEFG?i@ASCWDo@TCDK@UNQDW@SJG?m@Pe@TYXOZQh@I`@?FFj@Nz@@PFPFHNl@DAJFP^LJHJFDLATDZC\\QhA]PQn@IBGREFILGRSr@g@Z[HOB_@EmAc@cCM]IGQAMKEAKKWGK@KAa@LM@IF]HMLQFu@JOL[HMF]HQJKJU\\Q^Qn@A\\DN@TDF?`@JFD`@D@LRJBBHRb@PT@LHBNN^Bb@CPQLADEHCH?RMh@Mv@YJIHKPKFIZQNQDAV[J[BEI{AUqASo@GKGEW_@a@OODUAi@H_@NUFUPWDG?WBMFYDKH]FUJSPY^Up@Ej@BJ@^DL?PDZX|@@@D@HXLNDRPHLCHNHBJAPH`@?b@W\\KHGZERIFGNCZOVSNQLGPQTMTUVg@@GAWBQEO?UWuAAa@M[OKKKKEOUQCABMKQIUFULGFW@]LOHI@IHKACBqBh@i@j@ORKTMd@Gl@F\\?ZFHNdALVFHLb@NJPHBHDDFGD@FJFBj@@LERSN?PKL?JGRCHIXCHKVI^[X]r@a@Ze@FUSkCOkAQYIGWKOQAGMCEGOC]HE?_@TSBKFE?[PWJQBIFQ@UDm@TQHOPGB[d@K^KRCRC\\@RFHDr@DNPZNb@d@x@PLL?VL^DH?HCTQJAp@Yx@Sf@[FANOZSt@u@Xk@@MIqAQoA?a@OQKa@EG_A_@IAMDWDu@XUDYNg@H}@Ry@\\a@f@OHCNKRETE`@?|@DPD`@Nd@P^V\\Th@PLB@LEJJFBJEJ?FBNE^OTQRIN?NEfAe@LOPK\\_@PIDGLINSBMJKFa@Eq@CIIeAEQGm@GQU]I?]U]Ok@J[L]HULM@EF{@RQ@kAb@MH[`@]r@Kb@CdAZ~AJPNJDRPPJZNNV?JHh@BVOXGBEn@SLAVOTEF?\\UDIFALODK~@o@RWJY?c@MeAM_BEOQc@IEY][OEEK?IDS@g@NED]Fm@Xc@@UNOBk@RULKJOTMLQb@IJAHKb@@FCR?\\Lz@Zz@JHHRj@t@F@HCRHHALJF@l@]`@Op@Ml@ORMVWJCBIFG`@W^c@R_@@y@Mo@Cy@CMEG?]EOQYQKW]OI_@Ba@Ly@JQHs@FQJ",
+    "resource_state": 3,
+    "summary_polyline": "qhoiG~qqcNl@]TYhBq@vAeAh@s@Bk@SsBI_@Co@_@o@[Ug@Hs@EwBbA[C{Aj@o@`@Uh@QvAFbATt@RV@P\\bAQFFHh@?~Bg@dA_@v@KxAcA\\a@Xi@@SIoA[wBa@u@]Wc@Dc@TeAH[Ty@Hg@Tw@N_A`AM\\Gx@FT?t@P^Hh@j@z@?VKB?HXJj@?pAShDmAd@c@VKn@u@J]QiCe@iBUS]A[SUAILk@B_A^{ARu@\\y@t@O`@Q~@@d@FTG\\b@jANL^l@CL`A^h@GpDmAjAy@|@aAFYA_A]eC[u@KMOB_@M_ACa@Ho@^kALo@b@e@H_@RST_@|@G`AH|@Th@Ff@DBNf@V\\BENDb@RbC]~BiA`BeBLq@ImA]wBM[q@]MFuA?uAl@i@FoBr@YXOZ[rAXxBNZNl@PDP^^\\~@?fBo@PQn@Il@_@fA{@d@k@B_@EmAc@cCM]sAk@gANgAf@u@JOLyAf@a@h@Q^Qn@A\\Ll@?`@JFD`@^XVl@Rb@XRbA?PQ|CaAjA}@l@o@Na@I{Ai@aCg@q@a@OoALkAh@w@HgBj@m@p@Up@Ej@PfBX|@FBVh@DR^DRR~@FnDwArBcBVg@Bq@_@}CM[g@]OUS?_@Us@\\yAd@KAuBl@y@~@Yz@Gl@Fx@VnAb@dAj@d@FGTPj@@LERSN?bBe@`Aq@X]r@a@b@{@c@wEQYa@Se@e@s@DyB~@qBh@i@^[d@Wr@Gp@T`BfAxBPLnAR^UvBo@zAaAt@u@Xk@@M[aD?a@OQQi@_A_@o@HeBn@_Dz@q@p@[zA?|@ZxA~@fBPLPCRNn@Gt@a@r@OfAe@|@{@d@[^m@Fa@SaCUqAU]I?{@e@k@JcBn@mATkAb@i@j@]r@Kb@CdAZ~AZ\\DRl@|@V?t@LjCcA\\Ej@a@R[~@o@^q@?c@a@uDQc@c@c@a@Ui@FyBv@c@@qAf@a@Xy@rAMl@Ax@Lz@Zz@`ArAn@DTLl@]`Cm@bA{@`@Wr@cA@y@Mo@Cy@Is@Wi@i@i@OI_@BaDj@QJ"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    43.664897941052914,
+    -79.39375933259726
+  ],
+  "end_latlng": [
+    43.66497119888663,
+    -79.39133000560105
+  ],
+  "average_speed": 3.555,
+  "max_speed": 7.056,
+  "has_heartrate": true,
+  "average_heartrate": 175.1,
+  "max_heartrate": 188.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 111.6,
+  "elev_low": 108.4,
+  "upload_id": 13050497244,
+  "upload_id_str": "13050497244",
+  "external_id": "F7CC0E6D-D1A6-4712-B359-A95B13A0C5F7-activity.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 170.0,
+  "description": null,
+  "calories": 926.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3262883197972069164,
+      "resource_state": 2,
+      "name": "Queen's Park",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 210,
+      "moving_time": 197,
+      "start_date": "2024-08-25T19:25:16Z",
+      "start_date_local": "2024-08-25T15:25:16Z",
+      "distance": 781.21,
+      "start_index": 0,
+      "end_index": 200,
+      "device_watts": false,
+      "average_heartrate": 147.8,
+      "max_heartrate": 173.0,
+      "segment": {
+        "id": 729241,
+        "resource_state": 2,
+        "name": "Queen's Park",
+        "activity_type": "Run",
+        "distance": 781.21,
+        "average_grade": 0.1,
+        "maximum_grade": 4.0,
+        "elevation_high": 116.4,
+        "elevation_low": 114.2,
+        "start_latlng": [
+          43.66514587774873,
+          -79.39365388825536
+        ],
+        "end_latlng": [
+          43.66514797322452,
+          -79.3937398865819
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": true
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197968946988,
+      "resource_state": 2,
+      "name": "Wellesley St Whisk",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 34,
+      "moving_time": 34,
+      "start_date": "2024-08-25T19:26:13Z",
+      "start_date_local": "2024-08-25T15:26:13Z",
+      "distance": 157.4,
+      "start_index": 47,
+      "end_index": 81,
+      "device_watts": false,
+      "average_heartrate": 146.0,
+      "max_heartrate": 155.0,
+      "segment": {
+        "id": 20791423,
+        "resource_state": 2,
+        "name": "Wellesley St Whisk",
+        "activity_type": "Run",
+        "distance": 157.4,
+        "average_grade": -0.4,
+        "maximum_grade": 4.5,
+        "elevation_high": 180.4,
+        "elevation_low": 178.2,
+        "start_latlng": [
+          43.663226,
+          -79.392662
+        ],
+        "end_latlng": [
+          43.663598,
+          -79.390795
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197969073964,
+      "resource_state": 2,
+      "name": "Liberal/NDP/PC - The Queen's Park Triple Scoop",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 621,
+      "moving_time": 615,
+      "start_date": "2024-08-25T19:26:18Z",
+      "start_date_local": "2024-08-25T15:26:18Z",
+      "distance": 2628.5,
+      "start_index": 52,
+      "end_index": 673,
+      "device_watts": false,
+      "average_heartrate": 171.8,
+      "max_heartrate": 180.0,
+      "segment": {
+        "id": 17811362,
+        "resource_state": 2,
+        "name": "Liberal/NDP/PC - The Queen's Park Triple Scoop",
+        "activity_type": "Run",
+        "distance": 2628.5,
+        "average_grade": -0.0,
+        "maximum_grade": 2.0,
+        "elevation_high": 107.2,
+        "elevation_low": 105.4,
+        "start_latlng": [
+          43.663259,
+          -79.392388
+        ],
+        "end_latlng": [
+          43.663294,
+          -79.392563
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197969668908,
+      "resource_state": 2,
+      "name": "queens park SE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 199,
+      "moving_time": 197,
+      "start_date": "2024-08-25T19:26:52Z",
+      "start_date_local": "2024-08-25T15:26:52Z",
+      "distance": 814.3,
+      "start_index": 86,
+      "end_index": 285,
+      "device_watts": false,
+      "average_heartrate": 169.9,
+      "max_heartrate": 180.0,
+      "segment": {
+        "id": 7373296,
+        "resource_state": 2,
+        "name": "queens park SE corner",
+        "activity_type": "Run",
+        "distance": 814.3,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66397,
+          -79.390982
+        ],
+        "end_latlng": [
+          43.664006,
+          -79.390975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197969421100,
+      "resource_state": 2,
+      "name": "QP E Side",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 64,
+      "moving_time": 64,
+      "start_date": "2024-08-25T19:26:58Z",
+      "start_date_local": "2024-08-25T15:26:58Z",
+      "distance": 242.9,
+      "start_index": 92,
+      "end_index": 156,
+      "device_watts": false,
+      "average_heartrate": 162.1,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 16464579,
+        "resource_state": 2,
+        "name": "QP E Side",
+        "activity_type": "Run",
+        "distance": 242.9,
+        "average_grade": 1.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 146.8,
+        "elevation_low": 143.6,
+        "start_latlng": [
+          43.664098,
+          -79.391057
+        ],
+        "end_latlng": [
+          43.665912,
+          -79.39245
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197970723628,
+      "resource_state": 2,
+      "name": "queens park NE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 198,
+      "moving_time": 196,
+      "start_date": "2024-08-25T19:27:51Z",
+      "start_date_local": "2024-08-25T15:27:51Z",
+      "distance": 826.5,
+      "start_index": 145,
+      "end_index": 343,
+      "device_watts": false,
+      "average_heartrate": 174.5,
+      "max_heartrate": 180.0,
+      "segment": {
+        "id": 7320571,
+        "resource_state": 2,
+        "name": "queens park NE corner",
+        "activity_type": "Run",
+        "distance": 826.5,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66582,
+          -79.392
+        ],
+        "end_latlng": [
+          43.665833,
+          -79.39198
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197972361004,
+      "resource_state": 2,
+      "name": "QP 1 CC",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 92,
+      "moving_time": 90,
+      "start_date": "2024-08-25T19:27:57Z",
+      "start_date_local": "2024-08-25T15:27:57Z",
+      "distance": 421.7,
+      "start_index": 151,
+      "end_index": 243,
+      "device_watts": false,
+      "average_heartrate": 172.3,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 16464546,
+        "resource_state": 2,
+        "name": "QP 1 CC",
+        "activity_type": "Run",
+        "distance": 421.7,
+        "average_grade": -0.5,
+        "maximum_grade": 1.0,
+        "elevation_high": 145.8,
+        "elevation_low": 142.8,
+        "start_latlng": [
+          43.666026,
+          -79.392202
+        ],
+        "end_latlng": [
+          43.663296,
+          -79.39267
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197972490028,
+      "resource_state": 2,
+      "name": "Queen's Park",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 201,
+      "moving_time": 198,
+      "start_date": "2024-08-25T19:28:46Z",
+      "start_date_local": "2024-08-25T15:28:46Z",
+      "distance": 781.21,
+      "start_index": 200,
+      "end_index": 401,
+      "device_watts": false,
+      "average_heartrate": 176.2,
+      "max_heartrate": 180.0,
+      "segment": {
+        "id": 729241,
+        "resource_state": 2,
+        "name": "Queen's Park",
+        "activity_type": "Run",
+        "distance": 781.21,
+        "average_grade": 0.1,
+        "maximum_grade": 4.0,
+        "elevation_high": 116.4,
+        "elevation_low": 114.2,
+        "start_latlng": [
+          43.66514587774873,
+          -79.39365388825536
+        ],
+        "end_latlng": [
+          43.66514797322452,
+          -79.3937398865819
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": true
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197970701100,
+      "resource_state": 2,
+      "name": "Wellesley St Whisk",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 31,
+      "moving_time": 31,
+      "start_date": "2024-08-25T19:29:30Z",
+      "start_date_local": "2024-08-25T15:29:30Z",
+      "distance": 157.4,
+      "start_index": 244,
+      "end_index": 275,
+      "device_watts": false,
+      "average_heartrate": 178.2,
+      "max_heartrate": 180.0,
+      "segment": {
+        "id": 20791423,
+        "resource_state": 2,
+        "name": "Wellesley St Whisk",
+        "activity_type": "Run",
+        "distance": 157.4,
+        "average_grade": -0.4,
+        "maximum_grade": 4.5,
+        "elevation_high": 180.4,
+        "elevation_low": 178.2,
+        "start_latlng": [
+          43.663226,
+          -79.392662
+        ],
+        "end_latlng": [
+          43.663598,
+          -79.390795
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197970248492,
+      "resource_state": 2,
+      "name": "queens park SE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 211,
+      "moving_time": 208,
+      "start_date": "2024-08-25T19:30:11Z",
+      "start_date_local": "2024-08-25T15:30:11Z",
+      "distance": 814.3,
+      "start_index": 285,
+      "end_index": 496,
+      "device_watts": false,
+      "average_heartrate": 175.7,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 7373296,
+        "resource_state": 2,
+        "name": "queens park SE corner",
+        "activity_type": "Run",
+        "distance": 814.3,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66397,
+          -79.390982
+        ],
+        "end_latlng": [
+          43.664006,
+          -79.390975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197968796460,
+      "resource_state": 2,
+      "name": "QP E Side",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 67,
+      "moving_time": 67,
+      "start_date": "2024-08-25T19:30:14Z",
+      "start_date_local": "2024-08-25T15:30:14Z",
+      "distance": 242.9,
+      "start_index": 288,
+      "end_index": 355,
+      "device_watts": false,
+      "average_heartrate": 176.1,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 16464579,
+        "resource_state": 2,
+        "name": "QP E Side",
+        "activity_type": "Run",
+        "distance": 242.9,
+        "average_grade": 1.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 146.8,
+        "elevation_low": 143.6,
+        "start_latlng": [
+          43.664098,
+          -79.391057
+        ],
+        "end_latlng": [
+          43.665912,
+          -79.39245
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197971081004,
+      "resource_state": 2,
+      "name": "queens park NE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 215,
+      "moving_time": 212,
+      "start_date": "2024-08-25T19:31:09Z",
+      "start_date_local": "2024-08-25T15:31:09Z",
+      "distance": 826.5,
+      "start_index": 343,
+      "end_index": 558,
+      "device_watts": false,
+      "average_heartrate": 175.0,
+      "max_heartrate": 177.0,
+      "segment": {
+        "id": 7320571,
+        "resource_state": 2,
+        "name": "queens park NE corner",
+        "activity_type": "Run",
+        "distance": 826.5,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66582,
+          -79.392
+        ],
+        "end_latlng": [
+          43.665833,
+          -79.39198
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197970834220,
+      "resource_state": 2,
+      "name": "QP 1 CC",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 101,
+      "moving_time": 98,
+      "start_date": "2024-08-25T19:31:16Z",
+      "start_date_local": "2024-08-25T15:31:16Z",
+      "distance": 421.7,
+      "start_index": 350,
+      "end_index": 451,
+      "device_watts": false,
+      "average_heartrate": 175.4,
+      "max_heartrate": 177.0,
+      "segment": {
+        "id": 16464546,
+        "resource_state": 2,
+        "name": "QP 1 CC",
+        "activity_type": "Run",
+        "distance": 421.7,
+        "average_grade": -0.5,
+        "maximum_grade": 1.0,
+        "elevation_high": 145.8,
+        "elevation_low": 142.8,
+        "start_latlng": [
+          43.666026,
+          -79.392202
+        ],
+        "end_latlng": [
+          43.663296,
+          -79.39267
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197971264300,
+      "resource_state": 2,
+      "name": "Queen's Park",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 214,
+      "moving_time": 213,
+      "start_date": "2024-08-25T19:32:07Z",
+      "start_date_local": "2024-08-25T15:32:07Z",
+      "distance": 781.21,
+      "start_index": 401,
+      "end_index": 615,
+      "device_watts": false,
+      "average_heartrate": 174.7,
+      "max_heartrate": 177.0,
+      "segment": {
+        "id": 729241,
+        "resource_state": 2,
+        "name": "Queen's Park",
+        "activity_type": "Run",
+        "distance": 781.21,
+        "average_grade": 0.1,
+        "maximum_grade": 4.0,
+        "elevation_high": 116.4,
+        "elevation_low": 114.2,
+        "start_latlng": [
+          43.66514587774873,
+          -79.39365388825536
+        ],
+        "end_latlng": [
+          43.66514797322452,
+          -79.3937398865819
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": true
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197972099884,
+      "resource_state": 2,
+      "name": "Wellesley St Whisk",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 35,
+      "moving_time": 35,
+      "start_date": "2024-08-25T19:32:57Z",
+      "start_date_local": "2024-08-25T15:32:57Z",
+      "distance": 157.4,
+      "start_index": 451,
+      "end_index": 486,
+      "device_watts": false,
+      "average_heartrate": 175.7,
+      "max_heartrate": 177.0,
+      "segment": {
+        "id": 20791423,
+        "resource_state": 2,
+        "name": "Wellesley St Whisk",
+        "activity_type": "Run",
+        "distance": 157.4,
+        "average_grade": -0.4,
+        "maximum_grade": 4.5,
+        "elevation_high": 180.4,
+        "elevation_low": 178.2,
+        "start_latlng": [
+          43.663226,
+          -79.392662
+        ],
+        "end_latlng": [
+          43.663598,
+          -79.390795
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197967724332,
+      "resource_state": 2,
+      "name": "queens park SE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 222,
+      "moving_time": 221,
+      "start_date": "2024-08-25T19:33:42Z",
+      "start_date_local": "2024-08-25T15:33:42Z",
+      "distance": 814.3,
+      "start_index": 496,
+      "end_index": 718,
+      "device_watts": false,
+      "average_heartrate": 173.9,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 7373296,
+        "resource_state": 2,
+        "name": "queens park SE corner",
+        "activity_type": "Run",
+        "distance": 814.3,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66397,
+          -79.390982
+        ],
+        "end_latlng": [
+          43.664006,
+          -79.390975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197970625324,
+      "resource_state": 2,
+      "name": "QP E Side",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 72,
+      "moving_time": 72,
+      "start_date": "2024-08-25T19:33:44Z",
+      "start_date_local": "2024-08-25T15:33:44Z",
+      "distance": 242.9,
+      "start_index": 498,
+      "end_index": 570,
+      "device_watts": false,
+      "average_heartrate": 174.0,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 16464579,
+        "resource_state": 2,
+        "name": "QP E Side",
+        "activity_type": "Run",
+        "distance": 242.9,
+        "average_grade": 1.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 146.8,
+        "elevation_low": 143.6,
+        "start_latlng": [
+          43.664098,
+          -79.391057
+        ],
+        "end_latlng": [
+          43.665912,
+          -79.39245
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197966908204,
+      "resource_state": 2,
+      "name": "queens park NE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 222,
+      "moving_time": 221,
+      "start_date": "2024-08-25T19:34:44Z",
+      "start_date_local": "2024-08-25T15:34:44Z",
+      "distance": 826.5,
+      "start_index": 558,
+      "end_index": 780,
+      "device_watts": false,
+      "average_heartrate": 174.0,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 7320571,
+        "resource_state": 2,
+        "name": "queens park NE corner",
+        "activity_type": "Run",
+        "distance": 826.5,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66582,
+          -79.392
+        ],
+        "end_latlng": [
+          43.665833,
+          -79.39198
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197972063020,
+      "resource_state": 2,
+      "name": "QP 1 CC",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 104,
+      "moving_time": 103,
+      "start_date": "2024-08-25T19:34:52Z",
+      "start_date_local": "2024-08-25T15:34:52Z",
+      "distance": 421.7,
+      "start_index": 566,
+      "end_index": 670,
+      "device_watts": false,
+      "average_heartrate": 173.8,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 16464546,
+        "resource_state": 2,
+        "name": "QP 1 CC",
+        "activity_type": "Run",
+        "distance": 421.7,
+        "average_grade": -0.5,
+        "maximum_grade": 1.0,
+        "elevation_high": 145.8,
+        "elevation_low": 142.8,
+        "start_latlng": [
+          43.666026,
+          -79.392202
+        ],
+        "end_latlng": [
+          43.663296,
+          -79.39267
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965191980,
+      "resource_state": 2,
+      "name": "Queen's Park",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 221,
+      "moving_time": 218,
+      "start_date": "2024-08-25T19:35:41Z",
+      "start_date_local": "2024-08-25T15:35:41Z",
+      "distance": 781.21,
+      "start_index": 615,
+      "end_index": 836,
+      "device_watts": false,
+      "average_heartrate": 174.6,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 729241,
+        "resource_state": 2,
+        "name": "Queen's Park",
+        "activity_type": "Run",
+        "distance": 781.21,
+        "average_grade": 0.1,
+        "maximum_grade": 4.0,
+        "elevation_high": 116.4,
+        "elevation_low": 114.2,
+        "start_latlng": [
+          43.66514587774873,
+          -79.39365388825536
+        ],
+        "end_latlng": [
+          43.66514797322452,
+          -79.3937398865819
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": true
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197966517036,
+      "resource_state": 2,
+      "name": "Wellesley St Whisk",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 34,
+      "moving_time": 34,
+      "start_date": "2024-08-25T19:36:38Z",
+      "start_date_local": "2024-08-25T15:36:38Z",
+      "distance": 157.4,
+      "start_index": 672,
+      "end_index": 706,
+      "device_watts": false,
+      "average_heartrate": 173.7,
+      "max_heartrate": 174.0,
+      "segment": {
+        "id": 20791423,
+        "resource_state": 2,
+        "name": "Wellesley St Whisk",
+        "activity_type": "Run",
+        "distance": 157.4,
+        "average_grade": -0.4,
+        "maximum_grade": 4.5,
+        "elevation_high": 180.4,
+        "elevation_low": 178.2,
+        "start_latlng": [
+          43.663226,
+          -79.392662
+        ],
+        "end_latlng": [
+          43.663598,
+          -79.390795
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965260588,
+      "resource_state": 2,
+      "name": "Liberal/NDP/PC - The Queen's Park Triple Scoop",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 683,
+      "moving_time": 671,
+      "start_date": "2024-08-25T19:36:42Z",
+      "start_date_local": "2024-08-25T15:36:42Z",
+      "distance": 2628.5,
+      "start_index": 676,
+      "end_index": 1359,
+      "device_watts": false,
+      "average_heartrate": 175.0,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 17811362,
+        "resource_state": 2,
+        "name": "Liberal/NDP/PC - The Queen's Park Triple Scoop",
+        "activity_type": "Run",
+        "distance": 2628.5,
+        "average_grade": -0.0,
+        "maximum_grade": 2.0,
+        "elevation_high": 107.2,
+        "elevation_low": 105.4,
+        "start_latlng": [
+          43.663259,
+          -79.392388
+        ],
+        "end_latlng": [
+          43.663294,
+          -79.392563
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965034284,
+      "resource_state": 2,
+      "name": "queens park SE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 226,
+      "moving_time": 221,
+      "start_date": "2024-08-25T19:37:21Z",
+      "start_date_local": "2024-08-25T15:37:21Z",
+      "distance": 814.3,
+      "start_index": 715,
+      "end_index": 941,
+      "device_watts": false,
+      "average_heartrate": 175.5,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 7373296,
+        "resource_state": 2,
+        "name": "queens park SE corner",
+        "activity_type": "Run",
+        "distance": 814.3,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66397,
+          -79.390982
+        ],
+        "end_latlng": [
+          43.664006,
+          -79.390975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197964512044,
+      "resource_state": 2,
+      "name": "QP E Side",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 72,
+      "moving_time": 72,
+      "start_date": "2024-08-25T19:37:26Z",
+      "start_date_local": "2024-08-25T15:37:26Z",
+      "distance": 242.9,
+      "start_index": 720,
+      "end_index": 792,
+      "device_watts": false,
+      "average_heartrate": 174.7,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 16464579,
+        "resource_state": 2,
+        "name": "QP E Side",
+        "activity_type": "Run",
+        "distance": 242.9,
+        "average_grade": 1.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 146.8,
+        "elevation_low": 143.6,
+        "start_latlng": [
+          43.664098,
+          -79.391057
+        ],
+        "end_latlng": [
+          43.665912,
+          -79.39245
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197964826412,
+      "resource_state": 2,
+      "name": "queens park NE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 225,
+      "moving_time": 220,
+      "start_date": "2024-08-25T19:38:26Z",
+      "start_date_local": "2024-08-25T15:38:26Z",
+      "distance": 826.5,
+      "start_index": 780,
+      "end_index": 1005,
+      "device_watts": false,
+      "average_heartrate": 175.4,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 7320571,
+        "resource_state": 2,
+        "name": "queens park NE corner",
+        "activity_type": "Run",
+        "distance": 826.5,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66582,
+          -79.392
+        ],
+        "end_latlng": [
+          43.665833,
+          -79.39198
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197967649580,
+      "resource_state": 2,
+      "name": "QP 1 CC",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 106,
+      "moving_time": 103,
+      "start_date": "2024-08-25T19:38:33Z",
+      "start_date_local": "2024-08-25T15:38:33Z",
+      "distance": 421.7,
+      "start_index": 787,
+      "end_index": 893,
+      "device_watts": false,
+      "average_heartrate": 176.1,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 16464546,
+        "resource_state": 2,
+        "name": "QP 1 CC",
+        "activity_type": "Run",
+        "distance": 421.7,
+        "average_grade": -0.5,
+        "maximum_grade": 1.0,
+        "elevation_high": 145.8,
+        "elevation_low": 142.8,
+        "start_latlng": [
+          43.666026,
+          -79.392202
+        ],
+        "end_latlng": [
+          43.663296,
+          -79.39267
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197966207788,
+      "resource_state": 2,
+      "name": "Queen's Park",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 230,
+      "moving_time": 226,
+      "start_date": "2024-08-25T19:39:22Z",
+      "start_date_local": "2024-08-25T15:39:22Z",
+      "distance": 781.21,
+      "start_index": 836,
+      "end_index": 1066,
+      "device_watts": false,
+      "average_heartrate": 174.8,
+      "max_heartrate": 177.0,
+      "segment": {
+        "id": 729241,
+        "resource_state": 2,
+        "name": "Queen's Park",
+        "activity_type": "Run",
+        "distance": 781.21,
+        "average_grade": 0.1,
+        "maximum_grade": 4.0,
+        "elevation_high": 116.4,
+        "elevation_low": 114.2,
+        "start_latlng": [
+          43.66514587774873,
+          -79.39365388825536
+        ],
+        "end_latlng": [
+          43.66514797322452,
+          -79.3937398865819
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": true
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197964395308,
+      "resource_state": 2,
+      "name": "Wellesley St Whisk",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 37,
+      "moving_time": 35,
+      "start_date": "2024-08-25T19:40:19Z",
+      "start_date_local": "2024-08-25T15:40:19Z",
+      "distance": 157.4,
+      "start_index": 893,
+      "end_index": 930,
+      "device_watts": false,
+      "average_heartrate": 175.5,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 20791423,
+        "resource_state": 2,
+        "name": "Wellesley St Whisk",
+        "activity_type": "Run",
+        "distance": 157.4,
+        "average_grade": -0.4,
+        "maximum_grade": 4.5,
+        "elevation_high": 180.4,
+        "elevation_low": 178.2,
+        "start_latlng": [
+          43.663226,
+          -79.392662
+        ],
+        "end_latlng": [
+          43.663598,
+          -79.390795
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197967670060,
+      "resource_state": 2,
+      "name": "queens park SE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 239,
+      "moving_time": 236,
+      "start_date": "2024-08-25T19:41:03Z",
+      "start_date_local": "2024-08-25T15:41:03Z",
+      "distance": 814.3,
+      "start_index": 937,
+      "end_index": 1176,
+      "device_watts": false,
+      "average_heartrate": 173.7,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 7373296,
+        "resource_state": 2,
+        "name": "queens park SE corner",
+        "activity_type": "Run",
+        "distance": 814.3,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66397,
+          -79.390982
+        ],
+        "end_latlng": [
+          43.664006,
+          -79.390975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197966836524,
+      "resource_state": 2,
+      "name": "QP E Side",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 77,
+      "moving_time": 76,
+      "start_date": "2024-08-25T19:41:09Z",
+      "start_date_local": "2024-08-25T15:41:09Z",
+      "distance": 242.9,
+      "start_index": 943,
+      "end_index": 1020,
+      "device_watts": false,
+      "average_heartrate": 174.2,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 16464579,
+        "resource_state": 2,
+        "name": "QP E Side",
+        "activity_type": "Run",
+        "distance": 242.9,
+        "average_grade": 1.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 146.8,
+        "elevation_low": 143.6,
+        "start_latlng": [
+          43.664098,
+          -79.391057
+        ],
+        "end_latlng": [
+          43.665912,
+          -79.39245
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197966745388,
+      "resource_state": 2,
+      "name": "queens park NE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 233,
+      "moving_time": 230,
+      "start_date": "2024-08-25T19:42:12Z",
+      "start_date_local": "2024-08-25T15:42:12Z",
+      "distance": 826.5,
+      "start_index": 1006,
+      "end_index": 1239,
+      "device_watts": false,
+      "average_heartrate": 173.9,
+      "max_heartrate": 177.0,
+      "segment": {
+        "id": 7320571,
+        "resource_state": 2,
+        "name": "queens park NE corner",
+        "activity_type": "Run",
+        "distance": 826.5,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66582,
+          -79.392
+        ],
+        "end_latlng": [
+          43.665833,
+          -79.39198
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965016876,
+      "resource_state": 2,
+      "name": "QP 1 CC",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 114,
+      "moving_time": 111,
+      "start_date": "2024-08-25T19:42:19Z",
+      "start_date_local": "2024-08-25T15:42:19Z",
+      "distance": 421.7,
+      "start_index": 1013,
+      "end_index": 1127,
+      "device_watts": false,
+      "average_heartrate": 173.2,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 16464546,
+        "resource_state": 2,
+        "name": "QP 1 CC",
+        "activity_type": "Run",
+        "distance": 421.7,
+        "average_grade": -0.5,
+        "maximum_grade": 1.0,
+        "elevation_high": 145.8,
+        "elevation_low": 142.8,
+        "start_latlng": [
+          43.666026,
+          -79.392202
+        ],
+        "end_latlng": [
+          43.663296,
+          -79.39267
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197967713068,
+      "resource_state": 2,
+      "name": "Queen's Park",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 229,
+      "moving_time": 227,
+      "start_date": "2024-08-25T19:43:11Z",
+      "start_date_local": "2024-08-25T15:43:11Z",
+      "distance": 781.21,
+      "start_index": 1065,
+      "end_index": 1294,
+      "device_watts": false,
+      "average_heartrate": 174.8,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 729241,
+        "resource_state": 2,
+        "name": "Queen's Park",
+        "activity_type": "Run",
+        "distance": 781.21,
+        "average_grade": 0.1,
+        "maximum_grade": 4.0,
+        "elevation_high": 116.4,
+        "elevation_low": 114.2,
+        "start_latlng": [
+          43.66514587774873,
+          -79.39365388825536
+        ],
+        "end_latlng": [
+          43.66514797322452,
+          -79.3937398865819
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": true
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197966638892,
+      "resource_state": 2,
+      "name": "Wellesley St Whisk",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 36,
+      "moving_time": 36,
+      "start_date": "2024-08-25T19:44:13Z",
+      "start_date_local": "2024-08-25T15:44:13Z",
+      "distance": 157.4,
+      "start_index": 1127,
+      "end_index": 1163,
+      "device_watts": false,
+      "average_heartrate": 173.8,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 20791423,
+        "resource_state": 2,
+        "name": "Wellesley St Whisk",
+        "activity_type": "Run",
+        "distance": 157.4,
+        "average_grade": -0.4,
+        "maximum_grade": 4.5,
+        "elevation_high": 180.4,
+        "elevation_low": 178.2,
+        "start_latlng": [
+          43.663226,
+          -79.392662
+        ],
+        "end_latlng": [
+          43.663598,
+          -79.390795
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197967235884,
+      "resource_state": 2,
+      "name": "queens park SE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 234,
+      "moving_time": 228,
+      "start_date": "2024-08-25T19:44:59Z",
+      "start_date_local": "2024-08-25T15:44:59Z",
+      "distance": 814.3,
+      "start_index": 1173,
+      "end_index": 1407,
+      "device_watts": false,
+      "average_heartrate": 176.0,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 7373296,
+        "resource_state": 2,
+        "name": "queens park SE corner",
+        "activity_type": "Run",
+        "distance": 814.3,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66397,
+          -79.390982
+        ],
+        "end_latlng": [
+          43.664006,
+          -79.390975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197967793964,
+      "resource_state": 2,
+      "name": "QP E Side",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 73,
+      "moving_time": 73,
+      "start_date": "2024-08-25T19:45:04Z",
+      "start_date_local": "2024-08-25T15:45:04Z",
+      "distance": 242.9,
+      "start_index": 1178,
+      "end_index": 1251,
+      "device_watts": false,
+      "average_heartrate": 175.5,
+      "max_heartrate": 177.0,
+      "segment": {
+        "id": 16464579,
+        "resource_state": 2,
+        "name": "QP E Side",
+        "activity_type": "Run",
+        "distance": 242.9,
+        "average_grade": 1.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 146.8,
+        "elevation_low": 143.6,
+        "start_latlng": [
+          43.664098,
+          -79.391057
+        ],
+        "end_latlng": [
+          43.665912,
+          -79.39245
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965913900,
+      "resource_state": 2,
+      "name": "queens park NE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 236,
+      "moving_time": 230,
+      "start_date": "2024-08-25T19:46:05Z",
+      "start_date_local": "2024-08-25T15:46:05Z",
+      "distance": 826.5,
+      "start_index": 1239,
+      "end_index": 1475,
+      "device_watts": false,
+      "average_heartrate": 175.8,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 7320571,
+        "resource_state": 2,
+        "name": "queens park NE corner",
+        "activity_type": "Run",
+        "distance": 826.5,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66582,
+          -79.392
+        ],
+        "end_latlng": [
+          43.665833,
+          -79.39198
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965024044,
+      "resource_state": 2,
+      "name": "QP 1 CC",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 111,
+      "moving_time": 107,
+      "start_date": "2024-08-25T19:46:12Z",
+      "start_date_local": "2024-08-25T15:46:12Z",
+      "distance": 421.7,
+      "start_index": 1246,
+      "end_index": 1357,
+      "device_watts": false,
+      "average_heartrate": 177.1,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 16464546,
+        "resource_state": 2,
+        "name": "QP 1 CC",
+        "activity_type": "Run",
+        "distance": 421.7,
+        "average_grade": -0.5,
+        "maximum_grade": 1.0,
+        "elevation_high": 145.8,
+        "elevation_low": 142.8,
+        "start_latlng": [
+          43.666026,
+          -79.392202
+        ],
+        "end_latlng": [
+          43.663296,
+          -79.39267
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965230892,
+      "resource_state": 2,
+      "name": "Queen's Park",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 243,
+      "moving_time": 238,
+      "start_date": "2024-08-25T19:47:00Z",
+      "start_date_local": "2024-08-25T15:47:00Z",
+      "distance": 781.21,
+      "start_index": 1294,
+      "end_index": 1537,
+      "device_watts": false,
+      "average_heartrate": 174.8,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 729241,
+        "resource_state": 2,
+        "name": "Queen's Park",
+        "activity_type": "Run",
+        "distance": 781.21,
+        "average_grade": 0.1,
+        "maximum_grade": 4.0,
+        "elevation_high": 116.4,
+        "elevation_low": 114.2,
+        "start_latlng": [
+          43.66514587774873,
+          -79.39365388825536
+        ],
+        "end_latlng": [
+          43.66514797322452,
+          -79.3937398865819
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": true
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197966065452,
+      "resource_state": 2,
+      "name": "Wellesley St Whisk",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 41,
+      "moving_time": 39,
+      "start_date": "2024-08-25T19:48:05Z",
+      "start_date_local": "2024-08-25T15:48:05Z",
+      "distance": 157.4,
+      "start_index": 1359,
+      "end_index": 1400,
+      "device_watts": false,
+      "average_heartrate": 174.4,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 20791423,
+        "resource_state": 2,
+        "name": "Wellesley St Whisk",
+        "activity_type": "Run",
+        "distance": 157.4,
+        "average_grade": -0.4,
+        "maximum_grade": 4.5,
+        "elevation_high": 180.4,
+        "elevation_low": 178.2,
+        "start_latlng": [
+          43.663226,
+          -79.392662
+        ],
+        "end_latlng": [
+          43.663598,
+          -79.390795
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197966149420,
+      "resource_state": 2,
+      "name": "Liberal/NDP/PC - The Queen's Park Triple Scoop",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 721,
+      "moving_time": 715,
+      "start_date": "2024-08-25T19:48:09Z",
+      "start_date_local": "2024-08-25T15:48:09Z",
+      "distance": 2628.5,
+      "start_index": 1363,
+      "end_index": 2084,
+      "device_watts": false,
+      "average_heartrate": 175.3,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 17811362,
+        "resource_state": 2,
+        "name": "Liberal/NDP/PC - The Queen's Park Triple Scoop",
+        "activity_type": "Run",
+        "distance": 2628.5,
+        "average_grade": -0.0,
+        "maximum_grade": 2.0,
+        "elevation_high": 107.2,
+        "elevation_low": 105.4,
+        "start_latlng": [
+          43.663259,
+          -79.392388
+        ],
+        "end_latlng": [
+          43.663294,
+          -79.392563
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197968338732,
+      "resource_state": 2,
+      "name": "queens park SE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 245,
+      "moving_time": 244,
+      "start_date": "2024-08-25T19:48:52Z",
+      "start_date_local": "2024-08-25T15:48:52Z",
+      "distance": 814.3,
+      "start_index": 1406,
+      "end_index": 1651,
+      "device_watts": false,
+      "average_heartrate": 173.9,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 7373296,
+        "resource_state": 2,
+        "name": "queens park SE corner",
+        "activity_type": "Run",
+        "distance": 814.3,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66397,
+          -79.390982
+        ],
+        "end_latlng": [
+          43.664006,
+          -79.390975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197968078636,
+      "resource_state": 2,
+      "name": "QP E Side",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 79,
+      "moving_time": 79,
+      "start_date": "2024-08-25T19:48:57Z",
+      "start_date_local": "2024-08-25T15:48:57Z",
+      "distance": 242.9,
+      "start_index": 1411,
+      "end_index": 1490,
+      "device_watts": false,
+      "average_heartrate": 174.5,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 16464579,
+        "resource_state": 2,
+        "name": "QP E Side",
+        "activity_type": "Run",
+        "distance": 242.9,
+        "average_grade": 1.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 146.8,
+        "elevation_low": 143.6,
+        "start_latlng": [
+          43.664098,
+          -79.391057
+        ],
+        "end_latlng": [
+          43.665912,
+          -79.39245
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965705004,
+      "resource_state": 2,
+      "name": "queens park NE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 243,
+      "moving_time": 242,
+      "start_date": "2024-08-25T19:50:02Z",
+      "start_date_local": "2024-08-25T15:50:02Z",
+      "distance": 826.5,
+      "start_index": 1476,
+      "end_index": 1719,
+      "device_watts": false,
+      "average_heartrate": 174.1,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 7320571,
+        "resource_state": 2,
+        "name": "queens park NE corner",
+        "activity_type": "Run",
+        "distance": 826.5,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66582,
+          -79.392
+        ],
+        "end_latlng": [
+          43.665833,
+          -79.39198
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197966267180,
+      "resource_state": 2,
+      "name": "QP 1 CC",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 118,
+      "moving_time": 117,
+      "start_date": "2024-08-25T19:50:10Z",
+      "start_date_local": "2024-08-25T15:50:10Z",
+      "distance": 421.7,
+      "start_index": 1484,
+      "end_index": 1602,
+      "device_watts": false,
+      "average_heartrate": 173.4,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 16464546,
+        "resource_state": 2,
+        "name": "QP 1 CC",
+        "activity_type": "Run",
+        "distance": 421.7,
+        "average_grade": -0.5,
+        "maximum_grade": 1.0,
+        "elevation_high": 145.8,
+        "elevation_low": 142.8,
+        "start_latlng": [
+          43.666026,
+          -79.392202
+        ],
+        "end_latlng": [
+          43.663296,
+          -79.39267
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965785900,
+      "resource_state": 2,
+      "name": "Queen's Park",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 242,
+      "moving_time": 240,
+      "start_date": "2024-08-25T19:51:03Z",
+      "start_date_local": "2024-08-25T15:51:03Z",
+      "distance": 781.21,
+      "start_index": 1537,
+      "end_index": 1779,
+      "device_watts": false,
+      "average_heartrate": 174.6,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 729241,
+        "resource_state": 2,
+        "name": "Queen's Park",
+        "activity_type": "Run",
+        "distance": 781.21,
+        "average_grade": 0.1,
+        "maximum_grade": 4.0,
+        "elevation_high": 116.4,
+        "elevation_low": 114.2,
+        "start_latlng": [
+          43.66514587774873,
+          -79.39365388825536
+        ],
+        "end_latlng": [
+          43.66514797322452,
+          -79.3937398865819
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": true
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197964822316,
+      "resource_state": 2,
+      "name": "Wellesley St Whisk",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 43,
+      "moving_time": 43,
+      "start_date": "2024-08-25T19:52:08Z",
+      "start_date_local": "2024-08-25T15:52:08Z",
+      "distance": 157.4,
+      "start_index": 1602,
+      "end_index": 1645,
+      "device_watts": false,
+      "average_heartrate": 174.2,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 20791423,
+        "resource_state": 2,
+        "name": "Wellesley St Whisk",
+        "activity_type": "Run",
+        "distance": 157.4,
+        "average_grade": -0.4,
+        "maximum_grade": 4.5,
+        "elevation_high": 180.4,
+        "elevation_low": 178.2,
+        "start_latlng": [
+          43.663226,
+          -79.392662
+        ],
+        "end_latlng": [
+          43.663598,
+          -79.390795
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965236012,
+      "resource_state": 2,
+      "name": "queens park SE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 241,
+      "moving_time": 240,
+      "start_date": "2024-08-25T19:52:57Z",
+      "start_date_local": "2024-08-25T15:52:57Z",
+      "distance": 814.3,
+      "start_index": 1651,
+      "end_index": 1892,
+      "device_watts": false,
+      "average_heartrate": 175.4,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 7373296,
+        "resource_state": 2,
+        "name": "queens park SE corner",
+        "activity_type": "Run",
+        "distance": 814.3,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66397,
+          -79.390982
+        ],
+        "end_latlng": [
+          43.664006,
+          -79.390975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965834028,
+      "resource_state": 2,
+      "name": "QP E Side",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 80,
+      "moving_time": 79,
+      "start_date": "2024-08-25T19:52:59Z",
+      "start_date_local": "2024-08-25T15:52:59Z",
+      "distance": 242.9,
+      "start_index": 1653,
+      "end_index": 1733,
+      "device_watts": false,
+      "average_heartrate": 175.2,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 16464579,
+        "resource_state": 2,
+        "name": "QP E Side",
+        "activity_type": "Run",
+        "distance": 242.9,
+        "average_grade": 1.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 146.8,
+        "elevation_low": 143.6,
+        "start_latlng": [
+          43.664098,
+          -79.391057
+        ],
+        "end_latlng": [
+          43.665912,
+          -79.39245
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197964539692,
+      "resource_state": 2,
+      "name": "queens park NE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 239,
+      "moving_time": 238,
+      "start_date": "2024-08-25T19:54:05Z",
+      "start_date_local": "2024-08-25T15:54:05Z",
+      "distance": 826.5,
+      "start_index": 1719,
+      "end_index": 1958,
+      "device_watts": false,
+      "average_heartrate": 176.0,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 7320571,
+        "resource_state": 2,
+        "name": "queens park NE corner",
+        "activity_type": "Run",
+        "distance": 826.5,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66582,
+          -79.392
+        ],
+        "end_latlng": [
+          43.665833,
+          -79.39198
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197967791916,
+      "resource_state": 2,
+      "name": "QP 1 CC",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 115,
+      "moving_time": 114,
+      "start_date": "2024-08-25T19:54:13Z",
+      "start_date_local": "2024-08-25T15:54:13Z",
+      "distance": 421.7,
+      "start_index": 1727,
+      "end_index": 1842,
+      "device_watts": false,
+      "average_heartrate": 175.4,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 16464546,
+        "resource_state": 2,
+        "name": "QP 1 CC",
+        "activity_type": "Run",
+        "distance": 421.7,
+        "average_grade": -0.5,
+        "maximum_grade": 1.0,
+        "elevation_high": 145.8,
+        "elevation_low": 142.8,
+        "start_latlng": [
+          43.666026,
+          -79.392202
+        ],
+        "end_latlng": [
+          43.663296,
+          -79.39267
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197967042348,
+      "resource_state": 2,
+      "name": "Queen's Park",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 239,
+      "moving_time": 238,
+      "start_date": "2024-08-25T19:55:04Z",
+      "start_date_local": "2024-08-25T15:55:04Z",
+      "distance": 781.21,
+      "start_index": 1778,
+      "end_index": 2017,
+      "device_watts": false,
+      "average_heartrate": 176.5,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 729241,
+        "resource_state": 2,
+        "name": "Queen's Park",
+        "activity_type": "Run",
+        "distance": 781.21,
+        "average_grade": 0.1,
+        "maximum_grade": 4.0,
+        "elevation_high": 116.4,
+        "elevation_low": 114.2,
+        "start_latlng": [
+          43.66514587774873,
+          -79.39365388825536
+        ],
+        "end_latlng": [
+          43.66514797322452,
+          -79.3937398865819
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": true
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965466412,
+      "resource_state": 2,
+      "name": "Wellesley St Whisk",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 38,
+      "moving_time": 38,
+      "start_date": "2024-08-25T19:56:09Z",
+      "start_date_local": "2024-08-25T15:56:09Z",
+      "distance": 157.4,
+      "start_index": 1843,
+      "end_index": 1881,
+      "device_watts": false,
+      "average_heartrate": 176.0,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 20791423,
+        "resource_state": 2,
+        "name": "Wellesley St Whisk",
+        "activity_type": "Run",
+        "distance": 157.4,
+        "average_grade": -0.4,
+        "maximum_grade": 4.5,
+        "elevation_high": 180.4,
+        "elevation_low": 178.2,
+        "start_latlng": [
+          43.663226,
+          -79.392662
+        ],
+        "end_latlng": [
+          43.663598,
+          -79.390795
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197967694636,
+      "resource_state": 2,
+      "name": "queens park SE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 242,
+      "moving_time": 240,
+      "start_date": "2024-08-25T19:56:57Z",
+      "start_date_local": "2024-08-25T15:56:57Z",
+      "distance": 814.3,
+      "start_index": 1891,
+      "end_index": 2133,
+      "device_watts": false,
+      "average_heartrate": 177.1,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 7373296,
+        "resource_state": 2,
+        "name": "queens park SE corner",
+        "activity_type": "Run",
+        "distance": 814.3,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66397,
+          -79.390982
+        ],
+        "end_latlng": [
+          43.664006,
+          -79.390975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197968257836,
+      "resource_state": 2,
+      "name": "QP E Side",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 75,
+      "moving_time": 75,
+      "start_date": "2024-08-25T19:57:02Z",
+      "start_date_local": "2024-08-25T15:57:02Z",
+      "distance": 242.9,
+      "start_index": 1896,
+      "end_index": 1971,
+      "device_watts": false,
+      "average_heartrate": 177.4,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 16464579,
+        "resource_state": 2,
+        "name": "QP E Side",
+        "activity_type": "Run",
+        "distance": 242.9,
+        "average_grade": 1.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 146.8,
+        "elevation_low": 143.6,
+        "start_latlng": [
+          43.664098,
+          -79.391057
+        ],
+        "end_latlng": [
+          43.665912,
+          -79.39245
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965206316,
+      "resource_state": 2,
+      "name": "queens park NE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 239,
+      "moving_time": 237,
+      "start_date": "2024-08-25T19:58:05Z",
+      "start_date_local": "2024-08-25T15:58:05Z",
+      "distance": 826.5,
+      "start_index": 1959,
+      "end_index": 2198,
+      "device_watts": false,
+      "average_heartrate": 177.4,
+      "max_heartrate": 180.0,
+      "segment": {
+        "id": 7320571,
+        "resource_state": 2,
+        "name": "queens park NE corner",
+        "activity_type": "Run",
+        "distance": 826.5,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66582,
+          -79.392
+        ],
+        "end_latlng": [
+          43.665833,
+          -79.39198
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197967460140,
+      "resource_state": 2,
+      "name": "QP 1 CC",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 115,
+      "moving_time": 113,
+      "start_date": "2024-08-25T19:58:13Z",
+      "start_date_local": "2024-08-25T15:58:13Z",
+      "distance": 421.7,
+      "start_index": 1967,
+      "end_index": 2082,
+      "device_watts": false,
+      "average_heartrate": 177.0,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 16464546,
+        "resource_state": 2,
+        "name": "QP 1 CC",
+        "activity_type": "Run",
+        "distance": 421.7,
+        "average_grade": -0.5,
+        "maximum_grade": 1.0,
+        "elevation_high": 145.8,
+        "elevation_low": 142.8,
+        "start_latlng": [
+          43.666026,
+          -79.392202
+        ],
+        "end_latlng": [
+          43.663296,
+          -79.39267
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197964703532,
+      "resource_state": 2,
+      "name": "Queen's Park",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 236,
+      "moving_time": 235,
+      "start_date": "2024-08-25T19:59:03Z",
+      "start_date_local": "2024-08-25T15:59:03Z",
+      "distance": 781.21,
+      "start_index": 2017,
+      "end_index": 2253,
+      "device_watts": false,
+      "average_heartrate": 177.8,
+      "max_heartrate": 180.0,
+      "segment": {
+        "id": 729241,
+        "resource_state": 2,
+        "name": "Queen's Park",
+        "activity_type": "Run",
+        "distance": 781.21,
+        "average_grade": 0.1,
+        "maximum_grade": 4.0,
+        "elevation_high": 116.4,
+        "elevation_low": 114.2,
+        "start_latlng": [
+          43.66514587774873,
+          -79.39365388825536
+        ],
+        "end_latlng": [
+          43.66514797322452,
+          -79.3937398865819
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": true
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965888300,
+      "resource_state": 2,
+      "name": "Wellesley St Whisk",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 35,
+      "moving_time": 35,
+      "start_date": "2024-08-25T20:00:10Z",
+      "start_date_local": "2024-08-25T16:00:10Z",
+      "distance": 157.4,
+      "start_index": 2084,
+      "end_index": 2119,
+      "device_watts": false,
+      "average_heartrate": 177.3,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 20791423,
+        "resource_state": 2,
+        "name": "Wellesley St Whisk",
+        "activity_type": "Run",
+        "distance": 157.4,
+        "average_grade": -0.4,
+        "maximum_grade": 4.5,
+        "elevation_high": 180.4,
+        "elevation_low": 178.2,
+        "start_latlng": [
+          43.663226,
+          -79.392662
+        ],
+        "end_latlng": [
+          43.663598,
+          -79.390795
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197967257388,
+      "resource_state": 2,
+      "name": "Liberal/NDP/PC - The Queen's Park Triple Scoop",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 673,
+      "moving_time": 672,
+      "start_date": "2024-08-25T20:00:14Z",
+      "start_date_local": "2024-08-25T16:00:14Z",
+      "distance": 2628.5,
+      "start_index": 2088,
+      "end_index": 2761,
+      "device_watts": false,
+      "average_heartrate": 180.8,
+      "max_heartrate": 187.0,
+      "segment": {
+        "id": 17811362,
+        "resource_state": 2,
+        "name": "Liberal/NDP/PC - The Queen's Park Triple Scoop",
+        "activity_type": "Run",
+        "distance": 2628.5,
+        "average_grade": -0.0,
+        "maximum_grade": 2.0,
+        "elevation_high": 107.2,
+        "elevation_low": 105.4,
+        "start_latlng": [
+          43.663259,
+          -79.392388
+        ],
+        "end_latlng": [
+          43.663294,
+          -79.392563
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965553452,
+      "resource_state": 2,
+      "name": "queens park SE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 236,
+      "moving_time": 236,
+      "start_date": "2024-08-25T20:00:57Z",
+      "start_date_local": "2024-08-25T16:00:57Z",
+      "distance": 814.3,
+      "start_index": 2131,
+      "end_index": 2367,
+      "device_watts": false,
+      "average_heartrate": 178.6,
+      "max_heartrate": 180.0,
+      "segment": {
+        "id": 7373296,
+        "resource_state": 2,
+        "name": "queens park SE corner",
+        "activity_type": "Run",
+        "distance": 814.3,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66397,
+          -79.390982
+        ],
+        "end_latlng": [
+          43.664006,
+          -79.390975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197964905260,
+      "resource_state": 2,
+      "name": "QP E Side",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 75,
+      "moving_time": 75,
+      "start_date": "2024-08-25T20:01:02Z",
+      "start_date_local": "2024-08-25T16:01:02Z",
+      "distance": 242.9,
+      "start_index": 2136,
+      "end_index": 2211,
+      "device_watts": false,
+      "average_heartrate": 178.5,
+      "max_heartrate": 180.0,
+      "segment": {
+        "id": 16464579,
+        "resource_state": 2,
+        "name": "QP E Side",
+        "activity_type": "Run",
+        "distance": 242.9,
+        "average_grade": 1.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 146.8,
+        "elevation_low": 143.6,
+        "start_latlng": [
+          43.664098,
+          -79.391057
+        ],
+        "end_latlng": [
+          43.665912,
+          -79.39245
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965545260,
+      "resource_state": 2,
+      "name": "queens park NE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 233,
+      "moving_time": 233,
+      "start_date": "2024-08-25T20:02:04Z",
+      "start_date_local": "2024-08-25T16:02:04Z",
+      "distance": 826.5,
+      "start_index": 2198,
+      "end_index": 2431,
+      "device_watts": false,
+      "average_heartrate": 179.1,
+      "max_heartrate": 181.0,
+      "segment": {
+        "id": 7320571,
+        "resource_state": 2,
+        "name": "queens park NE corner",
+        "activity_type": "Run",
+        "distance": 826.5,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66582,
+          -79.392
+        ],
+        "end_latlng": [
+          43.665833,
+          -79.39198
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197966349100,
+      "resource_state": 2,
+      "name": "QP 1 CC",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 116,
+      "moving_time": 116,
+      "start_date": "2024-08-25T20:02:09Z",
+      "start_date_local": "2024-08-25T16:02:09Z",
+      "distance": 421.7,
+      "start_index": 2203,
+      "end_index": 2319,
+      "device_watts": false,
+      "average_heartrate": 178.7,
+      "max_heartrate": 180.0,
+      "segment": {
+        "id": 16464546,
+        "resource_state": 2,
+        "name": "QP 1 CC",
+        "activity_type": "Run",
+        "distance": 421.7,
+        "average_grade": -0.5,
+        "maximum_grade": 1.0,
+        "elevation_high": 145.8,
+        "elevation_low": 142.8,
+        "start_latlng": [
+          43.666026,
+          -79.392202
+        ],
+        "end_latlng": [
+          43.663296,
+          -79.39267
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197967414060,
+      "resource_state": 2,
+      "name": "Queen's Park",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 228,
+      "moving_time": 227,
+      "start_date": "2024-08-25T20:03:00Z",
+      "start_date_local": "2024-08-25T16:03:00Z",
+      "distance": 781.21,
+      "start_index": 2254,
+      "end_index": 2482,
+      "device_watts": false,
+      "average_heartrate": 179.5,
+      "max_heartrate": 182.0,
+      "segment": {
+        "id": 729241,
+        "resource_state": 2,
+        "name": "Queen's Park",
+        "activity_type": "Run",
+        "distance": 781.21,
+        "average_grade": 0.1,
+        "maximum_grade": 4.0,
+        "elevation_high": 116.4,
+        "elevation_low": 114.2,
+        "start_latlng": [
+          43.66514587774873,
+          -79.39365388825536
+        ],
+        "end_latlng": [
+          43.66514797322452,
+          -79.3937398865819
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": true
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965393708,
+      "resource_state": 2,
+      "name": "Wellesley St Whisk",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 35,
+      "moving_time": 35,
+      "start_date": "2024-08-25T20:04:05Z",
+      "start_date_local": "2024-08-25T16:04:05Z",
+      "distance": 157.4,
+      "start_index": 2319,
+      "end_index": 2354,
+      "device_watts": false,
+      "average_heartrate": 178.7,
+      "max_heartrate": 180.0,
+      "segment": {
+        "id": 20791423,
+        "resource_state": 2,
+        "name": "Wellesley St Whisk",
+        "activity_type": "Run",
+        "distance": 157.4,
+        "average_grade": -0.4,
+        "maximum_grade": 4.5,
+        "elevation_high": 180.4,
+        "elevation_low": 178.2,
+        "start_latlng": [
+          43.663226,
+          -79.392662
+        ],
+        "end_latlng": [
+          43.663598,
+          -79.390795
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197966084908,
+      "resource_state": 2,
+      "name": "queens park SE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 226,
+      "moving_time": 225,
+      "start_date": "2024-08-25T20:04:52Z",
+      "start_date_local": "2024-08-25T16:04:52Z",
+      "distance": 814.3,
+      "start_index": 2366,
+      "end_index": 2592,
+      "device_watts": false,
+      "average_heartrate": 181.1,
+      "max_heartrate": 183.0,
+      "segment": {
+        "id": 7373296,
+        "resource_state": 2,
+        "name": "queens park SE corner",
+        "activity_type": "Run",
+        "distance": 814.3,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66397,
+          -79.390982
+        ],
+        "end_latlng": [
+          43.664006,
+          -79.390975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965086508,
+      "resource_state": 2,
+      "name": "QP E Side",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 72,
+      "moving_time": 72,
+      "start_date": "2024-08-25T20:04:57Z",
+      "start_date_local": "2024-08-25T16:04:57Z",
+      "distance": 242.9,
+      "start_index": 2371,
+      "end_index": 2443,
+      "device_watts": false,
+      "average_heartrate": 180.1,
+      "max_heartrate": 182.0,
+      "segment": {
+        "id": 16464579,
+        "resource_state": 2,
+        "name": "QP E Side",
+        "activity_type": "Run",
+        "distance": 242.9,
+        "average_grade": 1.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 146.8,
+        "elevation_low": 143.6,
+        "start_latlng": [
+          43.664098,
+          -79.391057
+        ],
+        "end_latlng": [
+          43.665912,
+          -79.39245
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197964388140,
+      "resource_state": 2,
+      "name": "queens park NE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 224,
+      "moving_time": 223,
+      "start_date": "2024-08-25T20:05:57Z",
+      "start_date_local": "2024-08-25T16:05:57Z",
+      "distance": 826.5,
+      "start_index": 2431,
+      "end_index": 2655,
+      "device_watts": false,
+      "average_heartrate": 182.1,
+      "max_heartrate": 185.0,
+      "segment": {
+        "id": 7320571,
+        "resource_state": 2,
+        "name": "queens park NE corner",
+        "activity_type": "Run",
+        "distance": 826.5,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66582,
+          -79.392
+        ],
+        "end_latlng": [
+          43.665833,
+          -79.39198
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197967062828,
+      "resource_state": 2,
+      "name": "QP 1 CC",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 106,
+      "moving_time": 105,
+      "start_date": "2024-08-25T20:06:03Z",
+      "start_date_local": "2024-08-25T16:06:03Z",
+      "distance": 421.7,
+      "start_index": 2437,
+      "end_index": 2543,
+      "device_watts": false,
+      "average_heartrate": 182.0,
+      "max_heartrate": 183.0,
+      "segment": {
+        "id": 16464546,
+        "resource_state": 2,
+        "name": "QP 1 CC",
+        "activity_type": "Run",
+        "distance": 421.7,
+        "average_grade": -0.5,
+        "maximum_grade": 1.0,
+        "elevation_high": 145.8,
+        "elevation_low": 142.8,
+        "start_latlng": [
+          43.666026,
+          -79.392202
+        ],
+        "end_latlng": [
+          43.663296,
+          -79.39267
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197968003884,
+      "resource_state": 2,
+      "name": "Queen's Park",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 223,
+      "moving_time": 223,
+      "start_date": "2024-08-25T20:06:48Z",
+      "start_date_local": "2024-08-25T16:06:48Z",
+      "distance": 781.21,
+      "start_index": 2482,
+      "end_index": 2705,
+      "device_watts": false,
+      "average_heartrate": 182.9,
+      "max_heartrate": 187.0,
+      "segment": {
+        "id": 729241,
+        "resource_state": 2,
+        "name": "Queen's Park",
+        "activity_type": "Run",
+        "distance": 781.21,
+        "average_grade": 0.1,
+        "maximum_grade": 4.0,
+        "elevation_high": 116.4,
+        "elevation_low": 114.2,
+        "start_latlng": [
+          43.66514587774873,
+          -79.39365388825536
+        ],
+        "end_latlng": [
+          43.66514797322452,
+          -79.3937398865819
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": true
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197966952236,
+      "resource_state": 2,
+      "name": "Wellesley St Whisk",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 40,
+      "moving_time": 40,
+      "start_date": "2024-08-25T20:07:51Z",
+      "start_date_local": "2024-08-25T16:07:51Z",
+      "distance": 157.4,
+      "start_index": 2545,
+      "end_index": 2585,
+      "device_watts": false,
+      "average_heartrate": 181.1,
+      "max_heartrate": 182.0,
+      "segment": {
+        "id": 20791423,
+        "resource_state": 2,
+        "name": "Wellesley St Whisk",
+        "activity_type": "Run",
+        "distance": 157.4,
+        "average_grade": -0.4,
+        "maximum_grade": 4.5,
+        "elevation_high": 180.4,
+        "elevation_low": 178.2,
+        "start_latlng": [
+          43.663226,
+          -79.392662
+        ],
+        "end_latlng": [
+          43.663598,
+          -79.390795
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197964528428,
+      "resource_state": 2,
+      "name": "queens park SE corner",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 208,
+      "moving_time": 208,
+      "start_date": "2024-08-25T20:08:37Z",
+      "start_date_local": "2024-08-25T16:08:37Z",
+      "distance": 814.3,
+      "start_index": 2591,
+      "end_index": 2799,
+      "device_watts": false,
+      "average_heartrate": 184.9,
+      "max_heartrate": 188.0,
+      "segment": {
+        "id": 7373296,
+        "resource_state": 2,
+        "name": "queens park SE corner",
+        "activity_type": "Run",
+        "distance": 814.3,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 105.8,
+        "elevation_low": 105.8,
+        "start_latlng": [
+          43.66397,
+          -79.390982
+        ],
+        "end_latlng": [
+          43.664006,
+          -79.390975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197964895020,
+      "resource_state": 2,
+      "name": "QP E Side",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 69,
+      "moving_time": 69,
+      "start_date": "2024-08-25T20:08:42Z",
+      "start_date_local": "2024-08-25T16:08:42Z",
+      "distance": 242.9,
+      "start_index": 2596,
+      "end_index": 2665,
+      "device_watts": false,
+      "average_heartrate": 183.4,
+      "max_heartrate": 186.0,
+      "segment": {
+        "id": 16464579,
+        "resource_state": 2,
+        "name": "QP E Side",
+        "activity_type": "Run",
+        "distance": 242.9,
+        "average_grade": 1.3,
+        "maximum_grade": 2.2,
+        "elevation_high": 146.8,
+        "elevation_low": 143.6,
+        "start_latlng": [
+          43.664098,
+          -79.391057
+        ],
+        "end_latlng": [
+          43.665912,
+          -79.39245
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197965077292,
+      "resource_state": 2,
+      "name": "QP 1 CC",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 98,
+      "moving_time": 98,
+      "start_date": "2024-08-25T20:09:47Z",
+      "start_date_local": "2024-08-25T16:09:47Z",
+      "distance": 421.7,
+      "start_index": 2661,
+      "end_index": 2759,
+      "device_watts": false,
+      "average_heartrate": 185.3,
+      "max_heartrate": 187.0,
+      "segment": {
+        "id": 16464546,
+        "resource_state": 2,
+        "name": "QP 1 CC",
+        "activity_type": "Run",
+        "distance": 421.7,
+        "average_grade": -0.5,
+        "maximum_grade": 1.0,
+        "elevation_high": 145.8,
+        "elevation_low": 142.8,
+        "start_latlng": [
+          43.666026,
+          -79.392202
+        ],
+        "end_latlng": [
+          43.663296,
+          -79.39267
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3262883197964679980,
+      "resource_state": 2,
+      "name": "Wellesley St Whisk",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 31,
+      "moving_time": 31,
+      "start_date": "2024-08-25T20:11:26Z",
+      "start_date_local": "2024-08-25T16:11:26Z",
+      "distance": 157.4,
+      "start_index": 2760,
+      "end_index": 2791,
+      "device_watts": false,
+      "average_heartrate": 186.7,
+      "max_heartrate": 188.0,
+      "segment": {
+        "id": 20791423,
+        "resource_state": 2,
+        "name": "Wellesley St Whisk",
+        "activity_type": "Run",
+        "distance": 157.4,
+        "average_grade": -0.4,
+        "maximum_grade": 4.5,
+        "elevation_high": 180.4,
+        "elevation_low": 178.2,
+        "start_latlng": [
+          43.663226,
+          -79.392662
+        ],
+        "end_latlng": [
+          43.663598,
+          -79.390795
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1002.1,
+      "elapsed_time": 250,
+      "elevation_difference": -0.1,
+      "moving_time": 239,
+      "split": 1,
+      "average_speed": 4.19,
+      "average_grade_adjusted_speed": 4.2,
+      "average_heartrate": 154.79746835443038,
+      "pace_zone": 4
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 259,
+      "elevation_difference": -0.2,
+      "moving_time": 259,
+      "split": 2,
+      "average_speed": 3.85,
+      "average_grade_adjusted_speed": 3.86,
+      "average_heartrate": 176.1015625,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 278,
+      "elevation_difference": 2.0,
+      "moving_time": 278,
+      "split": 3,
+      "average_speed": 3.6,
+      "average_grade_adjusted_speed": 3.62,
+      "average_heartrate": 173.9927797833935,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1000.9,
+      "elapsed_time": 291,
+      "elevation_difference": -1.7,
+      "moving_time": 291,
+      "split": 4,
+      "average_speed": 3.44,
+      "average_grade_adjusted_speed": 3.43,
+      "average_heartrate": 175.1056338028169,
+      "pace_zone": 2
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 287,
+      "elevation_difference": -0.1,
+      "moving_time": 287,
+      "split": 5,
+      "average_speed": 3.48,
+      "average_grade_adjusted_speed": 3.49,
+      "average_heartrate": 175.1595744680851,
+      "pace_zone": 2
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 308,
+      "elevation_difference": 0.1,
+      "moving_time": 308,
+      "split": 6,
+      "average_speed": 3.25,
+      "average_grade_adjusted_speed": 3.25,
+      "average_heartrate": 174.0327868852459,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 301,
+      "elevation_difference": 2.0,
+      "moving_time": 301,
+      "split": 7,
+      "average_speed": 3.32,
+      "average_grade_adjusted_speed": 3.34,
+      "average_heartrate": 175.90333333333334,
+      "pace_zone": 2
+    },
+    {
+      "distance": 998.4,
+      "elapsed_time": 300,
+      "elevation_difference": -1.9,
+      "moving_time": 300,
+      "split": 8,
+      "average_speed": 3.33,
+      "average_grade_adjusted_speed": 3.32,
+      "average_heartrate": 177.8724832214765,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 282,
+      "elevation_difference": -0.3,
+      "moving_time": 282,
+      "split": 9,
+      "average_speed": 3.55,
+      "average_grade_adjusted_speed": 3.56,
+      "average_heartrate": 180.12455516014234,
+      "pace_zone": 3
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 267,
+      "elevation_difference": 0.3,
+      "moving_time": 267,
+      "split": 10,
+      "average_speed": 3.74,
+      "average_grade_adjusted_speed": 3.75,
+      "average_heartrate": 184.37078651685394,
+      "pace_zone": 3
+    },
+    {
+      "distance": 32.6,
+      "elapsed_time": 30,
+      "elevation_difference": 0.3,
+      "moving_time": 12,
+      "split": 11,
+      "average_speed": 2.72,
+      "average_grade_adjusted_speed": 2.77,
+      "average_heartrate": 183.45454545454547,
+      "pace_zone": 1
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1609.6,
+      "elapsed_time": 412,
+      "elevation_difference": 0.1,
+      "moving_time": 401,
+      "split": 1,
+      "average_speed": 4.01,
+      "average_grade_adjusted_speed": 4.02,
+      "average_heartrate": 163.47979797979798,
+      "pace_zone": 4
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 438,
+      "elevation_difference": -0.1,
+      "moving_time": 438,
+      "split": 2,
+      "average_speed": 3.68,
+      "average_grade_adjusted_speed": 3.68,
+      "average_heartrate": 174.6635944700461,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 467,
+      "elevation_difference": 0.2,
+      "moving_time": 467,
+      "split": 3,
+      "average_speed": 3.45,
+      "average_grade_adjusted_speed": 3.45,
+      "average_heartrate": 174.88478260869564,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 491,
+      "elevation_difference": 0.2,
+      "moving_time": 491,
+      "split": 4,
+      "average_speed": 3.28,
+      "average_grade_adjusted_speed": 3.28,
+      "average_heartrate": 174.5855670103093,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 482,
+      "elevation_difference": -0.1,
+      "moving_time": 482,
+      "split": 5,
+      "average_speed": 3.34,
+      "average_grade_adjusted_speed": 3.34,
+      "average_heartrate": 177.32708333333332,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1610.0,
+      "elapsed_time": 449,
+      "elevation_difference": -0.1,
+      "moving_time": 449,
+      "split": 6,
+      "average_speed": 3.59,
+      "average_grade_adjusted_speed": 3.59,
+      "average_heartrate": 181.609375,
+      "pace_zone": 3
+    },
+    {
+      "distance": 377.1,
+      "elapsed_time": 114,
+      "elevation_difference": 0.2,
+      "moving_time": 96,
+      "split": 7,
+      "average_speed": 3.93,
+      "average_grade_adjusted_speed": 3.94,
+      "average_heartrate": 185.9578947368421,
+      "pace_zone": 3
+    }
+  ],
+  "laps": [
+    {
+      "id": 42866275214,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 2857,
+      "moving_time": 2823,
+      "start_date": "2024-08-25T19:25:16Z",
+      "start_date_local": "2024-08-25T15:25:16Z",
+      "distance": 10035.3,
+      "average_speed": 3.55,
+      "max_speed": 7.056,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 2826,
+      "total_elevation_gain": 35.6,
+      "device_watts": false,
+      "average_heartrate": 175.1,
+      "max_heartrate": 188.0,
+      "pace_zone": 2
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 52113654677,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 85,
+      "moving_time": 85,
+      "start_date": "2024-08-25T19:25:16Z",
+      "start_date_local": "2024-08-25T15:25:16Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 190,
+      "end_index": 275
+    },
+    {
+      "id": 52113654678,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 190,
+      "moving_time": 190,
+      "start_date": "2024-08-25T19:25:16Z",
+      "start_date_local": "2024-08-25T15:25:16Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 56,
+      "end_index": 246
+    },
+    {
+      "id": 52113654679,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 235,
+      "moving_time": 235,
+      "start_date": "2024-08-25T19:25:16Z",
+      "start_date_local": "2024-08-25T15:25:16Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 8,
+      "end_index": 243
+    },
+    {
+      "id": 52113654673,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 396,
+      "moving_time": 396,
+      "start_date": "2024-08-25T19:25:16Z",
+      "start_date_local": "2024-08-25T15:25:16Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 9,
+      "end_index": 405
+    },
+    {
+      "id": 52113654674,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 836,
+      "moving_time": 836,
+      "start_date": "2024-08-25T19:25:16Z",
+      "start_date_local": "2024-08-25T15:25:16Z",
+      "distance": 3219,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 7,
+      "end_index": 843
+    },
+    {
+      "id": 52113654675,
+      "resource_state": 2,
+      "name": "5K",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 1351,
+      "moving_time": 1351,
+      "start_date": "2024-08-25T19:25:16Z",
+      "start_date_local": "2024-08-25T15:25:16Z",
+      "distance": 5000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 8,
+      "end_index": 1359
+    },
+    {
+      "id": 52113654676,
+      "resource_state": 2,
+      "name": "10K",
+      "activity": {
+        "id": 12241985939,
+        "id_str": "12241985939",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 2809,
+      "moving_time": 2809,
+      "start_date": "2024-08-25T19:25:16Z",
+      "start_date_local": "2024-08-25T15:25:16Z",
+      "distance": 10000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 7,
+      "end_index": 2816
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "a286e14661e2e4cca84a04f0fe3cbbe9dcc2c33b",
+  "similar_activities": {
+    "effort_count": 3,
+    "average_speed": 3.8117223395008075,
+    "min_average_speed": 3.554835281615303,
+    "mid_average_speed": 3.7545697625928174,
+    "max_average_speed": 3.9780852655198204,
+    "pr_rank": 3,
+    "frequency_milestone": 3,
+    "trend": {
+      "speeds": [
+        3.978085265519821,
+        3.949539568693531,
+        3.8085801166935713
+      ],
+      "current_activity_index": 2,
+      "min_speed": 3.554835281615303,
+      "mid_speed": 3.7545697625928174,
+      "max_speed": 3.9780852655198204,
+      "direction": -1
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "heartrate",
+    "pace"
+  ]
+}

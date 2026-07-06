@@ -1,0 +1,1862 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "id_str": "9693467",
+    "resource_state": 1
+  },
+  "name": "Zwift - Race: Zwift Academy 2024 - Race 2 (C) on Duchy Estate in Yorkshire",
+  "distance": 29120.5,
+  "moving_time": 3059,
+  "elapsed_time": 3059,
+  "total_elevation_gain": 396.0,
+  "type": "VirtualRide",
+  "sport_type": "VirtualRide",
+  "device_name": "Zwift",
+  "id": 12816478714,
+  "id_str": "12816478714",
+  "start_date": "2024-11-03T19:32:23Z",
+  "start_date_local": "2024-11-03T14:32:23Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -18000.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 1,
+  "kudos_count": 2,
+  "comment_count": 0,
+  "athlete_count": 27,
+  "photo_count": 0,
+  "map": {
+    "id": "a12816478714",
+    "polyline": "k~ohI`elHcBwAoEzAaFvAUHi@^uC|BiAbAYZW^Er@bBvHZnA`@z@L^Hb@N\\H^AjB@\\Jv@X`AnCtHh@dBbCvNhCzN^dCDn@?VETILy@`@_A^a@VMPGZ@~@C~@Kz@St@e@dAMNQLkBdAsFpCYHS]{AyJq@wC[eA]cAqAyCkFqKwA}Cc@cAkAaE[mAu@eFO]iBiBm@s@S]Qa@Ii@Ek@[iG?c@JYRItFqA`Bc@`A]p@a@jDkCTGRRhArC\\t@tAjBb@b@RJRDz@KlA]x@]R@NRF^C~@?z@Hn@T|@pBtFhAfDJ`@jGp^`@lC@V?XGRKL_CfA_@XIVAxBMrA]hAWj@ON{CfBuE`CYHSUmA}H]mBo@kCk@cBoA}C}FoLcBsDwA{EYkA{@mFS[mBoBk@u@S_@Kg@KqAYiGD_@PO~FwAhBg@|@[r@c@`DcCVGRRjAtC^t@dAxAd@f@RNTFT?h@IpA[v@[R?NNHZAxBJfATv@~DbLb@|BbF|Yf@lDDf@?REPILKHq@\\eA`@]RKPCX?hBKhAU`Ag@dAKJoC~AgFhCUDQYaAqGa@{Bq@sCo@wBkAqCgFmK}BcFi@cBaAmDSgAg@mDOYwB{Bi@s@Q[Me@KmAQuCIiCJYPK`FiAhBg@lAc@p@a@tDsCT@NTlAxCh@`A|@hAp@n@PHP?t@IhAYbA_@PFLPFZCpBJ`Al@pBfDrJlGn^`@tCDf@?RCPILIH{@d@eA`@[VIRAX@nAIjAMl@Qh@Sd@S\\{BtAeGzCU@O]_AiGg@oCm@gCm@oBqA_DsFaLoBkEeB}FUkAi@qDM[cBcBg@o@g@u@Mc@QqBUsFD]LQrD{@tBk@tAa@j@Un@_@fDkCREPJvAjDXh@x@hA|@~@PJPBr@IdAU`@M`@SPANHJTDZClBH~@Rp@hDtJZfAjGz]b@`DDd@ARCPQVo@ZqAf@[TIPCX@lAAXKjAY~@Sf@U^gC|A{FvCWCMa@cA{GY}Ao@qCo@sBsAcDoF{KmBcEu@cC_AiDy@kFMW_B_Bg@m@e@u@Oa@Ge@KoBSkE@]JSPGbHeBjBk@r@a@vDsCTANTjAvCZj@h@x@l@t@^^PHPDNAr@KdAWbA_@PDLPDXAnBH`Ap@xB~C|IJb@fGz]d@`DBh@CRGPIJs@^eA`@]RKLGV?hBIjAMj@Qd@Qb@U^{BtAoG|CUOIe@}@aGe@eCi@yBo@wBwAcDeFkKoBgEkBsGUeAo@eEMU_B{Ag@m@g@w@Oc@OsBWmF@]JSPGnCm@`Dy@dBk@l@_@tDuCPCPLrAfDXh@v@hA~@bAPJPBv@IxA]p@[P?NLHV@\\Cv@@p@Jz@p@|BvB~Fj@hBnFrZ|@~FHz@ARENIL}@d@eA`@[RKPEV?fBIjAMj@Qd@Q`@U\\aAl@uBjAeErBW@O]w@oFg@qCm@kCm@qBi@sA{@oBsDsH_DyGiBkGSeAg@eDG]OU}A}Ag@m@e@s@Ma@Ge@MmBMgCE}AHWNIlHeBvBs@r@e@dCmBh@]TDNXdAlC^t@dAvAb@d@RNRFR?x@KjA[r@[P@LLHVB\\Cv@?n@Jx@j@hBhDrJZbB|@vFlD`Sd@`DHz@ARGPIJo@^wAj@OHMLGV?lBKpA[dAa@|@[VwCdBsE|BWBO]aAwGa@yBq@oCo@qBg@qAk@oA_EkIsCiGk@cBcAmDSeAg@kDI]a@i@cBcBg@q@Q]Kc@Ge@OqCOeDB]LO~GaBnA_@z@Y|@m@xC}BPIRFtAfDd@z@fAvAl@j@NFP@p@IrA[|@_@NBLLHTBZCfBH~@b@|AlCrHb@xAhGx]b@xCFx@ARENIJ{@d@cA^[RKNGT@`BEp@Gl@Mf@Qd@Q`@SZsCbBoFlCUCM_@eAiHYyAo@mCm@qBsAaDgFmK}AgD_@{@qAoEYeAu@{EKa@QUiBiBi@u@S]Mc@KqAYkG@_@NSRExFuAlCw@~@k@nDmCT@NRxAtD~@tA`@d@b@b@RJT@z@KnA[v@[RDLTD\\C`A@v@Hp@\\jApDfKNl@hGd^^rCBj@ERILKHu@^{@\\_@RMNEX@tAKxAGZSr@Yp@ORu@f@yAx@oFnCUBOYkAwH",
+    "resource_state": 3,
+    "summary_polyline": "k~ohI`elHcBwAqLrD_Ah@uC|B{B~BEr@bBvHZnArA|DAjBLtArE|MlGr^d@tDEl@ILyB`Ao@h@OxDYrAs@tAiBfAgG|CYHS]{AyJ{A_GaB{DuIoQkBkGcAmGO]wC}Ce@_AOuA[mHJYRIxKsCrFuDRRfBhEtAjBv@n@nAEfC{@R@NRF^CzBHn@|E|NjGp^`@lC@p@S`@_D`BIVAxBMrA]hAg@z@kKrFSUkBkL{AoFqLaWqBgH{@mFaCkC_AuAWyBYiGD_@POfL{ClFoDRRjBjE~BpCtAAhCw@b@NHZAxBJfAtEzMfGz]f@lDDz@[h@wB~@i@d@CbCKhAU`Ag@dA{CjB}FnCQYcBmKaBkGqLcWkBqG{@uFOYwB{B{@oAMe@KmA[_HJYPKxKuCfFuDT@NTlAxCh@`AnBxBxA?lCy@^XFZCpBJ`AtEdNlGn^`@tCDz@Wh@}C~AIRItD_@vAg@bAaKpFU@O]gByK{AwFuLmWeB}F_A}FM[kCsCu@yAg@eJD]LQjL_DjFqDPJpBtEvBhCb@Nr@IzCy@Z^@hCH~@xEnNjGz]b@`DBx@Uh@aCbAe@f@C`CKjAY~@i@fAcKtFWCMa@}AyJ_BeGsAcD}I_RuBmHy@kFuCeDu@wASuCQiF\\[nKqCjFuDTAvBxEvAnBp@h@tAGhCw@^VDXAnBH`A|EzNfGz]h@jEUp@cDbBGV?hBIjA_@pAg@bAkKrFUOmBmLyAqFmLwVkBsGeAkGuC_Dw@{Ag@aJ@]\\[vKsCtFyDPLlBpEvBlCb@Nv@IjCy@P?Xd@?fCJz@tEfNnFrZfAzHQp@cCfAg@d@OjE_@pAg@~@wDxBeErBW@O]_BaK{A}FeBcEsImQiBkGcAiGuCaDs@uAUsCSeFHWNIdLyCbFqDTDtB|E|BlC`BC~Bw@P@Vd@?dCJx@tE|MfG|]n@|ESp@eDbBGV?lBKpA}@bCsD|BsE|BWBO]cBqKaBaGsAaDsIuQoBqGeAoGeCmCy@oASiA_@wHB]LOjL{ChFuDRFzBbFtBbCrA?pC{@\\PLp@CfBH~@tEjNhGx]j@rEQn@gDhBEvBM~A_@lAe@|@cKpFUCM_@_BcK}A_GsAaDeJqRkBuGaA}F{B_C}@sAMc@KqAYkG@_@b@YfKmCnFyDT@NRxAtDdC~Ch@Lz@KfCw@RDLTBvCHp@~E`OhGd^^rCBj@ERUVqB|@m@b@CnBKxA[nAi@dAsIvEaA\\OYkAwH"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    53.990301,
+    -1.542087
+  ],
+  "end_latlng": [
+    53.994836,
+    -1.558646
+  ],
+  "average_speed": 9.52,
+  "max_speed": 17.44,
+  "average_cadence": 79.9,
+  "average_watts": 215.5,
+  "max_watts": 614,
+  "weighted_average_watts": 233,
+  "device_watts": true,
+  "kilojoules": 659.3,
+  "has_heartrate": true,
+  "average_heartrate": 165.6,
+  "max_heartrate": 178.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 133.0,
+  "elev_low": 102.8,
+  "upload_id": 13666112424,
+  "upload_id_str": "13666112424",
+  "external_id": "zwift-activity-1734372703881658384.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "suffer_score": 127.0,
+  "description": null,
+  "calories": 647.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3288252967734280212,
+      "resource_state": 2,
+      "name": "Cornwall Rd Climb to Sprint Banner",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 113,
+      "moving_time": 113,
+      "start_date": "2024-11-03T19:33:23Z",
+      "start_date_local": "2024-11-03T14:33:23Z",
+      "distance": 969.0,
+      "start_index": 55,
+      "end_index": 168,
+      "average_cadence": 84.3,
+      "device_watts": true,
+      "average_watts": 299.4,
+      "average_heartrate": 155.8,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 27180127,
+        "resource_state": 2,
+        "name": "Cornwall Rd Climb to Sprint Banner",
+        "activity_type": "VirtualRide",
+        "distance": 969.0,
+        "average_grade": 2.5,
+        "maximum_grade": 9.1,
+        "elevation_high": 133.0,
+        "elevation_low": 108.4,
+        "start_latlng": [
+          53.993629,
+          -1.547365
+        ],
+        "end_latlng": [
+          53.992664,
+          -1.559354
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967731671060,
+      "resource_state": 2,
+      "name": "Duchy Estate (Banner to Banner)",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 283,
+      "moving_time": 283,
+      "start_date": "2024-11-03T19:35:16Z",
+      "start_date_local": "2024-11-03T14:35:16Z",
+      "distance": 3004.3,
+      "start_index": 168,
+      "end_index": 451,
+      "average_cadence": 81.2,
+      "device_watts": true,
+      "average_watts": 245.1,
+      "average_heartrate": 165.2,
+      "max_heartrate": 173.0,
+      "segment": {
+        "id": 21748097,
+        "resource_state": 2,
+        "name": "Duchy Estate (Banner to Banner)",
+        "activity_type": "VirtualRide",
+        "distance": 3004.3,
+        "average_grade": 0.0,
+        "maximum_grade": 7.8,
+        "elevation_high": 133.0,
+        "elevation_low": 103.0,
+        "start_latlng": [
+          53.99268,
+          -1.559362
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.559357
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967732964372,
+      "resource_state": 2,
+      "name": "Cornwall Rd Climb to Sprint Banner",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 117,
+      "moving_time": 117,
+      "start_date": "2024-11-03T19:38:02Z",
+      "start_date_local": "2024-11-03T14:38:02Z",
+      "distance": 969.0,
+      "start_index": 334,
+      "end_index": 451,
+      "average_cadence": 82.3,
+      "device_watts": true,
+      "average_watts": 282.4,
+      "average_heartrate": 169.9,
+      "max_heartrate": 173.0,
+      "segment": {
+        "id": 27180127,
+        "resource_state": 2,
+        "name": "Cornwall Rd Climb to Sprint Banner",
+        "activity_type": "VirtualRide",
+        "distance": 969.0,
+        "average_grade": 2.5,
+        "maximum_grade": 9.1,
+        "elevation_high": 133.0,
+        "elevation_low": 108.4,
+        "start_latlng": [
+          53.993629,
+          -1.547365
+        ],
+        "end_latlng": [
+          53.992664,
+          -1.559354
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967733999636,
+      "resource_state": 2,
+      "name": "Duchy Estate (Banner to Banner)",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 302,
+      "moving_time": 302,
+      "start_date": "2024-11-03T19:39:59Z",
+      "start_date_local": "2024-11-03T14:39:59Z",
+      "distance": 3004.3,
+      "start_index": 451,
+      "end_index": 753,
+      "average_cadence": 79.3,
+      "device_watts": true,
+      "average_watts": 247.5,
+      "average_heartrate": 173.8,
+      "max_heartrate": 177.0,
+      "segment": {
+        "id": 21748097,
+        "resource_state": 2,
+        "name": "Duchy Estate (Banner to Banner)",
+        "activity_type": "VirtualRide",
+        "distance": 3004.3,
+        "average_grade": 0.0,
+        "maximum_grade": 7.8,
+        "elevation_high": 133.0,
+        "elevation_low": 103.0,
+        "start_latlng": [
+          53.99268,
+          -1.559362
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.559357
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967733725204,
+      "resource_state": 2,
+      "name": "Cornwall Rd Climb to Sprint Banner",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 135,
+      "moving_time": 135,
+      "start_date": "2024-11-03T19:42:46Z",
+      "start_date_local": "2024-11-03T14:42:46Z",
+      "distance": 969.0,
+      "start_index": 618,
+      "end_index": 753,
+      "average_cadence": 77.8,
+      "device_watts": true,
+      "average_watts": 238.1,
+      "average_heartrate": 173.8,
+      "max_heartrate": 177.0,
+      "segment": {
+        "id": 27180127,
+        "resource_state": 2,
+        "name": "Cornwall Rd Climb to Sprint Banner",
+        "activity_type": "VirtualRide",
+        "distance": 969.0,
+        "average_grade": 2.5,
+        "maximum_grade": 9.1,
+        "elevation_high": 133.0,
+        "elevation_low": 108.4,
+        "start_latlng": [
+          53.993629,
+          -1.547365
+        ],
+        "end_latlng": [
+          53.992664,
+          -1.559354
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967732592660,
+      "resource_state": 2,
+      "name": "Duchy Estate (Banner to Banner)",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 323,
+      "moving_time": 323,
+      "start_date": "2024-11-03T19:45:01Z",
+      "start_date_local": "2024-11-03T14:45:01Z",
+      "distance": 3004.3,
+      "start_index": 753,
+      "end_index": 1076,
+      "average_cadence": 79.4,
+      "device_watts": true,
+      "average_watts": 214.3,
+      "average_heartrate": 167.2,
+      "max_heartrate": 174.0,
+      "segment": {
+        "id": 21748097,
+        "resource_state": 2,
+        "name": "Duchy Estate (Banner to Banner)",
+        "activity_type": "VirtualRide",
+        "distance": 3004.3,
+        "average_grade": 0.0,
+        "maximum_grade": 7.8,
+        "elevation_high": 133.0,
+        "elevation_low": 103.0,
+        "start_latlng": [
+          53.99268,
+          -1.559362
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.559357
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967733911572,
+      "resource_state": 2,
+      "name": "Cornwall Rd Climb to Sprint Banner",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 141,
+      "moving_time": 141,
+      "start_date": "2024-11-03T19:48:03Z",
+      "start_date_local": "2024-11-03T14:48:03Z",
+      "distance": 969.0,
+      "start_index": 935,
+      "end_index": 1076,
+      "average_cadence": 78.7,
+      "device_watts": true,
+      "average_watts": 230.4,
+      "average_heartrate": 170.6,
+      "max_heartrate": 174.0,
+      "segment": {
+        "id": 27180127,
+        "resource_state": 2,
+        "name": "Cornwall Rd Climb to Sprint Banner",
+        "activity_type": "VirtualRide",
+        "distance": 969.0,
+        "average_grade": 2.5,
+        "maximum_grade": 9.1,
+        "elevation_high": 133.0,
+        "elevation_low": 108.4,
+        "start_latlng": [
+          53.993629,
+          -1.547365
+        ],
+        "end_latlng": [
+          53.992664,
+          -1.559354
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967734179860,
+      "resource_state": 2,
+      "name": "Duchy Estate (Banner to Banner)",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 335,
+      "moving_time": 335,
+      "start_date": "2024-11-03T19:50:24Z",
+      "start_date_local": "2024-11-03T14:50:24Z",
+      "distance": 3004.3,
+      "start_index": 1076,
+      "end_index": 1411,
+      "average_cadence": 77.0,
+      "device_watts": true,
+      "average_watts": 193.0,
+      "average_heartrate": 163.1,
+      "max_heartrate": 170.0,
+      "segment": {
+        "id": 21748097,
+        "resource_state": 2,
+        "name": "Duchy Estate (Banner to Banner)",
+        "activity_type": "VirtualRide",
+        "distance": 3004.3,
+        "average_grade": 0.0,
+        "maximum_grade": 7.8,
+        "elevation_high": 133.0,
+        "elevation_low": 103.0,
+        "start_latlng": [
+          53.99268,
+          -1.559362
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.559357
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967733612564,
+      "resource_state": 2,
+      "name": "Cornwall Rd Climb to Sprint Banner",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 144,
+      "moving_time": 144,
+      "start_date": "2024-11-03T19:53:34Z",
+      "start_date_local": "2024-11-03T14:53:34Z",
+      "distance": 969.0,
+      "start_index": 1266,
+      "end_index": 1410,
+      "average_cadence": 75.0,
+      "device_watts": true,
+      "average_watts": 222.6,
+      "average_heartrate": 166.2,
+      "max_heartrate": 170.0,
+      "segment": {
+        "id": 27180127,
+        "resource_state": 2,
+        "name": "Cornwall Rd Climb to Sprint Banner",
+        "activity_type": "VirtualRide",
+        "distance": 969.0,
+        "average_grade": 2.5,
+        "maximum_grade": 9.1,
+        "elevation_high": 133.0,
+        "elevation_low": 108.4,
+        "start_latlng": [
+          53.993629,
+          -1.547365
+        ],
+        "end_latlng": [
+          53.992664,
+          -1.559354
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967734477844,
+      "resource_state": 2,
+      "name": "Duchy Estate (Banner to Banner)",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 318,
+      "moving_time": 318,
+      "start_date": "2024-11-03T19:55:59Z",
+      "start_date_local": "2024-11-03T14:55:59Z",
+      "distance": 3004.3,
+      "start_index": 1411,
+      "end_index": 1729,
+      "average_cadence": 78.8,
+      "device_watts": true,
+      "average_watts": 210.9,
+      "average_heartrate": 166.8,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 21748097,
+        "resource_state": 2,
+        "name": "Duchy Estate (Banner to Banner)",
+        "activity_type": "VirtualRide",
+        "distance": 3004.3,
+        "average_grade": 0.0,
+        "maximum_grade": 7.8,
+        "elevation_high": 133.0,
+        "elevation_low": 103.0,
+        "start_latlng": [
+          53.99268,
+          -1.559362
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.559357
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967731461140,
+      "resource_state": 2,
+      "name": "Cornwall Rd Climb to Sprint Banner",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 133,
+      "moving_time": 133,
+      "start_date": "2024-11-03T19:59:04Z",
+      "start_date_local": "2024-11-03T14:59:04Z",
+      "distance": 969.0,
+      "start_index": 1596,
+      "end_index": 1729,
+      "average_cadence": 79.0,
+      "device_watts": true,
+      "average_watts": 243.9,
+      "average_heartrate": 171.5,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 27180127,
+        "resource_state": 2,
+        "name": "Cornwall Rd Climb to Sprint Banner",
+        "activity_type": "VirtualRide",
+        "distance": 969.0,
+        "average_grade": 2.5,
+        "maximum_grade": 9.1,
+        "elevation_high": 133.0,
+        "elevation_low": 108.4,
+        "start_latlng": [
+          53.993629,
+          -1.547365
+        ],
+        "end_latlng": [
+          53.992664,
+          -1.559354
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967734045716,
+      "resource_state": 2,
+      "name": "Duchy Estate (Banner to Banner)",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 334,
+      "moving_time": 334,
+      "start_date": "2024-11-03T20:01:17Z",
+      "start_date_local": "2024-11-03T15:01:17Z",
+      "distance": 3004.3,
+      "start_index": 1729,
+      "end_index": 2063,
+      "average_cadence": 77.8,
+      "device_watts": true,
+      "average_watts": 185.7,
+      "average_heartrate": 164.9,
+      "max_heartrate": 171.0,
+      "segment": {
+        "id": 21748097,
+        "resource_state": 2,
+        "name": "Duchy Estate (Banner to Banner)",
+        "activity_type": "VirtualRide",
+        "distance": 3004.3,
+        "average_grade": 0.0,
+        "maximum_grade": 7.8,
+        "elevation_high": 133.0,
+        "elevation_low": 103.0,
+        "start_latlng": [
+          53.99268,
+          -1.559362
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.559357
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967734544404,
+      "resource_state": 2,
+      "name": "Cornwall Rd Climb to Sprint Banner",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 146,
+      "moving_time": 146,
+      "start_date": "2024-11-03T20:04:25Z",
+      "start_date_local": "2024-11-03T15:04:25Z",
+      "distance": 969.0,
+      "start_index": 1917,
+      "end_index": 2063,
+      "average_cadence": 75.3,
+      "device_watts": true,
+      "average_watts": 216.7,
+      "average_heartrate": 167.7,
+      "max_heartrate": 171.0,
+      "segment": {
+        "id": 27180127,
+        "resource_state": 2,
+        "name": "Cornwall Rd Climb to Sprint Banner",
+        "activity_type": "VirtualRide",
+        "distance": 969.0,
+        "average_grade": 2.5,
+        "maximum_grade": 9.1,
+        "elevation_high": 133.0,
+        "elevation_low": 108.4,
+        "start_latlng": [
+          53.993629,
+          -1.547365
+        ],
+        "end_latlng": [
+          53.992664,
+          -1.559354
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967732737044,
+      "resource_state": 2,
+      "name": "Duchy Estate (Banner to Banner)",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 328,
+      "moving_time": 328,
+      "start_date": "2024-11-03T20:06:51Z",
+      "start_date_local": "2024-11-03T15:06:51Z",
+      "distance": 3004.3,
+      "start_index": 2063,
+      "end_index": 2391,
+      "average_cadence": 79.9,
+      "device_watts": true,
+      "average_watts": 199.0,
+      "average_heartrate": 163.8,
+      "max_heartrate": 172.0,
+      "segment": {
+        "id": 21748097,
+        "resource_state": 2,
+        "name": "Duchy Estate (Banner to Banner)",
+        "activity_type": "VirtualRide",
+        "distance": 3004.3,
+        "average_grade": 0.0,
+        "maximum_grade": 7.8,
+        "elevation_high": 133.0,
+        "elevation_low": 103.0,
+        "start_latlng": [
+          53.99268,
+          -1.559362
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.559357
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967735298068,
+      "resource_state": 2,
+      "name": "Cornwall Rd Climb to Sprint Banner",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 145,
+      "moving_time": 145,
+      "start_date": "2024-11-03T20:09:54Z",
+      "start_date_local": "2024-11-03T15:09:54Z",
+      "distance": 969.0,
+      "start_index": 2246,
+      "end_index": 2391,
+      "average_cadence": 76.8,
+      "device_watts": true,
+      "average_watts": 225.3,
+      "average_heartrate": 168.9,
+      "max_heartrate": 172.0,
+      "segment": {
+        "id": 27180127,
+        "resource_state": 2,
+        "name": "Cornwall Rd Climb to Sprint Banner",
+        "activity_type": "VirtualRide",
+        "distance": 969.0,
+        "average_grade": 2.5,
+        "maximum_grade": 9.1,
+        "elevation_high": 133.0,
+        "elevation_low": 108.4,
+        "start_latlng": [
+          53.993629,
+          -1.547365
+        ],
+        "end_latlng": [
+          53.992664,
+          -1.559354
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967733809172,
+      "resource_state": 2,
+      "name": "Duchy Estate (Banner to Banner)",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 320,
+      "moving_time": 320,
+      "start_date": "2024-11-03T20:12:19Z",
+      "start_date_local": "2024-11-03T15:12:19Z",
+      "distance": 3004.3,
+      "start_index": 2391,
+      "end_index": 2711,
+      "average_cadence": 78.9,
+      "device_watts": true,
+      "average_watts": 195.1,
+      "average_heartrate": 164.0,
+      "max_heartrate": 174.0,
+      "segment": {
+        "id": 21748097,
+        "resource_state": 2,
+        "name": "Duchy Estate (Banner to Banner)",
+        "activity_type": "VirtualRide",
+        "distance": 3004.3,
+        "average_grade": 0.0,
+        "maximum_grade": 7.8,
+        "elevation_high": 133.0,
+        "elevation_low": 103.0,
+        "start_latlng": [
+          53.99268,
+          -1.559362
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.559357
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967735007252,
+      "resource_state": 2,
+      "name": "Cornwall Rd Climb to Sprint Banner",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 129,
+      "moving_time": 129,
+      "start_date": "2024-11-03T20:15:30Z",
+      "start_date_local": "2024-11-03T15:15:30Z",
+      "distance": 969.0,
+      "start_index": 2582,
+      "end_index": 2711,
+      "average_cadence": 79.6,
+      "device_watts": true,
+      "average_watts": 248.1,
+      "average_heartrate": 170.1,
+      "max_heartrate": 174.0,
+      "segment": {
+        "id": 27180127,
+        "resource_state": 2,
+        "name": "Cornwall Rd Climb to Sprint Banner",
+        "activity_type": "VirtualRide",
+        "distance": 969.0,
+        "average_grade": 2.5,
+        "maximum_grade": 9.1,
+        "elevation_high": 133.0,
+        "elevation_low": 108.4,
+        "start_latlng": [
+          53.993629,
+          -1.547365
+        ],
+        "end_latlng": [
+          53.992664,
+          -1.559354
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967732252692,
+      "resource_state": 2,
+      "name": "Duchy Estate (Banner to Banner)",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 315,
+      "moving_time": 315,
+      "start_date": "2024-11-03T20:17:39Z",
+      "start_date_local": "2024-11-03T15:17:39Z",
+      "distance": 3004.3,
+      "start_index": 2711,
+      "end_index": 3026,
+      "average_cadence": 85.5,
+      "device_watts": true,
+      "average_watts": 244.0,
+      "average_heartrate": 172.0,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 21748097,
+        "resource_state": 2,
+        "name": "Duchy Estate (Banner to Banner)",
+        "activity_type": "VirtualRide",
+        "distance": 3004.3,
+        "average_grade": 0.0,
+        "maximum_grade": 7.8,
+        "elevation_high": 133.0,
+        "elevation_low": 103.0,
+        "start_latlng": [
+          53.99268,
+          -1.559362
+        ],
+        "end_latlng": [
+          53.99268,
+          -1.559357
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3288252967731565588,
+      "resource_state": 2,
+      "name": "Cornwall Rd Climb to Sprint Banner",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 132,
+      "moving_time": 132,
+      "start_date": "2024-11-03T20:20:42Z",
+      "start_date_local": "2024-11-03T15:20:42Z",
+      "distance": 969.0,
+      "start_index": 2894,
+      "end_index": 3026,
+      "average_cadence": 82.6,
+      "device_watts": true,
+      "average_watts": 269.1,
+      "average_heartrate": 176.6,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 27180127,
+        "resource_state": 2,
+        "name": "Cornwall Rd Climb to Sprint Banner",
+        "activity_type": "VirtualRide",
+        "distance": 969.0,
+        "average_grade": 2.5,
+        "maximum_grade": 9.1,
+        "elevation_high": 133.0,
+        "elevation_low": 108.4,
+        "start_latlng": [
+          53.993629,
+          -1.547365
+        ],
+        "end_latlng": [
+          53.992664,
+          -1.559354
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Harrogate",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1006.5,
+      "elapsed_time": 95,
+      "elevation_difference": -0.4,
+      "moving_time": 95,
+      "split": 1,
+      "average_speed": 10.59,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 135.2421052631579,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.8,
+      "elapsed_time": 101,
+      "elevation_difference": 0.8,
+      "moving_time": 101,
+      "split": 2,
+      "average_speed": 9.88,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 160.86138613861385,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.9,
+      "elapsed_time": 73,
+      "elevation_difference": -17.4,
+      "moving_time": 73,
+      "split": 3,
+      "average_speed": 13.74,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 160.46575342465752,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.1,
+      "elapsed_time": 107,
+      "elevation_difference": 16.2,
+      "moving_time": 107,
+      "split": 4,
+      "average_speed": 9.31,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 163.5981308411215,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.1,
+      "elapsed_time": 103,
+      "elevation_difference": 1.2,
+      "moving_time": 103,
+      "split": 5,
+      "average_speed": 9.75,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 172.29126213592232,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.3,
+      "elapsed_time": 73,
+      "elevation_difference": -18.2,
+      "moving_time": 73,
+      "split": 6,
+      "average_speed": 13.63,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 173.42465753424656,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 109,
+      "elevation_difference": 17.0,
+      "moving_time": 109,
+      "split": 7,
+      "average_speed": 9.2,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 174.58715596330276,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 123,
+      "elevation_difference": 1.0,
+      "moving_time": 123,
+      "split": 8,
+      "average_speed": 8.17,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 171.70731707317074,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.2,
+      "elapsed_time": 79,
+      "elevation_difference": -18.4,
+      "moving_time": 79,
+      "split": 9,
+      "average_speed": 12.61,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 161.74683544303798,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 116,
+      "elevation_difference": 17.0,
+      "moving_time": 116,
+      "split": 10,
+      "average_speed": 8.61,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 167.75,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.7,
+      "elapsed_time": 127,
+      "elevation_difference": 1.4,
+      "moving_time": 127,
+      "split": 11,
+      "average_speed": 7.91,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 170.1259842519685,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.6,
+      "elapsed_time": 81,
+      "elevation_difference": -18.8,
+      "moving_time": 81,
+      "split": 12,
+      "average_speed": 12.24,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 158.2469135802469,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 121,
+      "elevation_difference": 16.8,
+      "moving_time": 121,
+      "split": 13,
+      "average_speed": 8.28,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 162.27272727272728,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 129,
+      "elevation_difference": 1.8,
+      "moving_time": 129,
+      "split": 14,
+      "average_speed": 7.76,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 166.86046511627907,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.0,
+      "elapsed_time": 82,
+      "elevation_difference": -18.8,
+      "moving_time": 82,
+      "split": 15,
+      "average_speed": 12.28,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 161.23170731707316,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.7,
+      "elapsed_time": 116,
+      "elevation_difference": 16.6,
+      "moving_time": 116,
+      "split": 16,
+      "average_speed": 8.58,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 165.68103448275863,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 121,
+      "elevation_difference": 2.2,
+      "moving_time": 121,
+      "split": 17,
+      "average_speed": 8.27,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 171.98347107438016,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.3,
+      "elapsed_time": 80,
+      "elevation_difference": -19.2,
+      "moving_time": 80,
+      "split": 18,
+      "average_speed": 12.44,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 161.4125,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 120,
+      "elevation_difference": 16.2,
+      "moving_time": 120,
+      "split": 19,
+      "average_speed": 8.35,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 163.30833333333334,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.2,
+      "elapsed_time": 134,
+      "elevation_difference": 2.8,
+      "moving_time": 134,
+      "split": 20,
+      "average_speed": 7.5,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 167.23880597014926,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 82,
+      "elevation_difference": -19.0,
+      "moving_time": 82,
+      "split": 21,
+      "average_speed": 12.2,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 154.5487804878049,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.4,
+      "elapsed_time": 111,
+      "elevation_difference": 15.4,
+      "moving_time": 111,
+      "split": 22,
+      "average_speed": 8.93,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 165.78378378378378,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1005.9,
+      "elapsed_time": 134,
+      "elevation_difference": 3.4,
+      "moving_time": 134,
+      "split": 23,
+      "average_speed": 7.51,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 168.44776119402985,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.0,
+      "elapsed_time": 80,
+      "elevation_difference": -19.2,
+      "moving_time": 80,
+      "split": 24,
+      "average_speed": 12.45,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 155.925,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 114,
+      "elevation_difference": 15.4,
+      "moving_time": 114,
+      "split": 25,
+      "average_speed": 8.77,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 162.43859649122808,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.3,
+      "elapsed_time": 126,
+      "elevation_difference": 3.8,
+      "moving_time": 126,
+      "split": 26,
+      "average_speed": 7.97,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 170.74603174603175,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 80,
+      "elevation_difference": -19.4,
+      "moving_time": 80,
+      "split": 27,
+      "average_speed": 12.49,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 164.8375,
+      "pace_zone": 0
+    },
+    {
+      "distance": 994.9,
+      "elapsed_time": 106,
+      "elevation_difference": 15.0,
+      "moving_time": 106,
+      "split": 28,
+      "average_speed": 9.39,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 173.67924528301887,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1010.3,
+      "elapsed_time": 126,
+      "elevation_difference": 4.4,
+      "moving_time": 126,
+      "split": 29,
+      "average_speed": 8.02,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 176.11904761904762,
+      "pace_zone": 0
+    },
+    {
+      "distance": 110.3,
+      "elapsed_time": 10,
+      "elevation_difference": 1.0,
+      "moving_time": 10,
+      "split": 30,
+      "average_speed": 11.03,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 166.0,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1612.5,
+      "elapsed_time": 165,
+      "elevation_difference": 7.6,
+      "moving_time": 165,
+      "split": 1,
+      "average_speed": 9.77,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 145.5939393939394,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.1,
+      "elapsed_time": 129,
+      "elevation_difference": -18.2,
+      "moving_time": 129,
+      "split": 2,
+      "average_speed": 12.46,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 161.48837209302326,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1619.9,
+      "elapsed_time": 173,
+      "elevation_difference": 13.8,
+      "moving_time": 173,
+      "split": 3,
+      "average_speed": 9.36,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 168.3757225433526,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.1,
+      "elapsed_time": 130,
+      "elevation_difference": -18.0,
+      "moving_time": 130,
+      "split": 4,
+      "average_speed": 12.32,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 173.64615384615385,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.9,
+      "elapsed_time": 191,
+      "elevation_difference": 15.4,
+      "moving_time": 191,
+      "split": 5,
+      "average_speed": 8.44,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 172.57068062827224,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.7,
+      "elapsed_time": 142,
+      "elevation_difference": -16.8,
+      "moving_time": 142,
+      "split": 6,
+      "average_speed": 11.31,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 164.32394366197184,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.3,
+      "elapsed_time": 200,
+      "elevation_difference": 12.0,
+      "moving_time": 200,
+      "split": 7,
+      "average_speed": 8.06,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 168.735,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.4,
+      "elapsed_time": 156,
+      "elevation_difference": -4.6,
+      "moving_time": 156,
+      "split": 8,
+      "average_speed": 10.3,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 159.71794871794873,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.3,
+      "elapsed_time": 191,
+      "elevation_difference": -0.2,
+      "moving_time": 191,
+      "split": 9,
+      "average_speed": 8.41,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 166.0628272251309,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.0,
+      "elapsed_time": 171,
+      "elevation_difference": 9.2,
+      "moving_time": 171,
+      "split": 10,
+      "average_speed": 9.44,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 164.66666666666666,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.4,
+      "elapsed_time": 164,
+      "elevation_difference": -15.0,
+      "moving_time": 164,
+      "split": 11,
+      "average_speed": 9.79,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 168.9329268292683,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.3,
+      "elapsed_time": 194,
+      "elevation_difference": 18.8,
+      "moving_time": 194,
+      "split": 12,
+      "average_speed": 8.3,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 164.27835051546393,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.9,
+      "elapsed_time": 159,
+      "elevation_difference": -25.2,
+      "moving_time": 159,
+      "split": 13,
+      "average_speed": 10.15,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 160.42138364779873,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.0,
+      "elapsed_time": 204,
+      "elevation_difference": 28.4,
+      "moving_time": 204,
+      "split": 14,
+      "average_speed": 7.88,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 166.7156862745098,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.7,
+      "elapsed_time": 143,
+      "elevation_difference": -20.6,
+      "moving_time": 143,
+      "split": 15,
+      "average_speed": 11.24,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 159.67832167832168,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.4,
+      "elapsed_time": 199,
+      "elevation_difference": 21.8,
+      "moving_time": 199,
+      "split": 16,
+      "average_speed": 8.08,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 167.68341708542712,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 146,
+      "elevation_difference": -20.4,
+      "moving_time": 146,
+      "split": 17,
+      "average_speed": 11.02,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 166.94520547945206,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.3,
+      "elapsed_time": 189,
+      "elevation_difference": 12.8,
+      "moving_time": 189,
+      "split": 18,
+      "average_speed": 8.53,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 175.83597883597884,
+      "pace_zone": 0
+    },
+    {
+      "distance": 149.3,
+      "elapsed_time": 13,
+      "elevation_difference": -0.2,
+      "moving_time": 13,
+      "split": 19,
+      "average_speed": 11.48,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 166.76923076923077,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 45018134371,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 12816478714,
+        "id_str": "12816478714",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 3059,
+      "moving_time": 3055,
+      "start_date": "2024-11-03T19:32:23Z",
+      "start_date_local": "2024-11-03T14:32:23Z",
+      "distance": 29120.9,
+      "average_speed": 9.53,
+      "max_speed": 17.44,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 3054,
+      "total_elevation_gain": 358.8,
+      "average_cadence": 79.9,
+      "device_watts": true,
+      "average_watts": 215.5,
+      "average_heartrate": 165.6,
+      "max_heartrate": 178.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "4ba4cbf4-f4b7-4558-bc79-51a9017fa3bf",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/lfXzR1dQBvBRkh8xaxzaHAxhD65w2zeGqKHtJwZiaeA-768x480.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/lfXzR1dQBvBRkh8xaxzaHAxhD65w2zeGqKHtJwZiaeA-128x80.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "1844a6078d54a5c9629b642fb3a272b6e022bc06",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}

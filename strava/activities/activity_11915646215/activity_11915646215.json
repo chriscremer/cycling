@@ -1,0 +1,136 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "id_str": "9693467",
+    "resource_state": 1
+  },
+  "name": "Night Elliptical",
+  "distance": 0.0,
+  "moving_time": 1305,
+  "elapsed_time": 1305,
+  "total_elevation_gain": 0,
+  "type": "Elliptical",
+  "sport_type": "Elliptical",
+  "workout_type": 27,
+  "device_name": "Strava App",
+  "id": 11915646215,
+  "id_str": "11915646215",
+  "start_date": "2024-07-18T01:49:32Z",
+  "start_date_local": "2024-07-17T21:49:32Z",
+  "timezone": "(GMT-04:00) America/Anguilla",
+  "utc_offset": -14400.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a11915646215",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": true,
+  "visibility": "only_me",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 0.0,
+  "max_speed": 0.0,
+  "has_heartrate": true,
+  "average_heartrate": 160.5,
+  "max_heartrate": 182.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 0.0,
+  "elev_low": 0.0,
+  "upload_id": 12705447777,
+  "upload_id_str": "12705447777",
+  "external_id": "AC8A0FF3-530A-459E-83DF-8378BD7E52F8-activity.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 44.0,
+  "description": null,
+  "calories": 0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [],
+  "laps": [
+    {
+      "id": 41661476882,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 11915646215,
+        "id_str": "11915646215",
+        "visibility": "only_me",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 1305,
+      "moving_time": 1302,
+      "start_date": "2024-07-18T01:49:32Z",
+      "start_date_local": "2024-07-17T21:49:32Z",
+      "distance": 0.0,
+      "average_speed": 0.0,
+      "max_speed": 0.0,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 1296,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 160.5,
+      "max_heartrate": 182.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "15fdb3e023225433ac768e82b10abe3cda92e0a5",
+  "available_zones": [
+    "heartrate"
+  ]
+}

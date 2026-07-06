@@ -1,0 +1,167 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "id_str": "9693467",
+    "resource_state": 1
+  },
+  "name": "Rev & Run 2024",
+  "distance": 0.0,
+  "moving_time": 1228,
+  "elapsed_time": 1228,
+  "total_elevation_gain": 0,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": 0,
+  "device_name": "Strava App",
+  "id": 11931026421,
+  "id_str": "11931026421",
+  "start_date": "2024-07-19T23:30:02Z",
+  "start_date_local": "2024-07-19T19:30:02Z",
+  "timezone": "(GMT-04:00) America/Anguilla",
+  "utc_offset": -14400.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 14,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a11931026421",
+    "polyline": "",
+    "resource_state": 3,
+    "summary_polyline": ""
+  },
+  "trainer": true,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [],
+  "end_latlng": [],
+  "average_speed": 0.0,
+  "max_speed": 0.0,
+  "has_heartrate": true,
+  "average_heartrate": 175.8,
+  "max_heartrate": 186.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 0.0,
+  "elev_low": 0.0,
+  "upload_id": 12721420594,
+  "upload_id_str": "12721420594",
+  "external_id": "76EC0E90-C10F-49E6-A7FC-0AE55ED4F33E-activity.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "suffer_score": 74.0,
+  "description": "19:32 5k",
+  "calories": 0.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": false,
+  "segment_efforts": [],
+  "laps": [
+    {
+      "id": 41716257430,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 11931026421,
+        "id_str": "11931026421",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 1227,
+      "moving_time": 1227,
+      "start_date": "2024-07-19T23:30:02Z",
+      "start_date_local": "2024-07-19T19:30:02Z",
+      "distance": 0.0,
+      "average_speed": 0.0,
+      "max_speed": 0.0,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 1167,
+      "total_elevation_gain": 0,
+      "device_watts": false,
+      "average_heartrate": 175.8,
+      "max_heartrate": 186.0,
+      "pace_zone": 1
+    }
+  ],
+  "best_efforts": [],
+  "photos": {
+    "primary": {
+      "unique_id": "cbaa4ed2-4479-4986-a8af-f6e5182c6b08",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/aNXrOmIQWyZNjFdJGwtWetKPnemezZT4FnaEtFrLmJY-768x279.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/aNXrOmIQWyZNjFdJGwtWetKPnemezZT4FnaEtFrLmJY-128x46.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "02ec5b1f7e6364231287c8cd11ff2e3bf2419fb1",
+  "private_note": "",
+  "similar_activities": {
+    "effort_count": 0,
+    "average_speed": 0,
+    "min_average_speed": 0,
+    "mid_average_speed": 0,
+    "max_average_speed": 0,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [],
+      "current_activity_index": null,
+      "min_speed": 0,
+      "mid_speed": 0,
+      "max_speed": 0,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "heartrate",
+    "pace"
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "id_str": "9693467",
+    "resource_state": 1
+  },
+  "name": "Zwift - Race: Stage 4: Punchy Power - London Loop (C) on London Loop in London",
+  "distance": 15955.3,
+  "moving_time": 1672,
+  "elapsed_time": 1672,
+  "total_elevation_gain": 245.0,
+  "type": "VirtualRide",
+  "sport_type": "VirtualRide",
+  "device_name": "Zwift",
+  "id": 12199800241,
+  "id_str": "12199800241",
+  "start_date": "2024-08-20T21:12:15Z",
+  "start_date_local": "2024-08-20T17:12:15Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -14400.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 3,
+  "kudos_count": 1,
+  "comment_count": 0,
+  "athlete_count": 12,
+  "photo_count": 0,
+  "map": {
+    "id": "a12199800241",
+    "polyline": "}ukyHvzMfDDb@H`@TPPZd@HXB\\@|@C|DC^WxBMxC@ZNp@j@zAXnAT~AHhBAbAG`AQvBmA`S[tDQlCQzAkAtGqBhRm@~HWtFE~DChJI`GDnBn@pHFvBGnPHfIGzL?hFAbGBpCXfH\\xEP`Bf@~CzA`Ij@bCr@xBb@fAr@|AtAfC^h@lAbAfBjA|BfAd@XPNNVFZ?^C\\YjBoB`RYvBCR@TN^TTJFJ?JAbAYdD_BnCaA|Aa@nAUv@MnAObBKrE@|C@zAJl@AzCHh@?h@Gf@KbBk@h@M|@GlCExDc@rEq@zAGNOHYB]`BmZMWSGuASSIG[B_An@uLLc@ZAXDXEFg@\\iHDe@La@NY|@s@b@m@L[H]Fa@@a@Ca@Ea@MYOSSMcCqAgAg@QMGWB[b@cD?[KOe@K{Ca@S@w@PQ?OMIW?]FWTo@BYIWMMMIOCwA?i@DYJg@TaDhBiAd@k@Hy@Cm@?WIGKEMQcD?k@PmAXqApAiEv@_CXo@h@{@p@wAxAkDpAgDb@cAx@oAl@o@nAw@tAm@LKDIDWA[EGQKQIQAYBa@LaA^iAh@y@l@cA`AkCdDgAlAe@p@OHI?IIG[?QF[NWp@}@x@qAd@{@bBuDn@oAb@o@~@{@`DoDr@k@`CsA~@e@t@g@`FyD|FmFRMHCH@HFFJH^@RGhCAbBDtBFrAh@xBFRJPLJPBb@CPGr@i@PGRCd@@d@LRBRBRCNQRw@n@gBF]H_B?_BG_BM}@uAgGOw@Gy@C{ACyFFuIGoE@{@FwBXsF\\cERaDBoA?wAC_EKqEMcDMmB]eDMu@Ou@Um@]c@a@Me@?c@HgB`@c@Fa@C]YQo@Gu@C}EEs@Kq@g@oAq@gAY]]W]Oa@C_@L[\\m@lAeBvEUh@Wd@]Xa@B]SYa@Sg@Qm@Iq@AmBP{OG_CS}B[uBQy@g@iBUo@Yk@[c@]_@_@Y]Q_@I_@@]PYXW^i@dASd@Of@Gn@GpCS~AOh@U`@[V]MW_@Sc@Se@Oi@YuAIm@Ao@XqDMc@YMeB]W@Gd@c@bIE`A@^JZNRn@v@Xl@XlAHx@?\\MvAOt@IVMT_@XQHc@Hc@As@SwBiAMOAYLoA?YMSs@YsFsCQ@GVKv@e@lCOTQ@wCqBgC_BqMeIe@K}AYeH_Ae@CQBQJMPc@z@]`AGVAX@Z\\dBPpARrBBx@CjFGz@QrAMlDBZFXv@|BZbBRxB?j@AtAs@jKo@|KYfDS~CQzAi@pC",
+    "resource_state": 3,
+    "summary_polyline": "}ukyHvzMfDDb@H`@TPPZd@HXB\\@|@C|DC^WxBMxC@ZNp@j@zAXnAT~AHhBAbAG`AQvBmA`S[tDQlCQzAkAtGqBhRm@~HWtFE~DChJI`GDnBn@pHFvBGnPHfIGzL?hFAbGBpCXfH\\xEP`Bf@~CzA`Ij@bCr@xBb@fAr@|AtAfC^h@lAbAfBjAbD`BPNNVFZ?^C\\YjBoB`RYvBCR@TN^TTJFVAbAYdD_BnCaArCq@fC_@|BOnC@`F@zAJrFFpASlCy@|@GxBCx@GfJoAzAGNOHYB]`BmZMWiB[SIG[B_An@uLLc@ZAXDXEFg@\\iHDe@La@NY|@s@b@m@L[H]Fa@@a@Ca@Ea@MYOSSM}EgCGWB[b@cD?[KOaEm@kARQ?OMIW?]FWTo@BYIW[WgBCi@DaA`@aDhBiAd@k@HgBCWIGKEMQcD?k@PmAXqApAiEv@_CXo@h@{@p@wAxAkDpAgDb@cAx@oAl@o@nAw@tAm@RUDWA[MOe@OY@YFqBx@aAj@}ApAyCvDaAdAe@p@OHI?IIG[@_@LYx@iAx@qAj@iApBkEh@aAZa@x@s@`DoDr@k@`EyBt@g@`FyD|FmF\\QH@PRH^@RGhCAbBDtBFrAh@xBRd@LJPBb@CPGr@i@d@Kd@@x@Pf@?NQRw@n@gBF]H_B?_BG_BM}@uAgGOw@Gy@C{ACyFFuIGoE@{@FwBXsF\\cERaDBoA?wAC_EKqEMcDMmB]eDMu@Ou@Um@]c@a@MiAHkCh@a@C]YQo@Gu@C}EEs@Kq@g@oAq@gAY]]W]Oa@C_@L[\\m@lAeBvEm@nA]Xa@B]SYa@Sg@Qm@Iq@AmBP{OG_CS}B[uBQy@g@iBUo@Yk@[c@]_@_@Y]Q_@I_@@]PYXW^i@dASd@Of@Gn@GpCS~AOh@U`@[V]MW_@Sc@Se@Oi@YuAIm@Ao@XqDMc@YMeB]W@Gd@c@bIE`A@^JZ~@jAXl@XlAHx@?\\MvAOt@IVMT_@Xu@Rc@As@SwBiAMOAYLoA?YMSgHmDQ@GVKv@e@lCOTQ@_HqEqMeIcCe@eH_Ae@CQBQJMPc@z@]`AGVAX@Z\\dBPpARrBBx@CjFGz@QrAMlDBZFXv@|BZbBRxB?j@AtAs@jKo@|KYfDS~CQzAi@pC"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    51.510876724496484,
+    -0.07611514069139957
+  ],
+  "end_latlng": [
+    51.510050520300865,
+    -0.08924731984734535
+  ],
+  "average_speed": 9.543,
+  "max_speed": 22.33,
+  "average_cadence": 74.6,
+  "average_watts": 242.8,
+  "max_watts": 715,
+  "weighted_average_watts": 258,
+  "device_watts": true,
+  "kilojoules": 405.9,
+  "has_heartrate": true,
+  "average_heartrate": 159.4,
+  "max_heartrate": 178.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 155.6,
+  "elev_low": 3.0,
+  "upload_id": 13006454554,
+  "upload_id_str": "13006454554",
+  "external_id": "zwift-activity-1680062888359788576.fit",
+  "from_accepted_tag": false,
+  "pr_count": 1,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "suffer_score": 56.0,
+  "description": null,
+  "calories": 401.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3261093380172766412,
+      "resource_state": 2,
+      "name": "London Loop",
+      "activity": {
+        "id": 12199800241,
+        "id_str": "12199800241",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 1528,
+      "moving_time": 1528,
+      "start_date": "2024-08-20T21:13:13Z",
+      "start_date_local": "2024-08-20T17:13:13Z",
+      "distance": 14851.6,
+      "start_index": 58,
+      "end_index": 1586,
+      "average_cadence": 75.8,
+      "device_watts": true,
+      "average_watts": 252.3,
+      "average_heartrate": 160.3,
+      "max_heartrate": 177.0,
+      "segment": {
+        "id": 12749649,
+        "resource_state": 2,
+        "name": "London Loop",
+        "activity_type": "VirtualRide",
+        "distance": 14851.6,
+        "average_grade": 0.0,
+        "maximum_grade": 12.1,
+        "elevation_high": 155.4,
+        "elevation_low": 3.0,
+        "start_latlng": [
+          51.509083,
+          -0.082818
+        ],
+        "end_latlng": [
+          51.509078,
+          -0.082845
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "London",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3261093380172254412,
+      "resource_state": 2,
+      "name": "Northumberland Ave Climb",
+      "activity": {
+        "id": 12199800241,
+        "id_str": "12199800241",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 41,
+      "moving_time": 41,
+      "start_date": "2024-08-20T21:17:46Z",
+      "start_date_local": "2024-08-20T17:17:46Z",
+      "distance": 352.6,
+      "start_index": 331,
+      "end_index": 372,
+      "average_cadence": 72.6,
+      "device_watts": true,
+      "average_watts": 338.0,
+      "average_heartrate": 150.2,
+      "max_heartrate": 159.0,
+      "segment": {
+        "id": 27190459,
+        "resource_state": 2,
+        "name": "Northumberland Ave Climb",
+        "activity_type": "VirtualRide",
+        "distance": 352.6,
+        "average_grade": 4.1,
+        "maximum_grade": 5.9,
+        "elevation_high": 23.2,
+        "elevation_low": 8.8,
+        "start_latlng": [
+          51.50669,
+          -0.122053
+        ],
+        "end_latlng": [
+          51.507302,
+          -0.126789
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "London",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3261093380171873484,
+      "resource_state": 2,
+      "name": "Box Hill KOM",
+      "activity": {
+        "id": 12199800241,
+        "id_str": "12199800241",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 516,
+      "moving_time": 516,
+      "start_date": "2024-08-20T21:22:52Z",
+      "start_date_local": "2024-08-20T17:22:52Z",
+      "distance": 3011.6,
+      "start_index": 637,
+      "end_index": 1153,
+      "average_cadence": 77.9,
+      "device_watts": true,
+      "average_watts": 278.3,
+      "average_heartrate": 168.6,
+      "max_heartrate": 174.0,
+      "segment": {
+        "id": 12744502,
+        "resource_state": 2,
+        "name": "Box Hill KOM",
+        "activity_type": "VirtualRide",
+        "distance": 3011.6,
+        "average_grade": 4.4,
+        "maximum_grade": 7.9,
+        "elevation_high": 143.8,
+        "elevation_low": 8.0,
+        "start_latlng": [
+          51.496391,
+          -0.110167
+        ],
+        "end_latlng": [
+          51.489267,
+          -0.099539
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 1,
+        "city": "London",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3261093380174604492,
+      "resource_state": 2,
+      "name": "Fox Hill Descent",
+      "activity": {
+        "id": 12199800241,
+        "id_str": "12199800241",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 166,
+      "moving_time": 166,
+      "start_date": "2024-08-20T21:31:28Z",
+      "start_date_local": "2024-08-20T17:31:28Z",
+      "distance": 2416.2,
+      "start_index": 1153,
+      "end_index": 1319,
+      "average_cadence": 81.4,
+      "device_watts": true,
+      "average_watts": 242.1,
+      "average_heartrate": 167.9,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 27190651,
+        "resource_state": 2,
+        "name": "Fox Hill Descent",
+        "activity_type": "VirtualRide",
+        "distance": 2416.2,
+        "average_grade": -4.3,
+        "maximum_grade": 9.7,
+        "elevation_high": 155.6,
+        "elevation_low": 35.6,
+        "start_latlng": [
+          51.489272,
+          -0.099574
+        ],
+        "end_latlng": [
+          51.495388,
+          -0.075177
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "London",
+        "state": "England",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1002.8,
+      "elapsed_time": 101,
+      "elevation_difference": 6.0,
+      "moving_time": 101,
+      "split": 1,
+      "average_speed": 9.93,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 134.83168316831683,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1010.8,
+      "elapsed_time": 83,
+      "elevation_difference": -14.2,
+      "moving_time": 83,
+      "split": 2,
+      "average_speed": 12.18,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 142.6867469879518,
+      "pace_zone": 0
+    },
+    {
+      "distance": 987.1,
+      "elapsed_time": 95,
+      "elevation_difference": 3.8,
+      "moving_time": 95,
+      "split": 3,
+      "average_speed": 10.39,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 146.65263157894736,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.7,
+      "elapsed_time": 101,
+      "elevation_difference": 12.2,
+      "moving_time": 101,
+      "split": 4,
+      "average_speed": 9.93,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 148.54455445544554,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.5,
+      "elapsed_time": 86,
+      "elevation_difference": -11.8,
+      "moving_time": 86,
+      "split": 5,
+      "average_speed": 11.6,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 156.34883720930233,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.2,
+      "elapsed_time": 93,
+      "elevation_difference": -8.4,
+      "moving_time": 93,
+      "split": 6,
+      "average_speed": 10.82,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 152.752688172043,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 91,
+      "elevation_difference": 4.2,
+      "moving_time": 91,
+      "split": 7,
+      "average_speed": 11.0,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 151.67032967032966,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.9,
+      "elapsed_time": 192,
+      "elevation_difference": 59.4,
+      "moving_time": 192,
+      "split": 8,
+      "average_speed": 5.19,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 167.21875,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.4,
+      "elapsed_time": 184,
+      "elevation_difference": 49.2,
+      "moving_time": 184,
+      "split": 9,
+      "average_speed": 5.42,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 168.67391304347825,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1009.4,
+      "elapsed_time": 134,
+      "elevation_difference": 21.6,
+      "moving_time": 134,
+      "split": 10,
+      "average_speed": 7.53,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 171.23880597014926,
+      "pace_zone": 0
+    },
+    {
+      "distance": 990.5,
+      "elapsed_time": 90,
+      "elevation_difference": -9.8,
+      "moving_time": 90,
+      "split": 11,
+      "average_speed": 11.01,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 168.75555555555556,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1016.2,
+      "elapsed_time": 53,
+      "elevation_difference": -59.6,
+      "moving_time": 53,
+      "split": 12,
+      "average_speed": 19.17,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 168.71698113207546,
+      "pace_zone": 0
+    },
+    {
+      "distance": 991.9,
+      "elapsed_time": 52,
+      "elevation_difference": -65.2,
+      "moving_time": 52,
+      "split": 13,
+      "average_speed": 19.08,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.80769230769232,
+      "pace_zone": 0
+    },
+    {
+      "distance": 993.4,
+      "elapsed_time": 94,
+      "elevation_difference": 10.6,
+      "moving_time": 94,
+      "split": 14,
+      "average_speed": 10.57,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 156.68085106382978,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.0,
+      "elapsed_time": 94,
+      "elevation_difference": 2.0,
+      "moving_time": 94,
+      "split": 15,
+      "average_speed": 10.67,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 170.69148936170214,
+      "pace_zone": 0
+    },
+    {
+      "distance": 950.3,
+      "elapsed_time": 129,
+      "elevation_difference": 9.6,
+      "moving_time": 129,
+      "split": 16,
+      "average_speed": 7.37,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 166.696,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1621.6,
+      "elapsed_time": 154,
+      "elevation_difference": -1.4,
+      "moving_time": 154,
+      "split": 1,
+      "average_speed": 10.53,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 137.3961038961039,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.9,
+      "elapsed_time": 146,
+      "elevation_difference": -3.0,
+      "moving_time": 146,
+      "split": 2,
+      "average_speed": 10.99,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 145.97260273972603,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1613.3,
+      "elapsed_time": 152,
+      "elevation_difference": 1.6,
+      "moving_time": 152,
+      "split": 3,
+      "average_speed": 10.61,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 152.7565789473684,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.8,
+      "elapsed_time": 140,
+      "elevation_difference": -11.2,
+      "moving_time": 140,
+      "split": 4,
+      "average_speed": 11.45,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 152.57857142857142,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.3,
+      "elapsed_time": 259,
+      "elevation_difference": 67.4,
+      "moving_time": 259,
+      "split": 5,
+      "average_speed": 6.21,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 163.8030888030888,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 277,
+      "elevation_difference": 72.2,
+      "moving_time": 277,
+      "split": 6,
+      "average_speed": 5.81,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 170.06137184115522,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1623.9,
+      "elapsed_time": 136,
+      "elevation_difference": -34.8,
+      "moving_time": 136,
+      "split": 7,
+      "average_speed": 11.94,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 168.8014705882353,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 84,
+      "elevation_difference": -98.4,
+      "moving_time": 84,
+      "split": 8,
+      "average_speed": 19.14,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 162.57142857142858,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1596.4,
+      "elapsed_time": 145,
+      "elevation_difference": 5.6,
+      "moving_time": 145,
+      "split": 9,
+      "average_speed": 11.01,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 161.4344827586207,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1468.9,
+      "elapsed_time": 179,
+      "elevation_difference": 11.6,
+      "moving_time": 179,
+      "split": 10,
+      "average_speed": 8.21,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 167.31428571428572,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 42706170984,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 12199800241,
+        "id_str": "12199800241",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 1672,
+      "moving_time": 1673,
+      "start_date": "2024-08-20T21:12:15Z",
+      "start_date_local": "2024-08-20T17:12:15Z",
+      "distance": 15955.7,
+      "average_speed": 9.54,
+      "max_speed": 22.33,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 1672,
+      "total_elevation_gain": 235.0,
+      "average_cadence": 74.6,
+      "device_watts": true,
+      "average_watts": 242.8,
+      "average_heartrate": 159.4,
+      "max_heartrate": 178.0
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "a51debf1-ae81-4278-8003-2b7c10186854",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/FoGakkpk86OnrsUgw0wsT-lKeqyum5p3dkd9hGx7_EA-768x480.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/FoGakkpk86OnrsUgw0wsT-lKeqyum5p3dkd9hGx7_EA-128x80.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "3c5ae28957d5b4bc2751a8e3471587e4a051ba1c",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}

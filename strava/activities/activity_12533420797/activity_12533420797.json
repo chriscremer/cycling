@@ -1,0 +1,1202 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "id_str": "9693467",
+    "resource_state": 1
+  },
+  "name": "Chicago run",
+  "distance": 10054.0,
+  "moving_time": 2869,
+  "elapsed_time": 2973,
+  "total_elevation_gain": 5.8,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": 0,
+  "device_name": "Strava App",
+  "id": 12533420797,
+  "id_str": "12533420797",
+  "start_date": "2024-09-29T14:06:51Z",
+  "start_date_local": "2024-09-29T09:06:51Z",
+  "timezone": "(GMT-06:00) America/Chicago",
+  "utc_offset": -18000.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 0,
+  "kudos_count": 12,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a12533420797",
+    "polyline": "qkv~FrqxuOUg@ME?ADFDCACMBPQOKDUYQAKEG@UVy@IY@YCWNu@I]?]FWBa@DOB??KHCH@NXNID@VYFSFI@KTKVUb@w@@GHCFMRQDMFCZUHQNGFKXQFI^SJSM@QHML]PIH]VOBc@PI@GHa@XQPCAe@`@_@PI@a@Z_@PUPK@]Lu@l@g@TKLUHy@l@MBm@ZINITEX@fACDDj@?ZEVBPEP@HANDTGFHN@NEHC\\HT@NAlADHAPDh@Id@C`@CPLd@?TELDP?JEH?JBHQh@C@DC@MUUKCM@QCMBQIS?MFWIQ@IAIGOAUMDc@m@CXSQOOEQ@GDG?YTODIFINMCc@P[?UFK?c@L]Lm@JQ?[LKFQDQ?[Ni@LaA\\oAVy@TYNQ@EDYB_@LgAFo@Ro@H_@Le@FCBYFSDQASFKAc@HY@MFc@BMBK?KBEAKBoBJi@?_@FWCc@B_AE{@e@GKSMe@SSMsAFIAOIMAw@s@w@_@k@QKIgAKQEMBK?EDUDWPE?KHMVKNQJILKBe@\\[^q@b@o@|@GTc@p@ELc@x@}AbBkAv@[XWNED]LEDKDMLw@ZEFOFe@X]JeAp@QBmAf@}A^WLq@Jc@LWDk@N{@J]@c@Jw@J]HS@_@HQ?}@PQ?m@JK?_AXc@HUH_@Da@L_ALe@PW@sA^WBa@Na@Dm@LQ?QDU?o@HoAGa@Ko@e@YOqAcAUEi@JKAu@RaAl@g@h@a@ZKRYVy@n@u@d@m@T_@HSHgAVS@YFGA[B_@Fo@?SDMA[@a@Cg@D{AIcASa@ASBMFIJi@Zk@p@WFs@EE@GA[BEAW@QGmASc@?Ti@FWAMBMETOZCP@TLPv@@bANh@AxABVO`@]T_@PI`@I^?L@RH\\@f@HnBFRA`BCr@OZBLAtB_@z@WDEv@[Z[ZS`@a@^YPSNKZe@VUPYNA^SNCp@ERCT?b@PXZHBl@j@h@XTBXP\\Db@@TATEd@Cv@IXIRC|@OdA[~@OjA]REXCRGXCnA[PAVK\\GP?REBEl@Ex@QXE`@AXIPCJEdAOzAa@ZAnAWNIl@OPIPCTOPAz@]XSN?NG^SLENMp@[POBGj@S`Ak@XWp@_@X]TOPWdAoA^y@Za@HWb@i@n@e@h@q@j@WLKv@aAj@YJCpACxAZRL@DVLRRTJJJDLRNvAKf@Bb@Jb@ZTJb@\\f@J|@?LAV@XCT@ZEhAAlAMPDDET?BCZAp@Ol@GTId@IJ?HEj@ILKFABEDBD?XIlB]h@Gf@MHGP?RGP?BAFODCb@E^Gr@YhA]^If@OTCb@O|@Mj@Qj@KVONUFCH?GPADLC`@a@b@m@HEP@FHHXTb@OH@Fl@|@EWZ@PDv@B`@F\\JVANFNQDONIN?PCBEDQHM?QNK?QDUR[CQG@GGWAMGEK?MGCB_@Yw@@c@DKCGHe@MKBE@O?e@AGYW?WBG@I?SOOAa@BOOGBc@IG?k@GEBSJQ\\YTGLMj@SJCHE@BCJ?PLNLX?NDp@FBJ@d@LJAJEN@`@GFU?u@IBIb@GFBBABOFCD",
+    "resource_state": 3,
+    "summary_polyline": "qkv~FrqxuOUg@MEDDDCACMBPQOKDUYQAKEG@UVy@IY@YCWNu@I]?]FWBa@DOB??KRANXTGVYFSFI@Kl@a@b@w@@GHCFMRQDMb@YHQNGh@g@^SJS_@JsA`A}@VGH}AjAi@RwA~@i@Nu@l@g@Ta@Vy@l@{@^INITEX@fACDDj@Er@BPEP@HANDTGFHN@NEHC\\HT@NAlADHAPDh@Id@Gr@Ld@Eb@DPETBTQh@C@DC@MUUKCm@@QIS?MFi@Gc@KUMDc@m@CXSQOOEQ@i@ZODSVMCc@P}@FaAZ_AJg@Tc@D[NkBj@oAVsAd@q@J_@LgAFeDr@]Je@B}C`@cFX{@?_AE{@e@[Yy@a@sAFg@Mw@s@oB{@yAQYBy@\\KHYf@QJILKBaA|@q@b@o@|@GTc@p@i@fA}AbBkAv@[XmAn@MLw@ZEFsAl@eAp@QBmAf@}A^WLq@JgBb@yALyB`@cC\\kAJyBl@aAR_ALe@PW@mCr@oARiBNoAGa@K{CyBUEu@Hu@RaAl@uAxAYVy@n@u@d@aBh@gAVm@HcAHcADsB@{AIcASa@Aa@JIJi@Zk@p@WFaAEy@BQGmASc@?\\aA@[ETOZCP@TLPv@@bANbC@x@m@T_@PI`@I^?`@J\\@f@HnBFtBEr@Oh@@tB_@z@W|@a@jC_CNKdAuANAn@WzAIb@PpAjAh@XTBXP\\Dx@?rBSjB]dA[~@OjA]zAUxBi@n@GVKl@Ex@Qz@G|Bc@zAa@ZAnAW`Bg@TOPAz@]XS^GnBcATWj@S`Ak@jAw@X]TOPWdAoA^y@Za@HWb@i@n@e@h@q@x@c@v@aAv@]pACxAZvA`APXRNvAKf@Bb@J|AdAf@JbB?tCIlAMPD^IZA|E{@XSJBpDo@p@Uv@GBAFODCbAM|Bw@vGyAVONUFCH?IVLC`@a@b@m@HEP@FHHXTb@OH@Fl@|@EWdBJ~@RVANFNQDONI`@CBEN_@?QNK?QDUR[CQG@GGWAMGEK?MGCB_@Yw@@c@DKCGHe@MKDU?e@AGYW?WDQ?SOOAa@BOOGBc@IG?k@GEBSJQ\\YTGLM`A]@BCJ?PZh@?NDp@FBp@NVGN@`@GFU?u@IBIb@GF@FSL"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    41.8989766202867,
+    -87.621532632038
+  ],
+  "end_latlng": [
+    41.89950384199619,
+    -87.62020057998598
+  ],
+  "average_speed": 3.504,
+  "max_speed": 8.578,
+  "has_heartrate": true,
+  "average_heartrate": 167.0,
+  "max_heartrate": 182.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 181.1,
+  "elev_low": 177.8,
+  "upload_id": 13362968354,
+  "upload_id_str": "13362968354",
+  "external_id": "7F509EDD-A4D7-4ED0-BA07-1FEE344506D2-activity.fit",
+  "from_accepted_tag": false,
+  "pr_count": 0,
+  "total_photo_count": 1,
+  "has_kudoed": false,
+  "suffer_score": 129.0,
+  "description": null,
+  "calories": 927.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3275487234585721880,
+      "resource_state": 2,
+      "name": "The Grind: 48",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 746,
+      "moving_time": 746,
+      "start_date": "2024-09-29T14:15:43Z",
+      "start_date_local": "2024-09-29T09:15:43Z",
+      "distance": 2675.7,
+      "start_index": 506,
+      "end_index": 1252,
+      "device_watts": false,
+      "average_heartrate": 174.6,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 5885124,
+        "resource_state": 2,
+        "name": "The Grind: 48",
+        "activity_type": "Run",
+        "distance": 2675.7,
+        "average_grade": 0.1,
+        "maximum_grade": 7.6,
+        "elevation_high": 179.1,
+        "elevation_low": 176.3,
+        "start_latlng": [
+          41.9039,
+          -87.623861
+        ],
+        "end_latlng": [
+          41.926049,
+          -87.630382
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Chicago",
+        "state": "IL",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3275487234586783768,
+      "resource_state": 2,
+      "name": "Kudos to Cooler Temps",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 119,
+      "moving_time": 119,
+      "start_date": "2024-09-29T14:18:50Z",
+      "start_date_local": "2024-09-29T09:18:50Z",
+      "distance": 454.6,
+      "start_index": 693,
+      "end_index": 812,
+      "device_watts": false,
+      "average_heartrate": 176.7,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 18460207,
+        "resource_state": 2,
+        "name": "Kudos to Cooler Temps",
+        "activity_type": "Run",
+        "distance": 454.6,
+        "average_grade": -0.0,
+        "maximum_grade": 1.6,
+        "elevation_high": 180.2,
+        "elevation_low": 178.6,
+        "start_latlng": [
+          41.909789,
+          -87.625504
+        ],
+        "end_latlng": [
+          41.913514,
+          -87.624525
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Chicago",
+        "state": "Illinois",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3275487234585892888,
+      "resource_state": 2,
+      "name": "Lake Front Sandy Path",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 304,
+      "moving_time": 304,
+      "start_date": "2024-09-29T14:22:25Z",
+      "start_date_local": "2024-09-29T09:22:25Z",
+      "distance": 1043.5,
+      "start_index": 908,
+      "end_index": 1212,
+      "device_watts": false,
+      "average_heartrate": 175.7,
+      "max_heartrate": 179.0,
+      "segment": {
+        "id": 11705968,
+        "resource_state": 2,
+        "name": "Lake Front Sandy Path",
+        "activity_type": "Run",
+        "distance": 1043.5,
+        "average_grade": 0.1,
+        "maximum_grade": 2.0,
+        "elevation_high": 180.5,
+        "elevation_low": 178.3,
+        "start_latlng": [
+          41.915699,
+          -87.627314
+        ],
+        "end_latlng": [
+          41.92472,
+          -87.630469
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Chicago",
+        "state": "Illinois",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3275487234588462104,
+      "resource_state": 2,
+      "name": "New Fullerton Path",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 106,
+      "moving_time": 106,
+      "start_date": "2024-09-29T14:27:07Z",
+      "start_date_local": "2024-09-29T09:27:07Z",
+      "distance": 323.4,
+      "start_index": 1190,
+      "end_index": 1296,
+      "device_watts": false,
+      "average_heartrate": 172.1,
+      "max_heartrate": 174.0,
+      "segment": {
+        "id": 10913207,
+        "resource_state": 2,
+        "name": "New Fullerton Path",
+        "activity_type": "Run",
+        "distance": 323.4,
+        "average_grade": 1.1,
+        "maximum_grade": 2.4,
+        "elevation_high": 197.4,
+        "elevation_low": 194.0,
+        "start_latlng": [
+          41.924045,
+          -87.63017
+        ],
+        "end_latlng": [
+          41.926808,
+          -87.629797
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Chicago",
+        "state": "Illinois",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3275487234588545048,
+      "resource_state": 2,
+      "name": "Nature Museum to Goethe St.",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 691,
+      "moving_time": 690,
+      "start_date": "2024-09-29T14:38:11Z",
+      "start_date_local": "2024-09-29T09:38:11Z",
+      "distance": 2366.1,
+      "start_index": 1795,
+      "end_index": 2485,
+      "device_watts": false,
+      "average_heartrate": 170.4,
+      "max_heartrate": 181.0,
+      "segment": {
+        "id": 7029982,
+        "resource_state": 2,
+        "name": "Nature Museum to Goethe St.",
+        "activity_type": "Run",
+        "distance": 2366.1,
+        "average_grade": 0.0,
+        "maximum_grade": 3.9,
+        "elevation_high": 179.2,
+        "elevation_low": 176.6,
+        "start_latlng": [
+          41.925683,
+          -87.630349
+        ],
+        "end_latlng": [
+          41.905998,
+          -87.624793
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Chicago",
+        "state": "IL",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3275487234585868312,
+      "resource_state": 2,
+      "name": "Lake Front - South Lagoon",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 269,
+      "moving_time": 269,
+      "start_date": "2024-09-29T14:38:16Z",
+      "start_date_local": "2024-09-29T09:38:16Z",
+      "distance": 967.604,
+      "start_index": 1800,
+      "end_index": 2069,
+      "device_watts": false,
+      "average_heartrate": 172.0,
+      "max_heartrate": 181.0,
+      "segment": {
+        "id": 630366,
+        "resource_state": 2,
+        "name": "Lake Front - South Lagoon",
+        "activity_type": "Run",
+        "distance": 967.604,
+        "average_grade": -0.0,
+        "maximum_grade": 2.0,
+        "elevation_high": 179.0,
+        "elevation_low": 176.9,
+        "start_latlng": [
+          41.9254031,
+          -87.6303999
+        ],
+        "end_latlng": [
+          41.9169365,
+          -87.6278469
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Chicago",
+        "state": "IL",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3275487234585420824,
+      "resource_state": 2,
+      "name": "Brooks Best Fest Chicago",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 330,
+      "moving_time": 330,
+      "start_date": "2024-09-29T14:38:56Z",
+      "start_date_local": "2024-09-29T09:38:56Z",
+      "distance": 1150.6,
+      "start_index": 1840,
+      "end_index": 2170,
+      "device_watts": false,
+      "average_heartrate": 171.7,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 21468400,
+        "resource_state": 2,
+        "name": "Brooks Best Fest Chicago",
+        "activity_type": "Run",
+        "distance": 1150.6,
+        "average_grade": 0.3,
+        "maximum_grade": 0.8,
+        "elevation_high": 178.6,
+        "elevation_low": 174.6,
+        "start_latlng": [
+          41.92397,
+          -87.63013
+        ],
+        "end_latlng": [
+          41.91446,
+          -87.62544
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Chicago",
+        "state": "Illinois",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3472713563724154678,
+      "resource_state": 2,
+      "name": "Chicago Lakefront Trail",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 96,
+      "moving_time": 96,
+      "start_date": "2024-09-29T14:38:56Z",
+      "start_date_local": "2024-09-29T09:38:56Z",
+      "distance": 344.5,
+      "start_index": 1840,
+      "end_index": 1936,
+      "device_watts": false,
+      "average_heartrate": 175.5,
+      "max_heartrate": 178.0,
+      "segment": {
+        "id": 41127608,
+        "resource_state": 2,
+        "name": "Chicago Lakefront Trail",
+        "activity_type": "Run",
+        "distance": 344.5,
+        "average_grade": 0.1,
+        "maximum_grade": 0.1,
+        "elevation_high": 177.6,
+        "elevation_low": 177.4,
+        "start_latlng": [
+          41.923958,
+          -87.630126
+        ],
+        "end_latlng": [
+          41.920949,
+          -87.629228
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Chicago",
+        "state": "Illinois",
+        "country": "USA",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3275487234586074136,
+      "resource_state": 2,
+      "name": "Kudos to Electrolytes",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 74,
+      "moving_time": 73,
+      "start_date": "2024-09-29T14:43:40Z",
+      "start_date_local": "2024-09-29T09:43:40Z",
+      "distance": 245.7,
+      "start_index": 2124,
+      "end_index": 2198,
+      "device_watts": false,
+      "average_heartrate": 173.5,
+      "max_heartrate": 176.0,
+      "segment": {
+        "id": 18389307,
+        "resource_state": 2,
+        "name": "Kudos to Electrolytes",
+        "activity_type": "Run",
+        "distance": 245.7,
+        "average_grade": -0.2,
+        "maximum_grade": 0.7,
+        "elevation_high": 170.4,
+        "elevation_low": 169.0,
+        "start_latlng": [
+          41.915416,
+          -87.626773
+        ],
+        "end_latlng": [
+          41.913779,
+          -87.624802
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Chicago",
+        "state": "Illinois",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3275487234586735640,
+      "resource_state": 2,
+      "name": "Lincoln Park to Gold Coast",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 427,
+      "moving_time": 424,
+      "start_date": "2024-09-29T14:44:50Z",
+      "start_date_local": "2024-09-29T09:44:50Z",
+      "distance": 1392.7,
+      "start_index": 2194,
+      "end_index": 2620,
+      "device_watts": false,
+      "average_heartrate": 167.4,
+      "max_heartrate": 175.0,
+      "segment": {
+        "id": 17839035,
+        "resource_state": 2,
+        "name": "Lincoln Park to Gold Coast",
+        "activity_type": "Run",
+        "distance": 1392.7,
+        "average_grade": -0.2,
+        "maximum_grade": 1.6,
+        "elevation_high": 179.2,
+        "elevation_low": 176.2,
+        "start_latlng": [
+          41.913895,
+          -87.624782
+        ],
+        "end_latlng": [
+          41.902056,
+          -87.6229
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Chicago",
+        "state": "Illinois",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3275487234585187352,
+      "resource_state": 2,
+      "name": "Burst of Speed",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 230,
+      "moving_time": 230,
+      "start_date": "2024-09-29T14:46:54Z",
+      "start_date_local": "2024-09-29T09:46:54Z",
+      "distance": 716.2,
+      "start_index": 2318,
+      "end_index": 2547,
+      "device_watts": false,
+      "average_heartrate": 165.0,
+      "max_heartrate": 168.0,
+      "segment": {
+        "id": 5946918,
+        "resource_state": 2,
+        "name": "Burst of Speed",
+        "activity_type": "Run",
+        "distance": 716.2,
+        "average_grade": 0.0,
+        "maximum_grade": 1.2,
+        "elevation_high": 178.6,
+        "elevation_low": 177.8,
+        "start_latlng": [
+          41.91074,
+          -87.62544
+        ],
+        "end_latlng": [
+          41.904572,
+          -87.624499
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Chicago",
+        "state": "IL",
+        "country": "United States",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1000.6,
+      "elapsed_time": 328,
+      "elevation_difference": -0.7,
+      "moving_time": 305,
+      "split": 1,
+      "average_speed": 3.28,
+      "average_grade_adjusted_speed": 3.28,
+      "average_heartrate": 132.3125,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 280,
+      "elevation_difference": -1.1,
+      "moving_time": 275,
+      "split": 2,
+      "average_speed": 3.64,
+      "average_grade_adjusted_speed": 3.64,
+      "average_heartrate": 161.15073529411765,
+      "pace_zone": 3
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 274,
+      "elevation_difference": -0.6,
+      "moving_time": 274,
+      "split": 3,
+      "average_speed": 3.64,
+      "average_grade_adjusted_speed": 3.64,
+      "average_heartrate": 174.86861313868613,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 291,
+      "elevation_difference": -0.5,
+      "moving_time": 291,
+      "split": 4,
+      "average_speed": 3.44,
+      "average_grade_adjusted_speed": 3.44,
+      "average_heartrate": 176.45017182130584,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 306,
+      "elevation_difference": 2.2,
+      "moving_time": 306,
+      "split": 5,
+      "average_speed": 3.27,
+      "average_grade_adjusted_speed": 3.28,
+      "average_heartrate": 171.9281045751634,
+      "pace_zone": 2
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 324,
+      "elevation_difference": 0.2,
+      "moving_time": 263,
+      "split": 6,
+      "average_speed": 3.8,
+      "average_grade_adjusted_speed": 3.8,
+      "average_heartrate": 171.56370656370657,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1002.8,
+      "elapsed_time": 272,
+      "elevation_difference": -2.3,
+      "moving_time": 272,
+      "split": 7,
+      "average_speed": 3.69,
+      "average_grade_adjusted_speed": 3.67,
+      "average_heartrate": 175.26568265682656,
+      "pace_zone": 3
+    },
+    {
+      "distance": 997.3,
+      "elapsed_time": 295,
+      "elevation_difference": 0.9,
+      "moving_time": 295,
+      "split": 8,
+      "average_speed": 3.38,
+      "average_grade_adjusted_speed": 3.39,
+      "average_heartrate": 172.0374149659864,
+      "pace_zone": 2
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 301,
+      "elevation_difference": -0.1,
+      "moving_time": 301,
+      "split": 9,
+      "average_speed": 3.32,
+      "average_grade_adjusted_speed": 3.32,
+      "average_heartrate": 165.54333333333332,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1002.3,
+      "elapsed_time": 268,
+      "elevation_difference": 1.6,
+      "moving_time": 268,
+      "split": 10,
+      "average_speed": 3.74,
+      "average_grade_adjusted_speed": 3.76,
+      "average_heartrate": 169.54022988505747,
+      "pace_zone": 3
+    },
+    {
+      "distance": 51.2,
+      "elapsed_time": 20,
+      "elevation_difference": 0.0,
+      "moving_time": 20,
+      "split": 11,
+      "average_speed": 2.56,
+      "average_grade_adjusted_speed": 2.56,
+      "average_heartrate": 172.46666666666667,
+      "pace_zone": 1
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1612.4,
+      "elapsed_time": 500,
+      "elevation_difference": -1.9,
+      "moving_time": 472,
+      "split": 1,
+      "average_speed": 3.42,
+      "average_grade_adjusted_speed": 3.41,
+      "average_heartrate": 141.11946902654867,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1608.2,
+      "elapsed_time": 444,
+      "elevation_difference": -0.7,
+      "moving_time": 444,
+      "split": 2,
+      "average_speed": 3.62,
+      "average_grade_adjusted_speed": 3.62,
+      "average_heartrate": 173.36261261261262,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 489,
+      "elevation_difference": 1.8,
+      "moving_time": 489,
+      "split": 3,
+      "average_speed": 3.29,
+      "average_grade_adjusted_speed": 3.3,
+      "average_heartrate": 173.60122699386503,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1609.1,
+      "elapsed_time": 484,
+      "elevation_difference": -2.0,
+      "moving_time": 423,
+      "split": 4,
+      "average_speed": 3.8,
+      "average_grade_adjusted_speed": 3.8,
+      "average_heartrate": 174.24162679425837,
+      "pace_zone": 3
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 468,
+      "elevation_difference": 1.0,
+      "moving_time": 468,
+      "split": 5,
+      "average_speed": 3.44,
+      "average_grade_adjusted_speed": 3.44,
+      "average_heartrate": 172.05567451820127,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1613.9,
+      "elapsed_time": 463,
+      "elevation_difference": 0.9,
+      "moving_time": 463,
+      "split": 6,
+      "average_speed": 3.49,
+      "average_grade_adjusted_speed": 3.5,
+      "average_heartrate": 167.5929978118162,
+      "pace_zone": 2
+    },
+    {
+      "distance": 391.5,
+      "elapsed_time": 111,
+      "elevation_difference": 0.5,
+      "moving_time": 111,
+      "split": 7,
+      "average_speed": 3.53,
+      "average_grade_adjusted_speed": 3.53,
+      "average_heartrate": 167.28846153846155,
+      "pace_zone": 2
+    }
+  ],
+  "laps": [
+    {
+      "id": 43955351656,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 2973,
+      "moving_time": 2869,
+      "start_date": "2024-09-29T14:06:51Z",
+      "start_date_local": "2024-09-29T09:06:51Z",
+      "distance": 10054.0,
+      "average_speed": 3.5,
+      "max_speed": 8.578,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 2871,
+      "total_elevation_gain": 5.8,
+      "device_watts": false,
+      "average_heartrate": 167.0,
+      "max_heartrate": 182.0,
+      "pace_zone": 2
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 53301574914,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 89,
+      "moving_time": 89,
+      "start_date": "2024-09-29T14:06:51Z",
+      "start_date_local": "2024-09-29T09:06:51Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 2708,
+      "end_index": 2797
+    },
+    {
+      "id": 53301574915,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 205,
+      "moving_time": 205,
+      "start_date": "2024-09-29T14:06:51Z",
+      "start_date_local": "2024-09-29T09:06:51Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 1544,
+      "end_index": 1749
+    },
+    {
+      "id": 53301574916,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 254,
+      "moving_time": 254,
+      "start_date": "2024-09-29T14:06:51Z",
+      "start_date_local": "2024-09-29T09:06:51Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 1545,
+      "end_index": 1799
+    },
+    {
+      "id": 53301574910,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 422,
+      "moving_time": 422,
+      "start_date": "2024-09-29T14:06:51Z",
+      "start_date_local": "2024-09-29T09:06:51Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 1543,
+      "end_index": 1965
+    },
+    {
+      "id": 53301574911,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 897,
+      "moving_time": 897,
+      "start_date": "2024-09-29T14:06:51Z",
+      "start_date_local": "2024-09-29T09:06:51Z",
+      "distance": 3219,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 176,
+      "end_index": 1068
+    },
+    {
+      "id": 53301574912,
+      "resource_state": 2,
+      "name": "5K",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 1445,
+      "moving_time": 1445,
+      "start_date": "2024-09-29T14:06:51Z",
+      "start_date_local": "2024-09-29T09:06:51Z",
+      "distance": 5000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 94,
+      "end_index": 1520
+    },
+    {
+      "id": 53301574913,
+      "resource_state": 2,
+      "name": "10K",
+      "activity": {
+        "id": 12533420797,
+        "id_str": "12533420797",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 2918,
+      "moving_time": 2918,
+      "start_date": "2024-09-29T14:06:51Z",
+      "start_date_local": "2024-09-29T09:06:51Z",
+      "distance": 10000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 19,
+      "end_index": 2856
+    }
+  ],
+  "photos": {
+    "primary": {
+      "unique_id": "7E7DEC9D-2F02-4F28-A177-909858147528",
+      "urls": {
+        "600": "https://dgtzuqphqg23d.cloudfront.net/1AtM9Z1W7dw9YslpjmY-IAv3dz-dCL9iFkZ2FHlAcEo-768x576.jpg",
+        "100": "https://dgtzuqphqg23d.cloudfront.net/1AtM9Z1W7dw9YslpjmY-IAv3dz-dCL9iFkZ2FHlAcEo-128x96.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": true,
+    "count": 1
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "ecb0725cb7a3984837c1b9d28f05471004de52d0",
+  "similar_activities": {
+    "effort_count": 1,
+    "average_speed": 3.5043569187870336,
+    "min_average_speed": 3.5043569187870336,
+    "mid_average_speed": 3.504356918787034,
+    "max_average_speed": 3.5043569187870336,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        3.504356918787034
+      ],
+      "current_activity_index": 0,
+      "min_speed": 3.5043569187870336,
+      "mid_speed": 3.504356918787034,
+      "max_speed": 3.5043569187870336,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "heartrate",
+    "pace"
+  ]
+}
