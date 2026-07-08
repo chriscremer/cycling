@@ -101,7 +101,10 @@
     .activity-stats { color: var(--muted); font-size: 0.94em; }
     .activity-extra { display: none; }
     .activity-list.expanded .activity-extra { display: list-item; }
-    .view-more-button {
+    .activity-list.video-only li { display: none; }
+    .activity-list.video-only li.has-video { display: list-item; }
+    .activity-controls { display: flex; gap: 8px; flex-wrap: wrap; }
+    .view-more-button, .video-filter-button {
       appearance: none;
       border: 1px solid var(--border);
       border-radius: 999px;
@@ -113,7 +116,7 @@
       margin-top: 12px;
       padding: 9px 14px;
     }
-    .view-more-button:hover { border-color: var(--accent); background: rgba(94, 161, 255, 0.18); }
+    .view-more-button:hover, .video-filter-button:hover { border-color: var(--accent); background: rgba(94, 161, 255, 0.18); }
   </style>
 </head>
 <body>
@@ -131,6 +134,7 @@
 <a class="summary-link" href="strava/race_time_estimator.html">Race Time Estimator</a>
         </div>
         <ul class='activity-list' id='zwiftActivityList'>
+<li><a href="strava/htmls/activity_19223254641_distance_plot.html">2026-07-07</a> - <span class='activity-stats'>(54 TSS &middot; 24.8 km &middot; 155 m elev &middot; 38:39)</span> - Zwift - Race: SISU Tour - Stage 2 (A)</li>
 <li><a href="strava/htmls/activity_19206488607_distance_plot.html">2026-07-06</a> - <span class='activity-stats'>(59 TSS &middot; 24.4 km &middot; 155 m elev &middot; 36:36)</span> - Zwift - Race: SISU Tour - Stage 2 (A)</li>
 <li><a href="strava/htmls/activity_19193350119_distance_plot.html">2026-07-05</a> - <span class='activity-stats'>(49 TSS &middot; 20.7 km &middot; 301 m elev &middot; 31:15)</span> - Zwift - Race: Stage 5: Level Up Racing: Queen&#x27;s Highway After Party (A)</li>
 <li><a href="strava/htmls/activity_19182918881_distance_plot.html">2026-07-04</a> - <span class='activity-stats'>(69 TSS &middot; 31.1 km &middot; 379 m elev &middot; 53:03)</span> - Zwift - Race: Herd Summer Racing League</li>
@@ -140,11 +144,11 @@
 <li><a href="strava/htmls/activity_19068395067_distance_plot.html">2026-06-25</a> - <span class='activity-stats'>(49 TSS &middot; 22.6 km &middot; 161 m elev &middot; 33:41)</span> - Zwift - Race: Stage 4: Level Up Racing: Issendorf Express (A)</li>
 <li><a href="strava/htmls/activity_18951908548_distance_plot.html">2026-06-16</a> - <span class='activity-stats'>(136 TSS &middot; 67.1 km &middot; 587 m elev &middot; 1:56:55)</span> - Zwift - Race: Zwift Epic Race - Tire Bouchon (A)</li>
 <li><a href="strava/htmls/activity_18935551643_distance_plot.html">2026-06-15</a> - <span class='activity-stats'>(52 TSS &middot; 19.5 km &middot; 229 m elev &middot; 29:42)</span> - Zwift - Race: Stage 3: Level Up Racing: Hilly Route Reverse (A)</li>
-<li><a href="strava/htmls/activity_18922074622_distance_plot.html">2026-06-14</a> - <span class='activity-stats'>(122 TSS &middot; 46.3 km &middot; 883 m elev &middot; 1:27:25)</span> - Zwift - Race: Zwift Epic Race - Three Sisters Reverse (A)</li>
+<li class='activity-extra'><a href="strava/htmls/activity_18922074622_distance_plot.html">2026-06-14</a> - <span class='activity-stats'>(122 TSS &middot; 46.3 km &middot; 883 m elev &middot; 1:27:25)</span> - Zwift - Race: Zwift Epic Race - Three Sisters Reverse (A)</li>
 <li class='activity-extra'><a href="strava/htmls/activity_18882558613_distance_plot.html">2026-06-11</a> - <span class='activity-stats'>(61 TSS &middot; 23.3 km &middot; 265 m elev &middot; 34:22)</span> - Zwift - Race: Stage 2: Level Up Racing: BRAEk-fast Crits and Grits (A)</li>
 <li class='activity-extra'><a href="strava/htmls/activity_18873038333_distance_plot.html">2026-06-10</a> - <span class='activity-stats'>(61 TSS &middot; 23.8 km &middot; 265 m elev &middot; 35:09)</span> - Zwift - Race: Stage 2: Level Up Racing: BRAEk-fast Crits and Grits | Advanced (A)</li>
 <li class='activity-extra'><a href="strava/htmls/activity_18791127642_distance_plot.html">2026-06-04</a> - <span class='activity-stats'>(62 TSS &middot; 25.2 km &middot; 135 m elev &middot; 41:51)</span> - Zwift - Race: Stage 1: Level Up Racing: Sprinter&#x27;s Playground</li>
-<li class='activity-extra'><a href="strava/htmls/activity_18778116812_distance_plot.html">2026-06-03</a> - <a href="vids/20260603_215831.mp4">video</a> (0:27) - <span class='activity-stats'>(66 TSS &middot; 26.7 km &middot; 143 m elev &middot; 38:12)</span> - Zwift - Race: Stage 1: Level Up Racing: Sprinter&#x27;s Playground</li>
+<li class='activity-extra has-video'><a href="strava/htmls/activity_18778116812_distance_plot.html">2026-06-03</a> - <a href="vids/20260603_215831.mp4">video</a> (0:27) - <span class='activity-stats'>(66 TSS &middot; 26.7 km &middot; 143 m elev &middot; 38:12)</span> - Zwift - Race: Stage 1: Level Up Racing: Sprinter&#x27;s Playground</li>
 <li class='activity-extra'><a href="strava/htmls/activity_18683350255_distance_plot.html">2026-05-27</a> - <span class='activity-stats'>(57 TSS &middot; 21.5 km &middot; 325 m elev &middot; 33:31)</span> - Zwift - Race: Stage 4: Four by Four: Queen&#x27;s Highway After Party (A)</li>
 <li class='activity-extra'><a href="strava/htmls/activity_18668765453_distance_plot.html">2026-05-26</a> - <span class='activity-stats'>(104 TSS &middot; 42.9 km &middot; 286 m elev &middot; 1:03:06)</span> - Zwift - Race: 2026 SISU Pinkki - Stage 6 (A)</li>
 <li class='activity-extra'><a href="strava/htmls/activity_18628315151_distance_plot.html">2026-05-23</a> - <span class='activity-stats'>(129 TSS &middot; 55.7 km &middot; 561 m elev &middot; 1:29:11)</span> - Zwift - Race: Zwift Epic Race - Shisa Shakedown (A)</li>
@@ -154,7 +158,7 @@
 <li class='activity-extra'><a href="strava/htmls/activity_18560898150_distance_plot.html">2026-05-18</a> - <span class='activity-stats'>(47 TSS &middot; 19.0 km &middot; 136 m elev &middot; 29:06)</span> - Zwift - Race: Stage 3: Four by Four: Island Hopper (A)</li>
 <li class='activity-extra'><a href="strava/htmls/activity_18498042950_distance_plot.html">2026-05-13</a> - <span class='activity-stats'>(125 TSS &middot; 45.8 km &middot; 907 m elev &middot; 1:29:36)</span> - Zwift - Race: Zwift Epic Race - ZG25 Queen (A)</li>
 <li class='activity-extra'><a href="strava/htmls/activity_18444341215_distance_plot.html">2026-05-09</a> - <span class='activity-stats'>(63 TSS &middot; 23.3 km &middot; 183 m elev &middot; 36:25)</span> - Zwift - Race: Stage 1: Four by Four: Rolling Highlands</li>
-<li class='activity-extra'><a href="strava/htmls/activity_18430480690_distance_plot.html">2026-05-08</a> - <a href="vids/20260508_180853.mp4">video</a> (0:39) - <span class='activity-stats'>(65 TSS &middot; 24.6 km &middot; 185 m elev &middot; 34:58)</span> - Zwift - Race: Stage 1: Four by Four: Rolling Highlands | Advanced (A)</li>
+<li class='activity-extra has-video'><a href="strava/htmls/activity_18430480690_distance_plot.html">2026-05-08</a> - <a href="vids/20260508_180853.mp4">video</a> (0:39) - <span class='activity-stats'>(65 TSS &middot; 24.6 km &middot; 185 m elev &middot; 34:58)</span> - Zwift - Race: Stage 1: Four by Four: Rolling Highlands | Advanced (A)</li>
 <li class='activity-extra'><a href="strava/htmls/activity_18420316954_distance_plot.html">2026-05-07</a> - <span class='activity-stats'>(65 TSS &middot; 24.5 km &middot; 185 m elev &middot; 37:35)</span> - Zwift - Race: Stage 1: Four by Four: Rolling Highlands</li>
 <li class='activity-extra'><a href="strava/htmls/activity_18340203598_distance_plot.html">2026-05-01</a> - <span class='activity-stats'>(104 TSS &middot; 43.4 km &middot; 336 m elev &middot; 1:13:40)</span> - Zwift - Race: No Rulez Racing presented by RiZZRL: Race #5 - Tropic Rush Chase!</li>
 <li class='activity-extra'><a href="strava/htmls/activity_18324422144_distance_plot.html">2026-04-30</a> - <span class='activity-stats'>(71 TSS &middot; 27.5 km &middot; 239 m elev &middot; 43:24)</span> - Zwift - Race: Stage 4: Pas Racing: Serpentine 8 (A)</li>
@@ -169,21 +173,21 @@
 <li class='activity-extra'><a href="strava/htmls/activity_17957004342_distance_plot.html">2026-04-02</a> - <span class='activity-stats'>(60 TSS &middot; 28.6 km &middot; 148 m elev &middot; 41:55)</span> - Zwift - Race: Fell Swoop Speed Series (B)</li>
 <li class='activity-extra'><a href="strava/htmls/activity_17943417099_distance_plot.html">2026-04-01</a> - <span class='activity-stats'>(113 TSS &middot; 51.2 km &middot; 396 m elev &middot; 1:17:35)</span> - Zwift - Race: Restart Esports - Wednesday Worlds (A)</li>
 <li class='activity-extra'><a href="strava/htmls/activity_17918311199_distance_plot.html">2026-03-30</a> - <span class='activity-stats'>(70 TSS &middot; 27.7 km &middot; 245 m elev &middot; 45:31)</span> - Zwift - Race: Monday Mafia - Syrup Cup - Maple Madness</li>
-<li class='activity-extra'><a href="strava/htmls/activity_17905953791_distance_plot.html">2026-03-29</a> - <a href="vids/20260329_185722.mp4">video</a> (0:35) - <span class='activity-stats'>(73 TSS &middot; 31.3 km &middot; 168 m elev &middot; 48:56)</span> - Zwift - Race: Rhino Crash Chase Race (B)</li>
-<li class='activity-extra'><a href="strava/htmls/activity_17892931026_distance_plot.html">2026-03-28</a> - <a href="vids/20260328_163530.mp4">video</a> (0:40) - <span class='activity-stats'>(90 TSS &middot; 44.4 km &middot; 213 m elev &middot; 1:03:17)</span> - Zwift - Race: EVR Winter Series (A)</li>
-<li class='activity-extra'><a href="strava/htmls/activity_17834531886_distance_plot.html">2026-03-23</a> - <a href="vids/20260323_201940.mp4">video</a> (0:30) - <span class='activity-stats'>(92 TSS &middot; 38.7 km &middot; 305 m elev &middot; 55:43)</span> - Zwift - Race: Monday Mafia - Syrup Cup - Maple Madness</li>
+<li class='activity-extra has-video'><a href="strava/htmls/activity_17905953791_distance_plot.html">2026-03-29</a> - <a href="vids/20260329_185722.mp4">video</a> (0:35) - <span class='activity-stats'>(73 TSS &middot; 31.3 km &middot; 168 m elev &middot; 48:56)</span> - Zwift - Race: Rhino Crash Chase Race (B)</li>
+<li class='activity-extra has-video'><a href="strava/htmls/activity_17892931026_distance_plot.html">2026-03-28</a> - <a href="vids/20260328_163530.mp4">video</a> (0:40) - <span class='activity-stats'>(90 TSS &middot; 44.4 km &middot; 213 m elev &middot; 1:03:17)</span> - Zwift - Race: EVR Winter Series (A)</li>
+<li class='activity-extra has-video'><a href="strava/htmls/activity_17834531886_distance_plot.html">2026-03-23</a> - <a href="vids/20260323_201940.mp4">video</a> (0:30) - <span class='activity-stats'>(92 TSS &middot; 38.7 km &middot; 305 m elev &middot; 55:43)</span> - Zwift - Race: Monday Mafia - Syrup Cup - Maple Madness</li>
 <li class='activity-extra'><a href="strava/htmls/activity_17821221471_distance_plot.html">2026-03-22</a> - <span class='activity-stats'>(71 TSS &middot; 31.1 km &middot; 150 m elev &middot; 42:04)</span> - Zwift - Race: Rhino Crash Chase Race (B)</li>
 <li class='activity-extra'><a href="strava/htmls/activity_17797073447_distance_plot.html">2026-03-20</a> - <span class='activity-stats'>(105 TSS &middot; 42.5 km &middot; 589 m elev &middot; 1:13:25)</span> - Zwift - Race: Stage 5: Zwift Games: Three Step Sisters (A)</li>
 <li class='activity-extra'><a href="strava/htmls/activity_17773672673_distance_plot.html">2026-03-18</a> - <span class='activity-stats'>(103 TSS &middot; 42.4 km &middot; 589 m elev &middot; 1:14:17)</span> - Zwift - Race: Stage 5: Zwift Games: Three Step Sisters (A)</li>
-<li class='activity-extra'><a href="strava/htmls/activity_17735464753_distance_plot.html">2026-03-15</a> - <a href="vids/20260315_145153.mp4">video</a> (2:18) - <span class='activity-stats'>(79 TSS &middot; 30.7 km &middot; 266 m elev &middot; 46:00)</span> - Zwift - Race: Team Not Pogi - London - Watopia - Stage 5/5 (B)</li>
-<li class='activity-extra'><a href="strava/htmls/activity_17723062477_distance_plot.html">2026-03-14</a> - <a href="vids/20260314_145322.mp4">video</a> (1:20) - <span class='activity-stats'>(77 TSS &middot; 33.0 km &middot; 421 m elev &middot; 49:11)</span> - Zwift - Race: HISP Spring Classics Mini Milano San Remo Week 4 (A)</li>
+<li class='activity-extra has-video'><a href="strava/htmls/activity_17735464753_distance_plot.html">2026-03-15</a> - <a href="vids/20260315_145153.mp4">video</a> (2:18) - <span class='activity-stats'>(79 TSS &middot; 30.7 km &middot; 266 m elev &middot; 46:00)</span> - Zwift - Race: Team Not Pogi - London - Watopia - Stage 5/5 (B)</li>
+<li class='activity-extra has-video'><a href="strava/htmls/activity_17723062477_distance_plot.html">2026-03-14</a> - <a href="vids/20260314_145322.mp4">video</a> (1:20) - <span class='activity-stats'>(77 TSS &middot; 33.0 km &middot; 421 m elev &middot; 49:11)</span> - Zwift - Race: HISP Spring Classics Mini Milano San Remo Week 4 (A)</li>
 <li class='activity-extra'><a href="strava/htmls/activity_17712530172_distance_plot.html">2026-03-13</a> - <span class='activity-stats'>(77 TSS &middot; 31.4 km &middot; 397 m elev &middot; 52:57)</span> - Zwift - Race: Stage 4: Zwift Games: Peaky Pave (A)</li>
-<li class='activity-extra'><a href="strava/htmls/activity_17667130245_distance_plot.html">2026-03-09</a> - <a href="vids/20260309_211349.mp4">video</a> (1:00) - <span class='activity-stats'>(77 TSS &middot; 31.4 km &middot; 400 m elev &middot; 52:18)</span> - Zwift - Race: Stage 4: Zwift Games: Peaky Pave (A)</li>
-<li class='activity-extra'><a href="strava/htmls/activity_17642717977_distance_plot.html">2026-03-07</a> - <a href="vids/20260307_211106.mp4">video</a> (1:00) - <span class='activity-stats'>(67 TSS &middot; 26.6 km &middot; 300 m elev &middot; 43:35)</span> - Zwift - Race: Stage 3: Zwift Games: Cobbled Crown (A)</li>
-<li class='activity-extra'><a href="strava/htmls/activity_17629964561_distance_plot.html">2026-03-06</a> - <a href="vids/20260306_190718.mp4">video</a> (1:00) - <span class='activity-stats'>(69 TSS &middot; 26.5 km &middot; 299 m elev &middot; 41:31)</span> - Zwift - Race: Stage 3: Zwift Games: Cobbled Crown (A)</li>
-<li class='activity-extra'><a href="strava/htmls/activity_17607918018_distance_plot.html">2026-03-04</a> - <a href="vids/20260304_201837.mp4">video</a> (2:25) - <span class='activity-stats'>(66 TSS &middot; 26.6 km &middot; 299 m elev &middot; 41:33)</span> - Zwift - Race: Stage 3: Zwift Games: Cobbled Crown (A)</li>
+<li class='activity-extra has-video'><a href="strava/htmls/activity_17667130245_distance_plot.html">2026-03-09</a> - <a href="vids/20260309_211349.mp4">video</a> (1:00) - <span class='activity-stats'>(77 TSS &middot; 31.4 km &middot; 400 m elev &middot; 52:18)</span> - Zwift - Race: Stage 4: Zwift Games: Peaky Pave (A)</li>
+<li class='activity-extra has-video'><a href="strava/htmls/activity_17642717977_distance_plot.html">2026-03-07</a> - <a href="vids/20260307_211106.mp4">video</a> (1:00) - <span class='activity-stats'>(67 TSS &middot; 26.6 km &middot; 300 m elev &middot; 43:35)</span> - Zwift - Race: Stage 3: Zwift Games: Cobbled Crown (A)</li>
+<li class='activity-extra has-video'><a href="strava/htmls/activity_17629964561_distance_plot.html">2026-03-06</a> - <a href="vids/20260306_190718.mp4">video</a> (1:00) - <span class='activity-stats'>(69 TSS &middot; 26.5 km &middot; 299 m elev &middot; 41:31)</span> - Zwift - Race: Stage 3: Zwift Games: Cobbled Crown (A)</li>
+<li class='activity-extra has-video'><a href="strava/htmls/activity_17607918018_distance_plot.html">2026-03-04</a> - <a href="vids/20260304_201837.mp4">video</a> (2:25) - <span class='activity-stats'>(66 TSS &middot; 26.6 km &middot; 299 m elev &middot; 41:33)</span> - Zwift - Race: Stage 3: Zwift Games: Cobbled Crown (A)</li>
 <li class='activity-extra'><a href="strava/htmls/activity_17582589118_distance_plot.html">2026-03-02</a> - <span class='activity-stats'>(71 TSS &middot; 26.3 km &middot; 297 m elev &middot; 42:35)</span> - Zwift - Race: Stage 3: Zwift Games: Cobbled Crown (A)</li>
-<li class='activity-extra'><a href="strava/htmls/activity_17525697027_distance_plot.html">2026-02-25</a> - <a href="vids/20260225_223828.mp4">video</a> (0:29) - <span class='activity-stats'>(55 TSS &middot; 22.6 km &middot; 230 m elev &middot; 34:07)</span> - Zwift - Race: Stage 2: Zwift Games: Hudson Hustle (A)</li>
+<li class='activity-extra has-video'><a href="strava/htmls/activity_17525697027_distance_plot.html">2026-02-25</a> - <a href="vids/20260225_223828.mp4">video</a> (0:29) - <span class='activity-stats'>(55 TSS &middot; 22.6 km &middot; 230 m elev &middot; 34:07)</span> - Zwift - Race: Stage 2: Zwift Games: Hudson Hustle (A)</li>
 <li class='activity-extra'><a href="strava/htmls/activity_17500017689_distance_plot.html">2026-02-23</a> - <span class='activity-stats'>(57 TSS &middot; 21.2 km &middot; 227 m elev &middot; 31:22)</span> - Zwift - Race: Stage 2: Zwift Games: Hudson Hustle (A) on Hudson Hustle in New York</li>
 <li class='activity-extra'><a href="strava/htmls/activity_17477385100_distance_plot.html">2026-02-21</a> - <span class='activity-stats'>(54 TSS &middot; 19.5 km &middot; 168 m elev &middot; 33:55)</span> - Zwift - Race: Stage 1: Zwift Games: Kaze Kicker on Kaze Kicker in Makuri Islands</li>
 <li class='activity-extra'><a href="strava/htmls/activity_17409513024_distance_plot.html">2026-02-15</a> - <span class='activity-stats'>(50 TSS &middot; 21.4 km &middot; 176 m elev &middot; 31:31)</span> - Zwift - Race: Zwift Crit Racing Club - The Bell Lap (B) on The Bell Lap in Crit City</li>
@@ -417,7 +421,10 @@
 <li class='activity-extra'><a href="strava/htmls/activity_11858625205_distance_plot.html">2024-07-10</a> - <span class='activity-stats'>(46 TSS &middot; 25.3 km &middot; 155 m elev &middot; 40:42)</span> - Zwift - Race: Stage 2: Vive La France - Casse Pattes (C) on Casse-Pattes in France</li>
 <li class='activity-extra'><a href="strava/htmls/activity_11849346377_distance_plot.html">2024-07-09</a> - <span class='activity-stats'>(42 TSS &middot; 25.0 km &middot; 155 m elev &middot; 41:35)</span> - Zwift - Race: Stage 2: Vive La France - Casse Pattes (C) on Casse-Pattes in France</li>
         </ul>
-        <button class='view-more-button' type='button' data-target='zwiftActivityList' data-more='View 275 more activities' data-less='Show latest 10'>View 275 more activities</button>
+        <div class='activity-controls'>
+        <button class='view-more-button' type='button' data-target='zwiftActivityList' data-more='View 276 more activities' data-less='Show latest 10'>View 276 more activities</button>
+        <button class='video-filter-button' type='button' data-target='zwiftActivityList' aria-pressed='false'>View video activities</button>
+        </div>
       </section>
       <section class='section'>
         <h2>Training</h2>
@@ -531,6 +538,15 @@
         if (!list) return;
         const expanded = list.classList.toggle('expanded');
         button.textContent = expanded ? (button.dataset.less || 'Show latest 10') : (button.dataset.more || 'View more activities');
+      });
+    });
+    document.querySelectorAll('.video-filter-button').forEach((button) => {
+      button.addEventListener('click', () => {
+        const list = document.getElementById(button.dataset.target || '');
+        if (!list) return;
+        const videoOnly = list.classList.toggle('video-only');
+        button.textContent = videoOnly ? 'Show all activities' : 'View video activities';
+        button.setAttribute('aria-pressed', videoOnly ? 'true' : 'false');
       });
     });
   </script>

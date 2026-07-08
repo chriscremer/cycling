@@ -6004,5 +6004,26 @@
     "normalized_power": 295.909759517314,
     "tss": 59.34797480481412,
     "source": "cache"
+  },
+  {
+    "activity_id": 19223254641,
+    "date": "2026-07-07",
+    "name": "Zwift - Race: SISU Tour - Stage 2 (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2177423658157342768.fit",
+    "display_name": "2026-07-07 - Zwift - Race: SISU Tour - Stage 2 (A)",
+    "curve": [
+      892.6666666666666,
+      627.5666666666667,
+      404.9166666666667,
+      354.4166666666667,
+      320.29,
+      263.8516666666667,
+      251.60666666666665
+    ],
+    "moving_time": 2319.0,
+    "normalized_power": 275.24456540255187,
+    "tss": 54.22421131088283,
+    "source": "cache"
   }
 ]
