@@ -6067,5 +6067,26 @@
     "normalized_power": 287.1764618872901,
     "tss": 47.013173309908254,
     "source": "cache"
+  },
+  {
+    "activity_id": 19448486851,
+    "date": "2026-07-24",
+    "name": "Zwift - Race: Team Not Pogi - La Blanca Tour Stage 2 (B)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2189445265142874144.fit",
+    "display_name": "2026-07-24 - Zwift - Race: Team Not Pogi - La Blanca Tour Stage 2 (B)",
+    "curve": [
+      530.6666666666666,
+      469.6333333333333,
+      400.9166666666667,
+      367.325,
+      315.14,
+      270.63,
+      256.96416666666664
+    ],
+    "moving_time": 3525.0,
+    "normalized_power": 266.21797476507334,
+    "tss": 77.10612208650022,
+    "source": "cache"
   }
 ]
