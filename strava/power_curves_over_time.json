@@ -6046,5 +6046,26 @@
     "normalized_power": 279.81961119649935,
     "tss": 53.77015677549573,
     "source": "cache"
+  },
+  {
+    "activity_id": 19440235351,
+    "date": "2026-07-23",
+    "name": "Zwift - Race: Stage 3 - Race - Tour Fever (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2189005114008682512.fit",
+    "display_name": "2026-07-23 - Zwift - Race: Stage 3 - Race - Tour Fever (A)",
+    "curve": [
+      645.2,
+      482.9,
+      441.31666666666666,
+      378.5,
+      304.1533333333333,
+      288.11333333333334,
+      275.18333333333334
+    ],
+    "moving_time": 1847.0,
+    "normalized_power": 287.1764618872901,
+    "tss": 47.013173309908254,
+    "source": "cache"
   }
 ]
