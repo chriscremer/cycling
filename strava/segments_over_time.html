@@ -16,9 +16,10 @@
       max-width: 1200px;
       margin: 0 auto;
       padding: 10px 14px 18px;
+      position: relative;
     }
     h1 {
-      margin: 8px 0 6px;
+      margin: 8px 0 18px;
       font-size: 28px;
       text-align: center;
     }
@@ -33,8 +34,10 @@
       justify-content: center;
       gap: 8px;
       margin: 0;
+      padding: 8px 10px;
       color: #7dd3fc;
       text-decoration: none;
+      font-size: 18px;
       font-weight: 700;
     }
     .nav-link:hover {
@@ -42,11 +45,14 @@
     }
     .mode-actions {
       display: flex;
-      flex-direction: column;
+      flex-direction: row;
       align-items: center;
       justify-content: center;
-      gap: 6px;
-      margin: 0 0 18px;
+      gap: 14px;
+      margin: 0;
+      position: absolute;
+      top: 18px;
+      right: 14px;
     }
     .segment-card {
       margin: 0 0 16px;
@@ -192,6 +198,13 @@
       color: #6f7c91;
     }
     @media (max-width: 760px) {
+      h1 {
+        margin-bottom: 6px;
+      }
+      .mode-actions {
+        position: static;
+        margin: 0 0 18px;
+      }
       .segment-grid {
         grid-template-columns: 1fr;
       }
