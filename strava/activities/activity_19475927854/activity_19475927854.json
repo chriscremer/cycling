@@ -1,0 +1,2221 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "id_str": "9693467",
+    "resource_state": 1
+  },
+  "name": "Toronto Triathlon 2026 - Bike",
+  "distance": 39641.5,
+  "moving_time": 4320,
+  "elapsed_time": 4320,
+  "total_elevation_gain": 209.0,
+  "type": "Ride",
+  "sport_type": "Ride",
+  "workout_type": null,
+  "device_name": "Garmin Edge 850",
+  "id": 19475927854,
+  "id_str": "19475927854",
+  "start_date": "2026-07-26T13:32:25Z",
+  "start_date_local": "2026-07-26T09:32:25Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -14400.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 12,
+  "kudos_count": 1,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a19475927854",
+    "polyline": "c~hiG`bwcNCVUX?LKPQbAMb@a@t@C^@Pp@jED^H^TRLDn@?N@NFZVFPDd@GnBBr@z@pJXdE@VETM\\YT]Po@F]GMGMIY[Ue@a@uAaAeG}BuM_AcEk@iD]yAoBiK[{Ba@kBOkAuBkLYyA_A}Dk@uDeAwFk@uESgCKqBAqFBsCM_K[qFQ{GWyEMqDCsE?}CJaG@}BDwCA}CCs@_@sFuA_Oo@cGg@yGm@uGi@sFeAgImBcM_@oBo@aCqAyD_@y@iB_FU_Au@uBsDmIi@cAe@{AiEgKc@uAMm@e@gCU{Ak@{Fa@_D_A_Hi@mEoAmIuAiLo@yD}@sG_@eCa@mBgBkHgCmLWmBOsBGsB@_BN_EH}HEcBMaB[kBOy@{BiHg@yAg@_Aa@o@g@i@{@o@s@[y@QsAMk@@eALo@RULsDjC}@r@kBhBcDlDiBxBs@~@_BbBqA`B}BvBoBvAc@ReAb@c@LkCh@mDj@cBb@yDn@a@JwAXs@R_APoCl@uDf@_Bb@_GdAsH~AeBX{Bf@eAZoBv@cAj@u@h@kBzA_BbBc@Z_GjFe@\\g@TkF|Bg@Ls@XoALc@Ny@JaDr@yCb@mBRi@J]BgA@sBRcA@yET}ABcA?c@Ae@Gw@QmA_@mGcCkBm@{Cs@oBWkBIsABk@GiCMqAKwB_@}Aa@cC{@sC{AaAk@{@m@yCuCyCeDaMyOs@y@iCaDeBaCs@iAy@kB]aAWeAg@sCc@kEE}@F_DXwFPqC`@sDRyCJaCBaBEuBI}A]aC]eBg@gBq@iBa@}@g@{@iGaJ_AaBi@gAYq@g@eBuBwHiAeDo@yA_A{Am@y@sAeAy@i@gAm@w@]i@SwAYkAKqB_@}AMgASyASgB[cBc@uBgAiBgBgA_Bw@aA{BkDoBsCk@aAyAyBqBaCs@s@i@c@eAs@gAc@sA_@wBUoB@g@B_AN}Ab@YJg@Zy@ZmA~@aB~AoDvDe@d@g@`@wBxAmAh@GHAJJJF?fD_CpBaBnGoGjBqAtAo@bA[`@Ir@Kr@EdAEhAFv@Lb@HhA^jAd@zAfAt@p@`AjAtG~J~EjHr@z@`@b@x@n@x@h@f@X|@\\tA^pGx@bDXlCb@vA^`A\\pAr@vAtAp@x@^h@x@xAd@hAn@dBt@bChAlEp@vBTl@p@vAn@hAz@tAbFpHb@~@d@x@~@zCp@tCTfBHxABdA?rBOvC[|Hw@dLGpC?~ARhC\\bCn@nCt@tBZt@~@|A|DfFfFrG`CnC|AvB`AlAxCjDzA|AbAz@hAz@fAt@fAl@vAn@rBt@pAXpBh@fD\\jBHjEF`AFvAPj@JxBr@tHrCjA`@zAXz@JhADz@?xAGvF]bCI`DWvDi@fEaAhAQLG|Cq@v@WxAo@|BoArByAbBuAdImHhAw@x@e@pAk@lBm@rA[hJmBtGwA|Dw@nAKx@MlMmCzB_@xHuAtA_@vB{@p@]lAu@l@g@fAcAnBsBbCgD`IeJj@i@|E{D^Sd@Sh@Of@IxACP@t@L`@Lt@^RFj@f@b@f@p@~@\\x@lBxFd@|Ap@nDNxBB`BIdFOfEEdF@j@TfCNbA\\jBn@|Ch@jBvCtM~@fF|DzY\\lDz@jGz@rHn@pEt@rGf@zCr@nC|AlE~AxD`ArBvAtD`BnD|@`B`ArCh@fANd@`A|Br@rBn@xBh@~Bb@~Bl@~DFl@dAdItAbM`@nFb@fFZzCVxC^zCt@hINjBThDDvAA`DBlBGtCOfFEfE?rATjF^fGRfGJnA@|@NlFDlH?hGDdCP~CPvAn@nEn@tDh@bCf@~CdApF`BpJzEhW~A`JZvBp@`D|BxLz@lFTbCJ`C?|CEfBGhA]lDMjA[bBmC~HqFvPk@rB_GrQiB~F}AdG{@xDg@pCg@|D[dBu@zGy@fMS~D[nKCnG@NDDF?BE@KAmEReMHmBd@aIZ_Ez@_ItB}LbAqE~AyF`IsV^qAdB}EdBqFbDuJf@aBXqA\\kCT_CNkBFeCAmCGuBYeCc@mCAQ@AD@Pl@V^^Th@Hf@CJCVK\\]NWBO@OMkAUcESiC]wCAm@DoBEcAOc@MM_@MM?]BMCIGIKy@wDM}@?k@fAwDj@qAHUBOBEF?DHTjAR^VxALZ^|BJL",
+    "resource_state": 3,
+    "summary_polyline": "c~hiG`bwcNCVUX?LKP_@fBa@t@C^bA|Gb@XnAHZVJb@AvDfA~LNnCSr@g@^o@Nm@Gg@]Ya@k@iB_E{U_AcEyDmS[{BgDcRyAwGqBmLk@uE_@yF@eKM_K[qFw@gTCqJRwOEqE_@sFeCcWuAoPoB{PmBcMoAqF{EsMkAuD}EqKe@{AiEgKq@cC{@cFmA{KyD{XuAiLmBmMaAsFgBkHgCmLWmBOsBGsBZ}QEcBMaBk@eD{BiHg@yAiAoBcByAmBm@_CKuB`@gGlEoGvGoI~J}BvBsCjBiBp@wQhD}JxBuDf@_Bb@yS~DaEbAoBv@yBtAkBzA_BbBiIdHoJzDoAL_GnAqHbAwNp@aDBaC[{IcDgGaBoBW_EEuDUiEk@aF}AsC{A}ByAyCuCyCeD_SuVyCkEy@kBu@gCg@sCi@iGF_DXwFr@eI^{GBaBEuBI}A]aCeAmEsAgDqH}KiBiDaAwCuBwHiAeDo@yAmBuCmCoBiD_BsJsAiGcAcBc@uBgAiBgB_CaDqJ{NqBaC}AwAeAs@{CcAwBUoB@gBRwBn@aBv@mA~@_J~IwBxAuAr@AJJJPC|C{BpBaBnGoGjBqAbAg@tAc@vBYvAG`CTxDnApCxB`AjAtNjTtA~ArBxAdBv@tA^tLrAdFbArCpAvAtApAbB~AbDdBhFzBdIfAdCjB~CbFpHhAxB~@zCp@tC^`EBxDk@tMw@dLGpFRhC\\bCn@nCt@tBzArC|DfFhJbL~CdEtFhGlCvBnCbBjEdBbEbAfD\\vHPxCXdD~@`KtDzAXdCPtCG|O_AvDi@pGsAbFqAvE_CvEoDdImHbC}ApAk@`EiA~ReE|Dw@hCYlMmCtLuBtA_@vB{@~BsAtBkBnBsBbCgD`IeJhGeFdAg@pAYjBAvAZhAf@j@f@tAfB\\x@rCvIp@nDNxBB`B_@rSVrDl@nDpF~U~@fF|DzY\\lDz@jGz@rHn@pEt@rGf@zCr@nC|AlE`DlHvAtD`BnD|@`B`ArCh@fAdCvGxAxFpA~HbDvXdAvMhCzWd@tGDvA@nGW|JEzGt@rN^vIPjHDvPDdCP~C`AfHn@tDxFf[zEhWzBxMnDzQz@lFTbCJ`C?|CEfBe@vFi@nDmC~HgS~n@}AdGcBjIcAbHu@zGy@fMo@nQCnGFTJE@KAmEReMn@oLZ_Ez@_ItB}LbAqE~AyF`JeYnJeY`AsDr@kGVqFIcG_AeHF?Pl@V^^Th@Hf@Cb@O\\]Rg@a@_Hq@aHB}CEcA]q@_@My@?SScA_FCaAfAwDj@qALe@FELRRfAPXd@tB^|BJL"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    43.632503,
+    -79.42193
+  ],
+  "end_latlng": [
+    43.631603,
+    -79.423586
+  ],
+  "average_speed": 9.176,
+  "max_speed": 14.36,
+  "average_cadence": 83.4,
+  "average_temp": 25,
+  "average_watts": 246.7,
+  "max_watts": 697,
+  "weighted_average_watts": 258,
+  "device_watts": true,
+  "kilojoules": 1065.9,
+  "has_heartrate": true,
+  "average_heartrate": 158.7,
+  "max_heartrate": 169.0,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": true,
+  "elev_high": 127.0,
+  "elev_low": 69.0,
+  "upload_id": 20597973121,
+  "upload_id_str": "20597973121",
+  "external_id": "garmin_ping_604240973794",
+  "from_accepted_tag": false,
+  "pr_count": 1,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "suffer_score": 151.0,
+  "description": "",
+  "calories": 1176.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3516624720166108110,
+      "resource_state": 2,
+      "name": "out the gate",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 103,
+      "moving_time": 103,
+      "start_date": "2026-07-26T13:32:25Z",
+      "start_date_local": "2026-07-26T09:32:25Z",
+      "distance": 837.2,
+      "start_index": 0,
+      "end_index": 103,
+      "average_cadence": 79.4,
+      "device_watts": true,
+      "average_watts": 219.2,
+      "average_heartrate": 152.7,
+      "max_heartrate": 160.0,
+      "segment": {
+        "id": 41867131,
+        "resource_state": 2,
+        "name": "out the gate",
+        "activity_type": "Ride",
+        "distance": 837.2,
+        "average_grade": -0.6,
+        "maximum_grade": 1.5,
+        "elevation_high": 85.6,
+        "elevation_low": 78.9,
+        "start_latlng": [
+          43.632467,
+          -79.421902
+        ],
+        "end_latlng": [
+          43.632692,
+          -79.428938
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516695014899087416,
+      "resource_state": 2,
+      "name": "Supertri Toronto 2026",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 4242,
+      "moving_time": 4238,
+      "start_date": "2026-07-26T13:32:31Z",
+      "start_date_local": "2026-07-26T09:32:31Z",
+      "distance": 39422.6,
+      "start_index": 6,
+      "end_index": 4248,
+      "average_cadence": 82.3,
+      "device_watts": true,
+      "average_watts": 250.9,
+      "average_heartrate": 158.9,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 41868265,
+        "resource_state": 2,
+        "name": "Supertri Toronto 2026",
+        "activity_type": "Ride",
+        "distance": 39422.6,
+        "average_grade": 0.0,
+        "maximum_grade": 7.4,
+        "elevation_high": 127.8,
+        "elevation_low": 74.4,
+        "start_latlng": [
+          43.632627,
+          -79.422273
+        ],
+        "end_latlng": [
+          43.632209,
+          -79.421708
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119886362602,
+      "resource_state": 2,
+      "name": "Toronto Triathlon Festival Sprint Eastbound ",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 731,
+      "moving_time": 731,
+      "start_date": "2026-07-26T13:34:03Z",
+      "start_date_local": "2026-07-26T09:34:03Z",
+      "distance": 6860.8,
+      "start_index": 98,
+      "end_index": 829,
+      "average_cadence": 81.3,
+      "device_watts": true,
+      "average_watts": 266.0,
+      "average_heartrate": 162.6,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 9782380,
+        "resource_state": 2,
+        "name": "Toronto Triathlon Festival Sprint Eastbound ",
+        "activity_type": "Ride",
+        "distance": 6860.8,
+        "average_grade": 0.2,
+        "maximum_grade": 3.0,
+        "elevation_high": 96.2,
+        "elevation_low": 77.0,
+        "start_latlng": [
+          43.632465,
+          -79.42938
+        ],
+        "end_latlng": [
+          43.650014,
+          -79.349299
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119888603114,
+      "resource_state": 2,
+      "name": "1km R&R",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 94,
+      "moving_time": 94,
+      "start_date": "2026-07-26T13:38:13Z",
+      "start_date_local": "2026-07-26T09:38:13Z",
+      "distance": 1007.9,
+      "start_index": 348,
+      "end_index": 442,
+      "average_cadence": 91.6,
+      "device_watts": true,
+      "average_watts": 248.0,
+      "average_heartrate": 161.4,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 32380529,
+        "resource_state": 2,
+        "name": "1km R&R",
+        "activity_type": "Ride",
+        "distance": 1007.9,
+        "average_grade": -1.0,
+        "maximum_grade": 5.1,
+        "elevation_high": 87.4,
+        "elevation_low": 77.8,
+        "start_latlng": [
+          43.637782,
+          -79.403841
+        ],
+        "end_latlng": [
+          43.63875,
+          -79.39153
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119887078378,
+      "resource_state": 2,
+      "name": "Lakeshore East sprint (under the bridge)",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 44,
+      "moving_time": 44,
+      "start_date": "2026-07-26T13:45:39Z",
+      "start_date_local": "2026-07-26T09:45:39Z",
+      "distance": 400.9,
+      "start_index": 794,
+      "end_index": 838,
+      "average_cadence": 82.2,
+      "device_watts": true,
+      "average_watts": 316.7,
+      "average_heartrate": 166.2,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 15676837,
+        "resource_state": 2,
+        "name": "Lakeshore East sprint (under the bridge)",
+        "activity_type": "Ride",
+        "distance": 400.9,
+        "average_grade": -0.4,
+        "maximum_grade": 0.5,
+        "elevation_high": 75.1,
+        "elevation_low": 73.3,
+        "start_latlng": [
+          43.648711,
+          -79.352879
+        ],
+        "end_latlng": [
+          43.650465,
+          -79.348551
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": null,
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119889012714,
+      "resource_state": 2,
+      "name": "R4H-1st leg NB",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 862,
+      "moving_time": 862,
+      "start_date": "2026-07-26T13:45:45Z",
+      "start_date_local": "2026-07-26T09:45:45Z",
+      "distance": 7882.2,
+      "start_index": 800,
+      "end_index": 1662,
+      "average_cadence": 77.4,
+      "device_watts": true,
+      "average_watts": 258.4,
+      "average_heartrate": 160.8,
+      "max_heartrate": 169.0,
+      "segment": {
+        "id": 15076605,
+        "resource_state": 2,
+        "name": "R4H-1st leg NB",
+        "activity_type": "Ride",
+        "distance": 7882.2,
+        "average_grade": -0.7,
+        "maximum_grade": 4.6,
+        "elevation_high": 134.4,
+        "elevation_low": 66.0,
+        "start_latlng": [
+          43.649011,
+          -79.352104
+        ],
+        "end_latlng": [
+          43.703022,
+          -79.332538
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119889094634,
+      "resource_state": 2,
+      "name": "Wheeeeeeee\ud83d\udca8",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 41,
+      "moving_time": 41,
+      "start_date": "2026-07-26T13:46:25Z",
+      "start_date_local": "2026-07-26T09:46:25Z",
+      "distance": 510.5,
+      "start_index": 840,
+      "end_index": 881,
+      "average_cadence": 42.2,
+      "device_watts": true,
+      "average_watts": 109.4,
+      "average_heartrate": 162.1,
+      "max_heartrate": 168.0,
+      "segment": {
+        "id": 41527245,
+        "resource_state": 2,
+        "name": "Wheeeeeeee\ud83d\udca8",
+        "activity_type": "Ride",
+        "distance": 510.5,
+        "average_grade": -3.7,
+        "maximum_grade": 2.8,
+        "elevation_high": 96.6,
+        "elevation_low": 75.8,
+        "start_latlng": [
+          43.65073,
+          -79.348612
+        ],
+        "end_latlng": [
+          43.654839,
+          -79.350283
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119888492522,
+      "resource_state": 2,
+      "name": "Eglinton Climb Northbound",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 602,
+      "moving_time": 602,
+      "start_date": "2026-07-26T13:53:43Z",
+      "start_date_local": "2026-07-26T09:53:43Z",
+      "distance": 5126.6,
+      "start_index": 1278,
+      "end_index": 1880,
+      "average_cadence": 78.7,
+      "device_watts": true,
+      "average_watts": 268.3,
+      "average_heartrate": 160.7,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 4296267,
+        "resource_state": 2,
+        "name": "Eglinton Climb Northbound",
+        "activity_type": "Ride",
+        "distance": 5126.6,
+        "average_grade": 0.6,
+        "maximum_grade": 10.1,
+        "elevation_high": 120.9,
+        "elevation_low": 90.6,
+        "start_latlng": [
+          43.68423,
+          -79.361524
+        ],
+        "end_latlng": [
+          43.715676,
+          -79.32536
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119888558058,
+      "resource_state": 2,
+      "name": "Ride For Heart - Pottery to Millwood",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 179,
+      "moving_time": 179,
+      "start_date": "2026-07-26T13:54:20Z",
+      "start_date_local": "2026-07-26T09:54:20Z",
+      "distance": 1533.8,
+      "start_index": 1315,
+      "end_index": 1494,
+      "average_cadence": 79.5,
+      "device_watts": true,
+      "average_watts": 251.0,
+      "average_heartrate": 161.7,
+      "max_heartrate": 163.0,
+      "segment": {
+        "id": 7324971,
+        "resource_state": 2,
+        "name": "Ride For Heart - Pottery to Millwood",
+        "activity_type": "Ride",
+        "distance": 1533.8,
+        "average_grade": 1.3,
+        "maximum_grade": 12.5,
+        "elevation_high": 117.9,
+        "elevation_low": 90.9,
+        "start_latlng": [
+          43.687203,
+          -79.360837
+        ],
+        "end_latlng": [
+          43.697833,
+          -79.350096
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119885313002,
+      "resource_state": 2,
+      "name": "DVP-Millwood to Don Mills Road",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 117,
+      "moving_time": 117,
+      "start_date": "2026-07-26T13:57:16Z",
+      "start_date_local": "2026-07-26T09:57:16Z",
+      "distance": 1142.25,
+      "start_index": 1491,
+      "end_index": 1608,
+      "average_cadence": 81.5,
+      "device_watts": true,
+      "average_watts": 240.4,
+      "average_heartrate": 158.3,
+      "max_heartrate": 162.0,
+      "segment": {
+        "id": 1557699,
+        "resource_state": 2,
+        "name": "DVP-Millwood to Don Mills Road",
+        "activity_type": "Ride",
+        "distance": 1142.25,
+        "average_grade": -1.7,
+        "maximum_grade": 5.4,
+        "elevation_high": 113.1,
+        "elevation_low": 94.0,
+        "start_latlng": [
+          43.6977428,
+          -79.3504057
+        ],
+        "end_latlng": [
+          43.7001345,
+          -79.3376956
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119886341098,
+      "resource_state": 2,
+      "name": "Don Mills Climb",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 149,
+      "moving_time": 149,
+      "start_date": "2026-07-26T14:00:53Z",
+      "start_date_local": "2026-07-26T10:00:53Z",
+      "distance": 1061.4,
+      "start_index": 1708,
+      "end_index": 1857,
+      "average_cadence": 76.0,
+      "device_watts": true,
+      "average_watts": 280.2,
+      "average_heartrate": 164.2,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 9629683,
+        "resource_state": 2,
+        "name": "Don Mills Climb",
+        "activity_type": "Ride",
+        "distance": 1061.4,
+        "average_grade": 2.8,
+        "maximum_grade": 8.6,
+        "elevation_high": 120.8,
+        "elevation_low": 90.8,
+        "start_latlng": [
+          43.706288,
+          -79.331496
+        ],
+        "end_latlng": [
+          43.7142,
+          -79.325037
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119885914090,
+      "resource_state": 2,
+      "name": "Ride For Heart - Don Mills to Pottery Road",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 278,
+      "moving_time": 278,
+      "start_date": "2026-07-26T14:08:41Z",
+      "start_date_local": "2026-07-26T10:08:41Z",
+      "distance": 2633.8,
+      "start_index": 2176,
+      "end_index": 2454,
+      "average_cadence": 85.2,
+      "device_watts": true,
+      "average_watts": 255.1,
+      "average_heartrate": 159.8,
+      "max_heartrate": 165.0,
+      "segment": {
+        "id": 7324954,
+        "resource_state": 2,
+        "name": "Ride For Heart - Don Mills to Pottery Road",
+        "activity_type": "Ride",
+        "distance": 2633.8,
+        "average_grade": -0.1,
+        "maximum_grade": 14.6,
+        "elevation_high": 117.6,
+        "elevation_low": 90.8,
+        "start_latlng": [
+          43.700223,
+          -79.337849
+        ],
+        "end_latlng": [
+          43.68747,
+          -79.360929
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119888433130,
+      "resource_state": 2,
+      "name": "TTF - Gardiner Ramp Up",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 86,
+      "moving_time": 86,
+      "start_date": "2026-07-26T14:19:45Z",
+      "start_date_local": "2026-07-26T10:19:45Z",
+      "distance": 555.557,
+      "start_index": 2840,
+      "end_index": 2926,
+      "average_cadence": 82.8,
+      "device_watts": true,
+      "average_watts": 310.8,
+      "average_heartrate": 162.1,
+      "max_heartrate": 166.0,
+      "segment": {
+        "id": 1816010,
+        "resource_state": 2,
+        "name": "TTF - Gardiner Ramp Up",
+        "activity_type": "Ride",
+        "distance": 555.557,
+        "average_grade": 0.0,
+        "maximum_grade": 0.0,
+        "elevation_high": 74.8,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.6538162,
+          -79.3492249
+        ],
+        "end_latlng": [
+          43.6496699,
+          -79.3503216
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119888192490,
+      "resource_state": 2,
+      "name": "Gardiner Westbound",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 759,
+      "moving_time": 759,
+      "start_date": "2026-07-26T14:21:06Z",
+      "start_date_local": "2026-07-26T10:21:06Z",
+      "distance": 7354.8,
+      "start_index": 2921,
+      "end_index": 3680,
+      "average_cadence": 86.5,
+      "device_watts": true,
+      "average_watts": 247.6,
+      "average_heartrate": 157.0,
+      "max_heartrate": 164.0,
+      "segment": {
+        "id": 4822617,
+        "resource_state": 2,
+        "name": "Gardiner Westbound",
+        "activity_type": "Ride",
+        "distance": 7354.8,
+        "average_grade": 0.1,
+        "maximum_grade": 2.4,
+        "elevation_high": 84.4,
+        "elevation_low": 74.8,
+        "start_latlng": [
+          43.649811,
+          -79.349953
+        ],
+        "end_latlng": [
+          43.633503,
+          -79.436081
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119885511658,
+      "resource_state": 2,
+      "name": "Lakeshore Cherry to Parliament",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 38,
+      "moving_time": 38,
+      "start_date": "2026-07-26T14:22:09Z",
+      "start_date_local": "2026-07-26T10:22:09Z",
+      "distance": 376.6,
+      "start_index": 2984,
+      "end_index": 3022,
+      "average_cadence": 90.2,
+      "device_watts": true,
+      "average_watts": 245.3,
+      "average_heartrate": 155.4,
+      "max_heartrate": 156.0,
+      "segment": {
+        "id": 18660905,
+        "resource_state": 2,
+        "name": "Lakeshore Cherry to Parliament",
+        "activity_type": "Ride",
+        "distance": 376.6,
+        "average_grade": 0.2,
+        "maximum_grade": 2.1,
+        "elevation_high": 76.5,
+        "elevation_low": 75.0,
+        "start_latlng": [
+          43.649364,
+          -79.356745
+        ],
+        "end_latlng": [
+          43.648022,
+          -79.361035
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119888908266,
+      "resource_state": 2,
+      "name": "Toronto Triathlon By Supertri Bike Segment ",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 423,
+      "moving_time": 423,
+      "start_date": "2026-07-26T14:23:04Z",
+      "start_date_local": "2026-07-26T10:23:04Z",
+      "distance": 4003.5,
+      "start_index": 3039,
+      "end_index": 3462,
+      "average_cadence": 86.9,
+      "device_watts": true,
+      "average_watts": 263.3,
+      "average_heartrate": 159.3,
+      "max_heartrate": 161.0,
+      "segment": {
+        "id": 39726121,
+        "resource_state": 2,
+        "name": "Toronto Triathlon By Supertri Bike Segment ",
+        "activity_type": "Ride",
+        "distance": 4003.5,
+        "average_grade": 0.2,
+        "maximum_grade": 2.0,
+        "elevation_high": 101.4,
+        "elevation_low": 89.6,
+        "start_latlng": [
+          43.647253,
+          -79.36306
+        ],
+        "end_latlng": [
+          43.637489,
+          -79.409808
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119887483882,
+      "resource_state": 2,
+      "name": "Jarvis to Yonge Jam",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 47,
+      "moving_time": 47,
+      "start_date": "2026-07-26T14:24:03Z",
+      "start_date_local": "2026-07-26T10:24:03Z",
+      "distance": 506.0,
+      "start_index": 3098,
+      "end_index": 3145,
+      "average_cadence": 88.0,
+      "device_watts": true,
+      "average_watts": 244.4,
+      "average_heartrate": 159.4,
+      "max_heartrate": 161.0,
+      "segment": {
+        "id": 12423729,
+        "resource_state": 2,
+        "name": "Jarvis to Yonge Jam",
+        "activity_type": "Ride",
+        "distance": 506.0,
+        "average_grade": 0.2,
+        "maximum_grade": 8.3,
+        "elevation_high": 75.0,
+        "elevation_low": 72.2,
+        "start_latlng": [
+          43.64572,
+          -79.370048
+        ],
+        "end_latlng": [
+          43.644414,
+          -79.375247
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119889021930,
+      "resource_state": 2,
+      "name": "Gardiner - Strachan -> Dunn",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 165,
+      "moving_time": 165,
+      "start_date": "2026-07-26T14:30:10Z",
+      "start_date_local": "2026-07-26T10:30:10Z",
+      "distance": 1709.2,
+      "start_index": 3465,
+      "end_index": 3630,
+      "average_cadence": 86.9,
+      "device_watts": true,
+      "average_watts": 220.8,
+      "average_heartrate": 153.0,
+      "max_heartrate": 157.0,
+      "segment": {
+        "id": 34573984,
+        "resource_state": 2,
+        "name": "Gardiner - Strachan -> Dunn",
+        "activity_type": "Ride",
+        "distance": 1709.2,
+        "average_grade": -0.9,
+        "maximum_grade": 1.7,
+        "elevation_high": 78.5,
+        "elevation_low": 63.0,
+        "start_latlng": [
+          43.637546,
+          -79.410139
+        ],
+        "end_latlng": [
+          43.632917,
+          -79.430069
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119888879594,
+      "resource_state": 2,
+      "name": "I'm a car! - ActiveTO Lakeshore freedom hill sprint!",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 50,
+      "moving_time": 50,
+      "start_date": "2026-07-26T14:39:02Z",
+      "start_date_local": "2026-07-26T10:39:02Z",
+      "distance": 466.1,
+      "start_index": 3997,
+      "end_index": 4047,
+      "average_cadence": 86.2,
+      "device_watts": true,
+      "average_watts": 287.2,
+      "average_heartrate": 159.9,
+      "max_heartrate": 162.0,
+      "segment": {
+        "id": 24361074,
+        "resource_state": 2,
+        "name": "I'm a car! - ActiveTO Lakeshore freedom hill sprint!",
+        "activity_type": "Ride",
+        "distance": 466.1,
+        "average_grade": 1.7,
+        "maximum_grade": 3.1,
+        "elevation_high": 86.2,
+        "elevation_low": 78.4,
+        "start_latlng": [
+          43.636031,
+          -79.442983
+        ],
+        "end_latlng": [
+          43.633982,
+          -79.437979
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516549213581871082,
+      "resource_state": 2,
+      "name": "back to transition",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 127,
+      "moving_time": 126,
+      "start_date": "2026-07-26T14:41:24Z",
+      "start_date_local": "2026-07-26T10:41:24Z",
+      "distance": 926.6,
+      "start_index": 4139,
+      "end_index": 4266,
+      "average_cadence": 68.3,
+      "device_watts": true,
+      "average_watts": 197.1,
+      "average_heartrate": 156.8,
+      "max_heartrate": 160.0,
+      "segment": {
+        "id": 41867173,
+        "resource_state": 2,
+        "name": "back to transition",
+        "activity_type": "Ride",
+        "distance": 926.6,
+        "average_grade": 0.5,
+        "maximum_grade": 3.5,
+        "elevation_high": 85.6,
+        "elevation_low": 78.3,
+        "start_latlng": [
+          43.63266,
+          -79.429357
+        ],
+        "end_latlng": [
+          43.632063,
+          -79.42224
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3516506119888491498,
+      "resource_state": 2,
+      "name": "From BC to SK",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 41,
+      "moving_time": 41,
+      "start_date": "2026-07-26T14:41:49Z",
+      "start_date_local": "2026-07-26T10:41:49Z",
+      "distance": 378.6,
+      "start_index": 4164,
+      "end_index": 4205,
+      "average_cadence": 94.6,
+      "device_watts": true,
+      "average_watts": 286.0,
+      "average_heartrate": 158.1,
+      "max_heartrate": 160.0,
+      "segment": {
+        "id": 12061293,
+        "resource_state": 2,
+        "name": "From BC to SK",
+        "activity_type": "Ride",
+        "distance": 378.6,
+        "average_grade": 0.1,
+        "maximum_grade": 3.0,
+        "elevation_high": 78.7,
+        "elevation_low": 77.3,
+        "start_latlng": [
+          43.631474,
+          -79.428808
+        ],
+        "end_latlng": [
+          43.632454,
+          -79.424846
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1004.7,
+      "elapsed_time": 121,
+      "elevation_difference": -2.8,
+      "moving_time": 121,
+      "split": 1,
+      "average_speed": 8.3,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 153.21487603305786,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 122,
+      "elevation_difference": 11.4,
+      "moving_time": 122,
+      "split": 2,
+      "average_speed": 8.2,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 164.04098360655738,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 110,
+      "elevation_difference": 2.4,
+      "moving_time": 110,
+      "split": 3,
+      "average_speed": 9.07,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 162.7,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.5,
+      "elapsed_time": 93,
+      "elevation_difference": -10.2,
+      "moving_time": 93,
+      "split": 4,
+      "average_speed": 10.74,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 161.4731182795699,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.9,
+      "elapsed_time": 103,
+      "elevation_difference": -0.2,
+      "moving_time": 103,
+      "split": 5,
+      "average_speed": 9.73,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 162.35922330097088,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 105,
+      "elevation_difference": -0.8,
+      "moving_time": 105,
+      "split": 6,
+      "average_speed": 9.51,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 163.24761904761905,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 106,
+      "elevation_difference": 0.4,
+      "moving_time": 106,
+      "split": 7,
+      "average_speed": 9.44,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 161.56603773584905,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.8,
+      "elapsed_time": 102,
+      "elevation_difference": -5.6,
+      "moving_time": 102,
+      "split": 8,
+      "average_speed": 9.85,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 165.18627450980392,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.4,
+      "elapsed_time": 94,
+      "elevation_difference": -5.2,
+      "moving_time": 94,
+      "split": 9,
+      "average_speed": 10.6,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.96808510638297,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 108,
+      "elevation_difference": 2.8,
+      "moving_time": 108,
+      "split": 10,
+      "average_speed": 9.27,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 162.5462962962963,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 132,
+      "elevation_difference": 16.2,
+      "moving_time": 132,
+      "split": 11,
+      "average_speed": 7.58,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 163.3409090909091,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 109,
+      "elevation_difference": -5.0,
+      "moving_time": 109,
+      "split": 12,
+      "average_speed": 9.19,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 160.44036697247705,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.1,
+      "elapsed_time": 117,
+      "elevation_difference": 7.4,
+      "moving_time": 117,
+      "split": 13,
+      "average_speed": 8.56,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 161.17094017094018,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.4,
+      "elapsed_time": 118,
+      "elevation_difference": 7.6,
+      "moving_time": 118,
+      "split": 14,
+      "average_speed": 8.48,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 161.34745762711864,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 94,
+      "elevation_difference": -8.8,
+      "moving_time": 94,
+      "split": 15,
+      "average_speed": 10.64,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 155.91489361702128,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.6,
+      "elapsed_time": 125,
+      "elevation_difference": 17.4,
+      "moving_time": 125,
+      "split": 16,
+      "average_speed": 7.97,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 161.352,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.0,
+      "elapsed_time": 137,
+      "elevation_difference": 17.0,
+      "moving_time": 137,
+      "split": 17,
+      "average_speed": 7.28,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 163.04379562043795,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.3,
+      "elapsed_time": 117,
+      "elevation_difference": -1.0,
+      "moving_time": 117,
+      "split": 18,
+      "average_speed": 8.55,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.05128205128204,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 84,
+      "elevation_difference": -18.8,
+      "moving_time": 84,
+      "split": 19,
+      "average_speed": 11.9,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 153.85714285714286,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 82,
+      "elevation_difference": -13.2,
+      "moving_time": 82,
+      "split": 20,
+      "average_speed": 12.17,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 154.8780487804878,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1008.0,
+      "elapsed_time": 117,
+      "elevation_difference": 10.0,
+      "moving_time": 117,
+      "split": 21,
+      "average_speed": 8.62,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 162.35897435897436,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.5,
+      "elapsed_time": 101,
+      "elevation_difference": -6.6,
+      "moving_time": 101,
+      "split": 22,
+      "average_speed": 9.83,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 158.26732673267327,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1007.9,
+      "elapsed_time": 94,
+      "elevation_difference": -8.4,
+      "moving_time": 94,
+      "split": 23,
+      "average_speed": 10.72,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.5212765957447,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.3,
+      "elapsed_time": 107,
+      "elevation_difference": 3.8,
+      "moving_time": 107,
+      "split": 24,
+      "average_speed": 9.3,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 156.65420560747663,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.1,
+      "elapsed_time": 88,
+      "elevation_difference": -11.8,
+      "moving_time": 88,
+      "split": 25,
+      "average_speed": 11.33,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 152.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 96,
+      "elevation_difference": -2.4,
+      "moving_time": 96,
+      "split": 26,
+      "average_speed": 10.41,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 152.08510638297872,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.7,
+      "elapsed_time": 125,
+      "elevation_difference": 16.0,
+      "moving_time": 125,
+      "split": 27,
+      "average_speed": 8.04,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.7258064516129,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.7,
+      "elapsed_time": 112,
+      "elevation_difference": -8.2,
+      "moving_time": 112,
+      "split": 28,
+      "average_speed": 8.95,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.32142857142858,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992.5,
+      "elapsed_time": 98,
+      "elevation_difference": -1.2,
+      "moving_time": 98,
+      "split": 29,
+      "average_speed": 10.13,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 159.3877551020408,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1002.0,
+      "elapsed_time": 102,
+      "elevation_difference": -1.2,
+      "moving_time": 102,
+      "split": 30,
+      "average_speed": 9.82,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 158.81372549019608,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1004.1,
+      "elapsed_time": 102,
+      "elevation_difference": 1.0,
+      "moving_time": 102,
+      "split": 31,
+      "average_speed": 9.84,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 158.4313725490196,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.2,
+      "elapsed_time": 117,
+      "elevation_difference": 7.4,
+      "moving_time": 117,
+      "split": 32,
+      "average_speed": 8.53,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 159.95726495726495,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.0,
+      "elapsed_time": 106,
+      "elevation_difference": -5.6,
+      "moving_time": 106,
+      "split": 33,
+      "average_speed": 9.46,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 154.39622641509433,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 91,
+      "elevation_difference": -12.8,
+      "moving_time": 91,
+      "split": 34,
+      "average_speed": 10.99,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 153.07692307692307,
+      "pace_zone": 0
+    },
+    {
+      "distance": 995.6,
+      "elapsed_time": 102,
+      "elevation_difference": 2.2,
+      "moving_time": 102,
+      "split": 35,
+      "average_speed": 9.76,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 154.40196078431373,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.0,
+      "elapsed_time": 110,
+      "elevation_difference": 4.4,
+      "moving_time": 110,
+      "split": 36,
+      "average_speed": 9.09,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 155.3272727272727,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 113,
+      "elevation_difference": -3.8,
+      "moving_time": 113,
+      "split": 37,
+      "average_speed": 8.85,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.9203539823009,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 103,
+      "elevation_difference": -0.4,
+      "moving_time": 103,
+      "split": 38,
+      "average_speed": 9.69,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 159.48543689320388,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.1,
+      "elapsed_time": 122,
+      "elevation_difference": 3.6,
+      "moving_time": 122,
+      "split": 39,
+      "average_speed": 8.19,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 156.25409836065575,
+      "pace_zone": 0
+    },
+    {
+      "distance": 641.0,
+      "elapsed_time": 135,
+      "elevation_difference": 1.8,
+      "moving_time": 135,
+      "split": 40,
+      "average_speed": 4.75,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 154.56716417910448,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1615.2,
+      "elapsed_time": 196,
+      "elevation_difference": 9.6,
+      "moving_time": 196,
+      "split": 1,
+      "average_speed": 8.24,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.7704081632653,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 178,
+      "elevation_difference": -1.8,
+      "moving_time": 178,
+      "split": 2,
+      "average_speed": 9.04,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 162.37640449438203,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.1,
+      "elapsed_time": 157,
+      "elevation_difference": -7.6,
+      "moving_time": 157,
+      "split": 3,
+      "average_speed": 10.26,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 161.9235668789809,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.5,
+      "elapsed_time": 169,
+      "elevation_difference": -1.0,
+      "moving_time": 169,
+      "split": 4,
+      "average_speed": 9.5,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 162.57988165680473,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.9,
+      "elapsed_time": 165,
+      "elevation_difference": -7.0,
+      "moving_time": 165,
+      "split": 5,
+      "average_speed": 9.75,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 164.0121212121212,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.6,
+      "elapsed_time": 161,
+      "elevation_difference": -0.4,
+      "moving_time": 161,
+      "split": 6,
+      "average_speed": 9.99,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 159.8447204968944,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.6,
+      "elapsed_time": 203,
+      "elevation_difference": 20.0,
+      "moving_time": 203,
+      "split": 7,
+      "average_speed": 7.92,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 163.21182266009853,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.8,
+      "elapsed_time": 178,
+      "elevation_difference": 0.4,
+      "moving_time": 178,
+      "split": 8,
+      "average_speed": 9.06,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 160.22471910112358,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.5,
+      "elapsed_time": 182,
+      "elevation_difference": 4.0,
+      "moving_time": 182,
+      "split": 9,
+      "average_speed": 8.87,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 160.71978021978023,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.2,
+      "elapsed_time": 183,
+      "elevation_difference": 13.2,
+      "moving_time": 183,
+      "split": 10,
+      "average_speed": 8.76,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 159.49180327868854,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1614.5,
+      "elapsed_time": 211,
+      "elevation_difference": 14.4,
+      "moving_time": 211,
+      "split": 11,
+      "average_speed": 7.65,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 160.9004739336493,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.8,
+      "elapsed_time": 138,
+      "elevation_difference": -27.8,
+      "moving_time": 138,
+      "split": 12,
+      "average_speed": 11.65,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 153.54347826086956,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.2,
+      "elapsed_time": 167,
+      "elevation_difference": 7.0,
+      "moving_time": 167,
+      "split": 13,
+      "average_speed": 9.65,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 160.22155688622755,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1606.2,
+      "elapsed_time": 161,
+      "elevation_difference": -11.0,
+      "moving_time": 161,
+      "split": 14,
+      "average_speed": 9.98,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 158.09316770186336,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.8,
+      "elapsed_time": 162,
+      "elevation_difference": -4.0,
+      "moving_time": 162,
+      "split": 15,
+      "average_speed": 9.94,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 156.72222222222223,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1605.3,
+      "elapsed_time": 146,
+      "elevation_difference": -12.0,
+      "moving_time": 146,
+      "split": 16,
+      "average_speed": 11.0,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 152.61379310344827,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.4,
+      "elapsed_time": 193,
+      "elevation_difference": 9.6,
+      "moving_time": 193,
+      "split": 17,
+      "average_speed": 8.35,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.53403141361255,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.5,
+      "elapsed_time": 164,
+      "elevation_difference": -2.8,
+      "moving_time": 164,
+      "split": 18,
+      "average_speed": 9.81,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.5121951219512,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1612.5,
+      "elapsed_time": 162,
+      "elevation_difference": -2.2,
+      "moving_time": 162,
+      "split": 19,
+      "average_speed": 9.95,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 158.93827160493828,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1603.8,
+      "elapsed_time": 182,
+      "elevation_difference": 8.0,
+      "moving_time": 182,
+      "split": 20,
+      "average_speed": 8.81,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 159.3186813186813,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1618.7,
+      "elapsed_time": 159,
+      "elevation_difference": -16.6,
+      "moving_time": 159,
+      "split": 21,
+      "average_speed": 10.18,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 153.23270440251574,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1601.7,
+      "elapsed_time": 162,
+      "elevation_difference": 1.0,
+      "moving_time": 162,
+      "split": 22,
+      "average_speed": 9.89,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 153.67283950617283,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1616.4,
+      "elapsed_time": 183,
+      "elevation_difference": 0.6,
+      "moving_time": 183,
+      "split": 23,
+      "average_speed": 8.83,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 157.62841530054644,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1602.5,
+      "elapsed_time": 175,
+      "elevation_difference": 0.6,
+      "moving_time": 175,
+      "split": 24,
+      "average_speed": 9.16,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 158.50285714285715,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1014.1,
+      "elapsed_time": 183,
+      "elevation_difference": 4.6,
+      "moving_time": 183,
+      "split": 25,
+      "average_speed": 5.54,
+      "average_grade_adjusted_speed": null,
+      "average_heartrate": 154.64285714285714,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 69573553438,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 19475927854,
+        "id_str": "19475927854",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 4320,
+      "moving_time": 4320,
+      "start_date": "2026-07-26T13:32:25Z",
+      "start_date_local": "2026-07-26T09:32:25Z",
+      "distance": 39641.5,
+      "average_speed": 9.18,
+      "max_speed": 14.36,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 4320,
+      "total_elevation_gain": 203.2,
+      "average_cadence": 83.4,
+      "device_watts": true,
+      "average_watts": 246.7,
+      "average_heartrate": 158.7,
+      "max_heartrate": 169.0
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "sport_image_visibility": "everyone",
+  "embed_token": "00ce1f7cbd2c5a641593174bf1b0806a29b3e10d",
+  "private_note": "",
+  "available_zones": [
+    "heartrate",
+    "power"
+  ]
+}
