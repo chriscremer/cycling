@@ -6088,5 +6088,26 @@
     "normalized_power": 266.21797476507334,
     "tss": 77.10612208650022,
     "source": "cache"
+  },
+  {
+    "activity_id": 19507734174,
+    "date": "2026-07-28",
+    "name": "Zwift - Race: Stage 4 - Race - Tour Fever | Advanced (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2192542021858639904.fit",
+    "display_name": "2026-07-28 - Zwift - Race: Stage 4 - Race - Tour Fever | Advanced (A)",
+    "curve": [
+      740.0666666666667,
+      562.8,
+      419.0833333333333,
+      353.325,
+      312.0366666666667,
+      290.49,
+      274.79833333333335
+    ],
+    "moving_time": 1986.0,
+    "normalized_power": 296.6139700181505,
+    "tss": 53.92838782682641,
+    "source": "cache"
   }
 ]
