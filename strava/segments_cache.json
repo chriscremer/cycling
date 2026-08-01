@@ -4,8 +4,18 @@
       "name": "Beechwood Drive",
       "url": "https://www.strava.com/segments/806459",
       "compare_url": "https://www.strava.com/segments/806459/compare/MzQ4MDY0NDQ3NzU5MDY5ODAwNiwyNzQzMTU1ODc2ODA4NjkyMDMw",
-      "updated_at": "2026-07-31T20:20:28",
+      "updated_at": "2026-08-01T07:22:04",
       "rows": [
+        {
+          "rank": "1",
+          "name": "Jeff is a Banana",
+          "date": "Saturday, August 1, 2026",
+          "time": "1:09",
+          "speed": "-",
+          "power": "645 W",
+          "heart_rate": "166 bpm",
+          "cached_at": "2026-08-01T07:22:04"
+        },
         {
           "rank": "15",
           "name": "Chris Cremer",
@@ -17,16 +27,6 @@
           "source_activity_id": "19548809174",
           "source_activity_name": "Evening Ride",
           "cached_at": "2026-07-23T22:46:20"
-        },
-        {
-          "rank": "1",
-          "name": "Jeff is a Banana",
-          "date": "Friday, May 29, 2026",
-          "time": "1:12",
-          "speed": "-",
-          "power": "-",
-          "heart_rate": "-",
-          "cached_at": "2026-05-29T16:13:11"
         },
         {
           "rank": "3",
@@ -288,6 +288,16 @@
             "power": "-",
             "heart_rate": "-",
             "cached_at": "2026-05-29T16:13:11"
+          },
+          {
+            "rank": "1",
+            "name": "Jeff is a Banana",
+            "date": "Saturday, August 1, 2026",
+            "time": "1:09",
+            "speed": "-",
+            "power": "645 W",
+            "heart_rate": "166 bpm",
+            "cached_at": "2026-08-01T07:22:04"
           }
         ],
         "max nie": [
