@@ -1,0 +1,964 @@
+{
+  "resource_state": 3,
+  "athlete": {
+    "id": 9693467,
+    "id_str": "9693467",
+    "resource_state": 1
+  },
+  "name": "Run with Julian",
+  "distance": 7983.1,
+  "moving_time": 2683,
+  "elapsed_time": 2857,
+  "total_elevation_gain": 23.4,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": null,
+  "device_name": "Strava App",
+  "id": 19632853055,
+  "id_str": "19632853055",
+  "start_date": "2026-08-06T20:46:04Z",
+  "start_date_local": "2026-08-06T16:46:04Z",
+  "timezone": "(GMT-05:00) America/Toronto",
+  "utc_offset": -14400.0,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 5,
+  "kudos_count": 2,
+  "comment_count": 0,
+  "athlete_count": 1,
+  "photo_count": 0,
+  "map": {
+    "id": "a19632853055",
+    "polyline": "k~iiG|cqcNAFCF@AE?Ei@IUGmAIM?KOaA?SKSAWKg@OuAAa@Gi@@Oi@iCAWGG?IGQ?QYiBAYKgAQsAKaAGYC_@Km@@GOkAEs@EICe@Kc@A_AGUEg@Kq@Ae@QeA@QEO?o@SqAM_BGSA}@EK?QK{@GQCYEQIwASy@A]SYIc@AWUu@AYMWQy@GQI]Ge@Q[EWM[]}ACa@KOGYO_@AM_@cAS{@M]QaAEKE[Qi@GAAQSs@Mw@a@eBGg@EEAWMOQq@?GUs@O{@ISCWUw@CQECEMMo@s@kCOaAIQG[ISKq@O_@U{@IOAGOk@Ga@Ss@CO]qAI_@Iu@Mk@Wu@AQQo@EWQe@GYWk@SaAISO{@CG]_BYw@}@_EKUS}@[cA{AoG_@s@KASQm@C]Kw@[KAKGc@MEAGOAc@Qa@]mBSk@YaBWaAIm@EKGm@WkAGMYmAIQSiACMECEe@@Q?q@DIFBDARBHCH@BA`@?RGPCp@_@`CiBJMHEJQdA{@\\OZWTKtBaBt@c@@GPITUb@Wh@i@RMPBFH`@z@DRHNH`@Pd@Nd@BRIf@_BrCEZD\\Z`@Th@Nt@^rAFb@HPHXNXJ@^KFKTSHCp@i@NQ^[b@YXYDI@m@IYGEc@MSQIOM}@IWKQ[[OSGUASHaACOGM[M_@]Wi@S_A][g@Sc@EI@WNFKx@m@HCTWT]t@aDPi@h@wBHS@MVw@Vg@XYBCB@BLEXMJMRERIj@MTSDSEQKC@IQGIGUCS?WH_@Pa@Z]BIZa@B]CUk@qAcAwCO]w@qAY[k@a@QYa@mBa@kAi@cAi@y@MK]SOCAD?CJ|@FjABTHdCDb@ARH|BLd@TZ\\TT@PAn@[VG^BTHPLXd@Jf@Hn@F~@CIECe@JU?IBEFFtEJhATjAB\\MbAINGBEJ@h@Eh@[z@_Av@oAx@a@^o@b@s@l@cBlAy@r@W^_@Xe@Xw@`@QNWNcAt@a@Jk@@k@DGHGXG^?BB??@?AGB[?ULK@EAi@FKAEHSlA|@gC@MPWSzH}EtA]iAO}@AYR[PQl@[DGOAODIDQPQBOLCHDJB`@LNDNARBNAFBPFTBB@LFJ?V@BAJDDAF@FAXFJLV?VJn@@RLPNCFDH@DFHC?EFJ?LCR?AB\\EPBL?ADJC^BFAJ@F@C?HEV?tAGPAVFZ?VD@?D?HIACOBCGCAB@A@?DD@IGA",
+    "resource_state": 3,
+    "summary_polyline": "k~iiG|cqcNAFCF@AEAEg@IUGmAIM?KOaA?SKSAWWeBMcB@Oi@iCAWGG?IGQ?QYiBAYKgAQsAKaAGYC_@Km@@GOkAEs@EICe@Kc@A_AGUEg@Kq@Ae@QeA@QEO?o@SqAM_BGSA}@EK?QK{@GQCYEQIwASy@A]SYIc@AWUu@AYMWQy@GQI]Ge@Q[EWM[]}ACa@KOGYO_@AM_@cAS{@M]QaAEKE[Qi@GAAQSs@Mw@a@eBGg@EEAWMOQq@?GUs@O{@ISCWUw@CQECEMMo@s@kCOaAIQG[ISKq@O_@U{@IOAGOk@Ga@Ss@CO]qAI_@Iu@Mk@Wu@AQQo@EWQe@GYWk@SaAISO{@CG]_BYw@}@_EKUS}@[cA{AoG_@s@KASQm@C]Kw@[KAo@UEAGOAc@Qa@]mBSk@YaBWaAIm@EKGm@WkAGMYmAIQSiACMECEe@@Q?q@DI`@DVC`@?d@Kp@_@`CiBJMHEJQdA{@nAs@tBaBt@c@@GPITUb@W|@w@PBFH`@z@DRHNH`@Pd@Nd@BRIf@_BrCEZD\\Z`@Th@Nt@^rAFb@HPHXNXD@d@KFKTSHCp@i@n@m@b@YXYDI@m@IYGEc@MSQIOM}@IWKQ[[OSGUASHaACOGM[M_@]Wi@S_A][g@Sc@EI@WNFKx@m@HCTWT]t@aDPi@h@wBHS@MVw@Vg@XYFABLEXMJMRERIj@MTSDSEQKC@IQGII[Ae@H_@Tg@VWBIZa@B]CUk@qAcAwCO]w@qAY[k@a@QYa@mBUu@u@yAi@y@MK]SOCAD?CJ|@FjABTHdCDb@ARH|BLd@TZ\\Tf@?n@[VG^BTHPLXd@Jf@Hn@F~@CIECe@JU?IBEFFtEJhATjAB\\MbAINGBEJ@h@Eh@[z@_Av@oAx@a@^o@b@s@l@cBlAy@r@W^_@X}Az@mBtAa@JwAFGHGXG^?BB@c@@ULQ?i@FKAEHSlA|@gC@MPWSzH}EtA]iAO}@AYR[PQl@[DEOCODIDQPQBOLCHDJB`@LNDNARBNAFBPFTBB@LFJ?V@BAJDDAF@FAXFJLV?VJn@@RLPNCFDH@DFHC?EFJ?LCR?AB\\EPBL?ADJC^BFAJ@F@C?HEV?tAGPAVFZ?VD@?D?HIACOBCGCABBADD@IGA"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": null,
+  "start_latlng": [
+    43.637663,
+    -79.391502
+  ],
+  "end_latlng": [
+    43.650021,
+    -79.36136
+  ],
+  "average_speed": 2.975,
+  "max_speed": 12.385,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 83.6,
+  "elev_low": 73.8,
+  "upload_id": 20760317541,
+  "upload_id_str": "20760317541",
+  "external_id": "37A099FB-5B99-4C8D-8B23-554CC9DC7A8D-activity.fit",
+  "from_accepted_tag": false,
+  "pr_count": 2,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": "",
+  "calories": 741.0,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 3520561335367186346,
+      "resource_state": 2,
+      "name": "QQ - Spadina to Rees",
+      "activity": {
+        "id": 19632853055,
+        "id_str": "19632853055",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 132,
+      "moving_time": 128,
+      "start_date": "2026-08-06T20:46:24Z",
+      "start_date_local": "2026-08-06T16:46:24Z",
+      "distance": 423.0,
+      "start_index": 20,
+      "end_index": 151,
+      "device_watts": false,
+      "segment": {
+        "id": 25557034,
+        "resource_state": 2,
+        "name": "QQ - Spadina to Rees",
+        "activity_type": "Run",
+        "distance": 423.0,
+        "average_grade": 0.0,
+        "maximum_grade": 1.2,
+        "elevation_high": 77.5,
+        "elevation_low": 76.8,
+        "start_latlng": [
+          43.637547,
+          -79.392065
+        ],
+        "end_latlng": [
+          43.638788,
+          -79.386631
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3520561335368398762,
+      "resource_state": 2,
+      "name": "Harbour Craziness",
+      "activity": {
+        "id": 19632853055,
+        "id_str": "19632853055",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 168,
+      "moving_time": 168,
+      "start_date": "2026-08-06T20:48:45Z",
+      "start_date_local": "2026-08-06T16:48:45Z",
+      "distance": 532.0,
+      "start_index": 160,
+      "end_index": 326,
+      "device_watts": false,
+      "segment": {
+        "id": 40090551,
+        "resource_state": 2,
+        "name": "Harbour Craziness",
+        "activity_type": "Run",
+        "distance": 532.0,
+        "average_grade": 0.0,
+        "maximum_grade": 8.3,
+        "elevation_high": 141.0,
+        "elevation_low": 140.0,
+        "start_latlng": [
+          43.638769,
+          -79.386249
+        ],
+        "end_latlng": [
+          43.640005,
+          -79.379912
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3520561335367182250,
+      "resource_state": 2,
+      "name": "York St Climb",
+      "activity": {
+        "id": 19632853055,
+        "id_str": "19632853055",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 252,
+      "moving_time": 252,
+      "start_date": "2026-08-06T20:48:58Z",
+      "start_date_local": "2026-08-06T16:48:58Z",
+      "distance": 799.21,
+      "start_index": 173,
+      "end_index": 422,
+      "device_watts": false,
+      "segment": {
+        "id": 1552334,
+        "resource_state": 2,
+        "name": "York St Climb",
+        "activity_type": "Run",
+        "distance": 799.21,
+        "average_grade": 10.0,
+        "maximum_grade": 0.4,
+        "elevation_high": 150.6,
+        "elevation_low": 70.8,
+        "start_latlng": [
+          43.638839945197105,
+          -79.38566375523806
+        ],
+        "end_latlng": [
+          43.641159469261765,
+          -79.37647576443851
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Toronto",
+        "state": "ON",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3520561335366760362,
+      "resource_state": 2,
+      "name": "Queens Flat",
+      "activity": {
+        "id": 19632853055,
+        "id_str": "19632853055",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 213,
+      "moving_time": 213,
+      "start_date": "2026-08-06T20:53:22Z",
+      "start_date_local": "2026-08-06T16:53:22Z",
+      "distance": 668.5,
+      "start_index": 434,
+      "end_index": 647,
+      "device_watts": false,
+      "segment": {
+        "id": 40090561,
+        "resource_state": 2,
+        "name": "Queens Flat",
+        "activity_type": "Run",
+        "distance": 668.5,
+        "average_grade": -0.1,
+        "maximum_grade": 8.0,
+        "elevation_high": 140.0,
+        "elevation_low": 139.0,
+        "start_latlng": [
+          43.641319,
+          -79.376026
+        ],
+        "end_latlng": [
+          43.643941,
+          -79.3686
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3520561335367692202,
+      "resource_state": 2,
+      "name": "Sugar Sprint",
+      "activity": {
+        "id": 19632853055,
+        "id_str": "19632853055",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 84,
+      "moving_time": 84,
+      "start_date": "2026-08-06T20:55:25Z",
+      "start_date_local": "2026-08-06T16:55:25Z",
+      "distance": 266.1,
+      "start_index": 557,
+      "end_index": 641,
+      "device_watts": false,
+      "segment": {
+        "id": 36888064,
+        "resource_state": 2,
+        "name": "Sugar Sprint",
+        "activity_type": "Run",
+        "distance": 266.1,
+        "average_grade": 0.1,
+        "maximum_grade": 4.6,
+        "elevation_high": 31.2,
+        "elevation_low": 30.2,
+        "start_latlng": [
+          43.642847,
+          -79.371709
+        ],
+        "end_latlng": [
+          43.643889,
+          -79.368803
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3520561335366649770,
+      "resource_state": 2,
+      "name": "Abandoned Lane",
+      "activity": {
+        "id": 19632853055,
+        "id_str": "19632853055",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 146,
+      "moving_time": 146,
+      "start_date": "2026-08-06T21:00:25Z",
+      "start_date_local": "2026-08-06T17:00:25Z",
+      "distance": 437.5,
+      "start_index": 857,
+      "end_index": 1003,
+      "device_watts": false,
+      "segment": {
+        "id": 40090568,
+        "resource_state": 2,
+        "name": "Abandoned Lane",
+        "activity_type": "Run",
+        "distance": 437.5,
+        "average_grade": 0.0,
+        "maximum_grade": 8.3,
+        "elevation_high": 140.0,
+        "elevation_low": 139.0,
+        "start_latlng": [
+          43.646658,
+          -79.361424
+        ],
+        "end_latlng": [
+          43.648826,
+          -79.357281
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3520561335368450986,
+      "resource_state": 2,
+      "name": "Straight shot to the water",
+      "activity": {
+        "id": 19632853055,
+        "id_str": "19632853055",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 164,
+      "moving_time": 164,
+      "start_date": "2026-08-06T21:05:27Z",
+      "start_date_local": "2026-08-06T17:05:27Z",
+      "distance": 322.0,
+      "start_index": 1155,
+      "end_index": 1318,
+      "device_watts": false,
+      "segment": {
+        "id": 41928418,
+        "resource_state": 2,
+        "name": "Straight shot to the water",
+        "activity_type": "Run",
+        "distance": 322.0,
+        "average_grade": -1.0,
+        "maximum_grade": 1.7,
+        "elevation_high": 78.6,
+        "elevation_low": 75.1,
+        "start_latlng": [
+          43.645524,
+          -79.354525
+        ],
+        "end_latlng": [
+          43.644036,
+          -79.35792
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3520561335367657386,
+      "resource_state": 2,
+      "name": "Biidaasige Stairs to Bridge 400",
+      "activity": {
+        "id": 19632853055,
+        "id_str": "19632853055",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 156,
+      "moving_time": 145,
+      "start_date": "2026-08-06T21:17:05Z",
+      "start_date_local": "2026-08-06T17:17:05Z",
+      "distance": 438.0,
+      "start_index": 1848,
+      "end_index": 2003,
+      "device_watts": false,
+      "segment": {
+        "id": 39665601,
+        "resource_state": 2,
+        "name": "Biidaasige Stairs to Bridge 400",
+        "activity_type": "Run",
+        "distance": 438.0,
+        "average_grade": 0.0,
+        "maximum_grade": 5.4,
+        "elevation_high": 76.2,
+        "elevation_low": 75.2,
+        "start_latlng": [
+          43.646031,
+          -79.346228
+        ],
+        "end_latlng": [
+          43.644221,
+          -79.349918
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    },
+    {
+      "id": 3520561335368823722,
+      "resource_state": 2,
+      "name": "Somebody That I Used To Know \ud83c\udf99\ufe0f BOSLA",
+      "activity": {
+        "id": 19632853055,
+        "id_str": "19632853055",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 245,
+      "moving_time": 198,
+      "start_date": "2026-08-06T21:21:57Z",
+      "start_date_local": "2026-08-06T17:21:57Z",
+      "distance": 568.0,
+      "start_index": 2138,
+      "end_index": 2381,
+      "device_watts": false,
+      "segment": {
+        "id": 37651539,
+        "resource_state": 2,
+        "name": "Somebody That I Used To Know \ud83c\udf99\ufe0f BOSLA",
+        "activity_type": "Run",
+        "distance": 568.0,
+        "average_grade": -0.1,
+        "maximum_grade": 1.6,
+        "elevation_high": 86.4,
+        "elevation_low": 83.0,
+        "start_latlng": [
+          43.645029,
+          -79.353589
+        ],
+        "end_latlng": [
+          43.64957,
+          -79.35651
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": "Ontario",
+        "country": "Canada",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "kom_rank": null,
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1003.5,
+      "elapsed_time": 329,
+      "elevation_difference": 0.0,
+      "moving_time": 306,
+      "split": 1,
+      "average_speed": 3.28,
+      "average_grade_adjusted_speed": 3.28,
+      "pace_zone": 2
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 312,
+      "elevation_difference": -0.4,
+      "moving_time": 312,
+      "split": 2,
+      "average_speed": 3.2,
+      "average_grade_adjusted_speed": 3.2,
+      "pace_zone": 2
+    },
+    {
+      "distance": 999.7,
+      "elapsed_time": 320,
+      "elevation_difference": 0.3,
+      "moving_time": 320,
+      "split": 3,
+      "average_speed": 3.12,
+      "average_grade_adjusted_speed": 3.13,
+      "pace_zone": 2
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 330,
+      "elevation_difference": -2.0,
+      "moving_time": 330,
+      "split": 4,
+      "average_speed": 3.03,
+      "average_grade_adjusted_speed": 3.02,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1000.5,
+      "elapsed_time": 351,
+      "elevation_difference": 1.8,
+      "moving_time": 342,
+      "split": 5,
+      "average_speed": 2.93,
+      "average_grade_adjusted_speed": 2.94,
+      "pace_zone": 1
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 350,
+      "elevation_difference": -1.7,
+      "moving_time": 340,
+      "split": 6,
+      "average_speed": 2.94,
+      "average_grade_adjusted_speed": 2.99,
+      "pace_zone": 1
+    },
+    {
+      "distance": 999.3,
+      "elapsed_time": 393,
+      "elevation_difference": 1.3,
+      "moving_time": 347,
+      "split": 7,
+      "average_speed": 2.88,
+      "average_grade_adjusted_speed": 2.9,
+      "pace_zone": 1
+    },
+    {
+      "distance": 982.0,
+      "elapsed_time": 472,
+      "elevation_difference": 1.1,
+      "moving_time": 386,
+      "split": 8,
+      "average_speed": 2.54,
+      "average_grade_adjusted_speed": 2.62,
+      "pace_zone": 1
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1612.4,
+      "elapsed_time": 518,
+      "elevation_difference": -0.2,
+      "moving_time": 495,
+      "split": 1,
+      "average_speed": 3.26,
+      "average_grade_adjusted_speed": 3.26,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1606.9,
+      "elapsed_time": 511,
+      "elevation_difference": -0.1,
+      "moving_time": 511,
+      "split": 2,
+      "average_speed": 3.14,
+      "average_grade_adjusted_speed": 3.15,
+      "pace_zone": 2
+    },
+    {
+      "distance": 1610.1,
+      "elapsed_time": 555,
+      "elevation_difference": 2.5,
+      "moving_time": 546,
+      "split": 3,
+      "average_speed": 2.95,
+      "average_grade_adjusted_speed": 2.97,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1609.2,
+      "elapsed_time": 563,
+      "elevation_difference": -1.9,
+      "moving_time": 549,
+      "split": 4,
+      "average_speed": 2.93,
+      "average_grade_adjusted_speed": 2.97,
+      "pace_zone": 1
+    },
+    {
+      "distance": 1544.5,
+      "elapsed_time": 710,
+      "elevation_difference": 0.1,
+      "moving_time": 582,
+      "split": 5,
+      "average_speed": 2.65,
+      "average_grade_adjusted_speed": 2.7,
+      "pace_zone": 1
+    }
+  ],
+  "laps": [
+    {
+      "id": 70107758812,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 19632853055,
+        "id_str": "19632853055",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 2866,
+      "moving_time": 2857,
+      "start_date": "2026-08-06T20:46:04Z",
+      "start_date_local": "2026-08-06T16:46:04Z",
+      "distance": 7983.12,
+      "average_speed": 2.79,
+      "max_speed": 12.385,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 2838,
+      "total_elevation_gain": 23.4,
+      "device_watts": false,
+      "pace_zone": 1
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 82262813631,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 19632853055,
+        "id_str": "19632853055",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 215,
+      "moving_time": 215,
+      "start_date": "2026-08-06T20:46:04Z",
+      "start_date_local": "2026-08-06T16:46:04Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 2220,
+      "end_index": 2434
+    },
+    {
+      "id": 82262813632,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 19632853055,
+        "id_str": "19632853055",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 281,
+      "moving_time": 281,
+      "start_date": "2026-08-06T20:46:04Z",
+      "start_date_local": "2026-08-06T16:46:04Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 2154,
+      "end_index": 2434
+    },
+    {
+      "id": 82262813627,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 19632853055,
+        "id_str": "19632853055",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 495,
+      "moving_time": 495,
+      "start_date": "2026-08-06T20:46:04Z",
+      "start_date_local": "2026-08-06T16:46:04Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 26,
+      "end_index": 517
+    },
+    {
+      "id": 82262813628,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 19632853055,
+        "id_str": "19632853055",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 1008,
+      "moving_time": 1008,
+      "start_date": "2026-08-06T20:46:04Z",
+      "start_date_local": "2026-08-06T16:46:04Z",
+      "distance": 3219,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 24,
+      "end_index": 1028
+    },
+    {
+      "id": 82262813629,
+      "resource_state": 2,
+      "name": "5K",
+      "activity": {
+        "id": 19632853055,
+        "id_str": "19632853055",
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 9693467,
+        "id_str": "9693467",
+        "resource_state": 1
+      },
+      "elapsed_time": 1620,
+      "moving_time": 1620,
+      "start_date": "2026-08-06T20:46:04Z",
+      "start_date_local": "2026-08-06T16:46:04Z",
+      "distance": 5000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 24,
+      "end_index": 1633
+    }
+  ],
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    },
+    {
+      "type": "weight_lifted",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "sport_image_visibility": "everyone",
+  "embed_token": "68782468a71044d9eef90f99639ea57d5a38d995",
+  "similar_activities": {
+    "effort_count": 1,
+    "average_speed": 2.9754379426015656,
+    "min_average_speed": 2.9754379426015656,
+    "mid_average_speed": 2.9754379426015656,
+    "max_average_speed": 2.9754379426015656,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        2.9754379426015656
+      ],
+      "current_activity_index": 0,
+      "min_speed": 2.9754379426015656,
+      "mid_speed": 2.9754379426015656,
+      "max_speed": 2.9754379426015656,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": [
+    "pace"
+  ]
+}

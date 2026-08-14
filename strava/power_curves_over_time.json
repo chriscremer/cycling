@@ -6109,5 +6109,47 @@
     "normalized_power": 296.6139700181505,
     "tss": 53.92838782682641,
     "source": "cache"
+  },
+  {
+    "activity_id": 19717522748,
+    "date": "2026-08-12",
+    "name": "Zwift - Race: Stage 1 - Makuri Madness - Mech Isle Mayhem (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2203381331293945904.fit",
+    "display_name": "2026-08-12 - Zwift - Race: Stage 1 - Makuri Madness - Mech Isle Mayhem (A)",
+    "curve": [
+      633.2,
+      501.6666666666667,
+      440.0,
+      358.35833333333335,
+      308.51,
+      278.54,
+      255.93666666666667
+    ],
+    "moving_time": 2244.0,
+    "normalized_power": 279.43260800049876,
+    "tss": 54.07941819040961,
+    "source": "cache"
+  },
+  {
+    "activity_id": 19733299720,
+    "date": "2026-08-13",
+    "name": "Zwift - Race: Fell Swoop Speed Series (B)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2204208557044318240.fit",
+    "display_name": "2026-08-13 - Zwift - Race: Fell Swoop Speed Series (B)",
+    "curve": [
+      577.4666666666667,
+      458.76666666666665,
+      344.0833333333333,
+      331.7,
+      306.8466666666667,
+      278.10833333333335,
+      255.22666666666666
+    ],
+    "moving_time": 2694.0,
+    "normalized_power": 258.4994287651037,
+    "tss": 55.56121786606727,
+    "source": "cache"
   }
 ]
