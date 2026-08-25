@@ -6151,5 +6151,26 @@
     "normalized_power": 258.4994287651037,
     "tss": 55.56121786606727,
     "source": "cache"
+  },
+  {
+    "activity_id": 19900211500,
+    "date": "2026-08-25",
+    "name": "Zwift - Race: Stage 3 - Makuri Madness - WhatYumeziWe'reLost? | Advanced (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2212806208694321184.fit",
+    "display_name": "2026-08-25 - Zwift - Race: Stage 3 - Makuri Madness - WhatYumeziWe'reLost? | Advanced (A)",
+    "curve": [
+      509.26666666666665,
+      471.3666666666667,
+      453.76666666666665,
+      394.8833333333333,
+      340.3233333333333,
+      274.76666666666665,
+      269.42
+    ],
+    "moving_time": 1967.0,
+    "normalized_power": 287.9615840225659,
+    "tss": 50.34176725548415,
+    "source": "cache"
   }
 ]
