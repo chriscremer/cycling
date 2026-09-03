@@ -6172,5 +6172,26 @@
     "normalized_power": 287.9615840225659,
     "tss": 50.34176725548415,
     "source": "cache"
+  },
+  {
+    "activity_id": 20013960288,
+    "date": "2026-09-02",
+    "name": "Zwift - Race: Stage 4 - Makuri Madness - Twilight Crit (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2218685899770773520.fit",
+    "display_name": "2026-09-02 - Zwift - Race: Stage 4 - Makuri Madness - Twilight Crit (A)",
+    "curve": [
+      503.46666666666664,
+      433.4,
+      356.85,
+      322.85,
+      293.7033333333333,
+      281.225,
+      269.5125
+    ],
+    "moving_time": 1837.0,
+    "normalized_power": 272.47768321267074,
+    "tss": 42.09456462299727,
+    "source": "cache"
   }
 ]
