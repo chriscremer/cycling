@@ -6193,5 +6193,26 @@
     "normalized_power": 272.47768321267074,
     "tss": 42.09456462299727,
     "source": "cache"
+  },
+  {
+    "activity_id": 20134839382,
+    "date": "2026-09-11",
+    "name": "Zwift - Race: Stage 1 - ZRacing - DURA-ACE - Croissant",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2225063281138139136.fit",
+    "display_name": "2026-09-11 - Zwift - Race: Stage 1 - ZRacing - DURA-ACE - Croissant",
+    "curve": [
+      626.2,
+      528.3333333333334,
+      436.85,
+      350.55833333333334,
+      295.6333333333333,
+      278.58166666666665,
+      264.8983333333333
+    ],
+    "moving_time": 1975.0,
+    "normalized_power": 284.9652675896434,
+    "tss": 49.50008560850718,
+    "source": "cache"
   }
 ]
