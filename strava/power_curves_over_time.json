@@ -6214,5 +6214,26 @@
     "normalized_power": 284.9652675896434,
     "tss": 49.50008560850718,
     "source": "cache"
+  },
+  {
+    "activity_id": 20177910340,
+    "date": "2026-09-14",
+    "name": "Zwift - Race: Stage 2 - ZRacing - DURA-ACE - Ocean Lava Cliffside Loop (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2227329216586776624.fit",
+    "display_name": "2026-09-14 - Zwift - Race: Stage 2 - ZRacing - DURA-ACE - Ocean Lava Cliffside Loop (A)",
+    "curve": [
+      916.6666666666666,
+      558.8,
+      429.68333333333334,
+      362.5416666666667,
+      288.87333333333333,
+      261.99,
+      249.76166666666666
+    ],
+    "moving_time": 2097.0,
+    "normalized_power": 269.07457550921475,
+    "tss": 46.85961842836983,
+    "source": "cache"
   }
 ]
