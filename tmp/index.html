@@ -18,11 +18,13 @@ h1{font-size:clamp(26px,4vw,42px);letter-spacing:-.035em;margin:5px 0 0}.window{
 .timeline-head{display:grid;grid-template-columns:74px 1fr;gap:12px;align-items:end;margin-bottom:10px}
 .timeline-head h2{font-size:20px;margin:0}.ticks{position:relative;height:22px;color:var(--muted);font-size:11px;font-variant-numeric:tabular-nums}
 .tick{position:absolute;transform:translateX(-50%)}.tick:first-child{transform:none}.tick:last-child{transform:translateX(-100%)}
-#lanes{display:grid;gap:8px}.lane{display:grid;grid-template-columns:74px 1fr;gap:12px;align-items:center}
+#lanes{display:grid;gap:8px;position:relative}.lane{display:grid;grid-template-columns:74px 1fr;gap:12px;align-items:center}
 .portrait{width:58px;height:68px;margin:auto;display:block;border-radius:9px;object-fit:cover;object-position:center top;background:#081019;border:2px solid var(--lane-color);box-shadow:0 4px 14px #0008;cursor:pointer}
 .track{height:34px;border:1px solid #2a4052;border-radius:8px;position:relative;overflow:hidden;cursor:pointer;background:repeating-linear-gradient(90deg,#0a1520 0,#0a1520 calc(20% - 1px),#213344 calc(20% - 1px),#213344 20%)}
 .span{position:absolute;top:7px;height:18px;min-width:2px;border-radius:5px;background:var(--lane-color);box-shadow:0 0 14px color-mix(in srgb,var(--lane-color) 42%,transparent)}
-#playhead{position:absolute;top:0;bottom:0;width:2px;background:#fff;box-shadow:0 0 7px #fff;z-index:3;pointer-events:none;display:none}
+#playhead{position:absolute;top:0;bottom:0;width:24px;z-index:5;pointer-events:auto;display:none;transform:translateX(-50%);cursor:ew-resize;touch-action:none;user-select:none}
+#playhead::before{content:"";position:absolute;top:0;bottom:0;left:11px;width:2px;background:#fff;box-shadow:0 0 7px #fff}
+#playhead::after{content:"";position:absolute;top:-5px;left:5px;width:14px;height:14px;border:2px solid #fff;border-radius:50%;background:var(--accent);box-shadow:0 0 8px #0009}
 .legend{display:flex;justify-content:space-between;gap:16px;margin:15px 0 0 86px;color:var(--muted);font-size:12px}
 .legend b{color:var(--text);font-variant-numeric:tabular-nums}button{appearance:none;border:1px solid #33516a;background:#162a3a;color:var(--text);padding:8px 12px;border-radius:8px;cursor:pointer}button:hover{border-color:var(--accent)}
 @media(max-width:700px){main{width:min(100% - 18px,1380px);padding-top:14px}header{align-items:start;flex-direction:column}.timeline-card{padding:10px}.timeline-head,.lane{grid-template-columns:52px 1fr;gap:7px}.portrait{width:44px;height:52px}.legend{margin-left:59px}}
@@ -42,11 +44,19 @@ const palette=['#75e6b8','#ff678b','#7c6cff','#ffd45d','#55c9ff','#ff9d53','#48e
 const fmt=t=>`${Math.floor(t/60)}:${String(Math.floor(t%60)).padStart(2,'0')}`;
 const lanes=document.getElementById('lanes'),ticks=document.getElementById('ticks'),clock=document.getElementById('clock');
 for(let i=0;i<=5;i++){const tick=document.createElement('span');tick.className='tick';tick.style.left=`${i*20}%`;tick.textContent=fmt(DATA.duration*i/5);ticks.append(tick)}
-DATA.people.forEach((person,index)=>{const lane=document.createElement('div');lane.className='lane';lane.style.setProperty('--lane-color',palette[index%palette.length]);lane.innerHTML=`<img class="portrait" src="${person.image}" alt="Player crop" title="${person.name}"><div class="track" title="Click to seek"><div class="playhead"></div>${person.runs.map(run=>`<span class="span" style="left:${run.left}%;width:${run.width}%"></span>`).join('')}</div>`;const track=lane.querySelector('.track');const seek=event=>{const box=track.getBoundingClientRect(),local=Math.max(0,Math.min(DATA.duration,(event.clientX-box.left)/box.width*DATA.duration));seekTo(local)};track.addEventListener('click',seek);lane.querySelector('.portrait').addEventListener('click',()=>seekTo(person.first));lanes.append(lane)});
+DATA.people.forEach((person,index)=>{const lane=document.createElement('div');lane.className='lane';lane.style.setProperty('--lane-color',palette[index%palette.length]);lane.innerHTML=`<img class="portrait" src="${person.image}" alt="Player crop" title="${person.name}"><div class="track" title="Click to seek">${person.runs.map(run=>`<span class="span" style="left:${run.left}%;width:${run.width}%"></span>`).join('')}</div>`;const track=lane.querySelector('.track');const seek=event=>{const box=track.getBoundingClientRect(),local=Math.max(0,Math.min(DATA.duration,(event.clientX-box.left)/box.width*DATA.duration));seekTo(local)};track.addEventListener('click',seek);lane.querySelector('.portrait').addEventListener('click',()=>seekTo(person.first));lanes.append(lane)});
+const playhead=document.createElement('div');playhead.id='playhead';playhead.setAttribute('aria-hidden','true');lanes.append(playhead);
 let player=null,ready=false;
 if(location.protocol==='file:')document.getElementById('serve-note').style.display='block';
 window.onYouTubeIframeAPIReady=()=>{player=new YT.Player('player',{videoId:DATA.videoId,playerVars:{start:Math.round(DATA.start),playsinline:1,rel:0,origin:location.protocol==='file:'?undefined:location.origin},events:{onReady:()=>{ready=true;player.cueVideoById({videoId:DATA.videoId,startSeconds:DATA.start})}}})};
 function seekTo(local){if(!ready)return;player.seekTo(DATA.start+local,true);player.playVideo()}
-function update(){if(ready&&player.getCurrentTime){const local=player.getCurrentTime()-DATA.start;clock.textContent=fmt(Math.max(0,Math.min(DATA.duration,local)));document.querySelectorAll('.playhead').forEach(line=>{if(local>=0&&local<=DATA.duration){line.style.display='block';line.style.left=`${100*local/DATA.duration}%`}else line.style.display='none'})}requestAnimationFrame(update)}update();
+let dragging=false,dragLocal=null;
+function localAt(clientX){const bar=lanes.querySelector('.track').getBoundingClientRect();return Math.max(0,Math.min(DATA.duration,(clientX-bar.left)/bar.width*DATA.duration))}
+function drawPlayhead(local){const track=lanes.querySelector('.track'),timeline=lanes.getBoundingClientRect(),bar=track.getBoundingClientRect();playhead.style.left=`${bar.left-timeline.left+bar.width*local/DATA.duration}px`;playhead.style.display='block'}
+playhead.addEventListener('pointerdown',event=>{if(!ready)return;dragging=true;dragLocal=localAt(event.clientX);playhead.setPointerCapture(event.pointerId);event.preventDefault();event.stopPropagation();drawPlayhead(dragLocal);clock.textContent=fmt(dragLocal)});
+playhead.addEventListener('pointermove',event=>{if(!dragging)return;dragLocal=localAt(event.clientX);drawPlayhead(dragLocal);clock.textContent=fmt(dragLocal)});
+playhead.addEventListener('pointerup',event=>{if(!dragging)return;dragLocal=localAt(event.clientX);player.seekTo(DATA.start+dragLocal,true);dragging=false;clock.textContent=fmt(dragLocal);dragLocal=null});
+playhead.addEventListener('pointercancel',()=>{dragging=false;dragLocal=null});
+function update(){if(ready&&player.getCurrentTime){const local=dragging?dragLocal:player.getCurrentTime()-DATA.start;clock.textContent=fmt(Math.max(0,Math.min(DATA.duration,local)));if(local>=0&&local<=DATA.duration)drawPlayhead(local);else if(!dragging)playhead.style.display='none'}requestAnimationFrame(update)}update();
 </script><script src="https://www.youtube.com/iframe_api"></script>
 </html>
