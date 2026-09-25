@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Monday Pickleball · Standings</title>
+<style>
+  :root { color-scheme: light; --ink:#192a26; --muted:#63736d; --line:#dce6df; --green:#135a40; --mint:#e2f1e8; --cream:#f7f7f0; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--cream); color:var(--ink); font:15px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+  .wrap { max-width:1160px; margin:auto; padding:32px 24px 60px; }
+  header { display:flex; justify-content:space-between; gap:24px; align-items:end; margin-bottom:28px; }
+  .eyebrow { margin:0 0 7px; color:var(--green); font-size:12px; font-weight:800; letter-spacing:.13em; text-transform:uppercase; }
+  h1 { margin:0; font-size:clamp(30px,4.2vw,46px); line-height:1.06; letter-spacing:-.045em; }
+  .subtitle { margin:12px 0 0; color:var(--muted); }
+  .source { color:var(--green); text-decoration:none; font-weight:650; white-space:nowrap; }
+  .source:hover { text-decoration:underline; }
+  .tabs { display:flex; gap:6px; border-bottom:1px solid var(--line); margin-bottom:19px; overflow-x:auto; }
+  .tab { border:0; border-radius:10px 10px 0 0; background:transparent; padding:13px 18px; color:var(--muted); font:inherit; font-weight:700; cursor:pointer; white-space:nowrap; }
+  .tab[aria-selected="true"] { background:var(--green); color:white; }
+  .panel[hidden] { display:none; }
+  .card { background:white; border:1px solid var(--line); border-radius:17px; overflow:hidden; box-shadow:0 7px 30px #17392809; }
+  .panelhead { display:flex; justify-content:space-between; align-items:start; gap:16px; padding:20px 22px 14px; }
+  h2 { font-size:20px; margin:0 0 3px; letter-spacing:-.025em; }
+  .note { color:var(--muted); margin:0; font-size:13px; }
+  .scroll { overflow-x:auto; }
+  table { border-collapse:collapse; width:100%; white-space:nowrap; font-variant-numeric:tabular-nums; }
+  th,td { padding:11px 15px; border-top:1px solid #edf1ed; text-align:right; }
+  thead th { background:#f8faf7; color:var(--muted); font-size:11px; letter-spacing:.08em; text-transform:uppercase; font-weight:800; }
+  th[scope="row"],thead th:nth-child(2) { text-align:left; }
+  tbody th { font-weight:650; }
+  tbody tr:hover { background:#f7fbf8; }
+  tbody tr.focus { background:var(--mint); }
+  tbody tr.focus:hover { background:#d5eadd; }
+  .rank { width:48px; color:var(--muted); }
+  .rating { color:var(--green); font-weight:800; }
+  .date { text-align:left; }
+  .date span { display:block; color:var(--muted); font-size:12px; }
+  .scores { font-weight:700; }
+  .status { display:inline-block; padding:4px 9px; border-radius:999px; font-size:11px; font-weight:800; }
+  .status.complete { color:#176143; background:#e3f3e9; }
+  .status.scheduled { color:#755420; background:#fff0d6; }
+  .empty { padding:30px; color:var(--muted); }
+  footer { color:var(--muted); font-size:12px; margin-top:20px; }
+  @media(max-width:700px) { .wrap { padding:22px 14px 40px; } header { display:block; } .source { display:inline-block; margin-top:12px; } .panelhead { padding:17px; } th,td { padding:10px 11px; } }
+</style>
+</head>
+<body>
+<main class="wrap">
+  <header><div><p class="eyebrow">Fall 2026 · Monday tiered pairs</p><h1>Pickleball standings</h1>
+    <p class="subtitle">Results, team Elo and the Hamr Time schedule. Updated Sep 25, 2026 at 2:51 PM EDT.</p></div>
+    <a class="source" href="https://offlimitsports.leagueapps.com/leagues/5080557/schedule" target="_blank" rel="noopener">LeagueApps schedule ↗</a></header>
+  <div class="tabs" role="tablist" aria-label="Dashboard views">
+    <button class="tab" id="tab-standings" role="tab" aria-controls="standings" aria-selected="true">Standings</button>
+    <button class="tab" id="tab-elo" role="tab" aria-controls="elo" aria-selected="false">Elo ratings</button>
+    <button class="tab" id="tab-hamr" role="tab" aria-controls="hamr" aria-selected="false">Hamr Time schedule</button>
+  </div>
+  <section class="panel" id="standings" role="tabpanel" aria-labelledby="tab-standings">
+    <div class="card"><div class="panelhead"><div><h2>League standings</h2><p class="note">Each scored game counts separately. Ranked by win percentage, wins, then point differential.</p></div></div>
+      <div class="scroll"><table><thead><tr><th scope="col">#</th><th scope="col">Team</th><th scope="col">GP</th><th scope="col">W</th><th scope="col">L</th><th scope="col">T</th><th scope="col">PF</th><th scope="col">PA</th><th scope="col">+/−</th><th scope="col">Win %</th></tr></thead><tbody>
+      <tr><td class="rank">1</td><th scope="row">Sonic Boomers</th><td>4</td><td>4</td><td>0</td><td>0</td><td>48</td><td>8</td><td>+40</td><td>100.0%</td></tr>
+<tr><td class="rank">2</td><th scope="row">racketeers</th><td>4</td><td>4</td><td>0</td><td>0</td><td>40</td><td>4</td><td>+36</td><td>100.0%</td></tr>
+<tr><td class="rank">3</td><th scope="row">One Hit Wonder</th><td>4</td><td>4</td><td>0</td><td>0</td><td>47</td><td>18</td><td>+29</td><td>100.0%</td></tr>
+<tr><td class="rank">4</td><th scope="row">Flying Squirrels</th><td>4</td><td>4</td><td>0</td><td>0</td><td>32</td><td>6</td><td>+26</td><td>100.0%</td></tr>
+<tr class="focus"><td class="rank">5</td><th scope="row">Hamr Time</th><td>4</td><td>4</td><td>0</td><td>0</td><td>32</td><td>6</td><td>+26</td><td>100.0%</td></tr>
+<tr><td class="rank">6</td><th scope="row">Dixon Cider</th><td>4</td><td>4</td><td>0</td><td>0</td><td>28</td><td>6</td><td>+22</td><td>100.0%</td></tr>
+<tr><td class="rank">7</td><th scope="row">The Jar Openers</th><td>4</td><td>4</td><td>0</td><td>0</td><td>20</td><td>0</td><td>+20</td><td>100.0%</td></tr>
+<tr><td class="rank">8</td><th scope="row">Tickleballerz</th><td>4</td><td>4</td><td>0</td><td>0</td><td>27</td><td>8</td><td>+19</td><td>100.0%</td></tr>
+<tr><td class="rank">9</td><th scope="row">How I Met Your Paddle</th><td>4</td><td>2</td><td>2</td><td>0</td><td>18</td><td>17</td><td>+1</td><td>50.0%</td></tr>
+<tr><td class="rank">10</td><th scope="row">Volley Parton</th><td>4</td><td>2</td><td>2</td><td>0</td><td>18</td><td>38</td><td>-20</td><td>50.0%</td></tr>
+<tr><td class="rank">11</td><th scope="row">J squared</th><td>4</td><td>0</td><td>4</td><td>0</td><td>0</td><td>20</td><td>-20</td><td>0.0%</td></tr>
+<tr><td class="rank">12</td><th scope="row">PB+JL</th><td>4</td><td>0</td><td>4</td><td>0</td><td>0</td><td>20</td><td>-20</td><td>0.0%</td></tr>
+<tr><td class="rank">13</td><th scope="row">Serve Queens</th><td>4</td><td>0</td><td>4</td><td>0</td><td>0</td><td>20</td><td>-20</td><td>0.0%</td></tr>
+<tr><td class="rank">14</td><th scope="row">Unproven Net Gains</th><td>4</td><td>0</td><td>4</td><td>0</td><td>0</td><td>20</td><td>-20</td><td>0.0%</td></tr>
+<tr><td class="rank">15</td><th scope="row">Serving Justice</th><td>4</td><td>0</td><td>4</td><td>0</td><td>17</td><td>39</td><td>-22</td><td>0.0%</td></tr>
+<tr><td class="rank">16</td><th scope="row">Paddle Queens</th><td>4</td><td>0</td><td>4</td><td>0</td><td>12</td><td>40</td><td>-28</td><td>0.0%</td></tr>
+<tr><td class="rank">17</td><th scope="row">Tickle my Pickle</th><td>4</td><td>0</td><td>4</td><td>0</td><td>6</td><td>35</td><td>-29</td><td>0.0%</td></tr>
+<tr><td class="rank">18</td><th scope="row">S2</th><td>4</td><td>0</td><td>4</td><td>0</td><td>5</td><td>45</td><td>-40</td><td>0.0%</td></tr>
+<tr><td class="rank">19</td><th scope="row">Sarah&#x27;s Team</th><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>+0</td><td>0.0%</td></tr>
+      </tbody></table></div></div>
+  </section>
+  <section class="panel" id="elo" role="tabpanel" aria-labelledby="tab-elo" hidden>
+    <div class="card"><div class="panelhead"><div><h2>Team Elo ratings</h2><p class="note">All teams start at 1500. Games are processed in date and game ID order; K = 32 per game.</p></div></div>
+      <div class="scroll"><table><thead><tr><th scope="col">#</th><th scope="col">Team</th><th scope="col">Elo</th><th scope="col">Change</th><th scope="col">GP</th><th scope="col">W–L–T</th><th scope="col">Last played</th></tr></thead><tbody>
+      <tr><td class="rank">1</td><th scope="row">Sonic Boomers</th><td class="rating">1561</td><td>+61</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">2</td><th scope="row">Dixon Cider</th><td class="rating">1556</td><td>+56</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">3</td><th scope="row">Flying Squirrels</th><td class="rating">1556</td><td>+56</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
+<tr class="focus"><td class="rank">4</td><th scope="row">Hamr Time</th><td class="rating">1556</td><td>+56</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">5</td><th scope="row">One Hit Wonder</th><td class="rating">1556</td><td>+56</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">6</td><th scope="row">racketeers</th><td class="rating">1556</td><td>+56</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">7</td><th scope="row">The Jar Openers</th><td class="rating">1556</td><td>+56</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">8</td><th scope="row">Tickleballerz</th><td class="rating">1556</td><td>+56</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">9</td><th scope="row">How I Met Your Paddle</th><td class="rating">1500</td><td>+0</td><td>4</td><td>2–2–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">10</td><th scope="row">Sarah&#x27;s Team</th><td class="rating">1500</td><td>+0</td><td>0</td><td>0–0–0</td><td>—</td></tr>
+<tr><td class="rank">11</td><th scope="row">Volley Parton</th><td class="rating">1500</td><td>+0</td><td>4</td><td>2–2–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">12</td><th scope="row">J squared</th><td class="rating">1444</td><td>-56</td><td>4</td><td>0–4–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">13</td><th scope="row">Paddle Queens</th><td class="rating">1444</td><td>-56</td><td>4</td><td>0–4–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">14</td><th scope="row">S2</th><td class="rating">1444</td><td>-56</td><td>4</td><td>0–4–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">15</td><th scope="row">Serve Queens</th><td class="rating">1444</td><td>-56</td><td>4</td><td>0–4–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">16</td><th scope="row">Serving Justice</th><td class="rating">1444</td><td>-56</td><td>4</td><td>0–4–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">17</td><th scope="row">Tickle my Pickle</th><td class="rating">1444</td><td>-56</td><td>4</td><td>0–4–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">18</td><th scope="row">Unproven Net Gains</th><td class="rating">1444</td><td>-56</td><td>4</td><td>0–4–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">19</td><th scope="row">PB+JL</th><td class="rating">1439</td><td>-61</td><td>4</td><td>0–4–0</td><td>Sep 21</td></tr>
+      </tbody></table></div></div>
+  </section>
+  <section class="panel" id="hamr" role="tabpanel" aria-labelledby="tab-hamr" hidden>
+    <div class="card"><div class="panelhead"><div><h2>Hamr Time schedule</h2><p class="note">Times shown in Toronto. Games at the same time against the same opponent are grouped as one fixture.</p></div></div>
+      <div class="scroll"><table><thead><tr><th scope="col" style="text-align:left">Date &amp; time</th><th scope="col">Opponent</th><th scope="col">Location</th><th scope="col">Games</th><th scope="col">Scores</th><th scope="col">Status</th></tr></thead><tbody>
+      <tr><td class="date"><strong>Mon, Sep 21</strong><span>6:30 PM</span></td><th scope="row">S2</th><td>Senhor Santo Cristo C.S. · Court 3</td><td>2 games</td><td class="scores">8–1, 8–1</td><td><span class="status complete">Complete</span></td></tr>
+<tr><td class="date"><strong>Mon, Sep 21</strong><span>6:55 PM</span></td><th scope="row">Tickle my Pickle</th><td>Senhor Santo Cristo C.S. · Court 3</td><td>2 games</td><td class="scores">8–2, 8–2</td><td><span class="status complete">Complete</span></td></tr>
+<tr><td class="date"><strong>Mon, Sep 28</strong><span>6:30 PM</span></td><th scope="row">The Jar Openers</th><td>Oakwood Collegiate · Court 3</td><td>2 games</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr><td class="date"><strong>Mon, Sep 28</strong><span>6:55 PM</span></td><th scope="row">Dixon Cider</th><td>Oakwood Collegiate · Court 3</td><td>2 games</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr><td class="date"><strong>Mon, Oct 5</strong><span>7:20 PM</span></td><th scope="row">racketeers</th><td>Oakwood Collegiate · Court 1</td><td>2 games</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr><td class="date"><strong>Mon, Oct 5</strong><span>7:45 PM</span></td><th scope="row">One Hit Wonder</th><td>Oakwood Collegiate · Court 2</td><td>2 games</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr><td class="date"><strong>Mon, Oct 19</strong><span>8:10 PM</span></td><th scope="row">Flying Squirrels</th><td>Oakwood Collegiate · Court 2</td><td>2 games</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr><td class="date"><strong>Mon, Oct 19</strong><span>8:35 PM</span></td><th scope="row">The Jar Openers</th><td>Oakwood Collegiate · Court 3</td><td>2 games</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+      </tbody></table></div></div>
+  </section>
+  <footer>PF = points for; PA = points against. Ratings are an independent calculation from LeagueApps results.</footer>
+</main>
+<script>
+  const tabs = [...document.querySelectorAll('[role="tab"]')];
+  function selectTab(tab) {
+    tabs.forEach(item => { const active = item === tab; item.setAttribute('aria-selected', active); document.getElementById(item.getAttribute('aria-controls')).hidden = !active; });
+    history.replaceState(null, '', '#' + tab.getAttribute('aria-controls'));
+  }
+  tabs.forEach((tab, index) => {
+    tab.addEventListener('click', () => selectTab(tab));
+    tab.addEventListener('keydown', event => {
+      if (event.key === 'ArrowRight' || event.key === 'ArrowLeft') {
+        const next = tabs[(index + (event.key === 'ArrowRight' ? 1 : tabs.length - 1)) % tabs.length];
+        next.focus(); selectTab(next); event.preventDefault();
+      }
+    });
+  });
+  const linkedTab = tabs.find(tab => '#' + tab.getAttribute('aria-controls') === location.hash);
+  if (linkedTab) selectTab(linkedTab);
+</script>
+</body>
+</html>
