@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Monday Pickleball · Standings</title>
+<title>Pickleball</title>
 <style>
   :root { color-scheme: light; --ink:#192a26; --muted:#63736d; --line:#dce6df; --green:#135a40; --mint:#e2f1e8; --cream:#f7f7f0; }
   * { box-sizing:border-box; }
@@ -37,6 +37,7 @@
   .rating { color:var(--green); font-weight:800; }
   .date { text-align:left; }
   .date span { display:block; color:var(--muted); font-size:12px; }
+  .opponent-elo { display:block; color:var(--muted); font-size:12px; font-weight:500; }
   .schedule-stack tbody tr { background:var(--day-bg); }
   .schedule-stack tbody tr.day-start > * { border-top:3px solid white; }
   .schedule-stack tbody .date { border-left:5px solid var(--day-accent); color:var(--day-accent); }
@@ -57,8 +58,8 @@
 </head>
 <body>
 <main class="wrap">
-  <header><div><p class="eyebrow">Fall 2026 · Monday tiered pairs</p><h1>Pickleball standings</h1>
-    <p class="subtitle">Results, team Elo and team schedules. Updated Sep 28, 2026 at 3:31 PM EDT.</p></div>
+  <header><div><p class="eyebrow">Fall 2026 · Monday tiered pairs</p><h1>Pickleball</h1>
+    <p class="subtitle">Results, team Elo and team schedules. Updated Sep 28, 2026 at 3:44 PM EDT.</p></div>
     <a class="source" href="https://offlimitsports.leagueapps.com/leagues/5080557/schedule" target="_blank" rel="noopener">LeagueApps schedule ↗</a></header>
   <div class="tabs" role="tablist" aria-label="Dashboard views">
     <button class="tab" id="tab-standings" role="tab" aria-controls="standings" aria-selected="true">Standings</button>
@@ -114,30 +115,30 @@
       </tbody></table></div></div>
   </section>
   <section class="panel" id="schedule" role="tabpanel" aria-labelledby="tab-schedule" hidden>
-    <p class="note" style="margin:0 0 14px">Times shown in Toronto.</p>
+    <p class="note" style="margin:0 0 14px">Times shown in Toronto. Played fixtures show Elo before the fixture; upcoming fixtures show current Elo.</p>
     <div class="schedule-stack"><div class="card"><div class="panelhead"><div><h2>Hamr Time</h2>
       <p class="note">Games at the same time against the same opponent are grouped as one fixture.</p></div></div>
       <div class="scroll"><table><thead><tr><th scope="col" style="text-align:left">Date &amp; time</th><th scope="col">Opponent</th><th scope="col">Location</th><th scope="col">Scores</th><th scope="col">Status</th></tr></thead><tbody>
-      <tr class="day-2 day-start"><td class="date"><strong>Mon, Sep 21</strong><span>6:30 PM</span></td><th scope="row">S2</th><td>Senhor Santo Cristo C.S. · Court 3</td><td class="scores">8–1, 8–1</td><td><span class="status complete">Complete</span></td></tr>
-<tr class="day-2"><td class="date"><strong>Mon, Sep 21</strong><span>6:55 PM</span></td><th scope="row">Tickle my Pickle</th><td>Senhor Santo Cristo C.S. · Court 3</td><td class="scores">8–2, 8–2</td><td><span class="status complete">Complete</span></td></tr>
-<tr class="day-3 day-start"><td class="date"><strong>Mon, Sep 28</strong><span>6:30 PM</span></td><th scope="row">The Jar Openers</th><td>Oakwood Collegiate · Court 3</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-3"><td class="date"><strong>Mon, Sep 28</strong><span>6:55 PM</span></td><th scope="row">Dixon Cider</th><td>Oakwood Collegiate · Court 3</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-4 day-start"><td class="date"><strong>Mon, Oct 5</strong><span>7:20 PM</span></td><th scope="row">racketeers</th><td>Oakwood Collegiate · Court 1</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-4"><td class="date"><strong>Mon, Oct 5</strong><span>7:45 PM</span></td><th scope="row">One Hit Wonder</th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-0 day-start"><td class="date"><strong>Mon, Oct 19</strong><span>8:10 PM</span></td><th scope="row">Flying Squirrels</th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-0"><td class="date"><strong>Mon, Oct 19</strong><span>8:35 PM</span></td><th scope="row">The Jar Openers</th><td>Oakwood Collegiate · Court 3</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+      <tr class="day-2 day-start"><td class="date"><strong>Mon, Sep 21</strong><span>6:30 PM</span></td><th scope="row">S2<span class="opponent-elo">Elo 1500 vs ours: 1500</span></th><td>Senhor Santo Cristo C.S. · Court 3</td><td class="scores">8–1, 8–1</td><td><span class="status complete">Complete</span></td></tr>
+<tr class="day-2"><td class="date"><strong>Mon, Sep 21</strong><span>6:55 PM</span></td><th scope="row">Tickle my Pickle<span class="opponent-elo">Elo 1469 vs ours: 1531</span></th><td>Senhor Santo Cristo C.S. · Court 3</td><td class="scores">8–2, 8–2</td><td><span class="status complete">Complete</span></td></tr>
+<tr class="day-3 day-start"><td class="date"><strong>Mon, Sep 28</strong><span>6:30 PM</span></td><th scope="row">The Jar Openers<span class="opponent-elo">Elo 1556 vs ours: 1556</span></th><td>Oakwood Collegiate · Court 3</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-3"><td class="date"><strong>Mon, Sep 28</strong><span>6:55 PM</span></td><th scope="row">Dixon Cider<span class="opponent-elo">Elo 1556 vs ours: 1556</span></th><td>Oakwood Collegiate · Court 3</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-4 day-start"><td class="date"><strong>Mon, Oct 5</strong><span>7:20 PM</span></td><th scope="row">racketeers<span class="opponent-elo">Elo 1556 vs ours: 1556</span></th><td>Oakwood Collegiate · Court 1</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-4"><td class="date"><strong>Mon, Oct 5</strong><span>7:45 PM</span></td><th scope="row">One Hit Wonder<span class="opponent-elo">Elo 1556 vs ours: 1556</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-0 day-start"><td class="date"><strong>Mon, Oct 19</strong><span>8:10 PM</span></td><th scope="row">Flying Squirrels<span class="opponent-elo">Elo 1556 vs ours: 1556</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-0"><td class="date"><strong>Mon, Oct 19</strong><span>8:35 PM</span></td><th scope="row">The Jar Openers<span class="opponent-elo">Elo 1556 vs ours: 1556</span></th><td>Oakwood Collegiate · Court 3</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
       </tbody></table></div></div>
 <div class="card"><div class="panelhead"><div><h2>How I Met Your Paddle</h2>
       <p class="note">Games at the same time against the same opponent are grouped as one fixture.</p></div></div>
       <div class="scroll"><table><thead><tr><th scope="col" style="text-align:left">Date &amp; time</th><th scope="col">Opponent</th><th scope="col">Location</th><th scope="col">Scores</th><th scope="col">Status</th></tr></thead><tbody>
-      <tr class="day-2 day-start"><td class="date"><strong>Mon, Sep 21</strong><span>7:20 PM</span></td><th scope="row">Tickleballerz</th><td>Senhor Santo Cristo C.S. · Court 2</td><td class="scores">2–10, 6–7</td><td><span class="status complete">Complete</span></td></tr>
-<tr class="day-2"><td class="date"><strong>Mon, Sep 21</strong><span>7:45 PM</span></td><th scope="row">PB+JL</th><td>Senhor Santo Cristo C.S. · Court 3</td><td class="scores">5–0, 5–0</td><td><span class="status complete">Complete</span></td></tr>
-<tr class="day-3 day-start"><td class="date"><strong>Mon, Sep 28</strong><span>7:20 PM</span></td><th scope="row">Paddle Queens</th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-3"><td class="date"><strong>Mon, Sep 28</strong><span>7:45 PM</span></td><th scope="row">Tickle my Pickle</th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-4 day-start"><td class="date"><strong>Mon, Oct 5</strong><span>8:10 PM</span></td><th scope="row">Unproven Net Gains</th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-4"><td class="date"><strong>Mon, Oct 5</strong><span>8:35 PM</span></td><th scope="row">Volley Parton</th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-0 day-start"><td class="date"><strong>Mon, Oct 19</strong><span>6:30 PM</span></td><th scope="row">Tickleballerz</th><td>Oakwood Collegiate · Court 1</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-0"><td class="date"><strong>Mon, Oct 19</strong><span>6:55 PM</span></td><th scope="row">Paddle Queens</th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+      <tr class="day-2 day-start"><td class="date"><strong>Mon, Sep 21</strong><span>7:20 PM</span></td><th scope="row">Tickleballerz<span class="opponent-elo">Elo 1500 vs ours: 1500</span></th><td>Senhor Santo Cristo C.S. · Court 2</td><td class="scores">2–10, 6–7</td><td><span class="status complete">Complete</span></td></tr>
+<tr class="day-2"><td class="date"><strong>Mon, Sep 21</strong><span>7:45 PM</span></td><th scope="row">PB+JL<span class="opponent-elo">Elo 1469 vs ours: 1469</span></th><td>Senhor Santo Cristo C.S. · Court 3</td><td class="scores">5–0, 5–0</td><td><span class="status complete">Complete</span></td></tr>
+<tr class="day-3 day-start"><td class="date"><strong>Mon, Sep 28</strong><span>7:20 PM</span></td><th scope="row">Paddle Queens<span class="opponent-elo">Elo 1444 vs ours: 1500</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-3"><td class="date"><strong>Mon, Sep 28</strong><span>7:45 PM</span></td><th scope="row">Tickle my Pickle<span class="opponent-elo">Elo 1444 vs ours: 1500</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-4 day-start"><td class="date"><strong>Mon, Oct 5</strong><span>8:10 PM</span></td><th scope="row">Unproven Net Gains<span class="opponent-elo">Elo 1444 vs ours: 1500</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-4"><td class="date"><strong>Mon, Oct 5</strong><span>8:35 PM</span></td><th scope="row">Volley Parton<span class="opponent-elo">Elo 1500 vs ours: 1500</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-0 day-start"><td class="date"><strong>Mon, Oct 19</strong><span>6:30 PM</span></td><th scope="row">Tickleballerz<span class="opponent-elo">Elo 1556 vs ours: 1500</span></th><td>Oakwood Collegiate · Court 1</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-0"><td class="date"><strong>Mon, Oct 19</strong><span>6:55 PM</span></td><th scope="row">Paddle Queens<span class="opponent-elo">Elo 1444 vs ours: 1500</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
       </tbody></table></div></div></div>
   </section>
   <footer>PF = points for; PA = points against. Ratings are an independent calculation from LeagueApps results.</footer>
