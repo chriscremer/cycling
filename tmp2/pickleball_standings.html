@@ -41,6 +41,11 @@
   .schedule-stack tbody tr { background:var(--day-bg); }
   .schedule-stack tbody tr.day-start > * { border-top:3px solid white; }
   .schedule-stack tbody .date { border-left:5px solid var(--day-accent); color:var(--day-accent); }
+  .all-results tbody tr { background:var(--day-bg); }
+  .all-results tbody tr.day-start > * { border-top:3px solid white; }
+  .all-results tbody .date { border-left:5px solid var(--day-accent); color:var(--day-accent); }
+  .all-results thead th:nth-child(4) { text-align:left; }
+  .all-results tbody td:nth-child(2), .all-results tbody td:nth-child(4) { text-align:left; }
   .day-0 { --day-bg:#edf5ff; --day-accent:#2e65b8; }
   .day-1 { --day-bg:#fff1e8; --day-accent:#a64c22; }
   .day-2 { --day-bg:#f3efff; --day-accent:#7152bb; }
@@ -59,59 +64,64 @@
 <body>
 <main class="wrap">
   <header><div><p class="eyebrow">Fall 2026 · Monday tiered pairs</p><h1>Pickleball</h1>
-    <p class="subtitle">Results, team Elo and team schedules. Updated Sep 28, 2026 at 3:44 PM EDT.</p></div>
+    <p class="subtitle">Results, team Elo and team schedules. Updated Sep 29, 2026 at 1:23 PM EDT.</p></div>
     <a class="source" href="https://offlimitsports.leagueapps.com/leagues/5080557/schedule" target="_blank" rel="noopener">LeagueApps schedule ↗</a></header>
   <div class="tabs" role="tablist" aria-label="Dashboard views">
     <button class="tab" id="tab-standings" role="tab" aria-controls="standings" aria-selected="true">Standings</button>
     <button class="tab" id="tab-elo" role="tab" aria-controls="elo" aria-selected="false">Elo ratings</button>
     <button class="tab" id="tab-schedule" role="tab" aria-controls="schedule" aria-selected="false">Schedule</button>
+    <button class="tab" id="tab-results" role="tab" aria-controls="results" aria-selected="false">All results</button>
   </div>
   <section class="panel" id="standings" role="tabpanel" aria-labelledby="tab-standings">
     <div class="card"><div class="panelhead"><div><h2>League standings</h2><p class="note">Each scored game counts separately. Ranked by win percentage, wins, then point differential.</p></div></div>
       <div class="scroll"><table><thead><tr><th scope="col">#</th><th scope="col">Team</th><th scope="col">GP</th><th scope="col">W</th><th scope="col">L</th><th scope="col">T</th><th scope="col">PF</th><th scope="col">PA</th><th scope="col">+/−</th><th scope="col">Win %</th></tr></thead><tbody>
-      <tr><td class="rank">1</td><th scope="row">Sonic Boomers</th><td>4</td><td>4</td><td>0</td><td>0</td><td>48</td><td>8</td><td>+40</td><td>100.0%</td></tr>
-<tr><td class="rank">2</td><th scope="row">racketeers</th><td>4</td><td>4</td><td>0</td><td>0</td><td>40</td><td>4</td><td>+36</td><td>100.0%</td></tr>
-<tr><td class="rank">3</td><th scope="row">One Hit Wonder</th><td>4</td><td>4</td><td>0</td><td>0</td><td>47</td><td>18</td><td>+29</td><td>100.0%</td></tr>
-<tr><td class="rank">4</td><th scope="row">Flying Squirrels</th><td>4</td><td>4</td><td>0</td><td>0</td><td>32</td><td>6</td><td>+26</td><td>100.0%</td></tr>
-<tr class="focus"><td class="rank">5</td><th scope="row">Hamr Time</th><td>4</td><td>4</td><td>0</td><td>0</td><td>32</td><td>6</td><td>+26</td><td>100.0%</td></tr>
-<tr><td class="rank">6</td><th scope="row">Dixon Cider</th><td>4</td><td>4</td><td>0</td><td>0</td><td>28</td><td>6</td><td>+22</td><td>100.0%</td></tr>
-<tr><td class="rank">7</td><th scope="row">The Jar Openers</th><td>4</td><td>4</td><td>0</td><td>0</td><td>20</td><td>0</td><td>+20</td><td>100.0%</td></tr>
-<tr><td class="rank">8</td><th scope="row">Tickleballerz</th><td>4</td><td>4</td><td>0</td><td>0</td><td>27</td><td>8</td><td>+19</td><td>100.0%</td></tr>
-<tr><td class="rank">9</td><th scope="row">How I Met Your Paddle</th><td>4</td><td>2</td><td>2</td><td>0</td><td>18</td><td>17</td><td>+1</td><td>50.0%</td></tr>
-<tr><td class="rank">10</td><th scope="row">Volley Parton</th><td>4</td><td>2</td><td>2</td><td>0</td><td>18</td><td>38</td><td>-20</td><td>50.0%</td></tr>
-<tr><td class="rank">11</td><th scope="row">J squared</th><td>4</td><td>0</td><td>4</td><td>0</td><td>0</td><td>20</td><td>-20</td><td>0.0%</td></tr>
-<tr><td class="rank">12</td><th scope="row">PB+JL</th><td>4</td><td>0</td><td>4</td><td>0</td><td>0</td><td>20</td><td>-20</td><td>0.0%</td></tr>
-<tr><td class="rank">13</td><th scope="row">Serve Queens</th><td>4</td><td>0</td><td>4</td><td>0</td><td>0</td><td>20</td><td>-20</td><td>0.0%</td></tr>
-<tr><td class="rank">14</td><th scope="row">Unproven Net Gains</th><td>4</td><td>0</td><td>4</td><td>0</td><td>0</td><td>20</td><td>-20</td><td>0.0%</td></tr>
-<tr><td class="rank">15</td><th scope="row">Serving Justice</th><td>4</td><td>0</td><td>4</td><td>0</td><td>17</td><td>39</td><td>-22</td><td>0.0%</td></tr>
-<tr><td class="rank">16</td><th scope="row">Paddle Queens</th><td>4</td><td>0</td><td>4</td><td>0</td><td>12</td><td>40</td><td>-28</td><td>0.0%</td></tr>
-<tr><td class="rank">17</td><th scope="row">Tickle my Pickle</th><td>4</td><td>0</td><td>4</td><td>0</td><td>6</td><td>35</td><td>-29</td><td>0.0%</td></tr>
-<tr><td class="rank">18</td><th scope="row">S2</th><td>4</td><td>0</td><td>4</td><td>0</td><td>5</td><td>45</td><td>-40</td><td>0.0%</td></tr>
-<tr><td class="rank">19</td><th scope="row">Smazzazi</th><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>+0</td><td>0.0%</td></tr>
+      <tr><td class="rank">1</td><th scope="row">Flying Squirrels</th><td>8</td><td>8</td><td>0</td><td>0</td><td>86</td><td>23</td><td>+63</td><td>100.0%</td></tr>
+<tr class="focus"><td class="rank">2</td><th scope="row">Hamr Time</th><td>8</td><td>8</td><td>0</td><td>0</td><td>79</td><td>19</td><td>+60</td><td>100.0%</td></tr>
+<tr><td class="rank">3</td><th scope="row">Sonic Boomers</th><td>4</td><td>4</td><td>0</td><td>0</td><td>48</td><td>8</td><td>+40</td><td>100.0%</td></tr>
+<tr><td class="rank">4</td><th scope="row">racketeers</th><td>8</td><td>6</td><td>2</td><td>0</td><td>81</td><td>32</td><td>+49</td><td>75.0%</td></tr>
+<tr><td class="rank">5</td><th scope="row">How I Met Your Paddle</th><td>8</td><td>6</td><td>2</td><td>0</td><td>61</td><td>34</td><td>+27</td><td>75.0%</td></tr>
+<tr><td class="rank">6</td><th scope="row">Dixon Cider</th><td>8</td><td>6</td><td>2</td><td>0</td><td>61</td><td>37</td><td>+24</td><td>75.0%</td></tr>
+<tr><td class="rank">7</td><th scope="row">Smazzazi</th><td>4</td><td>3</td><td>1</td><td>0</td><td>29</td><td>20</td><td>+9</td><td>75.0%</td></tr>
+<tr><td class="rank">8</td><th scope="row">Tickleballerz</th><td>8</td><td>5</td><td>2</td><td>1</td><td>51</td><td>34</td><td>+17</td><td>68.8%</td></tr>
+<tr><td class="rank">9</td><th scope="row">One Hit Wonder</th><td>8</td><td>4</td><td>4</td><td>0</td><td>66</td><td>69</td><td>-3</td><td>50.0%</td></tr>
+<tr><td class="rank">10</td><th scope="row">Volley Parton</th><td>8</td><td>4</td><td>4</td><td>0</td><td>42</td><td>61</td><td>-19</td><td>50.0%</td></tr>
+<tr><td class="rank">11</td><th scope="row">The Jar Openers</th><td>8</td><td>4</td><td>4</td><td>0</td><td>25</td><td>59</td><td>-34</td><td>50.0%</td></tr>
+<tr><td class="rank">12</td><th scope="row">Unproven Net Gains</th><td>8</td><td>3</td><td>4</td><td>1</td><td>31</td><td>37</td><td>-6</td><td>43.8%</td></tr>
+<tr><td class="rank">13</td><th scope="row">Serving Justice</th><td>8</td><td>2</td><td>5</td><td>1</td><td>37</td><td>52</td><td>-15</td><td>31.2%</td></tr>
+<tr><td class="rank">14</td><th scope="row">S2</th><td>8</td><td>2</td><td>5</td><td>1</td><td>30</td><td>67</td><td>-37</td><td>31.2%</td></tr>
+<tr><td class="rank">15</td><th scope="row">PB+JL</th><td>8</td><td>2</td><td>6</td><td>0</td><td>34</td><td>53</td><td>-19</td><td>25.0%</td></tr>
+<tr><td class="rank">16</td><th scope="row">Serve Queens</th><td>8</td><td>1</td><td>5</td><td>2</td><td>21</td><td>41</td><td>-20</td><td>25.0%</td></tr>
+<tr><td class="rank">17</td><th scope="row">Tickle my Pickle</th><td>8</td><td>1</td><td>7</td><td>0</td><td>28</td><td>70</td><td>-42</td><td>12.5%</td></tr>
+<tr><td class="rank">18</td><th scope="row">J squared</th><td>8</td><td>0</td><td>8</td><td>0</td><td>0</td><td>40</td><td>-40</td><td>0.0%</td></tr>
+<tr><td class="rank">19</td><th scope="row">Paddle Queens</th><td>8</td><td>0</td><td>8</td><td>0</td><td>25</td><td>79</td><td>-54</td><td>0.0%</td></tr>
+<tr><td class="rank">20</td><th scope="row">Dynamic Duo</th><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>+0</td><td>0.0%</td></tr>
+<tr><td class="rank">21</td><th scope="row">Michael Arseneau</th><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>+0</td><td>0.0%</td></tr>
       </tbody></table></div></div>
   </section>
   <section class="panel" id="elo" role="tabpanel" aria-labelledby="tab-elo" hidden>
     <div class="card"><div class="panelhead"><div><h2>Team Elo ratings</h2><p class="note">All teams start at 1500. Games are processed in date and game ID order; K = 32 per game.</p></div></div>
       <div class="scroll"><table><thead><tr><th scope="col">#</th><th scope="col">Team</th><th scope="col">Elo</th><th scope="col">Change</th><th scope="col">GP</th><th scope="col">W–L–T</th><th scope="col">Last played</th></tr></thead><tbody>
-      <tr><td class="rank">1</td><th scope="row">Sonic Boomers</th><td class="rating">1561</td><td>+61</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
-<tr><td class="rank">2</td><th scope="row">Dixon Cider</th><td class="rating">1556</td><td>+56</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
-<tr><td class="rank">3</td><th scope="row">Flying Squirrels</th><td class="rating">1556</td><td>+56</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
-<tr class="focus"><td class="rank">4</td><th scope="row">Hamr Time</th><td class="rating">1556</td><td>+56</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
-<tr><td class="rank">5</td><th scope="row">One Hit Wonder</th><td class="rating">1556</td><td>+56</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
-<tr><td class="rank">6</td><th scope="row">racketeers</th><td class="rating">1556</td><td>+56</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
-<tr><td class="rank">7</td><th scope="row">The Jar Openers</th><td class="rating">1556</td><td>+56</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
-<tr><td class="rank">8</td><th scope="row">Tickleballerz</th><td class="rating">1556</td><td>+56</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
-<tr><td class="rank">9</td><th scope="row">How I Met Your Paddle</th><td class="rating">1500</td><td>+0</td><td>4</td><td>2–2–0</td><td>Sep 21</td></tr>
-<tr><td class="rank">10</td><th scope="row">Smazzazi</th><td class="rating">1500</td><td>+0</td><td>0</td><td>0–0–0</td><td>—</td></tr>
-<tr><td class="rank">11</td><th scope="row">Volley Parton</th><td class="rating">1500</td><td>+0</td><td>4</td><td>2–2–0</td><td>Sep 21</td></tr>
-<tr><td class="rank">12</td><th scope="row">J squared</th><td class="rating">1444</td><td>-56</td><td>4</td><td>0–4–0</td><td>Sep 21</td></tr>
-<tr><td class="rank">13</td><th scope="row">Paddle Queens</th><td class="rating">1444</td><td>-56</td><td>4</td><td>0–4–0</td><td>Sep 21</td></tr>
-<tr><td class="rank">14</td><th scope="row">S2</th><td class="rating">1444</td><td>-56</td><td>4</td><td>0–4–0</td><td>Sep 21</td></tr>
-<tr><td class="rank">15</td><th scope="row">Serve Queens</th><td class="rating">1444</td><td>-56</td><td>4</td><td>0–4–0</td><td>Sep 21</td></tr>
-<tr><td class="rank">16</td><th scope="row">Serving Justice</th><td class="rating">1444</td><td>-56</td><td>4</td><td>0–4–0</td><td>Sep 21</td></tr>
-<tr><td class="rank">17</td><th scope="row">Tickle my Pickle</th><td class="rating">1444</td><td>-56</td><td>4</td><td>0–4–0</td><td>Sep 21</td></tr>
-<tr><td class="rank">18</td><th scope="row">Unproven Net Gains</th><td class="rating">1444</td><td>-56</td><td>4</td><td>0–4–0</td><td>Sep 21</td></tr>
-<tr><td class="rank">19</td><th scope="row">PB+JL</th><td class="rating">1439</td><td>-61</td><td>4</td><td>0–4–0</td><td>Sep 21</td></tr>
+      <tr class="focus"><td class="rank">1</td><th scope="row">Hamr Time</th><td class="rating">1617</td><td>+117</td><td>8</td><td>8–0–0</td><td>Sep 28</td></tr>
+<tr><td class="rank">2</td><th scope="row">Flying Squirrels</th><td class="rating">1612</td><td>+112</td><td>8</td><td>8–0–0</td><td>Sep 28</td></tr>
+<tr><td class="rank">3</td><th scope="row">Sonic Boomers</th><td class="rating">1561</td><td>+61</td><td>4</td><td>4–0–0</td><td>Sep 21</td></tr>
+<tr><td class="rank">4</td><th scope="row">Dixon Cider</th><td class="rating">1556</td><td>+56</td><td>8</td><td>6–2–0</td><td>Sep 28</td></tr>
+<tr><td class="rank">5</td><th scope="row">racketeers</th><td class="rating">1556</td><td>+56</td><td>8</td><td>6–2–0</td><td>Sep 28</td></tr>
+<tr><td class="rank">6</td><th scope="row">How I Met Your Paddle</th><td class="rating">1550</td><td>+50</td><td>8</td><td>6–2–0</td><td>Sep 28</td></tr>
+<tr><td class="rank">7</td><th scope="row">Tickleballerz</th><td class="rating">1527</td><td>+27</td><td>8</td><td>5–2–1</td><td>Sep 28</td></tr>
+<tr><td class="rank">8</td><th scope="row">Smazzazi</th><td class="rating">1517</td><td>+17</td><td>4</td><td>3–1–0</td><td>Sep 28</td></tr>
+<tr><td class="rank">9</td><th scope="row">Unproven Net Gains</th><td class="rating">1500</td><td>+0</td><td>8</td><td>3–4–1</td><td>Sep 28</td></tr>
+<tr><td class="rank">10</td><th scope="row">Dynamic Duo</th><td class="rating">1500</td><td>+0</td><td>0</td><td>0–0–0</td><td>—</td></tr>
+<tr><td class="rank">11</td><th scope="row">Michael Arseneau</th><td class="rating">1500</td><td>+0</td><td>0</td><td>0–0–0</td><td>—</td></tr>
+<tr><td class="rank">12</td><th scope="row">One Hit Wonder</th><td class="rating">1500</td><td>+0</td><td>8</td><td>4–4–0</td><td>Sep 28</td></tr>
+<tr><td class="rank">13</td><th scope="row">The Jar Openers</th><td class="rating">1495</td><td>-5</td><td>8</td><td>4–4–0</td><td>Sep 28</td></tr>
+<tr><td class="rank">14</td><th scope="row">Volley Parton</th><td class="rating">1491</td><td>-9</td><td>8</td><td>4–4–0</td><td>Sep 28</td></tr>
+<tr><td class="rank">15</td><th scope="row">S2</th><td class="rating">1460</td><td>-40</td><td>8</td><td>2–5–1</td><td>Sep 28</td></tr>
+<tr><td class="rank">16</td><th scope="row">Serving Justice</th><td class="rating">1458</td><td>-42</td><td>8</td><td>2–5–1</td><td>Sep 28</td></tr>
+<tr><td class="rank">17</td><th scope="row">PB+JL</th><td class="rating">1450</td><td>-50</td><td>8</td><td>2–6–0</td><td>Sep 28</td></tr>
+<tr><td class="rank">18</td><th scope="row">Serve Queens</th><td class="rating">1443</td><td>-57</td><td>8</td><td>1–5–2</td><td>Sep 28</td></tr>
+<tr><td class="rank">19</td><th scope="row">Tickle my Pickle</th><td class="rating">1428</td><td>-72</td><td>8</td><td>1–7–0</td><td>Sep 28</td></tr>
+<tr><td class="rank">20</td><th scope="row">Paddle Queens</th><td class="rating">1392</td><td>-108</td><td>8</td><td>0–8–0</td><td>Sep 28</td></tr>
+<tr><td class="rank">21</td><th scope="row">J squared</th><td class="rating">1389</td><td>-111</td><td>8</td><td>0–8–0</td><td>Sep 28</td></tr>
       </tbody></table></div></div>
   </section>
   <section class="panel" id="schedule" role="tabpanel" aria-labelledby="tab-schedule" hidden>
@@ -121,25 +131,103 @@
       <div class="scroll"><table><thead><tr><th scope="col" style="text-align:left">Date &amp; time</th><th scope="col">Opponent</th><th scope="col">Location</th><th scope="col">Scores</th><th scope="col">Status</th></tr></thead><tbody>
       <tr class="day-2 day-start"><td class="date"><strong>Mon, Sep 21</strong><span>6:30 PM</span></td><th scope="row">S2<span class="opponent-elo">Elo 1500 vs ours: 1500</span></th><td>Senhor Santo Cristo C.S. · Court 3</td><td class="scores">8–1, 8–1</td><td><span class="status complete">Complete</span></td></tr>
 <tr class="day-2"><td class="date"><strong>Mon, Sep 21</strong><span>6:55 PM</span></td><th scope="row">Tickle my Pickle<span class="opponent-elo">Elo 1469 vs ours: 1531</span></th><td>Senhor Santo Cristo C.S. · Court 3</td><td class="scores">8–2, 8–2</td><td><span class="status complete">Complete</span></td></tr>
-<tr class="day-3 day-start"><td class="date"><strong>Mon, Sep 28</strong><span>6:30 PM</span></td><th scope="row">The Jar Openers<span class="opponent-elo">Elo 1556 vs ours: 1556</span></th><td>Oakwood Collegiate · Court 3</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-3"><td class="date"><strong>Mon, Sep 28</strong><span>6:55 PM</span></td><th scope="row">Dixon Cider<span class="opponent-elo">Elo 1556 vs ours: 1556</span></th><td>Oakwood Collegiate · Court 3</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-4 day-start"><td class="date"><strong>Mon, Oct 5</strong><span>7:20 PM</span></td><th scope="row">racketeers<span class="opponent-elo">Elo 1556 vs ours: 1556</span></th><td>Oakwood Collegiate · Court 1</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-4"><td class="date"><strong>Mon, Oct 5</strong><span>7:45 PM</span></td><th scope="row">One Hit Wonder<span class="opponent-elo">Elo 1556 vs ours: 1556</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-0 day-start"><td class="date"><strong>Mon, Oct 19</strong><span>8:10 PM</span></td><th scope="row">Flying Squirrels<span class="opponent-elo">Elo 1556 vs ours: 1556</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-0"><td class="date"><strong>Mon, Oct 19</strong><span>8:35 PM</span></td><th scope="row">The Jar Openers<span class="opponent-elo">Elo 1556 vs ours: 1556</span></th><td>Oakwood Collegiate · Court 3</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-3 day-start"><td class="date"><strong>Mon, Sep 28</strong><span>6:30 PM</span></td><th scope="row">The Jar Openers<span class="opponent-elo">Elo 1556 vs ours: 1556</span></th><td>Oakwood Collegiate · Court 3</td><td class="scores">15–1, 11–1</td><td><span class="status complete">Complete</span></td></tr>
+<tr class="day-3"><td class="date"><strong>Mon, Sep 28</strong><span>6:55 PM</span></td><th scope="row">Dixon Cider<span class="opponent-elo">Elo 1586 vs ours: 1586</span></th><td>Oakwood Collegiate · Court 3</td><td class="scores">8–7, 13–4</td><td><span class="status complete">Complete</span></td></tr>
+<tr class="day-4 day-start"><td class="date"><strong>Mon, Oct 5</strong><span>7:20 PM</span></td><th scope="row">racketeers<span class="opponent-elo">Elo 1556 vs ours: 1617</span></th><td>Oakwood Collegiate · Court 1</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-4"><td class="date"><strong>Mon, Oct 5</strong><span>7:45 PM</span></td><th scope="row">One Hit Wonder<span class="opponent-elo">Elo 1500 vs ours: 1617</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-0 day-start"><td class="date"><strong>Mon, Oct 19</strong><span>8:10 PM</span></td><th scope="row">Flying Squirrels<span class="opponent-elo">Elo 1612 vs ours: 1617</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-0"><td class="date"><strong>Mon, Oct 19</strong><span>8:35 PM</span></td><th scope="row">The Jar Openers<span class="opponent-elo">Elo 1495 vs ours: 1617</span></th><td>Oakwood Collegiate · Court 3</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
       </tbody></table></div></div>
 <div class="card"><div class="panelhead"><div><h2>How I Met Your Paddle</h2>
       <p class="note">Games at the same time against the same opponent are grouped as one fixture.</p></div></div>
       <div class="scroll"><table><thead><tr><th scope="col" style="text-align:left">Date &amp; time</th><th scope="col">Opponent</th><th scope="col">Location</th><th scope="col">Scores</th><th scope="col">Status</th></tr></thead><tbody>
       <tr class="day-2 day-start"><td class="date"><strong>Mon, Sep 21</strong><span>7:20 PM</span></td><th scope="row">Tickleballerz<span class="opponent-elo">Elo 1500 vs ours: 1500</span></th><td>Senhor Santo Cristo C.S. · Court 2</td><td class="scores">2–10, 6–7</td><td><span class="status complete">Complete</span></td></tr>
 <tr class="day-2"><td class="date"><strong>Mon, Sep 21</strong><span>7:45 PM</span></td><th scope="row">PB+JL<span class="opponent-elo">Elo 1469 vs ours: 1469</span></th><td>Senhor Santo Cristo C.S. · Court 3</td><td class="scores">5–0, 5–0</td><td><span class="status complete">Complete</span></td></tr>
-<tr class="day-3 day-start"><td class="date"><strong>Mon, Sep 28</strong><span>7:20 PM</span></td><th scope="row">Paddle Queens<span class="opponent-elo">Elo 1444 vs ours: 1500</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-3"><td class="date"><strong>Mon, Sep 28</strong><span>7:45 PM</span></td><th scope="row">Tickle my Pickle<span class="opponent-elo">Elo 1444 vs ours: 1500</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-4 day-start"><td class="date"><strong>Mon, Oct 5</strong><span>8:10 PM</span></td><th scope="row">Unproven Net Gains<span class="opponent-elo">Elo 1444 vs ours: 1500</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-4"><td class="date"><strong>Mon, Oct 5</strong><span>8:35 PM</span></td><th scope="row">Volley Parton<span class="opponent-elo">Elo 1500 vs ours: 1500</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-0 day-start"><td class="date"><strong>Mon, Oct 19</strong><span>6:30 PM</span></td><th scope="row">Tickleballerz<span class="opponent-elo">Elo 1556 vs ours: 1500</span></th><td>Oakwood Collegiate · Court 1</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
-<tr class="day-0"><td class="date"><strong>Mon, Oct 19</strong><span>6:55 PM</span></td><th scope="row">Paddle Queens<span class="opponent-elo">Elo 1444 vs ours: 1500</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-3 day-start"><td class="date"><strong>Mon, Sep 28</strong><span>7:20 PM</span></td><th scope="row">Paddle Queens<span class="opponent-elo">Elo 1444 vs ours: 1500</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">11–7, 11–2</td><td><span class="status complete">Complete</span></td></tr>
+<tr class="day-3"><td class="date"><strong>Mon, Sep 28</strong><span>7:45 PM</span></td><th scope="row">Tickle my Pickle<span class="opponent-elo">Elo 1452 vs ours: 1526</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">10–2, 11–6</td><td><span class="status complete">Complete</span></td></tr>
+<tr class="day-4 day-start"><td class="date"><strong>Mon, Oct 5</strong><span>8:10 PM</span></td><th scope="row">Unproven Net Gains<span class="opponent-elo">Elo 1500 vs ours: 1550</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-4"><td class="date"><strong>Mon, Oct 5</strong><span>8:35 PM</span></td><th scope="row">Volley Parton<span class="opponent-elo">Elo 1491 vs ours: 1550</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-0 day-start"><td class="date"><strong>Mon, Oct 19</strong><span>6:30 PM</span></td><th scope="row">Tickleballerz<span class="opponent-elo">Elo 1527 vs ours: 1550</span></th><td>Oakwood Collegiate · Court 1</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
+<tr class="day-0"><td class="date"><strong>Mon, Oct 19</strong><span>6:55 PM</span></td><th scope="row">Paddle Queens<span class="opponent-elo">Elo 1392 vs ours: 1550</span></th><td>Oakwood Collegiate · Court 2</td><td class="scores">—, —</td><td><span class="status scheduled">Scheduled</span></td></tr>
       </tbody></table></div></div></div>
+  </section>
+  <section class="panel" id="results" role="tabpanel" aria-labelledby="tab-results" hidden>
+    <div class="card all-results"><div class="panelhead"><div><h2>All results</h2>
+      <p class="note">72 completed games, newest first. Scores are Team 1–Team 2; the winning team is bold. Times shown in Toronto.</p></div></div>
+      <div class="scroll"><table><thead><tr><th scope="col" style="text-align:left">Date &amp; time</th><th scope="col">Team 1</th><th scope="col">Score</th><th scope="col">Team 2</th><th scope="col">Location</th></tr></thead><tbody>
+      <tr class="day-3 day-start" data-game-id="14116153"><td class="date"><strong>Mon, Sep 28</strong><span>8:35 PM</span></td><td>Smazzazi</td><td class="scores">5–11</td><td><strong>PB+JL</strong></td><td>Oakwood Collegiate · Court 3</td></tr>
+<tr class="day-3" data-game-id="14116152"><td class="date"><strong>Mon, Sep 28</strong><span>8:35 PM</span></td><td><strong>Smazzazi</strong></td><td class="scores">14–9</td><td>PB+JL</td><td>Oakwood Collegiate · Court 3</td></tr>
+<tr class="day-3" data-game-id="14116141"><td class="date"><strong>Mon, Sep 28</strong><span>8:35 PM</span></td><td><strong>S2</strong></td><td class="scores">6–3</td><td>Serve Queens</td><td>Oakwood Collegiate · Court 2</td></tr>
+<tr class="day-3" data-game-id="14116140"><td class="date"><strong>Mon, Sep 28</strong><span>8:35 PM</span></td><td>S2</td><td class="scores">5–5</td><td>Serve Queens</td><td>Oakwood Collegiate · Court 2</td></tr>
+<tr class="day-3" data-game-id="14116129"><td class="date"><strong>Mon, Sep 28</strong><span>8:35 PM</span></td><td><strong>Serving Justice</strong></td><td class="scores">5–0</td><td>J squared</td><td>Oakwood Collegiate · Court 1</td></tr>
+<tr class="day-3" data-game-id="14116128"><td class="date"><strong>Mon, Sep 28</strong><span>8:35 PM</span></td><td><strong>Serving Justice</strong></td><td class="scores">5–0</td><td>J squared</td><td>Oakwood Collegiate · Court 1</td></tr>
+<tr class="day-3" data-game-id="14116151"><td class="date"><strong>Mon, Sep 28</strong><span>8:10 PM</span></td><td><strong>Smazzazi</strong></td><td class="scores">5–0</td><td>J squared</td><td>Oakwood Collegiate · Court 3</td></tr>
+<tr class="day-3" data-game-id="14116150"><td class="date"><strong>Mon, Sep 28</strong><span>8:10 PM</span></td><td><strong>Smazzazi</strong></td><td class="scores">5–0</td><td>J squared</td><td>Oakwood Collegiate · Court 3</td></tr>
+<tr class="day-3" data-game-id="14116139"><td class="date"><strong>Mon, Sep 28</strong><span>8:10 PM</span></td><td>S2</td><td class="scores">8–9</td><td><strong>PB+JL</strong></td><td>Oakwood Collegiate · Court 2</td></tr>
+<tr class="day-3" data-game-id="14116138"><td class="date"><strong>Mon, Sep 28</strong><span>8:10 PM</span></td><td><strong>S2</strong></td><td class="scores">6–5</td><td>PB+JL</td><td>Oakwood Collegiate · Court 2</td></tr>
+<tr class="day-3" data-game-id="14116127"><td class="date"><strong>Mon, Sep 28</strong><span>8:10 PM</span></td><td>Serving Justice</td><td class="scores">5–8</td><td><strong>Serve Queens</strong></td><td>Oakwood Collegiate · Court 1</td></tr>
+<tr class="day-3" data-game-id="14116126"><td class="date"><strong>Mon, Sep 28</strong><span>8:10 PM</span></td><td>Serving Justice</td><td class="scores">5–5</td><td>Serve Queens</td><td>Oakwood Collegiate · Court 1</td></tr>
+<tr class="day-3" data-game-id="14116149"><td class="date"><strong>Mon, Sep 28</strong><span>7:45 PM</span></td><td><strong>Volley Parton</strong></td><td class="scores">9–2</td><td>Paddle Queens</td><td>Oakwood Collegiate · Court 3</td></tr>
+<tr class="day-3" data-game-id="14116148"><td class="date"><strong>Mon, Sep 28</strong><span>7:45 PM</span></td><td><strong>Volley Parton</strong></td><td class="scores">8–2</td><td>Paddle Queens</td><td>Oakwood Collegiate · Court 3</td></tr>
+<tr class="day-3" data-game-id="14116137"><td class="date"><strong>Mon, Sep 28</strong><span>7:45 PM</span></td><td><strong>How I Met Your Paddle</strong></td><td class="scores">11–6</td><td>Tickle my Pickle</td><td>Oakwood Collegiate · Court 2</td></tr>
+<tr class="day-3" data-game-id="14116136"><td class="date"><strong>Mon, Sep 28</strong><span>7:45 PM</span></td><td><strong>How I Met Your Paddle</strong></td><td class="scores">10–2</td><td>Tickle my Pickle</td><td>Oakwood Collegiate · Court 2</td></tr>
+<tr class="day-3" data-game-id="14116125"><td class="date"><strong>Mon, Sep 28</strong><span>7:45 PM</span></td><td>Tickleballerz</td><td class="scores">6–6</td><td>Unproven Net Gains</td><td>Oakwood Collegiate · Court 1</td></tr>
+<tr class="day-3" data-game-id="14116124"><td class="date"><strong>Mon, Sep 28</strong><span>7:45 PM</span></td><td>Tickleballerz</td><td class="scores">4–6</td><td><strong>Unproven Net Gains</strong></td><td>Oakwood Collegiate · Court 1</td></tr>
+<tr class="day-3" data-game-id="14116147"><td class="date"><strong>Mon, Sep 28</strong><span>7:20 PM</span></td><td>Volley Parton</td><td class="scores">4–10</td><td><strong>Unproven Net Gains</strong></td><td>Oakwood Collegiate · Court 3</td></tr>
+<tr class="day-3" data-game-id="14116146"><td class="date"><strong>Mon, Sep 28</strong><span>7:20 PM</span></td><td>Volley Parton</td><td class="scores">3–9</td><td><strong>Unproven Net Gains</strong></td><td>Oakwood Collegiate · Court 3</td></tr>
+<tr class="day-3" data-game-id="14116135"><td class="date"><strong>Mon, Sep 28</strong><span>7:20 PM</span></td><td><strong>How I Met Your Paddle</strong></td><td class="scores">11–2</td><td>Paddle Queens</td><td>Oakwood Collegiate · Court 2</td></tr>
+<tr class="day-3" data-game-id="14116134"><td class="date"><strong>Mon, Sep 28</strong><span>7:20 PM</span></td><td><strong>How I Met Your Paddle</strong></td><td class="scores">11–7</td><td>Paddle Queens</td><td>Oakwood Collegiate · Court 2</td></tr>
+<tr class="day-3" data-game-id="14116123"><td class="date"><strong>Mon, Sep 28</strong><span>7:20 PM</span></td><td><strong>Tickleballerz</strong></td><td class="scores">10–6</td><td>Tickle my Pickle</td><td>Oakwood Collegiate · Court 1</td></tr>
+<tr class="day-3" data-game-id="14116122"><td class="date"><strong>Mon, Sep 28</strong><span>7:20 PM</span></td><td>Tickleballerz</td><td class="scores">4–8</td><td><strong>Tickle my Pickle</strong></td><td>Oakwood Collegiate · Court 1</td></tr>
+<tr class="day-3" data-game-id="14116145"><td class="date"><strong>Mon, Sep 28</strong><span>6:55 PM</span></td><td><strong>Hamr Time</strong></td><td class="scores">13–4</td><td>Dixon Cider</td><td>Oakwood Collegiate · Court 3</td></tr>
+<tr class="day-3" data-game-id="14116144"><td class="date"><strong>Mon, Sep 28</strong><span>6:55 PM</span></td><td><strong>Hamr Time</strong></td><td class="scores">8–7</td><td>Dixon Cider</td><td>Oakwood Collegiate · Court 3</td></tr>
+<tr class="day-3" data-game-id="14116133"><td class="date"><strong>Mon, Sep 28</strong><span>6:55 PM</span></td><td>One Hit Wonder</td><td class="scores">5–15</td><td><strong>Flying Squirrels</strong></td><td>Oakwood Collegiate · Court 2</td></tr>
+<tr class="day-3" data-game-id="14116132"><td class="date"><strong>Mon, Sep 28</strong><span>6:55 PM</span></td><td>One Hit Wonder</td><td class="scores">4–14</td><td><strong>Flying Squirrels</strong></td><td>Oakwood Collegiate · Court 2</td></tr>
+<tr class="day-3" data-game-id="14116121"><td class="date"><strong>Mon, Sep 28</strong><span>6:55 PM</span></td><td><strong>racketeers</strong></td><td class="scores">19–1</td><td>The Jar Openers</td><td>Oakwood Collegiate · Court 1</td></tr>
+<tr class="day-3" data-game-id="14116120"><td class="date"><strong>Mon, Sep 28</strong><span>6:55 PM</span></td><td><strong>racketeers</strong></td><td class="scores">14–2</td><td>The Jar Openers</td><td>Oakwood Collegiate · Court 1</td></tr>
+<tr class="day-3" data-game-id="14116143"><td class="date"><strong>Mon, Sep 28</strong><span>6:30 PM</span></td><td><strong>Hamr Time</strong></td><td class="scores">11–1</td><td>The Jar Openers</td><td>Oakwood Collegiate · Court 3</td></tr>
+<tr class="day-3" data-game-id="14116142"><td class="date"><strong>Mon, Sep 28</strong><span>6:30 PM</span></td><td><strong>Hamr Time</strong></td><td class="scores">15–1</td><td>The Jar Openers</td><td>Oakwood Collegiate · Court 3</td></tr>
+<tr class="day-3" data-game-id="14116131"><td class="date"><strong>Mon, Sep 28</strong><span>6:30 PM</span></td><td>One Hit Wonder</td><td class="scores">6–11</td><td><strong>Dixon Cider</strong></td><td>Oakwood Collegiate · Court 2</td></tr>
+<tr class="day-3" data-game-id="14116130"><td class="date"><strong>Mon, Sep 28</strong><span>6:30 PM</span></td><td>One Hit Wonder</td><td class="scores">4–11</td><td><strong>Dixon Cider</strong></td><td>Oakwood Collegiate · Court 2</td></tr>
+<tr class="day-3" data-game-id="14116119"><td class="date"><strong>Mon, Sep 28</strong><span>6:30 PM</span></td><td>racketeers</td><td class="scores">4–14</td><td><strong>Flying Squirrels</strong></td><td>Oakwood Collegiate · Court 1</td></tr>
+<tr class="day-3" data-game-id="14116118"><td class="date"><strong>Mon, Sep 28</strong><span>6:30 PM</span></td><td>racketeers</td><td class="scores">4–11</td><td><strong>Flying Squirrels</strong></td><td>Oakwood Collegiate · Court 1</td></tr>
+<tr class="day-2 day-start" data-game-id="14049976"><td class="date"><strong>Mon, Sep 21</strong><span>8:35 PM</span></td><td><strong>The Jar Openers</strong></td><td class="scores">5–0</td><td>Unproven Net Gains</td><td>Senhor Santo Cristo C.S. · Court 3</td></tr>
+<tr class="day-2" data-game-id="14049975"><td class="date"><strong>Mon, Sep 21</strong><span>8:35 PM</span></td><td><strong>The Jar Openers</strong></td><td class="scores">5–0</td><td>Unproven Net Gains</td><td>Senhor Santo Cristo C.S. · Court 3</td></tr>
+<tr class="day-2" data-game-id="14049964"><td class="date"><strong>Mon, Sep 21</strong><span>8:35 PM</span></td><td><strong>Flying Squirrels</strong></td><td class="scores">11–3</td><td>Paddle Queens</td><td>Senhor Santo Cristo C.S. · Court 2</td></tr>
+<tr class="day-2" data-game-id="14049963"><td class="date"><strong>Mon, Sep 21</strong><span>8:35 PM</span></td><td><strong>Flying Squirrels</strong></td><td class="scores">11–3</td><td>Paddle Queens</td><td>Senhor Santo Cristo C.S. · Court 2</td></tr>
+<tr class="day-2" data-game-id="14049952"><td class="date"><strong>Mon, Sep 21</strong><span>8:35 PM</span></td><td><strong>Dixon Cider</strong></td><td class="scores">5–0</td><td>J squared</td><td>Senhor Santo Cristo C.S. · Court 1</td></tr>
+<tr class="day-2" data-game-id="14049951"><td class="date"><strong>Mon, Sep 21</strong><span>8:35 PM</span></td><td><strong>Dixon Cider</strong></td><td class="scores">5–0</td><td>J squared</td><td>Senhor Santo Cristo C.S. · Court 1</td></tr>
+<tr class="day-2" data-game-id="14049974"><td class="date"><strong>Mon, Sep 21</strong><span>8:10 PM</span></td><td><strong>The Jar Openers</strong></td><td class="scores">5–0</td><td>J squared</td><td>Senhor Santo Cristo C.S. · Court 3</td></tr>
+<tr class="day-2" data-game-id="14049973"><td class="date"><strong>Mon, Sep 21</strong><span>8:10 PM</span></td><td><strong>The Jar Openers</strong></td><td class="scores">5–0</td><td>J squared</td><td>Senhor Santo Cristo C.S. · Court 3</td></tr>
+<tr class="day-2" data-game-id="14049962"><td class="date"><strong>Mon, Sep 21</strong><span>8:10 PM</span></td><td><strong>Flying Squirrels</strong></td><td class="scores">5–0</td><td>Unproven Net Gains</td><td>Senhor Santo Cristo C.S. · Court 2</td></tr>
+<tr class="day-2" data-game-id="14049961"><td class="date"><strong>Mon, Sep 21</strong><span>8:10 PM</span></td><td><strong>Flying Squirrels</strong></td><td class="scores">5–0</td><td>Unproven Net Gains</td><td>Senhor Santo Cristo C.S. · Court 2</td></tr>
+<tr class="day-2" data-game-id="14049950"><td class="date"><strong>Mon, Sep 21</strong><span>8:10 PM</span></td><td><strong>Dixon Cider</strong></td><td class="scores">8–4</td><td>Paddle Queens</td><td>Senhor Santo Cristo C.S. · Court 1</td></tr>
+<tr class="day-2" data-game-id="14049949"><td class="date"><strong>Mon, Sep 21</strong><span>8:10 PM</span></td><td><strong>Dixon Cider</strong></td><td class="scores">10–2</td><td>Paddle Queens</td><td>Senhor Santo Cristo C.S. · Court 1</td></tr>
+<tr class="day-2" data-game-id="14049972"><td class="date"><strong>Mon, Sep 21</strong><span>7:45 PM</span></td><td>PB+JL</td><td class="scores">0–5</td><td><strong>How I Met Your Paddle</strong></td><td>Senhor Santo Cristo C.S. · Court 3</td></tr>
+<tr class="day-2" data-game-id="14049971"><td class="date"><strong>Mon, Sep 21</strong><span>7:45 PM</span></td><td>PB+JL</td><td class="scores">0–5</td><td><strong>How I Met Your Paddle</strong></td><td>Senhor Santo Cristo C.S. · Court 3</td></tr>
+<tr class="day-2" data-game-id="14049960"><td class="date"><strong>Mon, Sep 21</strong><span>7:45 PM</span></td><td><strong>Tickleballerz</strong></td><td class="scores">5–0</td><td>Serve Queens</td><td>Senhor Santo Cristo C.S. · Court 2</td></tr>
+<tr class="day-2" data-game-id="14049959"><td class="date"><strong>Mon, Sep 21</strong><span>7:45 PM</span></td><td><strong>Tickleballerz</strong></td><td class="scores">5–0</td><td>Serve Queens</td><td>Senhor Santo Cristo C.S. · Court 2</td></tr>
+<tr class="day-2" data-game-id="14049948"><td class="date"><strong>Mon, Sep 21</strong><span>7:45 PM</span></td><td><strong>Sonic Boomers</strong></td><td class="scores">17–5</td><td>Volley Parton</td><td>Senhor Santo Cristo C.S. · Court 1</td></tr>
+<tr class="day-2" data-game-id="14049947"><td class="date"><strong>Mon, Sep 21</strong><span>7:45 PM</span></td><td><strong>Sonic Boomers</strong></td><td class="scores">21–3</td><td>Volley Parton</td><td>Senhor Santo Cristo C.S. · Court 1</td></tr>
+<tr class="day-2" data-game-id="14049970"><td class="date"><strong>Mon, Sep 21</strong><span>7:20 PM</span></td><td>PB+JL</td><td class="scores">0–5</td><td><strong>Volley Parton</strong></td><td>Senhor Santo Cristo C.S. · Court 3</td></tr>
+<tr class="day-2" data-game-id="14049969"><td class="date"><strong>Mon, Sep 21</strong><span>7:20 PM</span></td><td>PB+JL</td><td class="scores">0–5</td><td><strong>Volley Parton</strong></td><td>Senhor Santo Cristo C.S. · Court 3</td></tr>
+<tr class="day-2" data-game-id="14049958"><td class="date"><strong>Mon, Sep 21</strong><span>7:20 PM</span></td><td><strong>Tickleballerz</strong></td><td class="scores">7–6</td><td>How I Met Your Paddle</td><td>Senhor Santo Cristo C.S. · Court 2</td></tr>
+<tr class="day-2" data-game-id="14049957"><td class="date"><strong>Mon, Sep 21</strong><span>7:20 PM</span></td><td><strong>Tickleballerz</strong></td><td class="scores">10–2</td><td>How I Met Your Paddle</td><td>Senhor Santo Cristo C.S. · Court 2</td></tr>
+<tr class="day-2" data-game-id="14049946"><td class="date"><strong>Mon, Sep 21</strong><span>7:20 PM</span></td><td><strong>Sonic Boomers</strong></td><td class="scores">5–0</td><td>Serve Queens</td><td>Senhor Santo Cristo C.S. · Court 1</td></tr>
+<tr class="day-2" data-game-id="14049945"><td class="date"><strong>Mon, Sep 21</strong><span>7:20 PM</span></td><td><strong>Sonic Boomers</strong></td><td class="scores">5–0</td><td>Serve Queens</td><td>Senhor Santo Cristo C.S. · Court 1</td></tr>
+<tr class="day-2" data-game-id="14049968"><td class="date"><strong>Mon, Sep 21</strong><span>6:55 PM</span></td><td><strong>Hamr Time</strong></td><td class="scores">8–2</td><td>Tickle my Pickle</td><td>Senhor Santo Cristo C.S. · Court 3</td></tr>
+<tr class="day-2" data-game-id="14049967"><td class="date"><strong>Mon, Sep 21</strong><span>6:55 PM</span></td><td><strong>Hamr Time</strong></td><td class="scores">8–2</td><td>Tickle my Pickle</td><td>Senhor Santo Cristo C.S. · Court 3</td></tr>
+<tr class="day-2" data-game-id="14049956"><td class="date"><strong>Mon, Sep 21</strong><span>6:55 PM</span></td><td><strong>racketeers</strong></td><td class="scores">9–2</td><td>Serving Justice</td><td>Senhor Santo Cristo C.S. · Court 2</td></tr>
+<tr class="day-2" data-game-id="14049955"><td class="date"><strong>Mon, Sep 21</strong><span>6:55 PM</span></td><td><strong>racketeers</strong></td><td class="scores">12–0</td><td>Serving Justice</td><td>Senhor Santo Cristo C.S. · Court 2</td></tr>
+<tr class="day-2" data-game-id="14049944"><td class="date"><strong>Mon, Sep 21</strong><span>6:55 PM</span></td><td><strong>One Hit Wonder</strong></td><td class="scores">23–0</td><td>S2</td><td>Senhor Santo Cristo C.S. · Court 1</td></tr>
+<tr class="day-2" data-game-id="14049943"><td class="date"><strong>Mon, Sep 21</strong><span>6:55 PM</span></td><td><strong>One Hit Wonder</strong></td><td class="scores">6–3</td><td>S2</td><td>Senhor Santo Cristo C.S. · Court 1</td></tr>
+<tr class="day-2" data-game-id="14049966"><td class="date"><strong>Mon, Sep 21</strong><span>6:30 PM</span></td><td><strong>Hamr Time</strong></td><td class="scores">8–1</td><td>S2</td><td>Senhor Santo Cristo C.S. · Court 3</td></tr>
+<tr class="day-2" data-game-id="14049965"><td class="date"><strong>Mon, Sep 21</strong><span>6:30 PM</span></td><td><strong>Hamr Time</strong></td><td class="scores">8–1</td><td>S2</td><td>Senhor Santo Cristo C.S. · Court 3</td></tr>
+<tr class="day-2" data-game-id="14049954"><td class="date"><strong>Mon, Sep 21</strong><span>6:30 PM</span></td><td><strong>racketeers</strong></td><td class="scores">7–2</td><td>Tickle my Pickle</td><td>Senhor Santo Cristo C.S. · Court 2</td></tr>
+<tr class="day-2" data-game-id="14049953"><td class="date"><strong>Mon, Sep 21</strong><span>6:30 PM</span></td><td><strong>racketeers</strong></td><td class="scores">12–0</td><td>Tickle my Pickle</td><td>Senhor Santo Cristo C.S. · Court 2</td></tr>
+<tr class="day-2" data-game-id="14049942"><td class="date"><strong>Mon, Sep 21</strong><span>6:30 PM</span></td><td><strong>One Hit Wonder</strong></td><td class="scores">11–9</td><td>Serving Justice</td><td>Senhor Santo Cristo C.S. · Court 1</td></tr>
+<tr class="day-2" data-game-id="14049941"><td class="date"><strong>Mon, Sep 21</strong><span>6:30 PM</span></td><td><strong>One Hit Wonder</strong></td><td class="scores">7–6</td><td>Serving Justice</td><td>Senhor Santo Cristo C.S. · Court 1</td></tr>
+      </tbody></table></div></div>
   </section>
   <footer>PF = points for; PA = points against. Ratings are an independent calculation from LeagueApps results.</footer>
 </main>
