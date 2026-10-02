@@ -6277,5 +6277,26 @@
     "normalized_power": 275.62415685322605,
     "tss": 46.61287888025028,
     "source": "cache"
+  },
+  {
+    "activity_id": 20425508042,
+    "date": "2026-10-02",
+    "name": "Zwift - Race: Stage 4 - ZRacing - DURA-ACE - Loop de Loop (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2240344119392124944.fit",
+    "display_name": "2026-10-02 - Zwift - Race: Stage 4 - ZRacing - DURA-ACE - Loop de Loop (A)",
+    "curve": [
+      579.9333333333333,
+      469.56666666666666,
+      428.3333333333333,
+      336.975,
+      292.08,
+      270.37833333333333,
+      253.33916666666667
+    ],
+    "moving_time": 2486.0,
+    "normalized_power": 263.8849997489491,
+    "tss": 53.43004278640806,
+    "source": "cache"
   }
 ]
