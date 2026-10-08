@@ -6319,5 +6319,26 @@
     "normalized_power": 272.03104830512524,
     "tss": 45.474004463824954,
     "source": "cache"
+  },
+  {
+    "activity_id": 20508601465,
+    "date": "2026-10-08",
+    "name": "Zwift - Race: Stage 1 - Race - Tour of Watopia 2026",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2244691658631364656.fit",
+    "display_name": "2026-10-08 - Zwift - Race: Stage 1 - Race - Tour of Watopia 2026",
+    "curve": [
+      687.4666666666667,
+      626.2333333333333,
+      438.1333333333333,
+      358.5083333333333,
+      303.85333333333335,
+      275.84166666666664,
+      253.5025
+    ],
+    "moving_time": 2178.0,
+    "normalized_power": 277.5335497861948,
+    "tss": 51.777830122711535,
+    "source": "cache"
   }
 ]
