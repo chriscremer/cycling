@@ -6361,5 +6361,26 @@
     "normalized_power": 262.16876039721126,
     "tss": 46.07620394817065,
     "source": "cache"
+  },
+  {
+    "activity_id": 20976616089,
+    "date": "2026-11-13",
+    "name": "Zwift - Race: Stage 1 - ZRacing - Watopia Islands - Loopipelago (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2270757882746175504.fit",
+    "display_name": "2026-11-13 - Zwift - Race: Stage 1 - ZRacing - Watopia Islands - Loopipelago (A)",
+    "curve": [
+      658.6,
+      564.2333333333333,
+      411.4166666666667,
+      312.26666666666665,
+      273.3333333333333,
+      261.18666666666667,
+      249.545
+    ],
+    "moving_time": 1880.0,
+    "normalized_power": 272.0413516843632,
+    "tss": 42.9420414843704,
+    "source": "cache"
   }
 ]
