@@ -6382,5 +6382,26 @@
     "normalized_power": 272.0413516843632,
     "tss": 42.9420414843704,
     "source": "cache"
+  },
+  {
+    "activity_id": 21063340355,
+    "date": "2026-11-20",
+    "name": "Zwift - Race: Stage 2 - ZRacing - Watopia Islands - The Classic (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2275830017269219376.fit",
+    "display_name": "2026-11-20 - Zwift - Race: Stage 2 - ZRacing - Watopia Islands - The Classic (A)",
+    "curve": [
+      629.4666666666667,
+      475.5,
+      419.65,
+      376.95,
+      310.8466666666667,
+      279.89166666666665,
+      247.565
+    ],
+    "moving_time": 2295.0,
+    "normalized_power": 268.2098202487509,
+    "tss": 50.95502627182263,
+    "source": "cache"
   }
 ]
