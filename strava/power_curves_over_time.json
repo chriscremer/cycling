@@ -6403,5 +6403,26 @@
     "normalized_power": 268.2098202487509,
     "tss": 50.95502627182263,
     "source": "cache"
+  },
+  {
+    "activity_id": 21113333784,
+    "date": "2026-11-24",
+    "name": "Zwift - Race: Stage 3 - ZRacing - Watopia Islands - Seafoam Circuit (A)",
+    "device_name": "Zwift",
+    "external_id": "zwift-activity-2278758944639893536.fit",
+    "display_name": "2026-11-24 - Zwift - Race: Stage 3 - ZRacing - Watopia Islands - Seafoam Circuit (A)",
+    "curve": [
+      555.4666666666667,
+      493.1333333333333,
+      444.45,
+      338.76666666666665,
+      280.19,
+      261.82166666666666,
+      248.94083333333333
+    ],
+    "moving_time": 1587.0,
+    "normalized_power": 291.79526680271954,
+    "tss": 41.7050265910748,
+    "source": "cache"
   }
 ]
